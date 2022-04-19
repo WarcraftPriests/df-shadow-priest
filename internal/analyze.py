@@ -38,7 +38,7 @@ def get_change(current, previous):
         negative = True
     try:
         value = (abs(current - previous) / previous) * 100.0
-        value = float('%.2f' % value) # pylint: disable=consider-using-f-string
+        value = float('%.2f' % value)
         if value >= 0.01 and negative:
             value = value * -1
         return value
@@ -117,7 +117,7 @@ def generate_report_name(sim_type, talent_string, covenant_string):
 
 
 def build_markdown(sim_type, talent_string, results, weights, base_dps, covenant_string):
-    # pylint: disable=too-many-arguments,consider-using-f-string,line-too-long
+    # pylint: disable=too-many-arguments,line-too-long
     """converts result data into markdown files"""
     output_file = build_output_string(
         sim_type, talent_string, covenant_string, "md")
@@ -154,7 +154,7 @@ def build_markdown(sim_type, talent_string, results, weights, base_dps, covenant
 
 
 def build_csv(sim_type, talent_string, results, weights, base_dps, covenant_string):
-    # pylint: disable=too-many-arguments,consider-using-f-string
+    # pylint: disable=too-many-arguments
     """build csv from results dict"""
     output_file = build_output_string(
         sim_type, talent_string, covenant_string, "csv")
