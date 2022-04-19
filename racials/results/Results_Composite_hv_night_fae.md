@@ -1,0 +1,32 @@
+# Composite - hv - night_fae
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|13609|1.44%|
+|Gnome|13603|1.40%|
+|Mechagnome|13599|1.37%|
+|Goblin|13599|1.37%|
+|Night_Elf_Haste|13584|1.26%|
+|Troll|13550|1.00%|
+|Panda_Mastery|13547|0.99%|
+|Blood_Elf|13547|0.98%|
+|Zandalari_Troll_Paku|13546|0.97%|
+|Night_Elf_Crit|13540|0.93%|
+|Void_Elf|13535|0.90%|
+|Draenei|13531|0.86%|
+|Kul_Tiran|13529|0.85%|
+|Nightborne|13526|0.82%|
+|Worgen|13522|0.80%|
+|Dark_Iron_Dwarf|13521|0.79%|
+|Panda_Crit|13520|0.78%|
+|Panda_Feast|13519|0.78%|
+|Panda_Haste|13513|0.73%|
+|Maghar_Orc|13500|0.63%|
+|Panda_Vers|13493|0.58%|
+|Dwarf|13487|0.53%|
+|Tauren|13482|0.50%|
+|Zandalari_Troll_Bwonsamdi|13469|0.40%|
+|Zandalari_Troll_Kimbul|13464|0.36%|
+|Undead|13463|0.36%|
+|Lightforged_Draenei|13443|0.21%|
+|Vulpera|13423|0.05%|
+|Base|13415|0.00%|

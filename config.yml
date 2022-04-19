@@ -1,0 +1,406 @@
+builds:
+  am:
+    composite: 1111111 # FotM_ToF_AS_DM_AM
+    dungeons: 2131321 # DaM_SN_SC_MB_AM
+    single: 1111111 # FotM_ToF_AS_DM_AM
+  hv:
+    composite: 1111112 # FotM_ToF_AS_DM_HV
+    dungeons: 2131322 # DaM_SN_SC_MB_HV
+    single: 1111112 # FotM_ToF_AS_DM_HV
+gear:
+  head: "amice_of_the_empyrean,id=188880,ilevel=278"
+  neck: "worldkiller_iris,id=189859,ilevel=285"
+  shoulders: "capelet_of_the_empyrean,id=188879,ilevel=285"
+  back: "shroud_of_the_sires_chosen,id=189847,ilevel=285"
+  chest: "habit_of_the_empyrean,id=188875,ilevel=285"
+  wrists: "cuffs_of_the_covert_commander,id=189842,ilevel=285"
+  hands: "caress_of_the_empyrean,id=188881,ilevel=278"
+  waist: "sash_of_the_silent_sonata,id=189793,ilevel=278"
+  legs: "muehzalas_hexthread_sarong,id=179351,ilevel=278"
+  feet: "stolen_nathrian_slippers,id=189823,ilevel=278"
+  finger1: "soulwarped_seal_of_wrynn,id=189839,ilevel=278"
+  finger2: "death_gods_signet,id=179355,ilevel=278"
+  trinket1: "soulletting_ruby,id=178809,ilevel=278"
+  trinket2: "unbound_changeling,id=178708,ilevel=278"
+  main_hand: "antumbra_shadow_of_the_cosmos,id=189852,ilevel=285"
+  off_hand: "forbidden_truth,id=189860,ilevel=285"
+sims:
+  apl:
+    description: "APL Sims used for testing rotational changes only"
+    builds: true
+    weights: false
+    chart: false
+    covenant:
+      lookup: false
+      files: false
+    legendary: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - apl.simc
+  conduit-combos:
+    description: "Sims picking two and three conduits together to see how this changes the conduit rankings."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - kyrian.simc
+      - necrolord.simc
+      - night_fae.simc
+      - venthyr.simc
+  conduits:
+    description: "Conduit sims by rank/ilevel for each given conduit up to rank 9."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: true
+    lookupType: spell
+    steps:
+      - 145
+      - 158
+      - 171
+      - 184
+      - 200
+      - 213
+      - 226
+      - 239
+      - 252
+      - 265
+      - 278
+      - 291
+      - 304
+    files:
+      - kyrian.simc
+      - necrolord.simc
+      - night_fae.simc
+      - venthyr.simc
+  consumables:
+    description: "Sims all consumables you can use to augment your character"
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - consumables.simc
+  covenant-choice:
+    description: "This sims all soulbind paths for each covenant and plots them against each other to get the Min (Worst Soulbind) and Max (Best Soulbind) to get a range of DPS you can expect from choosing this Covenant. This is then aggregated and averaged across the various talent options we are currently simming to give a good idea of the performance range you can expect."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: false
+      files: false
+    legendary: true
+    lookupType: none
+    steps:
+      - CovenantRange
+    files:
+      - choice.simc
+  covenants:
+    description: "This sim takes the soulbinds sim 1 step further and takes the top builds by fight type for each soulbind and adds them with a legendary and the covenant ability to get the actual percent increase for all borrowed power in Shadowlands."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: false
+      files: false
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - covenants.simc
+  enchants:
+    description: "Sims all possible enchants to your characters gear by slot."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - enchants.simc
+  gear:
+    description: "NYI"
+    builds: true
+    weights: false
+    chart: false
+    covenant:
+      lookup: false
+      files: false
+    legendary: false
+    lookupType: item
+    steps:
+      - 226
+      - 233
+    files:
+      - t26.simc
+  legendaries:
+    description: "Adds just the legendary power effect to a piece of gear without changing any other variables. This does not sim the actual legendary item, but just the power to get an idea for the strength of the power specifically."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: false
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - legendaries.simc
+  legendary-combos:
+    description: "Sims using 2 legendaries at once. This just sims the legendary power, not the item swap specifically."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - necrolord.simc
+      - kyrian.simc
+      - night_fae.simc
+      - venthyr.simc
+  legendary-items:
+    description: "Using a base set of Mythic BiS gear from Sanctum of Domination we swap out for each Legendary Item + Power to get a sense for what would be an upgrade compared to the base pieces we have available. HC stands for Haste Crit, and HM stands for Haste Mastery."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: false
+    lookupType: spell
+    steps:
+      - 262
+      - 265
+      - 291
+    files:
+      - legendaries.simc
+  racials:
+    description: "Swaps out the racial for a particular actor that includes all stat effects or special abilities where they prove to be a DPS increase."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - racials.simc
+  soulbind-traits:
+    description: "Individual sims for each soulbind trait + covenant ability from base. Can subtract covenant only effect to see just that increase."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - necrolord.simc
+      - kyrian.simc
+      - night_fae.simc
+      - venthyr.simc
+  soulbinds:
+    description: "Sims the various paths for each given soulbind using Rank 7 conduits if selected. Base includes the Covenant ability for that Covenant."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - necrolord.simc
+      - kyrian.simc
+      - night_fae.simc
+      - venthyr.simc
+  stats:
+    description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 100 stat each step)."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - generated.simc
+  talent-builds:
+    description: "Sims various combinations of power with different Talent builds."
+    builds: false
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: true
+    legendary: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - builds.simc
+  talents:
+    description: "Sims every talent build against each other with no borrowed power."
+    builds: false
+    weights: false
+    chart: true
+    covenant:
+      lookup: false
+      files: false
+    legendary: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - AM.simc
+      - HV.simc
+      - STM.simc
+  tiersets:
+    description: "Sims each tier set currently available by just activating the set, not with the gear."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - tiersets.simc
+  trinket-combos:
+    description: Combines the top trinkets together to get your BiS 2 trinkets.
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - generated.simc
+  trinkets:
+    description: "Sims all trinkets by themselves (no second trinket) with base Covenant ability."
+    builds: true
+    weights: false
+    chart: true
+    covenant:
+      lookup: true
+      files: false
+    legendary: true
+    lookupType: item
+    steps:
+      - 200
+      - 203
+      - 207
+      - 210
+      - 213
+      - 216
+      - 220
+      - 223
+      - 226
+      - 229
+      - 230
+      - 233
+      - 236
+      - 239
+      - 242
+      - 246
+      - 249
+      - 252
+      - 255
+      - 259
+      - 262
+      - 265
+      - 268
+      - 272
+      - 275
+      - 278
+      - 285
+    files:
+      - raid.simc
+      - dungeons.simc
+      - other.simc
+  weights:
+    description: Stat weight sims for BiS Mythic Sanctum of Domination gear.
+    builds: true
+    weights: true
+    chart: true
+    covenant:
+      lookup: false
+      files: false
+    legendary: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - weights.simc
+compositeWeights: weightsSepulcherOfTheFirstOnes
+singleTargetWeights: weightsSingle
+singleTargetProfiles:
+  - pw_na_1
+  - lm_na_1
+  - hm_na_1
+simcBuild: nightly
+defaultIterations: 10000
+raidbots:
+  apiUrlBase: https://www.raidbots.com
+  numOfRetries: 10
+  retryInterval: 2
+analyze:
+  markdown: true
+  csv: true
+  json: true
+stats:
+  base: 1200
+  steps: 100
+  total: 2200
+  include:
+    - mastery
+    - haste
+    - crit
+    - versatility

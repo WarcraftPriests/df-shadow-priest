@@ -1,0 +1,228 @@
+priest="Base"
+level=60
+role=spell
+position=back
+spec=shadow
+
+default_actions=1
+set_bonus=tier28_2pc=1
+set_bonus=tier28_4pc=1
+
+head=${gear.head}
+neck=${gear.neck}
+shoulders=${gear.shoulders}
+back=${gear.back}
+chest=${gear.chest},enchant=eternal_stats
+wrists=${gear.wrists},enchant=eternal_intellect
+hands=${gear.hands}
+waist=${gear.waist}
+legs=${gear.legs}
+feet=${gear.feet}
+finger1=${gear.finger1},enchant=tenet_of_mastery
+finger2=${gear.finger2},enchant=tenet_of_mastery
+trinket1=${gear.trinket1}
+trinket2=${gear.trinket2}
+main_hand=${gear.main_hand},enchant=sinful_revelation
+${gear.off_hand}
+# STM
+# DM
+# AS
+# ToF
+# FotM
+profileset."FotM_ToF_AS_DM_STM"+=talents=1111113
+# DaM
+profileset."DaM_ToF_AS_DM_STM"+=talents=2111113
+# UD
+profileset."UD_ToF_AS_DM_STM"+=talents=3111113
+# Mis
+# FotM
+profileset."FotM_Mis_AS_DM_STM"+=talents=1121113
+# DaM
+profileset."DaM_Mis_AS_DM_STM"+=talents=2121113
+# UD
+profileset."UD_Mis_AS_DM_STM"+=talents=3121113
+# SN
+# FotM
+profileset."FotM_SN_AS_DM_STM"+=talents=1131113
+# DaM
+profileset."DaM_SN_AS_DM_STM"+=talents=2131113
+# UD
+profileset."UD_SN_AS_DM_STM"+=talents=3131113
+# PL
+# ToF
+# FotM
+profileset."FotM_ToF_PL_DM_STM"+=talents=1111213
+# DaM
+profileset."DaM_ToF_PL_DM_STM"+=talents=2111213
+# UD
+profileset."UD_ToF_PL_DM_STM"+=talents=3111213
+# Mis
+# FotM
+profileset."FotM_Mis_PL_DM_STM"+=talents=1121213
+# DaM
+profileset."DaM_Mis_PL_DM_STM"+=talents=2121213
+# UD
+profileset."UD_Mis_PL_DM_STM"+=talents=3121213
+# SN
+# FotM
+profileset."FotM_SN_PL_DM_STM"+=talents=1131213
+# DaM
+profileset."DaM_SN_PL_DM_STM"+=talents=2131213
+# UD
+profileset."UD_SN_PL_DM_STM"+=talents=3131213
+# SC
+# ToF
+# FotM
+profileset."FotM_ToF_SC_DM_STM"+=talents=1111313
+# DaM
+profileset."DaM_ToF_SC_DM_STM"+=talents=2111313
+# UD
+profileset."UD_ToF_SC_DM_STM"+=talents=3111313
+# Mis
+# FotM
+profileset."FotM_Mis_SC_DM_STM"+=talents=1121313
+# DaM
+profileset."DaM_Mis_SC_DM_STM"+=talents=2121313
+# UD
+profileset."UD_Mis_SC_DM_STM"+=talents=3121313
+# SN
+# FotM
+profileset."FotM_SN_SC_DM_STM"+=talents=1131313
+# DaM
+profileset."DaM_SN_SC_DM_STM"+=talents=2131313
+# UD
+profileset."UD_SN_SC_DM_STM"+=talents=3131313
+# MB
+# AS
+# ToF
+# FotM
+profileset."FotM_ToF_AS_MB_STM"+=talents=1111123
+# DaM
+profileset."DaM_ToF_AS_MB_STM"+=talents=2111123
+# UD
+profileset."UD_ToF_AS_MB_STM"+=talents=3111123
+# Mis
+# FotM
+profileset."FotM_Mis_AS_MB_STM"+=talents=1121123
+# DaM
+profileset."DaM_Mis_AS_MB_STM"+=talents=2121123
+# UD
+profileset."UD_Mis_AS_MB_STM"+=talents=3121123
+# SN
+# FotM
+profileset."FotM_SN_AS_MB_STM"+=talents=1131123
+# DaM
+profileset."DaM_SN_AS_MB_STM"+=talents=2131123
+# UD
+profileset."UD_SN_AS_MB_STM"+=talents=3131123
+# PL
+# ToF
+# FotM
+profileset."FotM_ToF_PL_MB_STM"+=talents=1111223
+# DaM
+profileset."DaM_ToF_PL_MB_STM"+=talents=2111223
+# UD
+profileset."UD_ToF_PL_MB_STM"+=talents=3111223
+# Mis
+# FotM
+profileset."FotM_Mis_PL_MB_STM"+=talents=1121223
+# DaM
+profileset."DaM_Mis_PL_MB_STM"+=talents=2121223
+# UD
+profileset."UD_Mis_PL_MB_STM"+=talents=3121223
+# SN
+# FotM
+profileset."FotM_SN_PL_MB_STM"+=talents=1131223
+# DaM
+profileset."DaM_SN_PL_MB_STM"+=talents=2131223
+# UD
+profileset."UD_SN_PL_MB_STM"+=talents=3131223
+# SC
+# ToF
+# FotM
+profileset."FotM_ToF_SC_MB_STM"+=talents=1111323
+# DaM
+profileset."DaM_ToF_SC_MB_STM"+=talents=2111323
+# UD
+profileset."UD_ToF_SC_MB_STM"+=talents=3111323
+# Mis
+# FotM
+profileset."FotM_Mis_SC_MB_STM"+=talents=1121323
+# DaM
+profileset."DaM_Mis_SC_MB_STM"+=talents=2121323
+# UD
+profileset."UD_Mis_SC_MB_STM"+=talents=3121323
+# SN
+# FotM
+profileset."FotM_SN_SC_MB_STM"+=talents=1131323
+# DaM
+profileset."DaM_SN_SC_MB_STM"+=talents=2131323
+# UD
+profileset."UD_SN_SC_MB_STM"+=talents=3131323
+# VT
+# AS
+# ToF
+# FotM
+profileset."FotM_ToF_AS_VT_STM"+=talents=1111133
+# DaM
+profileset."DaM_ToF_AS_VT_STM"+=talents=2111133
+# UD
+profileset."UD_ToF_AS_VT_STM"+=talents=3111133
+# Mis
+# FotM
+profileset."FotM_Mis_AS_VT_STM"+=talents=1121133
+# DaM
+profileset."DaM_Mis_AS_VT_STM"+=talents=2121133
+# UD
+profileset."UD_Mis_AS_VT_STM"+=talents=3121133
+# SN
+# FotM
+profileset."FotM_SN_AS_VT_STM"+=talents=1131133
+# DaM
+profileset."DaM_SN_AS_VT_STM"+=talents=2131133
+# UD
+profileset."UD_SN_AS_VT_STM"+=talents=3131133
+# PL
+# ToF
+# FotM
+profileset."FotM_ToF_PL_VT_STM"+=talents=1111233
+# DaM
+profileset."DaM_ToF_PL_VT_STM"+=talents=2111233
+# UD
+profileset."UD_ToF_PL_VT_STM"+=talents=3111233
+# Mis
+# FotM
+profileset."FotM_Mis_PL_VT_STM"+=talents=1121233
+# DaM
+profileset."DaM_Mis_PL_VT_STM"+=talents=2121233
+# UD
+profileset."UD_Mis_PL_VT_STM"+=talents=3121233
+# SN
+# FotM
+profileset."FotM_SN_PL_VT_STM"+=talents=1131233
+# DaM
+profileset."DaM_SN_PL_VT_STM"+=talents=2131233
+# UD
+profileset."UD_SN_PL_VT_STM"+=talents=3131233
+# SC
+# ToF
+# FotM
+profileset."FotM_ToF_SC_VT_STM"+=talents=1111333
+# DaM
+profileset."DaM_ToF_SC_VT_STM"+=talents=2111333
+# UD
+profileset."UD_ToF_SC_VT_STM"+=talents=3111333
+# Mis
+# FotM
+profileset."FotM_Mis_SC_VT_STM"+=talents=1121333
+# DaM
+profileset."DaM_Mis_SC_VT_STM"+=talents=2121333
+# UD
+profileset."UD_Mis_SC_VT_STM"+=talents=3121333
+# SN
+# FotM
+profileset."FotM_SN_SC_VT_STM"+=talents=1131333
+# DaM
+profileset."DaM_SN_SC_VT_STM"+=talents=2131333
+# UD
+profileset."UD_SN_SC_VT_STM"+=talents=3131333

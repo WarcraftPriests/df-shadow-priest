@@ -1,0 +1,32 @@
+# Dungeons - am - kyrian
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|13142|1.42%|
+|Human|13140|1.40%|
+|Goblin|13139|1.40%|
+|Gnome|13126|1.30%|
+|Night_Elf_Haste|13121|1.26%|
+|Night_Elf_Crit|13094|1.05%|
+|Void_Elf|13094|1.05%|
+|Blood_Elf|13084|0.97%|
+|Zandalari_Troll_Paku|13078|0.93%|
+|Draenei|13077|0.92%|
+|Lightforged_Draenei|13077|0.92%|
+|Nightborne|13075|0.90%|
+|Kul_Tiran|13074|0.90%|
+|Panda_Feast|13073|0.89%|
+|Dark_Iron_Dwarf|13063|0.81%|
+|Dwarf|13053|0.73%|
+|Worgen|13043|0.66%|
+|Panda_Crit|13040|0.63%|
+|Panda_Vers|13037|0.61%|
+|Panda_Haste|13032|0.57%|
+|Maghar_Orc|13027|0.53%|
+|Tauren|13023|0.50%|
+|Zandalari_Troll_Bwonsamdi|13018|0.46%|
+|Panda_Mastery|13017|0.46%|
+|Undead|13014|0.43%|
+|Troll|12999|0.32%|
+|Zandalari_Troll_Kimbul|12978|0.15%|
+|Vulpera|12965|0.05%|
+|Base|12958|0.00%|

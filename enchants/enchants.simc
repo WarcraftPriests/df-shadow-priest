@@ -1,0 +1,52 @@
+priest="Base"
+level=60
+role=spell
+position=back
+spec=shadow
+talents=${talents}
+
+set_bonus=tier28_2pc=1
+set_bonus=tier28_4pc=1
+
+head=${gear.head},bonus_id=${covenant.id}/${legendary.id}
+neck=${gear.neck}
+shoulders=${gear.shoulders}
+back=${gear.back}
+chest=${gear.chest}
+wrists=${gear.wrists}
+hands=${gear.hands}
+waist=${gear.waist}
+legs=${gear.legs}
+feet=${gear.feet}
+finger1=${gear.finger1}
+finger2=${gear.finger2}
+trinket1=${gear.trinket1}
+trinket2=${gear.trinket2}
+main_hand=${gear.main_hand}
+${gear.off_hand}
+
+# Weapons
+profileset."Weapon_Lightless_Force"+=main_hand=${gear.main_hand},enchant=lightless_force
+profileset."Weapon_Sinful_Revelation"+=main_hand=${gear.main_hand},enchant=sinful_revelation
+profileset."Weapon_Celestial_Guidance"+=main_hand=${gear.main_hand},enchant=celestial_guidance
+
+# Bracers
+profileset."Wrists_Illuminated_Soul"+=wrists=${gear.wrists},enchant=illuminated_soul
+profileset."Wrists_Eternal_Intellect"+=wrists=${gear.wrists},enchant=eternal_intellect
+
+# Chest
+profileset."Chest_Eternal_Bounds"+=chest=${gear.chest},enchant=eternal_bounds
+profileset."Chest_Eternal_Stats"+=chest=${gear.chest},enchant=eternal_stats
+profileset."Chest_Eternal_Insight"+=chest=${gear.chest},enchant=eternal_insight
+profileset."Chest_Sacred_Stats"+=chest=${gear.chest},enchant=sacred_stats
+
+# Ring
+profileset."Ring_Tenet_of_Critical_Strike"+=finger1=${gear.finger1},enchant=tenet_of_critical_strike
+profileset."Ring_Tenet_of_Versatility"+=finger1=${gear.finger1},enchant=tenet_of_versatility
+profileset."Ring_Tenet_of_Haste"+=finger1=${gear.finger1},enchant=tenet_of_haste
+profileset."Ring_Tenet_of_Mastery"+=finger1=${gear.finger1},enchant=tenet_of_mastery
+
+profileset."Ring_Bargain_of_Critical_Strike"+=finger1=${gear.finger1},enchant=bargain_of_critical_strike
+profileset."Ring_Bargain_of_Versatility"+=finger1=${gear.finger1},enchant=bargain_of_versatility
+profileset."Ring_Bargain_of_Haste"+=finger1=${gear.finger1},enchant=bargain_of_haste
+profileset."Ring_Bargain_of_Mastery"+=finger1=${gear.finger1},enchant=bargain_of_mastery

@@ -1,0 +1,32 @@
+# Composite - am - necrolord
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|13980|1.64%|
+|Gnome|13969|1.56%|
+|Goblin|13964|1.53%|
+|Human|13960|1.49%|
+|Night_Elf_Haste|13949|1.42%|
+|Mechagnome|13944|1.37%|
+|Dark_Iron_Dwarf|13912|1.15%|
+|Void_Elf|13902|1.07%|
+|Blood_Elf|13891|0.99%|
+|Draenei|13882|0.93%|
+|Panda_Mastery|13876|0.88%|
+|Night_Elf_Crit|13875|0.87%|
+|Kul_Tiran|13875|0.87%|
+|Maghar_Orc|13874|0.87%|
+|Zandalari_Troll_Paku|13873|0.86%|
+|Panda_Feast|13869|0.83%|
+|Nightborne|13860|0.76%|
+|Panda_Haste|13858|0.75%|
+|Dwarf|13854|0.72%|
+|Worgen|13850|0.69%|
+|Tauren|13847|0.67%|
+|Panda_Crit|13839|0.62%|
+|Panda_Vers|13838|0.61%|
+|Zandalari_Troll_Bwonsamdi|13815|0.44%|
+|Undead|13810|0.41%|
+|Zandalari_Troll_Kimbul|13805|0.37%|
+|Lightforged_Draenei|13787|0.23%|
+|Vulpera|13763|0.06%|
+|Base|13755|0.00%|
