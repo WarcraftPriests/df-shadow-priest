@@ -73,7 +73,7 @@ def is_executable(path):
     return os.path.isfile(path) and os.access(path, os.X_OK)
 
 
-def run_sims(args, iterations, talent, covenant):
+def run_sims(args, iterations, talent):
     # pylint: disable=import-outside-toplevel,too-many-locals
     """run sims with the given config"""
     if args.local:
@@ -83,9 +83,9 @@ def run_sims(args, iterations, talent, covenant):
     simc_build = config["simcBuild"]
     print(f"Running sims on {simc_build} in {args.dir}")
     existing = listdir(
-        args.dir + utils.get_simc_dir(talent, covenant, 'output'))
+        args.dir + utils.get_simc_dir(talent, 'output'))
     profiles = listdir(
-        args.dir + utils.get_simc_dir(talent, covenant, 'profiles'))
+        args.dir + utils.get_simc_dir(talent, 'profiles'))
     count = 0
 
     for profile in profiles:
@@ -100,9 +100,9 @@ def run_sims(args, iterations, talent, covenant):
         output_name = profile.replace('simc', 'json')
         if output_name not in existing and weight > 0:
             output_location = args.dir + \
-                utils.get_simc_dir(talent, covenant, 'output') + output_name
+                utils.get_simc_dir(talent, 'output') + output_name
             profile_location = args.dir + \
-                utils.get_simc_dir(talent, covenant, 'profiles') + profile
+                utils.get_simc_dir(talent, 'profiles') + profile
             # prefix the profile name with the base file name
             profile_name_with_dir = f"{args.dir}{profile_name}"
             raidbots(get_api_key(args, config["simcBuild"]), profile_location,
@@ -113,16 +113,15 @@ def run_sims(args, iterations, talent, covenant):
             print(f"-- {output_name} already exists. Skipping file.")
 
 
-def convert_to_csv(args, weights, talent, covenant):
+def convert_to_csv(args, weights, talent):
     """creates results/statweights.txt"""
-    results_dir = args.dir + utils.get_simc_dir(talent, covenant, 'output')
+    results_dir = args.dir + utils.get_simc_dir(talent, 'output')
     parse_json(results_dir, weights)
 
 
-def analyze_data(args, talent, covenant, weights):
+def analyze_data(args, talent, weights):
     """create results"""
-    analyze(talent, args.dir, args.dungeons,
-            weights, get_timestamp(), covenant)
+    analyze(talent, args.dir, args.dungeons, weights, get_timestamp())
 
 
 def main():
@@ -155,34 +154,18 @@ def main():
         iterations = str(config["defaultIterations"])
 
     talents = utils.get_talents(args)
-    covenants = utils.get_covenant(args)
 
-    if covenants:
-        if talents:
-            for talent, covenant in [
-                (talent, covenant) for talent in talents for covenant in covenants
-            ]:
-                print(f"Simming {talent}-{covenant} profiles...")
-                run_sims(args, iterations, talent, covenant)
-                convert_to_csv(args, weights, talent, covenant)
-                analyze_data(args, talent, covenant, weights)
-        else:
-            for covenant in covenants:
-                print(f"Simming {covenant} profiles...")
-                run_sims(args, iterations, None, covenant)
-                convert_to_csv(args, weights, None, covenant)
-                analyze_data(args, None, covenant, weights)
-    elif talents:
+    if talents:
         for talent in talents:
             print(f"Simming {talent} profiles...")
-            run_sims(args, iterations, talent, None)
-            convert_to_csv(args, weights, talent, None)
-            analyze_data(args, talent, None, weights)
+            run_sims(args, iterations, talent)
+            convert_to_csv(args, weights, talent)
+            analyze_data(args, talent, weights)
     else:
         print("Simming default profiles...")
-        run_sims(args, iterations, None, None)
-        convert_to_csv(args, weights, None, None)
-        analyze_data(args, None, None, weights)
+        run_sims(args, iterations, None)
+        convert_to_csv(args, weights, None)
+        analyze_data(args, None, weights)
 
 
 if __name__ == "__main__":

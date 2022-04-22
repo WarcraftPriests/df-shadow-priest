@@ -1,0 +1,32 @@
+# Single - hv
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Base|0|0.00%|
+|Blood_Elf|0|0.00%|
+|Dark_Iron_Dwarf|0|0.00%|
+|Draenei|0|0.00%|
+|Dwarf|0|0.00%|
+|Gnome|0|0.00%|
+|Goblin|0|0.00%|
+|Human|0|0.00%|
+|Kul_Tiran|0|0.00%|
+|Lightforged_Draenei|0|0.00%|
+|Maghar_Orc|0|0.00%|
+|Mechagnome|0|0.00%|
+|Night_Elf_Crit|0|0.00%|
+|Night_Elf_Haste|0|0.00%|
+|Nightborne|0|0.00%|
+|Panda_Crit|0|0.00%|
+|Panda_Feast|0|0.00%|
+|Panda_Haste|0|0.00%|
+|Panda_Mastery|0|0.00%|
+|Panda_Vers|0|0.00%|
+|Tauren|0|0.00%|
+|Troll|0|0.00%|
+|Undead|0|0.00%|
+|Void_Elf|0|0.00%|
+|Vulpera|0|0.00%|
+|Worgen|0|0.00%|
+|Zandalari_Troll_Bwonsamdi|0|0.00%|
+|Zandalari_Troll_Kimbul|0|0.00%|
+|Zandalari_Troll_Paku|0|0.00%|

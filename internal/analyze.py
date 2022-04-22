@@ -5,7 +5,6 @@ import time
 import json
 import operator
 import os
-from datetime import datetime
 import pandas
 import yaml
 from internal import utils
@@ -24,11 +23,12 @@ def assure_path_exists(path):
         os.makedirs(dir_name)
 
 
-def build_output_string(sim_type, talent_string, covenant_string, file_type):
+def build_output_string(sim_type, talent_string, file_type):
     """creates output string for the results file"""
     output_dir = "results/"
     assure_path_exists(output_dir)
-    return f"{output_dir}Results_{sim_type}{talent_string}{covenant_string}.{file_type}"
+    output_string = f"{output_dir}Results_{sim_type}{talent_string}.{file_type}"
+    return output_string
 
 
 def get_change(current, previous):
@@ -38,7 +38,8 @@ def get_change(current, previous):
         negative = True
     try:
         value = (abs(current - previous) / previous) * 100.0
-        value = float('%.2f' % value) # pylint: disable=consider-using-f-string
+        value = float('%.2f' %
+                      value)  # pylint: disable=consider-using-f-string
         if value >= 0.01 and negative:
             value = value * -1
         return value
@@ -93,9 +94,6 @@ def build_results(data, weights, sim_type, directory):
             results[actor] = results.get(actor, 0) + weighted_dps
     # Each profile sims "Base" again so we need to divide that to get the real average
     number_of_profiles = len(config["sims"][directory[:-1]]["files"])
-
-    if config["sims"][directory[:-1]]["covenant"]["files"]:
-        number_of_profiles = 1
     base_actor = results.get('Base')
     if weights:
         base_dps = {}
@@ -107,22 +105,18 @@ def build_results(data, weights, sim_type, directory):
     return results
 
 
-def generate_report_name(sim_type, talent_string, covenant_string):
-    """create report name based on talents and covenant"""
+def generate_report_name(sim_type, talent_string):
+    """create report name based on talents"""
     stripped_talents = talent_string.strip("_")
-    stripped_covenant = covenant_string.strip("_")
     talents = f" - {stripped_talents}" if talent_string else ""
-    covenant = f" - {stripped_covenant}" if covenant_string else ""
-    return f"{sim_type}{talents}{covenant}"
+    return f"{sim_type}{talents}"
 
 
-def build_markdown(sim_type, talent_string, results, weights, base_dps, covenant_string):
+def build_markdown(sim_type, talent_string, results, weights, base_dps):
     # pylint: disable=too-many-arguments,consider-using-f-string,line-too-long
     """converts result data into markdown files"""
-    output_file = build_output_string(
-        sim_type, talent_string, covenant_string, "md")
-    report_name = generate_report_name(
-        sim_type, talent_string, covenant_string)
+    output_file = build_output_string(sim_type, talent_string, "md")
+    report_name = generate_report_name(sim_type, talent_string)
     with open(output_file, 'w+', encoding="utf8") as results_md:
         if weights:
             results_md.write(
@@ -153,11 +147,10 @@ def build_markdown(sim_type, talent_string, results, weights, base_dps, covenant
                                  (key, value, get_change(value, base_dps)))
 
 
-def build_csv(sim_type, talent_string, results, weights, base_dps, covenant_string):
+def build_csv(sim_type, talent_string, results, weights, base_dps):
     # pylint: disable=too-many-arguments,consider-using-f-string
     """build csv from results dict"""
-    output_file = build_output_string(
-        sim_type, talent_string, covenant_string, "csv")
+    output_file = build_output_string(sim_type, talent_string, "csv")
     with open(output_file, 'w', encoding="utf8") as results_csv:
         if weights:
             results_csv.write(
@@ -224,14 +217,13 @@ def lookup_item_id(item_name, directory):
     return None
 
 
-def build_json(sim_type, talent_string, results, directory, timestamp, covenant_string):
+def build_json(sim_type, talent_string, results, directory, timestamp):
     # pylint: disable=too-many-arguments, disable=too-many-locals
     """build json from results"""
-    output_file = build_output_string(
-        sim_type, talent_string, covenant_string, "json")
+    output_file = build_output_string(sim_type, talent_string, "json")
     human_date = time.strftime('%Y-%m-%d', time.localtime(timestamp))
     chart_data = {
-        "name": generate_report_name(sim_type, talent_string, covenant_string),
+        "name": generate_report_name(sim_type, talent_string),
         "data": {},
         "ids": {},
         "simulated_steps": [],
@@ -296,105 +288,64 @@ def convert_increase_to_double(increase):
     return increase
 
 
-def build_talented_covenant_json(talents):
-    """build aggregated talented covenant json file"""
-    sim_types = ["Composite", "Dungeons", "Single"]
-    results = {}
-    # find the 3 CSV files for the given talent setup
-    for sim_type in sim_types:
-        csv = f"results/Results_{sim_type}_{talents}.csv"
-        data = pandas.read_csv(
-            csv, usecols=['profile', 'actor', 'DPS', 'increase'])
-        covenants = {
-            "kyrian": {"max": 0.00, "min": 0.00},
-            "necrolord": {"max": 0.00, "min": 0.00},
-            "night_fae": {"max": 0.00, "min": 0.00},
-            "venthyr": {"max": 0.00, "min": 0.00},
-            "base": {"DPS": 0.00}
-        }
-        # for each file, iterate over results to get max/min per covenant
-        for value in data.iterrows():
-            covenant = re.sub(r"_\d+", "", value[1].actor).lower()
-            covenant_dict = covenants.get(covenant)
-            if covenant == "base":
-                covenants["base"]["DPS"] = convert_increase_to_double(
-                    value[1].increase)
-            elif covenant_dict:
-                if covenant_dict["max"]:
-                    covenant_dict["max"] = max(
-                        convert_increase_to_double(value[1].increase), covenant_dict.get("max"))
-                else:
-                    covenant_dict["max"] = convert_increase_to_double(
-                        value[1].increase)
-
-                if covenant_dict["min"]:
-                    covenant_dict["min"] = min(
-                        convert_increase_to_double(value[1].increase), covenant_dict.get("min"))
-                else:
-                    covenant_dict["min"] = convert_increase_to_double(
-                        value[1].increase)
-        # use that data to build out the sim_type data block by covenant
-        results[sim_type.lower()] = covenants
-    # output 1 JSON file per talent setup as Results_Aggregate_am-as.json
-    chart_data = {
-        "name": f"Aggregate {talents}",
-        "data": results,
-        "last_updated": datetime.now().strftime("%Y-%m-%d")
-    }
-    json_data = json.dumps(chart_data)
-    output_file = f"results/Results_Aggregate_{talents}.json"
-    with open(output_file, 'w', encoding="utf8") as results_json:
-        results_json.write(json_data)
+def clear_output_files(talent_string):
+    """after all results are built clear out unused files"""
+    for file in os.listdir("results"):
+        file_to_delete = "results/" + file
+        output_files = []
+        if talent_string:
+            for talent in config["builds"]:
+                for fight_type in ["Composite", "Single", "Dungeons"]:
+                    if config["analyze"]["markdown"]:
+                        output_files.append(f"results/Results_{fight_type}_{talent}.md")
+                    if config["analyze"]["csv"]:
+                        output_files.append(f"results/Results_{fight_type}_{talent}.csv")
+                    if config["analyze"]["json"]:
+                        output_files.append(f"results/Results_{fight_type}_{talent}.json")
+        else:
+            for fight_type in ["Composite", "Single", "Dungeons"]:
+                if config["analyze"]["markdown"]:
+                    output_files.append(f"results/Results_{fight_type}.md")
+                if config["analyze"]["csv"]:
+                    output_files.append(f"results/Results_{fight_type}.csv")
+                if config["analyze"]["json"]:
+                    output_files.append(f"results/Results_{fight_type}.json")
+        if file_to_delete not in output_files:
+            if os.path.exists(file_to_delete):
+                os.remove(file_to_delete)
 
 
-def build_covenant_json():
-    # pylint: disable=too-many-locals
-    """build aggregated covenant json"""
-    sim_types = ["Composite", "Dungeons", "Single"]
-    talents = config["builds"].keys()
-    results = {}
-    # find the 3 JSON entries for each talent setup
-    for sim_type in sim_types:
-        covenants = {
-            "kyrian": {"max": 0.00, "min": 0.00},
-            "necrolord": {"max": 0.00, "min": 0.00},
-            "night_fae": {"max": 0.00, "min": 0.00},
-            "venthyr": {"max": 0.00, "min": 0.00}
-        }
-        # loop over config["builds"] to get each set of covenant{} data
-        for talent in talents:
-            input_file = f"results/Results_Aggregate_{talent}.json"
-            with open(input_file, 'r', encoding="utf8") as data:
-                talent_data = json.load(data)
-            covenant_data = talent_data['data'][sim_type.lower()]
-            # for each set of covenant{} data populate new dict with min/max
-            for covenant in covenants.items():
-                covenant_name = covenant[0]
-                if covenants[covenant_name]["max"]:
-                    covenants[covenant_name]["max"] = max(
-                        covenant_data[covenant_name]["max"], covenants[covenant_name]["max"])
-                else:
-                    covenants[covenant_name]["max"] = covenant_data[covenant_name]["max"]
-
-                if covenants[covenant_name]["min"]:
-                    covenants[covenant_name]["min"] = min(
-                        covenant_data[covenant_name]["min"], covenants[covenant_name]["min"])
-                else:
-                    covenants[covenant_name]["min"] = covenant_data[covenant_name]["min"]
-        # output 1 JSON file as Results_Aggregate.json
-        results[sim_type.lower()] = covenants
-    chart_data = {
-        "name": "Aggregate",
-        "data": results,
-        "last_updated": datetime.now().strftime("%Y-%m-%d")
-    }
-    json_data = json.dumps(chart_data)
-    output_file = "results/Results_Aggregate.json"
-    with open(output_file, 'w', encoding="utf8") as results_json:
-        results_json.write(json_data)
+def generate_result_name(result, talent):
+    """takes a full result file path and generate a readable name from it"""
+    fight_types = ["Composite", "Single", "Dungeons"]
+    for fight_type in fight_types:
+        if fight_type in result:
+            return f"{fight_type} - {talent.upper()}"
+    return talent
 
 
-def analyze(talents, directory, dungeons, weights, timestamp, covenant):
+def build_readme_md(directory, talent_string):
+    """builds README.md in for each set of results"""
+    with open("README.md", 'w+', encoding="utf8") as readme:
+        readme.write(f"# {directory[:-1]} Results\n")
+        if talent_string:
+            for talent in config["builds"]:
+                readme.write(f"## {talent.upper()}\n")
+                file_list = []
+                for fight_type in ["Composite", "Single", "Dungeons"]:
+                    file_list.append(f"results/Results_{fight_type}_{talent}.md")
+                for result in file_list:
+                    result_name = generate_result_name(result, talent)
+                    readme.write(f'- [{result_name}]({result})\n')
+        else:
+            file_list = []
+            for fight_type in ["Composite", "Single", "Dungeons"]:
+                file_list.append(f"results/Results_{fight_type}.md")
+            for result in file_list:
+                readme.write(f'- [{fight_type}]({result})\n')
+
+
+def analyze(talents, directory, dungeons, weights, timestamp):
     # pylint: disable=too-many-arguments, too-many-locals
     """main analyze function"""
     foldername = os.path.basename(os.getcwd())
@@ -402,7 +353,7 @@ def analyze(talents, directory, dungeons, weights, timestamp, covenant):
     while foldername != directory[:-1]:
         os.chdir("..")
         foldername = os.path.basename(os.getcwd())
-    csv = f"{utils.get_simc_dir(talents, covenant, 'output')}statweights.csv"
+    csv = f"{utils.get_simc_dir(talents, 'output')}statweights.csv"
 
     if weights:
         data = pandas.read_csv(csv,
@@ -421,27 +372,19 @@ def analyze(talents, directory, dungeons, weights, timestamp, covenant):
         data = pandas.read_csv(csv, usecols=['profile', 'actor', 'DD', 'DPS'])
 
     talent_string = f"_{talents}" if talents else ""
-    covenant_string = f"_{covenant}" if covenant else ""
     sim_types = ["Dungeons"] if dungeons else ["Composite", "Single"]
-    covenant_range = config["sims"][directory[:-1]
-                                    ]["steps"][0] == "CovenantRange"
 
     for sim_type in sim_types:
         results = build_results(data, weights, sim_type, directory)
         base_dps = results.get('Base')
         if config["analyze"]["markdown"]:
             build_markdown(sim_type, talent_string, results,
-                           weights, base_dps, covenant_string)
+                           weights, base_dps)
         if config["analyze"]["csv"]:
             build_csv(sim_type, talent_string, results,
-                      weights, base_dps, covenant_string)
-        # If covenant_range is true we skip building the json here to do it later
-        if config["analyze"]["json"] and not covenant_range and not weights:
-            build_json(sim_type, talent_string, results,
-                       directory, timestamp, covenant_string)
-
-    # Check if we need to build extra JSON files
-    if covenant_range:
-        build_talented_covenant_json(talents)
-        build_covenant_json()
+                      weights, base_dps)
+        if config["analyze"]["json"] and not weights:
+            build_json(sim_type, talent_string, results, directory, timestamp)
+    # clear_output_files(talent_string)
+    build_readme_md(directory, talent_string)
     os.chdir("..")

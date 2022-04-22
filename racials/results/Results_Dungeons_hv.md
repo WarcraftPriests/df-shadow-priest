@@ -1,0 +1,32 @@
+# Dungeons - hv
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|12441|1.45%|
+|Gnome|12438|1.43%|
+|Mechagnome|12429|1.35%|
+|Night_Elf_Haste|12423|1.30%|
+|Human|12410|1.20%|
+|Troll|12394|1.07%|
+|Nightborne|12389|1.03%|
+|Blood_Elf|12380|0.95%|
+|Void_Elf|12380|0.95%|
+|Kul_Tiran|12369|0.86%|
+|Night_Elf_Crit|12366|0.84%|
+|Zandalari_Troll_Paku|12363|0.82%|
+|Panda_Feast|12356|0.76%|
+|Panda_Crit|12354|0.74%|
+|Draenei|12352|0.73%|
+|Worgen|12352|0.73%|
+|Dark_Iron_Dwarf|12351|0.72%|
+|Panda_Haste|12345|0.67%|
+|Panda_Vers|12337|0.60%|
+|Panda_Mastery|12326|0.51%|
+|Tauren|12322|0.48%|
+|Dwarf|12315|0.42%|
+|Undead|12312|0.40%|
+|Maghar_Orc|12307|0.36%|
+|Zandalari_Troll_Bwonsamdi|12305|0.34%|
+|Zandalari_Troll_Kimbul|12291|0.23%|
+|Base|12263|0.00%|
+|Vulpera|12254|-0.07%|
+|Lightforged_Draenei|12238|-0.20%|

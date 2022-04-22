@@ -17,23 +17,8 @@ def get_talents(args):
     return talents
 
 
-def get_covenant(args):
-    """lookup covenant based on current config"""
-    if args.covenant:
-        covenants = [args.covenant]
-    elif config["sims"][args.dir[:-1]]["covenant"]["lookup"]:
-        covenants = config["covenants"]["list"]
-    else:
-        covenants = []
-    return covenants
-
-
-def get_simc_dir(talent, covenant, folder_name):
-    """get proper directory based on talent and covenant options"""
-    if covenant:
-        if talent:
-            return f"{folder_name}/{talent}/{covenant}/"
-        return f"{folder_name}/{covenant}/"
+def get_simc_dir(talent, folder_name):
+    """get proper directory based on talent options"""
     if talent:
         return f"{folder_name}/{talent}/"
     return f"{folder_name}/"
@@ -47,11 +32,6 @@ def generate_parser(description):
         '--dungeons', help='Run a dungeonsimming batch of sims.', action='store_true')
     parser.add_argument(
         '--talents', help='indicate talent build for output.', choices=config["builds"].keys())
-    parser.add_argument(
-        '--covenant',
-        help='indicate covenant build for output.',
-        choices=config["covenants"]["list"]
-    )
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
     return parser

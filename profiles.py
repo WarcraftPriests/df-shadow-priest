@@ -42,11 +42,9 @@ def clear_out_folders(path):
             print(error)
 
 
-def build_settings(profile_name_string, weights, covenant_string):
+def build_settings(profile_name_string, weights):
     """Add any and all expressions to the bottom of the profile"""
     settings_string = '\n'
-    if covenant_string:
-        settings_string += f"covenant={covenant_string}\n"
     for expression in fightExpressions.items():
         abbreviation = expression[0]
         if abbreviation in profile_name_string:
@@ -111,12 +109,8 @@ gear_versatility_rating={int(stats_base)}\n\n"""
                     f'profileset."{combo.get("name")}"+={combo.get(stat)}\n')
 
 
-def build_simc_file(talent_string, covenant_string, profile_name):
-    """Returns output file name based on talent and covenant strings"""
-    if covenant_string:
-        if talent_string:
-            return f"profiles/{talent_string}/{covenant_string}/{profile_name}.simc"
-        return f"profiles/{covenant_string}/{profile_name}.simc"
+def build_simc_file(talent_string, profile_name):
+    """Returns output file name based on talent strings"""
     if talent_string:
         return f"profiles/{talent_string}/{profile_name}.simc"
     return f"profiles/{profile_name}.simc"
@@ -129,31 +123,6 @@ def replace_talents(talent_string, data):
     else:
         data.replace(
             "spec=shadow", f"spec=shadow\ntalents={talent_string}")
-    return data
-
-
-def replace_conduits(talent_string, data, swap_to_rs, covenant_string):
-    # pylint: disable=line-too-long
-    """replace conduits with config values"""
-    positions = ["first", "second", "third"]
-    items = ["id", "name"]
-
-    # replace first.id, second.id, first.name, second.name
-    for position in positions:
-        for item in items:
-            # Override third conduit if using Shadowflame Prism
-            # RS > MD with SFP
-            if position == "third" and swap_to_rs:
-                if item == "name":
-                    data = data.replace("${conduits.third.name}", "RS")
-                if item == "id":
-                    data = data.replace("${conduits.third.id}", "114")
-            elif covenant_string:
-                data = data.replace(f"${{conduits.{position}.{item}}}",
-                                    config["builds"][talent_string]["conduits"]["covenants"][covenant_string][position][item])
-            else:
-                data = data.replace(f"${{conduits.{position}.{item}}}",
-                                    config["builds"][talent_string]["conduits"][position][item])
     return data
 
 
@@ -170,34 +139,10 @@ def update_talents(talent_string, replacement):
     return new_talents
 
 
-def legendary_active(sim_type, covenant_string, legendary_id):
-    # pylint: disable=line-too-long
-    """returns if given legendary is being used for this sim with the given type"""
-    active = False
-    legendary_replacement = config["sims"][args.dir[:-1]]["legendary"]
-    if covenant_string:
-        active = config["legendary"]["covenants"][covenant_string][sim_type] == legendary_id and legendary_replacement
-    else:
-        active = config["legendary"][sim_type] == legendary_id and legendary_replacement
-    return active
-
-
 def talents_override(data):
     # pylint: disable=line-too-long
     """determines if there are talent overrides in the original data"""
     return "${talents.damnation}" in data or "${talents.mindbender}" in data or "${talents.void_torrent}" in data
-
-
-def replace_legendary(data, sim_type, covenant_string):
-    """replaces legendary.id and covenant.id with the appropriate legendary from config"""
-    if covenant_string:
-        data = data.replace("${legendary.id}",
-                            config["legendary"]["covenants"][covenant_string][sim_type])
-        data = data.replace(
-            "${covenant.id}", config["legendary"]["covenants"][covenant_string]["covenant"])
-    else:
-        data = data.replace("${legendary.id}", config["legendary"][sim_type])
-    return data
 
 
 def replace_gear(data):
@@ -211,7 +156,7 @@ def replace_gear(data):
     return data
 
 
-def build_profiles(talent_string, covenant_string):
+def build_profiles(talent_string):
     # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
@@ -225,9 +170,6 @@ def build_profiles(talent_string, covenant_string):
         f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets
     ]
     sim_files = config["sims"][args.dir[:-1]]["files"]
-
-    if config["sims"][args.dir[:-1]]["covenant"]["files"]:
-        sim_files = [f"{covenant_string}.simc"]
 
     for sim_file in sim_files:
         with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as file:
@@ -244,14 +186,6 @@ def build_profiles(talent_string, covenant_string):
         else:
             talents_expr = ''
         data = replace_gear(data)
-        # insert soulbinds before we replace conduits
-        if covenant_string:
-            if args.dungeons:
-                data = data.replace(
-                    "${soulbind}", config["covenants"][covenant_string]["soulbind"]["dungeons"])
-            else:
-                data = data.replace(
-                    "${soulbind}", config["covenants"][covenant_string]["soulbind"]["composite"])
         # insert talents in here so copy= works correctly
         if talents_expr:
             data = data.replace("${talents}", str(talents_expr))
@@ -261,84 +195,23 @@ def build_profiles(talent_string, covenant_string):
                 str(talents_expr), "mindbender"))
             data = data.replace("${talents.void_torrent}", update_talents(
                 str(talents_expr), "void_torrent"))
-        if covenant_string:
-            data = data.replace("${covenant}", covenant_string)
 
         for profile in combinations:
             sim_data = data
             # prefix the profile name with the base file name
             profile_name = f"{sim_file[:-5]}_{profile}"
             settings = build_settings(
-                profile, config["sims"][args.dir[:-1]]["weights"], covenant_string)
+                profile, config["sims"][args.dir[:-1]]["weights"])
 
             # insert talents based on profile
-            if talents_expr:
+            if talents_expr and not talents_are_overridden:
                 if profile in config["singleTargetProfiles"]:
                     new_talents = config["builds"][talent_string]["single"]
-                    # Replace conduits
-                    if legendary_active("single", covenant_string, "6982"):
-                        replace_conduit = True
-                    else:
-                        replace_conduit = False
-                    sim_data = replace_conduits(
-                        talent_string, sim_data, replace_conduit, covenant_string)
-
-                    # Only replace Mindbender talent if using Shadowflame Prism, and it is enabled in config to replace
-                    if legendary_active("single", covenant_string, "6982"):
-                        sim_data = replace_talents(update_talents(
-                            talents_expr, "mindbender"), sim_data)
-                    # Only replace Damnation talent if using Talbadar's Stratagem, and it is enabled in config to replace
-                    elif legendary_active("single", covenant_string, "7162"):
-                        sim_data = replace_talents(update_talents(
-                            talents_expr, "damnation"), sim_data)
-                    elif not talents_are_overridden:
-                        sim_data = replace_talents(new_talents, sim_data)
-                    sim_data = replace_legendary(
-                        sim_data, "single", covenant_string)
+                    sim_data = replace_talents(new_talents, sim_data)
                 else:
-                    if args.dungeons:
-                        # Replace conduits
-                        if legendary_active("dungeons", covenant_string, "6982"):
-                            replace_conduit = True
-                        else:
-                            replace_conduit = False
-                        sim_data = replace_conduits(
-                            talent_string, sim_data, replace_conduit, covenant_string)
-                        # Only replace Mindbender talent if using Shadowflame Prism, and it is not a legendary sim
-                        if legendary_active("dungeons", covenant_string, "6982"):
-                            sim_data = replace_talents(update_talents(
-                                talents_expr, "mindbender"), sim_data)
-                        # Only replace Damnation talent if using Talbadar's Stratagem, and it is enabled in config to replace
-                        elif legendary_active("dungeons", covenant_string, "7162"):
-                            sim_data = replace_talents(update_talents(
-                                talents_expr, "damnation"), sim_data)
-                        elif not talents_are_overridden:
-                            sim_data = replace_talents(talents_expr, sim_data)
-                        sim_data = replace_legendary(
-                            sim_data, "dungeons", covenant_string)
-                    else:
-                        # Replace conduits
-                        if legendary_active("dungeons", covenant_string, "6982"):
-                            replace_conduit = True
-                        else:
-                            replace_conduit = False
-                        sim_data = replace_conduits(
-                            talent_string, sim_data, replace_conduit, covenant_string)
-                        # Only replace Mindbender talent if using Shadowflame Prism, and it is not a legendary sim
-                        if legendary_active("composite", covenant_string, "6982"):
-                            sim_data = replace_talents(update_talents(
-                                talents_expr, "mindbender"), sim_data)
-                        # Only replace Damnation talent if using Talbadar's Stratagem, and it is enabled in config to replace
-                        elif legendary_active("composite", covenant_string, "7162"):
-                            sim_data = replace_talents(update_talents(
-                                talents_expr, "damnation"), sim_data)
-                        elif not talents_are_overridden:
-                            sim_data = replace_talents(talents_expr, sim_data)
-                        sim_data = replace_legendary(
-                            sim_data, "composite", covenant_string)
+                    sim_data = replace_talents(talents_expr, sim_data)
 
-            simc_file = build_simc_file(
-                talent_string, covenant_string, profile_name)
+            simc_file = build_simc_file(talent_string, profile_name)
             with open(args.dir + simc_file, "w+", encoding="utf8") as file:
                 if args.ptr:
                     file.writelines(fightExpressions["ptr"])
@@ -353,7 +226,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     talents = utils.get_talents(args)
-    covenants = utils.get_covenant(args)
 
     clear_out_folders(f'{args.dir}output/')
     clear_out_folders(f'{args.dir}profiles/')
@@ -361,27 +233,12 @@ if __name__ == '__main__':
     if args.dir[:-1] == 'stats':
         build_stats_files()
 
-    if covenants:
-        if talents:
-            for talent, covenant in [
-                (talent, covenant) for talent in talents for covenant in covenants
-            ]:
-                clear_out_folders(f'{args.dir}output/{talent}/{covenant}/')
-                clear_out_folders(f'{args.dir}profiles/{talent}/{covenant}/')
-                print(f"Building {talent}-{covenant} profiles...")
-                build_profiles(talent, covenant)
-        else:
-            for covenant in covenants:
-                clear_out_folders(f'{args.dir}output/{covenant}/')
-                clear_out_folders(f'{args.dir}profiles/{covenant}/')
-                print(f"Building {covenant} profiles...")
-                build_profiles(None, covenant)
-    elif talents:
+    if talents:
         for talent in talents:
             clear_out_folders(f'{args.dir}output/{talent}/')
             clear_out_folders(f'{args.dir}profiles/{talent}/')
             print(f"Building {talent} profiles...")
-            build_profiles(talent, None)
+            build_profiles(talent)
     else:
         print("Building default profiles...")
-        build_profiles(None, None)
+        build_profiles(None)

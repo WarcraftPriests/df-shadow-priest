@@ -1,8 +1,4 @@
 builds:
-  am:
-    composite: 1111111 # FotM_ToF_AS_DM_AM
-    dungeons: 2131321 # DaM_SN_SC_MB_AM
-    single: 1111111 # FotM_ToF_AS_DM_AM
   hv:
     composite: 1111112 # FotM_ToF_AS_DM_HV
     dungeons: 2131322 # DaM_SN_SC_MB_HV
@@ -30,10 +26,6 @@ sims:
     builds: true
     weights: false
     chart: false
-    covenant:
-      lookup: false
-      files: false
-    legendary: false
     lookupType: none
     steps:
       - DPS
@@ -44,10 +36,6 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: spell
     steps:
       - DPS
@@ -58,10 +46,6 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: spell
     steps:
       - DPS
@@ -72,10 +56,6 @@ sims:
     builds: true
     weights: false
     chart: false
-    covenant:
-      lookup: false
-      files: false
-    legendary: false
     lookupType: item
     steps:
       - 226
@@ -87,10 +67,6 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: spell
     steps:
       - DPS
@@ -101,38 +77,16 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: none
     steps:
       - DPS
     files:
       - generated.simc
-  talent-builds:
-    description: "Sims various combinations of power with different Talent builds."
-    builds: false
-    weights: false
-    chart: true
-    covenant:
-      lookup: true
-      files: true
-    legendary: false
-    lookupType: none
-    steps:
-      - DPS
-    files:
-      - builds.simc
   talents:
     description: "Sims every talent build against each other with no borrowed power."
     builds: false
     weights: false
     chart: true
-    covenant:
-      lookup: false
-      files: false
-    legendary: false
     lookupType: none
     steps:
       - DPS
@@ -145,10 +99,6 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: spell
     steps:
       - DPS
@@ -159,24 +109,16 @@ sims:
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: none
     steps:
       - DPS
     files:
       - generated.simc
   trinkets:
-    description: "Sims all trinkets by themselves (no second trinket) with base Covenant ability."
+    description: "Sims all trinkets by themselves (no second trinket)."
     builds: true
     weights: false
     chart: true
-    covenant:
-      lookup: true
-      files: false
-    legendary: true
     lookupType: item
     steps:
       - 200
@@ -215,10 +157,6 @@ sims:
     builds: true
     weights: true
     chart: true
-    covenant:
-      lookup: false
-      files: false
-    legendary: false
     lookupType: none
     steps:
       - DPS
