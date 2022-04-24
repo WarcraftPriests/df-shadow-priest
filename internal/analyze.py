@@ -32,14 +32,14 @@ def build_output_string(sim_type, talent_string, file_type):
 
 
 def get_change(current, previous):
+    # pylint: disable=consider-using-f-string
     """gets the percent change between two numbers"""
     negative = 0
     if current < previous:
         negative = True
     try:
         value = (abs(current - previous) / previous) * 100.0
-        value = float('%.2f' %
-                      value)  # pylint: disable=consider-using-f-string
+        value = float('%.2f' % value)
         if value >= 0.01 and negative:
             value = value * -1
         return value
@@ -289,6 +289,7 @@ def convert_increase_to_double(increase):
 
 
 def clear_output_files(talent_string):
+    # pylint: disable=too-many-branches
     """after all results are built clear out unused files"""
     for file in os.listdir("results"):
         file_to_delete = "results/" + file
@@ -342,7 +343,7 @@ def build_readme_md(directory, talent_string):
             for fight_type in ["Composite", "Single", "Dungeons"]:
                 file_list.append(f"results/Results_{fight_type}.md")
             for result in file_list:
-                readme.write(f'- [{fight_type}]({result})\n')
+                readme.write(f'- [{result[16:-3]}]({result})\n')
 
 
 def analyze(talents, directory, dungeons, weights, timestamp):
@@ -385,6 +386,6 @@ def analyze(talents, directory, dungeons, weights, timestamp):
                       weights, base_dps)
         if config["analyze"]["json"] and not weights:
             build_json(sim_type, talent_string, results, directory, timestamp)
-    # clear_output_files(talent_string)
+    clear_output_files(talent_string)
     build_readme_md(directory, talent_string)
     os.chdir("..")

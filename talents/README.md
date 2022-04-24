@@ -1,4 +1,4 @@
 # talents Results
-- [Dungeons](results/Results_Composite.md)
-- [Dungeons](results/Results_Single.md)
+- [Composite](results/Results_Composite.md)
+- [Single](results/Results_Single.md)
 - [Dungeons](results/Results_Dungeons.md)
