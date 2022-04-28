@@ -28,7 +28,8 @@ racials = {
     "Worgen": 68975,
     "Zandalari_Troll_Kimbul": 292363,
     "Zandalari_Troll_Paku": 292361,
-    "Zandalari_Troll_Bwonsamdi": 292360
+    "Zandalari_Troll_Bwonsamdi": 292360,
+    "Highmountain_Tauren": 255658
 }
 
 enchants = {
