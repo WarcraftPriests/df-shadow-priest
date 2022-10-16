@@ -149,7 +149,10 @@ def replace_gear(data):
     """replaces gear based on the default in config"""
     for slot in config["gear"]:
         if slot == "off_hand":
-            replacement_string = "off_hand=" + config["gear"][slot]
+            if config["gear"][slot] != "":
+                replacement_string = "off_hand=" + config["gear"][slot]
+            else:
+                replacement_string = ""
             data = data.replace(f"${{gear.{slot}}}", replacement_string)
         else:
             data = data.replace(f"${{gear.{slot}}}", config["gear"][slot])

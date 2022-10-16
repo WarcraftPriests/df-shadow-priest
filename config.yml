@@ -1,25 +1,33 @@
 builds:
-  hv:
-    composite: 1111112 # FotM_ToF_AS_DM_HV
-    dungeons: 2131322 # DaM_SN_SC_MB_HV
-    single: 1111112 # FotM_ToF_AS_DM_HV
+  yshaarj:
+    composite: BIQAeCb43n5qwC+NjAOB9h/opIk0SSAAAAAAAAAAAAAISiSEST7AJRSJhEokGJRSSkQEkIkWQCA
+    dungeons: BIQAeCb43n5qwC+NjAOB9h/opIk0SSAAAAAAAAAAAAAISiSEST7AJRSJhEokGJRSSkQEkIkWQCA
+    single: BIQAeCb43n5qwC+NjAOB9h/opIk0SSAAAAAAAAAAAAAISiSEST7AJRSJhEokGJRSSkQEkIkWQCA
+  yogg-voit:
+    composite: BIQAeCb43n5qwC+NjAOB9h/opISSLSAAAAAAAAAAAAAISiSkm00OQSkUSIBKpRSkkEJEBJCpFkAA
+    dungeons: BIQAeCb43n5qwC+NjAOB9h/opISSLSAAAAAAAAAAAAAISiSkm00OQSkUSIBKpRSkkEJEBJCpFkAA
+    single: BIQAeCb43n5qwC+NjAOB9h/opISSLSAAAAAAAAAAAAAISiSkm00OQSkUSIBKpRSkkEJEBJCpFkAA
+  yogg-nzoth:
+    composite: BIQAeCb43n5qwC+NjAOB9h/opESCJBAAAAAAAAAAAAgkIKRINNJJJFiEokGJRSSkQEkIkWQCA
+    dungeons: BIQAeCb43n5qwC+NjAOB9h/opESCJBAAAAAAAAAAAAgkIKRINNJJJFiEokGJRSSkQEkIkWQCA
+    single: BIQAeCb43n5qwC+NjAOB9h/opESCJBAAAAAAAAAAAAgkIKRINNJJJFiEokGJRSSkQEkIkWQCA
 gear:
-  head: "amice_of_the_empyrean,id=188880,ilevel=278"
-  neck: "worldkiller_iris,id=189859,ilevel=285"
-  shoulders: "capelet_of_the_empyrean,id=188879,ilevel=285"
-  back: "shroud_of_the_sires_chosen,id=189847,ilevel=285"
-  chest: "habit_of_the_empyrean,id=188875,ilevel=285"
-  wrists: "cuffs_of_the_covert_commander,id=189842,ilevel=285"
-  hands: "caress_of_the_empyrean,id=188881,ilevel=278"
-  waist: "sash_of_the_silent_sonata,id=189793,ilevel=278"
-  legs: "muehzalas_hexthread_sarong,id=179351,ilevel=278"
-  feet: "stolen_nathrian_slippers,id=189823,ilevel=278"
-  finger1: "soulwarped_seal_of_wrynn,id=189839,ilevel=278"
-  finger2: "death_gods_signet,id=179355,ilevel=278"
-  trinket1: "soulletting_ruby,id=178809,ilevel=278"
-  trinket2: "unbound_changeling,id=178708,ilevel=278"
-  main_hand: "antumbra_shadow_of_the_cosmos,id=189852,ilevel=285"
-  off_hand: "forbidden_truth,id=189860,ilevel=285"
+  head: "draconic_hierophants_archcowl,id=200327,bonus_id=1463/8767,ilevel=392"
+  neck: "elemental_lariat,id=193001,bonus_id=8836/8840/8902/8960/8784/8782/8802/8793,ilevel=392,gem_id=192955/192955/192955,crafted_stats=36/32"
+  shoulders: "draconic_hierophants_wisdom,id=200329,bonus_id=1463/8767,ilevel=392"
+  back: "vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8801/8793,ilevel=392,enchant_id=6592,crafted_stats=40/32"
+  chest: "draconic_hierophants_vestment,id=200324,bonus_id=1466/8767,ilevel=392,enchant_id=6625"
+  wrists: "vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8801/8793,ilevel=392,enchant_id=6574,crafted_stats=40/36"
+  hands: "draconic_hierophants_grips,id=200326,bonus_id=1466/8767,ilevel=392"
+  waist: "vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8801/8793,ilevel=392,crafted_stats=36/40"
+  legs: "vibrant_wildercloth_slacks,id=193518,bonus_id=8836/8840/8902/8801/8793,ilevel=392,enchant_id=6541,crafted_stats=36/32"
+  feet: "vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=392,enchant_id=6613,crafted_stats=36/49"
+  finger1: "ringbound_hourglass,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,ilevel=392,gem_id=192955,crafted_stats=40/32"
+  finger2: "signet_of_titanic_insight,id=192999,bonus_id=8836/8840/8902/8780/8802/8793,ilevel=392,gem_id=192955,enchant_id=6556,crafted_stats=36/40"
+  trinket1: "crimson_aspirants_badge_of_ferocity,id=201449,bonus_id=8989/8990/1498/8766,ilevel=392"
+  trinket2: "crimson_aspirants_insignia_of_alacrity,id=201451,bonus_id=8989/8990/1498/8766,ilevel=392"
+  main_hand: "illuminating_pillar_of_the_isles,id=194898,bonus_id=8836/8840/8902/8802/8793,ilevel=392,enchant_id=6643,crafted_stats=49/36"
+  off_hand: ""
 sims:
   apl:
     description: "APL Sims used for testing rotational changes only"
@@ -171,7 +179,7 @@ singleTargetProfiles:
 simcBuild: nightly
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 10
   retryInterval: 2
 analyze:
@@ -179,9 +187,9 @@ analyze:
   csv: true
   json: true
 stats:
-  base: 1200
-  steps: 100
-  total: 2200
+  base: 5000
+  steps: 500
+  total: 10000
   include:
     - mastery
     - haste
