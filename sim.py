@@ -150,6 +150,8 @@ def main():
     weights = config["sims"][args.dir[:-1]]["weights"]
     if args.iterations:
         iterations = args.iterations
+    elif config["sims"][args.dir[:-1]]["iterations"]:
+        iterations = config["sims"][args.dir[:-1]]["iterations"]
     else:
         iterations = str(config["defaultIterations"])
 

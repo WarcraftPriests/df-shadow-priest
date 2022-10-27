@@ -91,7 +91,8 @@ sims:
     files:
       - generated.simc
   talents:
-    description: "Sims every talent build against each other with no borrowed power."
+    description: "Sims a lot of talent builds."
+    iterations: smart
     builds: false
     weights: false
     chart: true
@@ -99,9 +100,10 @@ sims:
     steps:
       - DPS
     files:
-      - AM.simc
-      - HV.simc
-      - STM.simc
+      - VF-ST.simc
+      - VF-AoE.simc
+      - DA-ST.simc
+      - DA-AoE.simc
   tiersets:
     description: "Sims each tier set currently available by just activating the set, not with the gear."
     builds: true
