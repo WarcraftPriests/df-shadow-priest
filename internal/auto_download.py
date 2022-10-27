@@ -103,7 +103,7 @@ def _ensure_download_path():
 def _get_latest_filename():
     'Attempts to find the name of the latest file from simulationcraft'
     try:
-        html = requests.get(f"{BASE_URL}/?C=M;O=D").text
+        html = requests.get(f"{BASE_URL}/?C=M;O=D", timeout=10).text
     except RequestException:
         print("Could not access download directory on simulationcraft.org")
     # filename = re.search(r'<a href="(simc.+win64.+7z)">', html).group(1)
@@ -116,7 +116,7 @@ def _get_latest_filename():
 def _download_simc_version(url, filepath):
     'Download the specific file'
     print(f"Retrieving simc from url '{url}' to '{filepath}'.")
-    with requests.get(url, stream=True) as req:
+    with requests.get(url, timeout=10, stream=True) as req:
         with open(filepath, 'wb', encoding="utf8") as handler:
             shutil.copyfileobj(req.raw, handler)
 

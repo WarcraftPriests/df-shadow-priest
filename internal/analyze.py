@@ -1,7 +1,6 @@
 """creates results files from sim results"""
 
 import re
-from telnetlib import theNULL
 import time
 import json
 import operator
@@ -299,11 +298,14 @@ def clear_output_files(talent_string):
             for talent in config["builds"]:
                 for fight_type in ["Composite", "Single", "Dungeons"]:
                     if config["analyze"]["markdown"]:
-                        output_files.append(f"results/Results_{fight_type}_{talent}.md")
+                        output_files.append(
+                            f"results/Results_{fight_type}_{talent}.md")
                     if config["analyze"]["csv"]:
-                        output_files.append(f"results/Results_{fight_type}_{talent}.csv")
+                        output_files.append(
+                            f"results/Results_{fight_type}_{talent}.csv")
                     if config["analyze"]["json"]:
-                        output_files.append(f"results/Results_{fight_type}_{talent}.json")
+                        output_files.append(
+                            f"results/Results_{fight_type}_{talent}.json")
         else:
             for fight_type in ["Composite", "Single", "Dungeons"]:
                 if config["analyze"]["markdown"]:
@@ -335,7 +337,8 @@ def build_readme_md(directory, talent_string):
                 readme.write(f"## {talent.upper()}\n")
                 file_list = []
                 for fight_type in ["Composite", "Single", "Dungeons"]:
-                    file_list.append(f"results/Results_{fight_type}_{talent}.md")
+                    file_list.append(
+                        f"results/Results_{fight_type}_{talent}.md")
                 for result in file_list:
                     result_name = generate_result_name(result, talent)
                     readme.write(f'- [{result_name}]({result})\n')
@@ -379,9 +382,6 @@ def analyze(talents, directory, dungeons, weights, timestamp):
     for sim_type in sim_types:
         results = build_results(data, weights, sim_type, directory)
         base_dps = results.get('Base')
-        # this is a hack for talents showing up correctly
-        if directory[:-1] == "talents":
-            base_dps = 0
         if config["analyze"]["markdown"]:
             build_markdown(sim_type, talent_string, results,
                            weights, base_dps)
