@@ -181,8 +181,8 @@ analyze:
   csv: true
   json: true
 stats:
-  base: 5000
-  steps: 500
+  base: 1600
+  steps: 700
   total: 10000
   include:
     - mastery

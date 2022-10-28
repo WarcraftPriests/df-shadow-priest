@@ -1,5 +1,5 @@
 priest="Base"
-level=60
+level=70
 role=spell
 position=back
 spec=shadow
@@ -9,23 +9,24 @@ default_actions=1
 set_bonus=tier29_2pc=0
 set_bonus=tier29_4pc=0
 
+# TODO ADD ENCHANTS
 head=${gear.head}
 neck=${gear.neck}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant=eternal_stats
-wrists=${gear.wrists},enchant=eternal_intellect
+chest=${gear.chest}
+wrists=${gear.wrists}
 hands=${gear.hands}
 waist=${gear.waist}
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=tenet_of_mastery
-finger2=${gear.finger2},enchant=tenet_of_mastery
+finger1=${gear.finger1}
+finger2=${gear.finger2}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant=sinful_revelation
+main_hand=${gear.main_hand}
 ${gear.off_hand}
 
-profileset."T28-2-set"+=set_bonus=tier29_2pc=1
-profileset."T28-2_4-set"+=set_bonus=tier29_2pc=1
-profileset."T28-2_4-set"+=set_bonus=tier29_4pc=1
+profileset."T29-2-set"+=set_bonus=tier29_2pc=1
+profileset."T29-2_4-set"+=set_bonus=tier29_2pc=1
+profileset."T29-2_4-set"+=set_bonus=tier29_4pc=1
