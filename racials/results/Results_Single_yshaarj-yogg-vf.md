@@ -1,0 +1,34 @@
+# Single - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|45539|2.36%|
+|Draenei|45249|1.70%|
+|Dark_Iron_Dwarf|45178|1.54%|
+|Gnome|45023|1.20%|
+|Goblin|45011|1.17%|
+|Void_Elf|44998|1.14%|
+|Night_Elf_Haste|44991|1.12%|
+|Blood_Elf|44976|1.09%|
+|Zandalari_Troll_Paku|44958|1.05%|
+|Human|44929|0.99%|
+|Troll|44929|0.99%|
+|Highmountain_Tauren|44924|0.97%|
+|Kul_Tiran|44913|0.95%|
+|Night_Elf_Crit|44909|0.94%|
+|Worgen|44893|0.90%|
+|Nightborne|44857|0.82%|
+|Maghar_Orc|44856|0.82%|
+|Dwarf|44713|0.50%|
+|Tauren|44698|0.47%|
+|Mechagnome|44678|0.42%|
+|Zandalari_Troll_Bwonsamdi|44668|0.40%|
+|Zandalari_Troll_Kimbul|44667|0.40%|
+|Undead|44649|0.36%|
+|Panda_Feast|44617|0.28%|
+|Panda_Crit|44535|0.10%|
+|Panda_Vers|44517|0.06%|
+|Panda_Haste|44516|0.06%|
+|Panda_Mastery|44513|0.05%|
+|Vulpera|44512|0.05%|
+|Base|44490|0.00%|
+|Lightforged_Draenei|44426|-0.14%|
