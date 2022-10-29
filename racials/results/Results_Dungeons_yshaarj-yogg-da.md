@@ -1,0 +1,34 @@
+# Dungeons - yshaarj-yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|40269|1.90%|
+|Draenei|40155|1.61%|
+|Dark_Iron_Dwarf|40116|1.51%|
+|Troll|40069|1.39%|
+|Goblin|40039|1.32%|
+|Night_Elf_Haste|40031|1.30%|
+|Gnome|40028|1.29%|
+|Lightforged_Draenei|39982|1.17%|
+|Void_Elf|39965|1.13%|
+|Highmountain_Tauren|39926|1.03%|
+|Human|39912|1.00%|
+|Blood_Elf|39866|0.88%|
+|Zandalari_Troll_Paku|39861|0.87%|
+|Nightborne|39857|0.86%|
+|Kul_Tiran|39850|0.84%|
+|Maghar_Orc|39809|0.74%|
+|Night_Elf_Crit|39809|0.74%|
+|Worgen|39797|0.71%|
+|Dwarf|39749|0.58%|
+|Tauren|39718|0.51%|
+|Zandalari_Troll_Bwonsamdi|39663|0.37%|
+|Mechagnome|39644|0.32%|
+|Zandalari_Troll_Kimbul|39626|0.27%|
+|Undead|39607|0.23%|
+|Panda_Feast|39600|0.21%|
+|Panda_Haste|39563|0.11%|
+|Panda_Crit|39524|0.02%|
+|Base|39518|0.00%|
+|Panda_Vers|39511|-0.02%|
+|Vulpera|39511|-0.02%|
+|Panda_Mastery|39488|-0.08%|

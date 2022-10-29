@@ -1,0 +1,34 @@
+# Composite - yshaarj-yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|49282|2.30%|
+|Dark_Iron_Dwarf|48983|1.68%|
+|Draenei|48979|1.67%|
+|Troll|48881|1.47%|
+|Void_Elf|48788|1.27%|
+|Gnome|48739|1.17%|
+|Goblin|48739|1.17%|
+|Night_Elf_Haste|48726|1.14%|
+|Blood_Elf|48645|0.98%|
+|Kul_Tiran|48638|0.96%|
+|Highmountain_Tauren|48627|0.94%|
+|Zandalari_Troll_Paku|48618|0.92%|
+|Human|48608|0.90%|
+|Maghar_Orc|48583|0.85%|
+|Night_Elf_Crit|48583|0.85%|
+|Nightborne|48560|0.80%|
+|Worgen|48554|0.79%|
+|Dwarf|48452|0.58%|
+|Tauren|48445|0.56%|
+|Mechagnome|48354|0.37%|
+|Zandalari_Troll_Bwonsamdi|48347|0.36%|
+|Zandalari_Troll_Kimbul|48346|0.36%|
+|Undead|48311|0.28%|
+|Panda_Feast|48298|0.26%|
+|Panda_Mastery|48206|0.07%|
+|Lightforged_Draenei|48186|0.02%|
+|Panda_Vers|48182|0.02%|
+|Vulpera|48182|0.02%|
+|Panda_Crit|48182|0.02%|
+|Panda_Haste|48176|0.00%|
+|Base|48174|0.00%|
