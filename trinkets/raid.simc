@@ -1,89 +1,86 @@
 priest="Base"
-level=60
+level=70
 role=spell
 position=back
 spec=shadow
 talents=${talents}
 
 default_actions=1
-set_bonus=tier28_2pc=1
-set_bonus=tier28_4pc=1
+set_bonus=tier29_2pc=1
+set_bonus=tier29_4pc=1
 
+# TODO: add enchants
 head=${gear.head}
 neck=${gear.neck}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant=eternal_stats
-wrists=${gear.wrists},enchant=eternal_intellect
+chest=${gear.chest}
+wrists=${gear.wrists}
 hands=${gear.hands}
 waist=${gear.waist}
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=tenet_of_mastery
-finger2=${gear.finger2},enchant=tenet_of_mastery
-main_hand=${gear.main_hand},enchant=sinful_revelation
+finger1=${gear.finger1}
+finger2=${gear.finger2}
+main_hand=${gear.main_hand}
 ${gear.off_hand}
 
-# TODO: some of these will need options
-# Sepulcher of the First Ones 239/252/265/278
-profileset."Resonant_Reservoir_239"+=trinket1=resonant_reservoir,id=188272,ilevel=239
-profileset."Resonant_Reservoir_252"+=trinket1=resonant_reservoir,id=188272,ilevel=252
-profileset."Resonant_Reservoir_265"+=trinket1=resonant_reservoir,id=188272,ilevel=265
-profileset."Resonant_Reservoir_278"+=trinket1=resonant_reservoir,id=188272,ilevel=278
+# Vault of the Incarnates
+## 376/389/402/415
+profileset."Conjured_Chillglobe_376"+=trinket1=conjured_chillglobe,id=194300,ilevel=376
+profileset."Conjured_Chillglobe_389"+=trinket1=conjured_chillglobe,id=194300,ilevel=389
+profileset."Conjured_Chillglobe_402"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
+profileset."Conjured_Chillglobe_415"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Elegy_of_the_Eternals_239"+=trinket1=elegy_of_the_eternals,id=188270,ilevel=239
-profileset."Elegy_of_the_Eternals_252"+=trinket1=elegy_of_the_eternals,id=188270,ilevel=252
-profileset."Elegy_of_the_Eternals_265"+=trinket1=elegy_of_the_eternals,id=188270,ilevel=265
-profileset."Elegy_of_the_Eternals_278"+=trinket1=elegy_of_the_eternals,id=188270,ilevel=278
+profileset."Iceblood_Deathsnare_376"+=trinket1=iceblood_deathsnare,id=194304,ilevel=376
+profileset."Iceblood_Deathsnare_389"+=trinket1=iceblood_deathsnare,id=194304,ilevel=389
+profileset."Iceblood_Deathsnare_402"+=trinket1=iceblood_deathsnare,id=194304,ilevel=402
+profileset."Iceblood_Deathsnare_415"+=trinket1=iceblood_deathsnare,id=194304,ilevel=415
 
-profileset."The_First_Sigil_239"+=trinket1=the_first_sigil,id=188271,ilevel=239
-profileset."The_First_Sigil_252"+=trinket1=the_first_sigil,id=188271,ilevel=252
-profileset."The_First_Sigil_265"+=trinket1=the_first_sigil,id=188271,ilevel=265
-profileset."The_First_Sigil_278"+=trinket1=the_first_sigil,id=188271,ilevel=278
+## 382/395/408/421
+# dragonflight.whispering_incarnate_icon_roles `tank/heal/dps`
+profileset."Whispering_Incarnate_Icon_0_382"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=382
+profileset."Whispering_Incarnate_Icon_0_382"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_395"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=395
+profileset."Whispering_Incarnate_Icon_0_395"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_408"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
+profileset."Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_421"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
+profileset."Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 
-profileset."Architects_Ingenuity_Core_239"+=trinket1=architects_ingenuity_core,id=188268,ilevel=239
-profileset."Architects_Ingenuity_Core_252"+=trinket1=architects_ingenuity_core,id=188268,ilevel=252
-profileset."Architects_Ingenuity_Core_265"+=trinket1=architects_ingenuity_core,id=188268,ilevel=265
-profileset."Architects_Ingenuity_Core_278"+=trinket1=architects_ingenuity_core,id=188268,ilevel=278
+profileset."Whispering_Incarnate_Icon_1_382"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=382
+profileset."Whispering_Incarnate_Icon_1_382"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_395"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=395
+profileset."Whispering_Incarnate_Icon_1_395"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_408"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
+profileset."Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_421"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
+profileset."Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 
-# Lord of Dread/Rygelon/The Jailer 246/259/272/285
-profileset."Grim_Eclipse_246"+=trinket1=grim_eclipse,id=188254,ilevel=246
-profileset."Grim_Eclipse_259"+=trinket1=grim_eclipse,id=188254,ilevel=259
-profileset."Grim_Eclipse_272"+=trinket1=grim_eclipse,id=188254,ilevel=272
-profileset."Grim_Eclipse_285"+=trinket1=grim_eclipse,id=188254,ilevel=285
+profileset."Whispering_Incarnate_Icon_2_382"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=382
+profileset."Whispering_Incarnate_Icon_2_382"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_395"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=395
+profileset."Whispering_Incarnate_Icon_2_395"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_408"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
+profileset."Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_421"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
+profileset."Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 
-profileset."Scars_of_Fraternal_Strife_246"+=trinket1=scars_of_fraternal_strife,id=188253,ilevel=246
-profileset."Scars_of_Fraternal_Strife_259"+=trinket1=scars_of_fraternal_strife,id=188253,ilevel=259
-profileset."Scars_of_Fraternal_Strife_272"+=trinket1=scars_of_fraternal_strife,id=188253,ilevel=272
-profileset."Scars_of_Fraternal_Strife_285"+=trinket1=scars_of_fraternal_strife,id=188253,ilevel=285
+## 385/398/411/424
+profileset."Broodkeepers_Promise_385"+=trinket1=broodkeepers_promise,id=194307,ilevel=385
+profileset."Broodkeepers_Promise_398"+=trinket1=broodkeepers_promise,id=194307,ilevel=398
+profileset."Broodkeepers_Promise_411"+=trinket1=broodkeepers_promise,id=194307,ilevel=411
+profileset."Broodkeepers_Promise_424"+=trinket1=broodkeepers_promise,id=194307,ilevel=424
 
-# World Boss
-profileset."Soul_Cage_Fragment_233"+=trinket1=soul_cage_fragment,id=187447,ilevel=233
+profileset."Desperate_Invokers_Codex_385"+=trinket1=desperate_invokers_codex,id=194310,ilevel=385
+profileset."Desperate_Invokers_Codex_398"+=trinket1=desperate_invokers_codex,id=194310,ilevel=398
+profileset."Desperate_Invokers_Codex_411"+=trinket1=desperate_invokers_codex,id=194310,ilevel=411
+profileset."Desperate_Invokers_Codex_424"+=trinket1=desperate_invokers_codex,id=194310,ilevel=424
 
-# Sanctum of Domination 213/226/239/252
-profileset."Tome_of_Monstrous_Constructions_213"+=trinket1=tome_of_monstrous_constructions,id=186422,ilevel=213
-profileset."Tome_of_Monstrous_Constructions_226"+=trinket1=tome_of_monstrous_constructions,id=186422,ilevel=226
-profileset."Tome_of_Monstrous_Constructions_239"+=trinket1=tome_of_monstrous_constructions,id=186422,ilevel=239
-profileset."Tome_of_Monstrous_Constructions_252"+=trinket1=tome_of_monstrous_constructions,id=186422,ilevel=252
+# profileset."Spiteful_Storm_385"+=trinket1=spiteful_storm,id=194309,ilevel=385
+# profileset."Spiteful_Storm_398"+=trinket1=spiteful_storm,id=194309,ilevel=398
+# profileset."Spiteful_Storm_411"+=trinket1=spiteful_storm,id=194309,ilevel=411
+# profileset."Spiteful_Storm_424"+=trinket1=spiteful_storm,id=194309,ilevel=424
 
-profileset."Titanic_Ocular_Gland_213"+=trinket1=titanic_ocular_gland,id=186423,ilevel=213
-profileset."Titanic_Ocular_Gland_226"+=trinket1=titanic_ocular_gland,id=186423,ilevel=226
-profileset."Titanic_Ocular_Gland_239"+=trinket1=titanic_ocular_gland,id=186423,ilevel=239
-profileset."Titanic_Ocular_Gland_252"+=trinket1=titanic_ocular_gland,id=186423,ilevel=252
-
-profileset."Shadowed_Orb_of_Torment_213"+=trinket1=shadowed_orb_of_torment,id=186428,ilevel=213
-profileset."Shadowed_Orb_of_Torment_226"+=trinket1=shadowed_orb_of_torment,id=186428,ilevel=226
-profileset."Shadowed_Orb_of_Torment_239"+=trinket1=shadowed_orb_of_torment,id=186428,ilevel=239
-profileset."Shadowed_Orb_of_Torment_252"+=trinket1=shadowed_orb_of_torment,id=186428,ilevel=252
-
-# As of 5/6/2021 this trinket crashes simc
-profileset."Ebonsoul_Vise_213"+=trinket1=ebonsoul_vise,id=186431,ilevel=213
-profileset."Ebonsoul_Vise_226"+=trinket1=ebonsoul_vise,id=186431,ilevel=226
-profileset."Ebonsoul_Vise_239"+=trinket1=ebonsoul_vise,id=186431,ilevel=239
-profileset."Ebonsoul_Vise_252"+=trinket1=ebonsoul_vise,id=186431,ilevel=252
-
-## KT/Sylvanas Trinkets 220/233/246/259
-profileset."Forbidden_Necromantic_Tome_220"+=trinket1=forbidden_necromantic_tome,id=186421,ilevel=220
-profileset."Forbidden_Necromantic_Tome_233"+=trinket1=forbidden_necromantic_tome,id=186421,ilevel=233
-profileset."Forbidden_Necromantic_Tome_246"+=trinket1=forbidden_necromantic_tome,id=186421,ilevel=246
-profileset."Forbidden_Necromantic_Tome_259"+=trinket1=forbidden_necromantic_tome,id=186421,ilevel=259
+# World Bosses
+profileset."Static_Charged_Scale_389"+=trinket1=static_charged_scale,id=200676,ilevel=389

@@ -1,5 +1,5 @@
 # trinkets Results
-## HV
-- [Composite - HV](results/Results_Composite_hv.md)
-- [Single - HV](results/Results_Single_hv.md)
-- [Dungeons - HV](results/Results_Dungeons_hv.md)
+## YSHAARJ-YOGG-VF
+- [Composite - YSHAARJ-YOGG-VF](results/Results_Composite_yshaarj-yogg-vf.md)
+- [Single - YSHAARJ-YOGG-VF](results/Results_Single_yshaarj-yogg-vf.md)
+- [Dungeons - YSHAARJ-YOGG-VF](results/Results_Dungeons_yshaarj-yogg-vf.md)
