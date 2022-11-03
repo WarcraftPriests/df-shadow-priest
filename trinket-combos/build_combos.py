@@ -7,30 +7,42 @@ from itertools import combinations
 # pylint: disable=line-too-long
 
 combos = {
-    "Shadowed_Orb_of_Torment_252": "shadowed_orb_of_torment,id=186428,ilevel=252",
-    "Empyreal_Ordnance_278": "empyreal_ordnance,id=180117,ilevel=278",
-    "Empyreal_Ordnance_272": "empyreal_ordnance,id=180117,ilevel=272",
-    "Inscrutable_Quantum_Device_278": "inscrutable_quantum_device,id=179350,ilevel=278",
-    "Inscrutable_Quantum_Device_272": "inscrutable_quantum_device,id=179350,ilevel=272",
-    "Soulletting_Ruby_278": "soulletting_ruby,id=178809,ilevel=278",
-    "Soulletting_Ruby_272": "soulletting_ruby,id=178809,ilevel=272",
-    "Unbound_Changeling_Mastery_278": "unbound_changeling,id=178708,ilevel=278",
-    "Unbound_Changeling_Mastery_272": "unbound_changeling,id=178708,ilevel=272",
-    "Unbound_Changeling_Haste_278": "unbound_changeling,id=178708,ilevel=278",
-    "Unbound_Changeling_Haste_272": "unbound_changeling,id=178708,ilevel=272",
-    "Resonant_Reservoir_265": "resonant_reservoir,id=188272,ilevel=265",
-    "Resonant_Reservoir_278": "resonant_reservoir,id=188272,ilevel=278",
-    "Elegy_of_the_Eternals_265": "elegy_of_the_eternals,id=188270,ilevel=265",
-    "Elegy_of_the_Eternals_278": "elegy_of_the_eternals,id=188270,ilevel=278",
-    "The_First_Sigil_265": "the_first_sigil,id=188271,ilevel=265",
-    "The_First_Sigil_278": "the_first_sigil,id=188271,ilevel=278",
-    "Architects_Ingenuity_Core_265": "architects_ingenuity_core,id=188268,ilevel=265",
-    "Architects_Ingenuity_Core_278": "architects_ingenuity_core,id=188268,ilevel=278",
-    "Grim_Eclipse_272": "grim_eclipse,id=188254,ilevel=272",
-    "Grim_Eclipse_285": "grim_eclipse,id=188254,ilevel=285",
-    "Scars_of_Fraternal_Strife_272": "scars_of_fraternal_strife,id=188253,ilevel=272",
-    "Scars_of_Fraternal_Strife_285": "scars_of_fraternal_strife,id=188253,ilevel=285",
-    "Moonlit_Prism_272": "moonlit_prism,id=137541,ilevel=272"
+    # dungeons (402/418)
+    "Infernal_Wrist_402": "infernal_wrist,id=137485,ilevel=402",
+    "Infernal_Wrist_418": "infernal_wrist,id=137485,ilevel=418",
+    "Eye_of_Skovald_402": "eye_of_skovald,id=133641,ilevel=402",
+    "Eye_of_Skovald_418": "eye_of_skovald,id=133641,ilevel=418",
+    "Horn_of_Valor_402": "horn_of_valor,id=133642,ilevel=402",
+    "Horn_of_Valor_418": "horn_of_valor,id=133642,ilevel=418",
+    # "Voidmenders_Shadowgem_402": "voidmenders_shadowgem,id=110007,ilevel=402",
+    # "Voidmenders_Shadowgem_418": "voidmenders_shadowgem,id=110007,ilevel=418",
+    # "Blazebinders_Hoof_402": "blazebinders_hoof,id=193762,ilevel=402",
+    # "Blazebinders_Hoof_418": "blazebinders_hoof,id=193762,ilevel=418",
+    # "Ruby_Whelp_Shell_402": "ruby_whelp_shell,id=193757,ilevel=402",
+    # "Ruby_Whelp_Shell_418": "ruby_whelp_shell,id=193757,ilevel=418",
+    # "Tome_of_Unstable_Power_402": "tome_of_unstable_power,id=193628,ilevel=402",
+    # "Tome_of_Unstable_Power_418": "tome_of_unstable_power,id=193628,ilevel=418",
+    # "Umbrelskuls_Fractured_Heart_402": "umbrelskuls_fractured_heart,id=193639,ilevel=402",
+    # "Umbrelskuls_Fractured_Heart_418": "umbrelskuls_fractured_heart,id=193639,ilevel=418",
+    # "Furious_Ragefeather_402": "furious_ragefeather,id=193677,ilevel=402",
+    # "Furious_Ragefeather_418": "furious_ragefeather,id=193677,ilevel=418",
+    # vault of the incarnates
+    "Conjured_Chillglobe_402": "conjured_chillglobe,id=194300,ilevel=402",
+    "Conjured_Chillglobe_415": "conjured_chillglobe,id=194300,ilevel=415",
+    # "Iceblood_Deathsnare_402": "iceblood_deathsnare,id=194304,ilevel=402",
+    # "Iceblood_Deathsnare_415": "iceblood_deathsnare,id=194304,ilevel=415",
+    "Whispering_Incarnate_Icon_0_408": "whispering_incarnate_icon,id=194301,ilevel=408",
+    "Whispering_Incarnate_Icon_0_421": "whispering_incarnate_icon,id=194301,ilevel=421",
+    "Whispering_Incarnate_Icon_1_408": "whispering_incarnate_icon,id=194301,ilevel=408",
+    "Whispering_Incarnate_Icon_1_421": "whispering_incarnate_icon,id=194301,ilevel=421",
+    "Whispering_Incarnate_Icon_2_408": "whispering_incarnate_icon,id=194301,ilevel=408",
+    "Whispering_Incarnate_Icon_2_421": "whispering_incarnate_icon,id=194301,ilevel=421",
+    # "Broodkeepers_Promise_411": "broodkeepers_promise,id=194307,ilevel=411",
+    # "Broodkeepers_Promise_424": "broodkeepers_promise,id=194307,ilevel=424",
+    # "Desperate_Invokers_Codex_411": "desperate_invokers_codex,id=194310,ilevel=411",
+    # "Desperate_Invokers_Codex_424": "desperate_invokers_codex,id=194310,ilevel=424",
+    "Spiteful_Storm_411": "spiteful_storm,id=194309,ilevel=411",
+    "Spiteful_Storm_424": "spiteful_storm,id=194309,ilevel=424",
 }
 
 
@@ -62,12 +74,16 @@ def build_simc_string(trinkets):
             trinket_one_value = combos[trinket_one]
             trinket_two_value = combos[trinket_two]
             profileset_name = f"{trinket_one}-{trinket_two}"
-            if "Cabalists_Hymnal_Allies" in trinket:
-                allies_count = trinket[24]
-                result += f"profileset.\"{profileset_name}\"+=shadowlands.crimson_choir_in_party={allies_count}\n"
-            if "Unbound_Changeling" in trinket:
-                stat_type = trinket.split("_")[2].lower()
-                result += f"profileset.\"{profileset_name}\"+=shadowlands.unbound_changeling_stat_type={stat_type}\n"
+            if "Whispering_Incarnate_Icon" in trinket:
+                allies_count = trinket.split("_")[3].lower()
+                roles = ""
+                if allies_count == 0:
+                    roles = "dps"
+                elif allies_count == 1:
+                    roles = "dps/tank"
+                elif allies_count == 2:
+                    roles = "tank/heal/dps"
+                result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket2={trinket_two_value}\n\n"
     return result

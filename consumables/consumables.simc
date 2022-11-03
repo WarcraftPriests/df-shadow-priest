@@ -1,28 +1,29 @@
 priest="Base"
-level=60
+level=70
 role=spell
 position=back
 spec=shadow
 talents=${talents}
 
-set_bonus=tier28_2pc=1
-set_bonus=tier28_4pc=1
+set_bonus=tier29_2pc=1
+set_bonus=tier29_4pc=1
 
+# TODO: add enchants
 head=${gear.head}
 neck=${gear.neck}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant=eternal_stats
-wrists=${gear.wrists},enchant=eternal_intellect
+chest=${gear.chest}
+wrists=${gear.wrists}
 hands=${gear.hands}
 waist=${gear.waist}
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=tenet_of_mastery
-finger2=${gear.finger2},enchant=tenet_of_mastery
+finger1=${gear.finger1}
+finger2=${gear.finger2}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant=sinful_revelation
+main_hand=${gear.main_hand}
 ${gear.off_hand}
 
 food=disabled
@@ -30,29 +31,84 @@ augmentation=disabled
 potion=disabled
 flask=disabled
 
-# Runes
-profileset."Veiled_Augment_Rune"+=augmentation=veiled_augment_rune
-
-# Gems - Deadly Jewel Cluster
-profileset."16_Versatility"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=173129
-profileset."16_Critical_Strike"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=173127
-profileset."16_Mastery"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=173130
-profileset."16_Haste"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=173128
-profileset."7_Intellect"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=168638
-profileset."6_Intellect"+=main_hand=${gear.main_hand},enchant=sinful_revelation,gem_id=153709
-
-# Flasks
-profileset."Spectral_Flask_of_Power"+=flask=spectral_flask_of_power
+# Flasks/Phials
+profileset."Iced_Phial_of_Corrupting_Rage"+=flask=iced_phial_of_corrupting_rage
+profileset."Phial_of_Charged_Isolation"+=flask=phial_of_charged_isolation
+profileset."Phial_of_Elemental_Chaos"+=flask=phial_of_elemental_chaos
+profileset."Phial_of_Glacial_Fury"+=flask=phial_of_glacial_fury
+profileset."Phial_of_Static_Empowerment"+=flask=phial_of_static_empowerment
+profileset."Phial_of_Tepid_Versatility"+=flask=phial_of_tepid_versatility
+# phial_of_eye_in_the_storm (tank only probs)
 
 # Potions
-profileset."Potion_of_Empowered_Exorcisms"+=potion=potion_of_empowered_exorcisms
-profileset."Potion_of_Phantom_Fire"+=potion=potion_of_phantom_fire
-profileset."Potion_of_Spectral_Intellect"+=potion=potion_of_spectral_intellect
-profileset."Potion_of_Deathly_Fixation"+=potion=potion_of_deathly_fixation
+profileset."Bottled_Putrescence"+=potion=bottled_putrescence
+profileset."Elemental_Potion_of_Power"+=potion=elemental_potion_of_power
+# might be elemental_power
+profileset."Elemental_Potion_of_Ultimate_Power"+=potion=elemental_potion_of_ultimate_power
+profileset."Potion_of_Shocking_Disclosure"+=potion=potion_of_shocking_disclosure
+
+# Runes
+profileset."Draconic_Augment_Rune"+=augmentation=draconic_augment_rune
+
+# Weapon Rune?
+# https://www.wowhead.com/beta/item=194821/buzzing-rune
+# https://www.wowhead.com/beta/item=194822/buzzing-rune
+# https://www.wowhead.com/beta/item=194823/buzzing-rune
+
+# https://www.wowhead.com/beta/item=194817/howling-rune
+# https://www.wowhead.com/beta/item=194819/howling-rune
+# https://www.wowhead.com/beta/item=194820/howling-rune
 
 # Food
-profileset."Feast_of_Gluttonous_Hedonism"+=food=feast_of_gluttonous_hedonism
-profileset."Spinefin_Souffle_and_Fries"+=food=spinefin_souffle_and_fries
-profileset."Tenebrous_Crown_Roast_Aspic"+=food=tenebrous_crown_roast_aspic
-profileset."Iridescent_Ravioli_with_Apple_Sauce"+=food=iridescent_ravioli_with_apple_sauce
-profileset."Steak_a_la_Mode"+=food=steak_a_la_mode
+## Feast 70 lowest stat
+# profileset."Yusas_Hearty_Stew"+=food=yusas_hearty_stew
+## Feast 76 primary stat
+# profileset."Grand_Banquet_of_the_Kaluak"+=food=grand_banquet_of_the_kaluak
+## Feast 76 primary stat
+# profileset."Hoard_of_Draconic_Delicacies"+=food=hoard_of_draconic_delicacies
+
+## 76 Primary stat
+profileset."Fated_Fortune_Cookie"+=food=fated_fortune_cookie
+
+## 70 crit
+profileset."Filet_of_Fangs"+=food=filet_of_fangs
+## 70 mastery
+profileset."Salt_Baked_Fishcake"+=food=saltbaked_fishcake
+## 70 vers
+profileset."Seamoth_Surprise"+=food=seamoth_surprise
+## 70 haste
+profileset."Timely_Demise"+=food=timely_demise
+
+## 45 haste + vers
+profileset."Aromatic_Seafood_Platter"+=food=aromatic_seafood_platter
+## 45 crit + haste
+profileset."Feisty_Fish_Sticks"+=food=feisty_fish_sticks
+## 45 mastery + vers
+profileset."Great_Cerulean_Sea"+=food=great_cerulean_sea
+## 45 crit + vers
+profileset."Revenge_Served_Cold"+=food=revenge_served_cold
+## 45 crit + mastery
+profileset."Thousandbone_Tongueslicer"+=food=thousandbone_tongueslicer
+## 45 haste + mastery 
+profileset."Sizzling_Seafood_Medley"+=food=sizzling_seafood_medley
+
+## 32 stam 39 intellect
+profileset."Roast_Duck_Delight"+=food=roast_duck_delight
+## 22 stam 26 intellect
+profileset."Thrice_Spiced_Mammoth_Kabob"+=food=thricespiced_mammoth_kabob
+
+# Quest Items?
+## Charred Porter (does this stack with food buff?) 10% primary stat
+# profileset."Charred_Porter"+=food=charred_porter
+
+## Rare Vintage Arcwine - 30% crit damage
+# profileset."Rare_Vintage_Arcwine"+=food=rare_vintage_arcwine
+
+## 5% all stats
+# profileset."Azsunian_Poached_Lobster"+=food=azsunian_poached_lobster
+
+## 20% mastery
+# profileset."Fried_Emperor_Wraps"+=food=fried_emperor_wraps
+
+## 10% haste
+# profileset."Seared_Sea_Mist_Noodles"+=food=seared_sea_mist_noodles

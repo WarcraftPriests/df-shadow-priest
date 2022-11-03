@@ -77,10 +77,10 @@ profileset."Desperate_Invokers_Codex_398"+=trinket1=desperate_invokers_codex,id=
 profileset."Desperate_Invokers_Codex_411"+=trinket1=desperate_invokers_codex,id=194310,ilevel=411
 profileset."Desperate_Invokers_Codex_424"+=trinket1=desperate_invokers_codex,id=194310,ilevel=424
 
-# profileset."Spiteful_Storm_385"+=trinket1=spiteful_storm,id=194309,ilevel=385
-# profileset."Spiteful_Storm_398"+=trinket1=spiteful_storm,id=194309,ilevel=398
-# profileset."Spiteful_Storm_411"+=trinket1=spiteful_storm,id=194309,ilevel=411
-# profileset."Spiteful_Storm_424"+=trinket1=spiteful_storm,id=194309,ilevel=424
+profileset."Spiteful_Storm_385"+=trinket1=spiteful_storm,id=194309,ilevel=385
+profileset."Spiteful_Storm_398"+=trinket1=spiteful_storm,id=194309,ilevel=398
+profileset."Spiteful_Storm_411"+=trinket1=spiteful_storm,id=194309,ilevel=411
+profileset."Spiteful_Storm_424"+=trinket1=spiteful_storm,id=194309,ilevel=424
 
 # World Bosses
 profileset."Static_Charged_Scale_389"+=trinket1=static_charged_scale,id=200676,ilevel=389

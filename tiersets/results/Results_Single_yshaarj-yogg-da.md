@@ -1,0 +1,6 @@
+# Single - yshaarj-yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|T29-2_4-set|45206|7.36%|
+|T29-2-set|43417|3.11%|
+|Base|42107|0.00%|

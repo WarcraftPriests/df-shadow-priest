@@ -1,12 +1,12 @@
 priest="Base"
-level=60
+level=70
 role=spell
 position=back
 spec=shadow
 talents=${talents}
 
-set_bonus=tier28_2pc=1
-set_bonus=tier28_4pc=1
+set_bonus=tier29_2pc=1
+set_bonus=tier29_4pc=1
 
 head=${gear.head}
 neck=${gear.neck}
@@ -25,28 +25,90 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand}
 ${gear.off_hand}
 
-# Weapons
-profileset."Weapon_Lightless_Force"+=main_hand=${gear.main_hand},enchant=lightless_force
-profileset."Weapon_Sinful_Revelation"+=main_hand=${gear.main_hand},enchant=sinful_revelation
-profileset."Weapon_Celestial_Guidance"+=main_hand=${gear.main_hand},enchant=celestial_guidance
+# Legs
+profileset."Legs_Frozen_Spellthread_385"+=legs=${gear.legs},enchant_id=194011
+profileset."Legs_Frozen_Spellthread_400"+=legs=${gear.legs},enchant_id=194012
+profileset."Legs_Frozen_Spellthread_415"+=legs=${gear.legs},enchant_id=194013
 
-# Bracers
-profileset."Wrists_Illuminated_Soul"+=wrists=${gear.wrists},enchant=illuminated_soul
-profileset."Wrists_Eternal_Intellect"+=wrists=${gear.wrists},enchant=eternal_intellect
+profileset."Legs_Temporal_Spellthread_385"+=legs=${gear.legs},enchant_id=194014
+profileset."Legs_Temporal_Spellthread_400"+=legs=${gear.legs},enchant_id=194015
+profileset."Legs_Temporal_Spellthread_415"+=legs=${gear.legs},enchant_id=194016
+
+profileset."Legs_Vibrant_Spellthread_385"+=legs=${gear.legs},enchant_id=194008
+profileset."Legs_Vibrant_Spellthread_400"+=legs=${gear.legs},enchant_id=194009
+profileset."Legs_Vibrant_Spellthread_415"+=legs=${gear.legs},enchant_id=194010
+
+# Weapons
+profileset."Weapon_Burning_Writ_385"+=main_hand=${gear.main_hand},enchant_id=199967
+profileset."Weapon_Burning_Writ_400"+=main_hand=${gear.main_hand},enchant_id=200009
+profileset."Weapon_Burning_Writ_415"+=main_hand=${gear.main_hand},enchant_id=200051
+
+profileset."Weapon_Earthen_Writ_385"+=main_hand=${gear.main_hand},enchant_id=199969
+profileset."Weapon_Earthen_Writ_400"+=main_hand=${gear.main_hand},enchant_id=200011
+profileset."Weapon_Earthen_Writ_415"+=main_hand=${gear.main_hand},enchant_id=200053
+
+profileset."Weapon_Frozen_Writ_385"+=main_hand=${gear.main_hand},enchant_id=199973
+profileset."Weapon_Frozen_Writ_400"+=main_hand=${gear.main_hand},enchant_id=200015
+profileset."Weapon_Frozen_Writ_415"+=main_hand=${gear.main_hand},enchant_id=200057
+
+profileset."Weapon_Titanic_Writ_385"+=main_hand=${gear.main_hand},enchant_id=199971
+profileset."Weapon_Titanic_Writ_400"+=main_hand=${gear.main_hand},enchant_id=200013
+profileset."Weapon_Titanic_Writ_415"+=main_hand=${gear.main_hand},enchant_id=200055
+
+profileset."Weapon_Wafting_Writ_385"+=main_hand=${gear.main_hand},enchant_id=199975
+profileset."Weapon_Wafting_Writ_400"+=main_hand=${gear.main_hand},enchant_id=200017
+profileset."Weapon_Wafting_Writ_415"+=main_hand=${gear.main_hand},enchant_id=200059
+
+profileset."Weapon_Frozen_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=199972
+profileset."Weapon_Frozen_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=200014
+profileset."Weapon_Frozen_Devotion_415"+=main_hand=${gear.main_hand},enchant_id=200056
+
+profileset."Weapon_Titanic_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=199970
+profileset."Weapon_Titanic_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=200012
+profileset."Weapon_Titanic_Devotion_415"+=main_hand=${gear.main_hand},enchant_id=200054
+
+profileset."Weapon_Wafting_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=199974
+profileset."Weapon_Wafting_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=200016
+profileset."Weapon_Wafting_Devotion_415"+=main_hand=${gear.main_hand},enchant_id=200058
 
 # Chest
-profileset."Chest_Eternal_Bounds"+=chest=${gear.chest},enchant=eternal_bounds
-profileset."Chest_Eternal_Stats"+=chest=${gear.chest},enchant=eternal_stats
-profileset."Chest_Eternal_Insight"+=chest=${gear.chest},enchant=eternal_insight
-profileset."Chest_Sacred_Stats"+=chest=${gear.chest},enchant=sacred_stats
+profileset."Chest_Reserve_of_Intellect_385"+=chest=${gear.chest},enchant_id=199944
+profileset."Chest_Reserve_of_Intellect_400"+=chest=${gear.chest},enchant_id=199986
+profileset."Chest_Reserve_of_Intellect_415"+=chest=${gear.chest},enchant_id=200028
+
+profileset."Chest_Waking_Stats_385"+=chest=${gear.chest},enchant_id=199946
+profileset."Chest_Waking_Stats_400"+=chest=${gear.chest},enchant_id=199988
+profileset."Chest_Waking_Stats_415"+=chest=${gear.chest},enchant_id=200030
 
 # Ring
-profileset."Ring_Tenet_of_Critical_Strike"+=finger1=${gear.finger1},enchant=tenet_of_critical_strike
-profileset."Ring_Tenet_of_Versatility"+=finger1=${gear.finger1},enchant=tenet_of_versatility
-profileset."Ring_Tenet_of_Haste"+=finger1=${gear.finger1},enchant=tenet_of_haste
-profileset."Ring_Tenet_of_Mastery"+=finger1=${gear.finger1},enchant=tenet_of_mastery
+profileset."Ring_Devotion_of_Critical_Strike_385"+=finger1=${gear.finger1},enchant_id=199953
+profileset."Ring_Devotion_of_Critical_Strike_400"+=finger1=${gear.finger1},enchant_id=199995
+profileset."Ring_Devotion_of_Critical_Strike_415"+=finger1=${gear.finger1},enchant_id=200037
 
-profileset."Ring_Bargain_of_Critical_Strike"+=finger1=${gear.finger1},enchant=bargain_of_critical_strike
-profileset."Ring_Bargain_of_Versatility"+=finger1=${gear.finger1},enchant=bargain_of_versatility
-profileset."Ring_Bargain_of_Haste"+=finger1=${gear.finger1},enchant=bargain_of_haste
-profileset."Ring_Bargain_of_Mastery"+=finger1=${gear.finger1},enchant=bargain_of_mastery
+profileset."Ring_Devotion_of_Haste_385"+=finger1=${gear.finger1},enchant_id=199954
+profileset."Ring_Devotion_of_Haste_400"+=finger1=${gear.finger1},enchant_id=199996
+profileset."Ring_Devotion_of_Haste_415"+=finger1=${gear.finger1},enchant_id=200038
+
+profileset."Ring_Devotion_of_Mastery_385"+=finger1=${gear.finger1},enchant_id=199955
+profileset."Ring_Devotion_of_Mastery_400"+=finger1=${gear.finger1},enchant_id=199997
+profileset."Ring_Devotion_of_Mastery_415"+=finger1=${gear.finger1},enchant_id=200039
+
+profileset."Ring_Devotion_of_Versatility_385"+=finger1=${gear.finger1},enchant_id=199956
+profileset."Ring_Devotion_of_Versatility_400"+=finger1=${gear.finger1},enchant_id=199998
+profileset."Ring_Devotion_of_Versatility_415"+=finger1=${gear.finger1},enchant_id=200040
+
+profileset."Ring_Writ_of_Critical_Strike_385"+=finger1=${gear.finger1},enchant_id=199957
+profileset."Ring_Writ_of_Critical_Strike_400"+=finger1=${gear.finger1},enchant_id=199999
+profileset."Ring_Writ_of_Critical_Strike_415"+=finger1=${gear.finger1},enchant_id=200041
+
+profileset."Ring_Writ_of_Haste_385"+=finger1=${gear.finger1},enchant_id=199958
+profileset."Ring_Writ_of_Haste_400"+=finger1=${gear.finger1},enchant_id=200000
+profileset."Ring_Writ_of_Haste_415"+=finger1=${gear.finger1},enchant_id=200042
+
+profileset."Ring_Writ_of_Mastery_385"+=finger1=${gear.finger1},enchant_id=199959
+profileset."Ring_Writ_of_Mastery_400"+=finger1=${gear.finger1},enchant_id=200001
+profileset."Ring_Writ_of_Mastery_415"+=finger1=${gear.finger1},enchant_id=200043
+
+profileset."Ring_Writ_of_Versatility_385"+=finger1=${gear.finger1},enchant_id=199960
+profileset."Ring_Writ_of_Versatility_400"+=finger1=${gear.finger1},enchant_id=200002
+profileset."Ring_Writ_of_Versatility_415"+=finger1=${gear.finger1},enchant_id=200044
