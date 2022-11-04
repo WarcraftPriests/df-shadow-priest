@@ -1,13 +1,13 @@
-# Stat Weight Results
-
-## Raids
-- [Composite - AM](results/Results_Composite_am.md) - `FotM_ToF_AS_MB_AM`
-- [Composite - HV](results/Results_Composite_hv.md) - `FotM_ToF_AS_MB_HV`
-
-## Single Target
-- [Single - AM](results/Results_Single_am.md) - `FotM_ToF_AS_MB_AM`
-- [Single - HV](results/Results_Single_hv.md) - `FotM_ToF_AS_MB_HV`
-
-## Dungeons
-- [Dungeons - AM](results/Results_Dungeons_am.md) - `DaM_SN_SC_MB_AM`
-- [Dungeons - HV](results/Results_Dungeons_hv.md) - `DaM_SN_SC_MB_HV`
+# weights Results
+## YSHAARJ-YOGG-DA
+- [Composite - YSHAARJ-YOGG-DA](results/Results_Composite_yshaarj-yogg-da.md)
+- [Single - YSHAARJ-YOGG-DA](results/Results_Single_yshaarj-yogg-da.md)
+- [Dungeons - YSHAARJ-YOGG-DA](results/Results_Dungeons_yshaarj-yogg-da.md)
+## YSHAARJ-CTHUN-DA
+- [Composite - YSHAARJ-CTHUN-DA](results/Results_Composite_yshaarj-cthun-da.md)
+- [Single - YSHAARJ-CTHUN-DA](results/Results_Single_yshaarj-cthun-da.md)
+- [Dungeons - YSHAARJ-CTHUN-DA](results/Results_Dungeons_yshaarj-cthun-da.md)
+## YSHAARJ-YOGG-VF
+- [Composite - YSHAARJ-YOGG-VF](results/Results_Composite_yshaarj-yogg-vf.md)
+- [Single - YSHAARJ-YOGG-VF](results/Results_Single_yshaarj-yogg-vf.md)
+- [Dungeons - YSHAARJ-YOGG-VF](results/Results_Dungeons_yshaarj-yogg-vf.md)

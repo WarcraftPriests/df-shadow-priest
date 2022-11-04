@@ -1,0 +1,6 @@
+# Dungeons - yshaarj-cthun-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|T29-2_4-set|44097|8.77%|
+|T29-2-set|41694|2.84%|
+|Base|40543|0.00%|

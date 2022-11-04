@@ -43,27 +43,27 @@ profileset."Infernal_Wrist_402-Conjured_Chillglobe_402"+=trinket2=conjured_chill
 profileset."Infernal_Wrist_402-Conjured_Chillglobe_415"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_408"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_421"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_408"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_421"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_408"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_421"+=trinket1=infernal_wrist,id=137485,ilevel=402
 profileset."Infernal_Wrist_402-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -91,27 +91,27 @@ profileset."Infernal_Wrist_418-Conjured_Chillglobe_402"+=trinket2=conjured_chill
 profileset."Infernal_Wrist_418-Conjured_Chillglobe_415"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_408"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_421"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_408"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_421"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_408"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_421"+=trinket1=infernal_wrist,id=137485,ilevel=418
 profileset."Infernal_Wrist_418-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -133,27 +133,27 @@ profileset."Eye_of_Skovald_402-Conjured_Chillglobe_402"+=trinket2=conjured_chill
 profileset."Eye_of_Skovald_402-Conjured_Chillglobe_415"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_408"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_421"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_408"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_421"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_408"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_421"+=trinket1=eye_of_skovald,id=133641,ilevel=402
 profileset."Eye_of_Skovald_402-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -175,27 +175,27 @@ profileset."Eye_of_Skovald_418-Conjured_Chillglobe_402"+=trinket2=conjured_chill
 profileset."Eye_of_Skovald_418-Conjured_Chillglobe_415"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_408"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_421"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_408"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_421"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_408"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_421"+=trinket1=eye_of_skovald,id=133641,ilevel=418
 profileset."Eye_of_Skovald_418-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -211,27 +211,27 @@ profileset."Horn_of_Valor_402-Conjured_Chillglobe_402"+=trinket2=conjured_chillg
 profileset."Horn_of_Valor_402-Conjured_Chillglobe_415"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_408"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_421"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_408"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_421"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_408"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_421"+=trinket1=horn_of_valor,id=133642,ilevel=402
 profileset."Horn_of_Valor_402-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -247,27 +247,27 @@ profileset."Horn_of_Valor_418-Conjured_Chillglobe_402"+=trinket2=conjured_chillg
 profileset."Horn_of_Valor_418-Conjured_Chillglobe_415"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_408"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_421"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_408"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_421"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_408"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_421"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -277,27 +277,27 @@ profileset."Horn_of_Valor_418-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=19
 profileset."Horn_of_Valor_418-Spiteful_Storm_424"+=trinket1=horn_of_valor,id=133642,ilevel=418
 profileset."Horn_of_Valor_418-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -307,27 +307,27 @@ profileset."Conjured_Chillglobe_402-Spiteful_Storm_411"+=trinket2=spiteful_storm
 profileset."Conjured_Chillglobe_402-Spiteful_Storm_424"+=trinket1=conjured_chillglobe,id=194300,ilevel=402
 profileset."Conjured_Chillglobe_402-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_408"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
 
-profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_421"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
 
@@ -337,51 +337,51 @@ profileset."Conjured_Chillglobe_415-Spiteful_Storm_411"+=trinket2=spiteful_storm
 profileset."Conjured_Chillglobe_415-Spiteful_Storm_424"+=trinket1=conjured_chillglobe,id=194300,ilevel=415
 profileset."Conjured_Chillglobe_415-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_0_408-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=dps
 profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_0_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_1_408-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_1_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=408
 profileset."Whispering_Incarnate_Icon_2_408-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
-profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_411"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_411"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
 
-profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=
+profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_424"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_424"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=421
 profileset."Whispering_Incarnate_Icon_2_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 

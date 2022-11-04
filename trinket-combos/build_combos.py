@@ -77,11 +77,11 @@ def build_simc_string(trinkets):
             if "Whispering_Incarnate_Icon" in trinket:
                 allies_count = trinket.split("_")[3].lower()
                 roles = ""
-                if allies_count == 0:
+                if int(allies_count) == 0:
                     roles = "dps"
-                elif allies_count == 1:
+                elif int(allies_count) == 1:
                     roles = "dps/tank"
-                elif allies_count == 2:
+                elif int(allies_count) == 2:
                     roles = "tank/heal/dps"
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"

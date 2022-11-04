@@ -71,7 +71,7 @@ def main():
     parser = argparse.ArgumentParser(description="Sims full sim suite")
     parser.add_argument(
         '--exclude', help='Exclude certain sim folders from the suite run',
-        choices=config["sims"].keys(), default=["apl", "gear", "talent-builds", "stats", "weights"],
+        choices=config["sims"].keys(), default=["apl", "gear"],
         nargs='+', required=False)
     parser.add_argument(
         '--fresh', help='restart suite from start', action='store_true')
