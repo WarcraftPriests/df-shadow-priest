@@ -12,17 +12,17 @@ head=${gear.head}
 neck=${gear.neck}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest}
+chest=${gear.chest},enchant_id=6625
 wrists=${gear.wrists}
 hands=${gear.hands}
 waist=${gear.waist}
-legs=${gear.legs}
+legs=${gear.legs},enchant_id=6541
 feet=${gear.feet}
-finger1=${gear.finger1}
-finger2=${gear.finger2}
+finger1=${gear.finger1},enchant_id=6556
+finger2=${gear.finger2},enchant_id=6556
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand}
+main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 food=disabled
@@ -34,133 +34,133 @@ flask=disabled
 # consider adding Tinker gems
 
 # Alexstraszite
-profileset."Crafty_Alexstraszite_385"+=main_hand=${gear.main_hand},gem_id=192917
-profileset."Crafty_Alexstraszite_400"+=main_hand=${gear.main_hand},gem_id=192918
-profileset."Crafty_Alexstraszite_415"+=main_hand=${gear.main_hand},gem_id=192919
+profileset."Crafty_Alexstraszite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192917
+profileset."Crafty_Alexstraszite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192918
+profileset."Crafty_Alexstraszite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192919
 
-profileset."Deadly_Alexstraszite_385"+=main_hand=${gear.main_hand},gem_id=192926
-profileset."Deadly_Alexstraszite_400"+=main_hand=${gear.main_hand},gem_id=192927
-profileset."Deadly_Alexstraszite_415"+=main_hand=${gear.main_hand},gem_id=192928
+profileset."Deadly_Alexstraszite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192926
+profileset."Deadly_Alexstraszite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192927
+profileset."Deadly_Alexstraszite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192928
 
-profileset."Radiant_Alexstraszite_385"+=main_hand=${gear.main_hand},gem_id=192923
-profileset."Radiant_Alexstraszite_400"+=main_hand=${gear.main_hand},gem_id=192924
-profileset."Radiant_Alexstraszite_415"+=main_hand=${gear.main_hand},gem_id=192925
+profileset."Radiant_Alexstraszite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192923
+profileset."Radiant_Alexstraszite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192924
+profileset."Radiant_Alexstraszite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192925
 
-profileset."Senseis_Alexstraszite_385"+=main_hand=${gear.main_hand},gem_id=192920
-profileset."Senseis_Alexstraszite_400"+=main_hand=${gear.main_hand},gem_id=192921
-profileset."Senseis_Alexstraszite_415"+=main_hand=${gear.main_hand},gem_id=192922
+profileset."Senseis_Alexstraszite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192920
+profileset."Senseis_Alexstraszite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192921
+profileset."Senseis_Alexstraszite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192922
 
 # Queen's Ruby
-profileset."Crafty_Queens_Ruby_385"+=main_hand=${gear.main_hand},gem_id=192900
-profileset."Crafty_Queens_Ruby_400"+=main_hand=${gear.main_hand},gem_id=192901
-profileset."Crafty_Queens_Ruby_415"+=main_hand=${gear.main_hand},gem_id=192902
+profileset."Crafty_Queens_Ruby_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192900
+profileset."Crafty_Queens_Ruby_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192901
+profileset."Crafty_Queens_Ruby_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192902
 
 # Ysemerald
-profileset."Crafty_Ysemerald_385"+=main_hand=${gear.main_hand},gem_id=192943
-profileset."Crafty_Ysemerald_400"+=main_hand=${gear.main_hand},gem_id=192944
-profileset."Crafty_Ysemerald_415"+=main_hand=${gear.main_hand},gem_id=192945
+profileset."Crafty_Ysemerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192943
+profileset."Crafty_Ysemerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192944
+profileset."Crafty_Ysemerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192945
 
-profileset."Energized_Ysemerald_385"+=main_hand=${gear.main_hand},gem_id=192950
-profileset."Energized_Ysemerald_400"+=main_hand=${gear.main_hand},gem_id=192951
-profileset."Energized_Ysemerald_415"+=main_hand=${gear.main_hand},gem_id=192952
+profileset."Energized_Ysemerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192950
+profileset."Energized_Ysemerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192951
+profileset."Energized_Ysemerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192952
 
-profileset."Keen_Ysemerald_385"+=main_hand=${gear.main_hand},gem_id=192946
-profileset."Keen_Ysemerald_400"+=main_hand=${gear.main_hand},gem_id=192947
-profileset."Keen_Ysemerald_415"+=main_hand=${gear.main_hand},gem_id=192948
+profileset."Keen_Ysemerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192946
+profileset."Keen_Ysemerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192947
+profileset."Keen_Ysemerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192948
 
-profileset."Quick_Ysemerald_385"+=main_hand=${gear.main_hand},gem_id=192953
-profileset."Quick_Ysemerald_400"+=main_hand=${gear.main_hand},gem_id=192954
-profileset."Quick_Ysemerald_415"+=main_hand=${gear.main_hand},gem_id=192955
+profileset."Quick_Ysemerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192953
+profileset."Quick_Ysemerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192954
+profileset."Quick_Ysemerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192955
 
 # Malygite
-profileset."Energized_Malygite_385"+=main_hand=${gear.main_hand},gem_id=192933
-profileset."Energized_Malygite_400"+=main_hand=${gear.main_hand},gem_id=192934
-profileset."Energized_Malygite_415"+=main_hand=${gear.main_hand},gem_id=192935
+profileset."Energized_Malygite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192933
+profileset."Energized_Malygite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192934
+profileset."Energized_Malygite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192935
 
-profileset."Radiant_Malygite_385"+=main_hand=${gear.main_hand},gem_id=192929
-profileset."Radiant_Malygite_400"+=main_hand=${gear.main_hand},gem_id=192931
-profileset."Radiant_Malygite_415"+=main_hand=${gear.main_hand},gem_id=192932
+profileset."Radiant_Malygite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192929
+profileset."Radiant_Malygite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192931
+profileset."Radiant_Malygite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192932
 
-profileset."Stormy_Malygite_385"+=main_hand=${gear.main_hand},gem_id=192940
-profileset."Stormy_Malygite_400"+=main_hand=${gear.main_hand},gem_id=192941
-profileset."Stormy_Malygite_415"+=main_hand=${gear.main_hand},gem_id=192942
+profileset."Stormy_Malygite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192940
+profileset."Stormy_Malygite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192941
+profileset."Stormy_Malygite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192942
 
-profileset."Zen_Malygite_385"+=main_hand=${gear.main_hand},gem_id=192936
-profileset."Zen_Malygite_400"+=main_hand=${gear.main_hand},gem_id=192937
-profileset."Zen_Malygite_415"+=main_hand=${gear.main_hand},gem_id=192938
+profileset."Zen_Malygite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192936
+profileset."Zen_Malygite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192937
+profileset."Zen_Malygite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192938
 
 # Vibrant Emerald
-profileset."Energized_Vibrant_Emerald_385"+=main_hand=${gear.main_hand},gem_id=192906
-profileset."Energized_Vibrant_Emerald_400"+=main_hand=${gear.main_hand},gem_id=192907
-profileset."Energized_Vibrant_Emerald_415"+=main_hand=${gear.main_hand},gem_id=192908
+profileset."Energized_Vibrant_Emerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192906
+profileset."Energized_Vibrant_Emerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192907
+profileset."Energized_Vibrant_Emerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192908
 
 # Illimited Diamond
-profileset."Fierce_Illimited_Diamond_385"+=main_hand=${gear.main_hand},gem_id=192983
-profileset."Fierce_Illimited_Diamond_400"+=main_hand=${gear.main_hand},gem_id=192984
-profileset."Fierce_Illimited_Diamond_415"+=main_hand=${gear.main_hand},gem_id=192985
+profileset."Fierce_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192983
+profileset."Fierce_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192984
+profileset."Fierce_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192985
 
-profileset."Inscribed_Illimited_Diamond_385"+=main_hand=${gear.main_hand},gem_id=192980
-profileset."Inscribed_Illimited_Diamond_400"+=main_hand=${gear.main_hand},gem_id=192981
-profileset."Inscribed_Illimited_Diamond_415"+=main_hand=${gear.main_hand},gem_id=192982
+profileset."Inscribed_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192980
+profileset."Inscribed_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192981
+profileset."Inscribed_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192982
 
-profileset."Resplendent_Illimited_Diamond_385"+=main_hand=${gear.main_hand},gem_id=192989
-profileset."Resplendent_Illimited_Diamond_400"+=main_hand=${gear.main_hand},gem_id=192990
-profileset."Resplendent_Illimited_Diamond_415"+=main_hand=${gear.main_hand},gem_id=192991
+profileset."Resplendent_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192989
+profileset."Resplendent_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192990
+profileset."Resplendent_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192991
 
-profileset."Skillful_Illimited_Diamond_385"+=main_hand=${gear.main_hand},gem_id=192986
-profileset."Skillful_Illimited_Diamond_400"+=main_hand=${gear.main_hand},gem_id=192987
-profileset."Skillful_Illimited_Diamond_415"+=main_hand=${gear.main_hand},gem_id=192988
+profileset."Skillful_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192986
+profileset."Skillful_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192987
+profileset."Skillful_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192988
 
 ## Speed?
-# profileset."Straddling_Illimited_Diamond_385"+=main_hand=${gear.main_hand},gem_id=194112
-# profileset."Straddling_Illimited_Diamond_400"+=main_hand=${gear.main_hand},gem_id=194113
-# profileset."Straddling_Illimited_Diamond_415"+=main_hand=${gear.main_hand},gem_id=194114
+# profileset."Straddling_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194112
+# profileset."Straddling_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194113
+# profileset."Straddling_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194114
 
 # Nozdorite
-profileset."Forceful_Nozdorite_385"+=main_hand=${gear.main_hand},gem_id=192971
-profileset."Forceful_Nozdorite_400"+=main_hand=${gear.main_hand},gem_id=192972
-profileset."Forceful_Nozdorite_415"+=main_hand=${gear.main_hand},gem_id=192973
+profileset."Forceful_Nozdorite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192971
+profileset."Forceful_Nozdorite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192972
+profileset."Forceful_Nozdorite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192973
 
-profileset."Jagged_Nozdorite_385"+=main_hand=${gear.main_hand},gem_id=192968
-profileset."Jagged_Nozdorite_400"+=main_hand=${gear.main_hand},gem_id=192969
-profileset."Jagged_Nozdorite_415"+=main_hand=${gear.main_hand},gem_id=192970
+profileset."Jagged_Nozdorite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192968
+profileset."Jagged_Nozdorite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192969
+profileset."Jagged_Nozdorite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192970
 
-profileset."Puissant_Nozdorite_385"+=main_hand=${gear.main_hand},gem_id=192974
-profileset."Puissant_Nozdorite_400"+=main_hand=${gear.main_hand},gem_id=192975
-profileset."Puissant_Nozdorite_415"+=main_hand=${gear.main_hand},gem_id=192976
+profileset."Puissant_Nozdorite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192974
+profileset."Puissant_Nozdorite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192975
+profileset."Puissant_Nozdorite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192976
 
-profileset."Steady_Nozdorite_385"+=main_hand=${gear.main_hand},gem_id=192977
-profileset."Steady_Nozdorite_400"+=main_hand=${gear.main_hand},gem_id=192978
-profileset."Steady_Nozdorite_415"+=main_hand=${gear.main_hand},gem_id=192979
+profileset."Steady_Nozdorite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192977
+profileset."Steady_Nozdorite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192978
+profileset."Steady_Nozdorite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192979
 
 # Neltharite
-profileset."Fractured_Neltharite_385"+=main_hand=${gear.main_hand},gem_id=192965
-profileset."Fractured_Neltharite_400"+=main_hand=${gear.main_hand},gem_id=192966
-profileset."Fractured_Neltharite_415"+=main_hand=${gear.main_hand},gem_id=192967
+profileset."Fractured_Neltharite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192965
+profileset."Fractured_Neltharite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192966
+profileset."Fractured_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192967
 
-profileset."Keen_Neltharite_385"+=main_hand=${gear.main_hand},gem_id=192959
-profileset."Keen_Neltharite_400"+=main_hand=${gear.main_hand},gem_id=192960
-profileset."Keen_Neltharite_415"+=main_hand=${gear.main_hand},gem_id=192961
+profileset."Keen_Neltharite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192959
+profileset."Keen_Neltharite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192960
+profileset."Keen_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192961
 
-profileset."Senseis_Neltharite_385"+=main_hand=${gear.main_hand},gem_id=192956
-profileset."Senseis_Neltharite_400"+=main_hand=${gear.main_hand},gem_id=192957
-profileset."Senseis_Neltharite_415"+=main_hand=${gear.main_hand},gem_id=192958
+profileset."Senseis_Neltharite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192956
+profileset."Senseis_Neltharite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192957
+profileset."Senseis_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192958
 
-profileset."Zen_Neltharite_385"+=main_hand=${gear.main_hand},gem_id=192962
-profileset."Zen_Neltharite_400"+=main_hand=${gear.main_hand},gem_id=192963
-profileset."Zen_Neltharite_415"+=main_hand=${gear.main_hand},gem_id=192964
+profileset."Zen_Neltharite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192962
+profileset."Zen_Neltharite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192963
+profileset."Zen_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192964
 
 # Sundered Onyx
-profileset."Senseis_Sundered_Onyx_385"+=main_hand=${gear.main_hand},gem_id=192910
-profileset."Senseis_Sundered_Onyx_400"+=main_hand=${gear.main_hand},gem_id=192911
-profileset."Senseis_Sundered_Onyx_415"+=main_hand=${gear.main_hand},gem_id=192912
+profileset."Senseis_Sundered_Onyx_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192910
+profileset."Senseis_Sundered_Onyx_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192911
+profileset."Senseis_Sundered_Onyx_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192912
 
 # Solid Eternity Amber
-profileset."Solid_Eternity_Amber_385"+=main_hand=${gear.main_hand},gem_id=192913
-profileset."Solid_Eternity_Amber_400"+=main_hand=${gear.main_hand},gem_id=192914
-profileset."Solid_Eternity_Amber_415"+=main_hand=${gear.main_hand},gem_id=192916
+profileset."Solid_Eternity_Amber_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192913
+profileset."Solid_Eternity_Amber_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192914
+profileset."Solid_Eternity_Amber_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192916
 
 # Zen Mystic sapphire
-profileset."Zen_Mystic_Sapphire_385"+=main_hand=${gear.main_hand},gem_id=192903
-profileset."Zen_Mystic_Sapphire_400"+=main_hand=${gear.main_hand},gem_id=192904
-profileset."Zen_Mystic_Sapphire_415"+=main_hand=${gear.main_hand},gem_id=192905
+profileset."Zen_Mystic_Sapphire_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192903
+profileset."Zen_Mystic_Sapphire_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192904
+profileset."Zen_Mystic_Sapphire_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192905

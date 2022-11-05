@@ -54,6 +54,10 @@ def find_weight(sim_type, profile_name):
         weight_type = "compositeWeights"
     elif sim_type == "Single":
         weight_type = "singleTargetWeights"
+    elif sim_type == "2T":
+        weight_type = "twoTargetWeights"
+    elif sim_type == "4T":
+        weight_type = "fourTargetWeights"
     elif sim_type == "Dungeons":
         # Dungeon sim is just 1 sim, so we return 1 here
         return 1
@@ -296,7 +300,7 @@ def clear_output_files(talent_string):
         output_files = []
         if talent_string:
             for talent in config["builds"]:
-                for fight_type in ["Composite", "Single", "Dungeons"]:
+                for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
                     if config["analyze"]["markdown"]:
                         output_files.append(
                             f"results/Results_{fight_type}_{talent}.md")
@@ -307,7 +311,7 @@ def clear_output_files(talent_string):
                         output_files.append(
                             f"results/Results_{fight_type}_{talent}.json")
         else:
-            for fight_type in ["Composite", "Single", "Dungeons"]:
+            for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
                 if config["analyze"]["markdown"]:
                     output_files.append(f"results/Results_{fight_type}.md")
                 if config["analyze"]["csv"]:
@@ -336,7 +340,7 @@ def build_readme_md(directory, talent_string):
             for talent in config["builds"]:
                 readme.write(f"## {talent.upper()}\n")
                 file_list = []
-                for fight_type in ["Composite", "Single", "Dungeons"]:
+                for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
                     file_list.append(
                         f"results/Results_{fight_type}_{talent}.md")
                 for result in file_list:
@@ -344,7 +348,7 @@ def build_readme_md(directory, talent_string):
                     readme.write(f'- [{result_name}]({result})\n')
         else:
             file_list = []
-            for fight_type in ["Composite", "Single", "Dungeons"]:
+            for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
                 file_list.append(f"results/Results_{fight_type}.md")
             for result in file_list:
                 readme.write(f'- [{result[16:-3]}]({result})\n')
@@ -377,7 +381,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
         data = pandas.read_csv(csv, usecols=['profile', 'actor', 'DD', 'DPS'])
 
     talent_string = f"_{talents}" if talents else ""
-    sim_types = ["Dungeons"] if dungeons else ["Composite", "Single"]
+    sim_types = ["Dungeons"] if dungeons else ["Composite", "Single", "2T", "4T"]
 
     for sim_type in sim_types:
         results = build_results(data, weights, sim_type, directory)

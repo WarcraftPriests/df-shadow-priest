@@ -4,6 +4,7 @@ from itertools import combinations_with_replacement
 import re
 import yaml
 from internal import utils
+from internal.weights import find_weights
 
 with open("config.yml", "r", encoding="utf8") as ymlfile:
     config = yaml.load(ymlfile, Loader=yaml.FullLoader)
@@ -17,6 +18,7 @@ fightExpressions = {
     "sa": 'raid_events+=/adds,count=3,first=45,cooldown=45,duration=10,distance=5',
     "1": 'desired_targets=1',
     "2": 'desired_targets=2',
+    "4": 'desired_targets=4',
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": 'ptr=1\n',
     "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'
@@ -126,25 +128,6 @@ def replace_talents(talent_string, data):
     return data
 
 
-def update_talents(talent_string, replacement):
-    """replaces talent in string with given replacement"""
-    new_talents = ""
-    talent_string = str(talent_string)
-    if replacement == "damnation":
-        new_talents = talent_string[:5] + "1" + talent_string[6:]
-    if replacement == "mindbender":
-        new_talents = talent_string[:5] + "2" + talent_string[6:]
-    if replacement == "void_torrent":
-        new_talents = talent_string[:5] + "3" + talent_string[6:]
-    return new_talents
-
-
-def talents_override(data):
-    # pylint: disable=line-too-long
-    """determines if there are talent overrides in the original data"""
-    return "${talents.damnation}" in data or "${talents.mindbender}" in data or "${talents.void_torrent}" in data
-
-
 def replace_gear(data):
     """replaces gear based on the default in config"""
     for slot in config["gear"]:
@@ -164,7 +147,7 @@ def build_profiles(talent_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2"]
+    targets = ["1", "2", "4"]
     overrides = ""
     with open("internal/overrides.simc", 'r', encoding="utf8") as file:
         overrides = file.read()
@@ -178,7 +161,6 @@ def build_profiles(talent_string):
         with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as file:
             data = file.read()
             file.close()
-        talents_are_overridden = talents_override(data)
         if args.dungeons:
             combinations = ["dungeons"]
         if talent_string:
@@ -192,14 +174,13 @@ def build_profiles(talent_string):
         # insert talents in here so copy= works correctly
         if talents_expr:
             data = data.replace("${talents}", str(talents_expr))
-            data = data.replace("${talents.damnation}", update_talents(
-                str(talents_expr), "damnation"))
-            data = data.replace("${talents.mindbender}", update_talents(
-                str(talents_expr), "mindbender"))
-            data = data.replace("${talents.void_torrent}", update_talents(
-                str(talents_expr), "void_torrent"))
 
         for profile in combinations:
+            # Don't build the profile if it has no weight
+            weight = find_weights(config["compositeWeights"]).get(profile)
+            if weight == 0:
+                continue
+
             sim_data = data
             # prefix the profile name with the base file name
             profile_name = f"{sim_file[:-5]}_{profile}"
@@ -207,9 +188,16 @@ def build_profiles(talent_string):
                 profile, config["sims"][args.dir[:-1]]["weights"])
 
             # insert talents based on profile
-            if talents_expr and not talents_are_overridden:
+            if talents_expr:
+                target_count = int(profile[-1])
                 if profile in config["singleTargetProfiles"]:
                     new_talents = config["builds"][talent_string]["single"]
+                    sim_data = replace_talents(new_talents, sim_data)
+                elif target_count == 2:
+                    new_talents = config["builds"][talent_string]["2t"]
+                    sim_data = replace_talents(new_talents, sim_data)
+                elif target_count == 4:
+                    new_talents = config["builds"][talent_string]["4t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data)

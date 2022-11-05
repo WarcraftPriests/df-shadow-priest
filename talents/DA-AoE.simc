@@ -13,17 +13,17 @@ head=${gear.head}
 neck=${gear.neck}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant=eternal_stats
-wrists=${gear.wrists},enchant=eternal_intellect
+chest=${gear.chest},enchant_id=6625
+wrists=${gear.wrists}
 hands=${gear.hands}
 waist=${gear.waist}
-legs=${gear.legs}
+legs=${gear.legs},enchant_id=6541
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=tenet_of_mastery
-finger2=${gear.finger2},enchant=tenet_of_mastery
+finger1=${gear.finger1},enchant_id=6556
+finger2=${gear.finger2},enchant_id=6556
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant=sinful_revelation
+main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 profileset."DA_299442548219391_AoE"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/mental_fortitude:1/misery:1/last_word:1/coalescing_shadows:1/mind_sear:1/puppet_master:1/mental_decay:1/dark_ascension:1/harnessed_shadows:1/shadowy_insight:1/ancient_madness:2/shadow_crash:1/maddening_touch:2/auspicious_spirits:1/psychic_link:2/mindbender:1/mind_flay_insanity:1/encroaching_shadows:1/inescapable_torment:1/screams_of_the_void:1/mind_devourer:2/idol_of_yoggsaron:1"
