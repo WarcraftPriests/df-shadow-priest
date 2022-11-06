@@ -35,6 +35,18 @@ gear:
   main_hand: "main_hand=final_grade,id=193707,ilevel=418"
   off_hand: ""
 sims:
+  alchemy:
+    description: "Sims alchemy consumables you can use to augment your character"
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - 1
+      - 2
+      - 3
+    files:
+      - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only"
     builds: true
@@ -46,7 +58,7 @@ sims:
     files:
       - apl.simc
   consumables:
-    description: "Sims all consumables you can use to augment your character"
+    description: "Sims food and rune consumables you can use to augment your character"
     builds: true
     weights: false
     chart: true
@@ -153,7 +165,6 @@ sims:
     steps:
       - 350
       - 366
-      - 372
       - 376
       - 379
       - 382

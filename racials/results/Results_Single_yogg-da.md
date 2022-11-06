@@ -1,0 +1,34 @@
+# Single - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|58622|1.63%|
+|Troll|58518|1.44%|
+|Void_Elf|58392|1.23%|
+|Dark_Iron_Dwarf|58389|1.22%|
+|Gnome|58352|1.16%|
+|Goblin|58343|1.14%|
+|Night_Elf_Haste|58341|1.14%|
+|Draenei|58340|1.14%|
+|Blood_Elf|58256|0.99%|
+|Human|58240|0.96%|
+|Kul_Tiran|58227|0.94%|
+|Highmountain_Tauren|58220|0.93%|
+|Zandalari_Troll_Paku|58190|0.88%|
+|Night_Elf_Crit|58165|0.83%|
+|Worgen|58153|0.81%|
+|Nightborne|58149|0.80%|
+|Maghar_Orc|58087|0.70%|
+|Tauren|57953|0.46%|
+|Dwarf|57943|0.45%|
+|Zandalari_Troll_Kimbul|57883|0.34%|
+|Zandalari_Troll_Bwonsamdi|57869|0.32%|
+|Mechagnome|57859|0.30%|
+|Undead|57841|0.27%|
+|Panda_Haste|57828|0.25%|
+|Panda_Feast|57791|0.18%|
+|Panda_Mastery|57713|0.05%|
+|Panda_Crit|57712|0.05%|
+|Panda_Vers|57709|0.04%|
+|Base|57685|0.00%|
+|Vulpera|57670|-0.02%|
+|Lightforged_Draenei|57600|-0.15%|

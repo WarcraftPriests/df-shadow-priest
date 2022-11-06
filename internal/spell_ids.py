@@ -1,4 +1,58 @@
 """spell ids to be used in json result files"""
+consumables = {
+    "Iced_Phial_of_Corrupting_Rage": 191329,
+    "Phial_of_Charged_Isolation": 191332,
+    "Phial_of_Elemental_Chaos": 191359,
+    "Phial_of_Glacial_Fury": 191335,
+    "Phial_of_Static_Empowerment": 191338,
+    "Phial_of_Tepid_Versatility": 191341,
+    "Bottled_Putrescence": 191362,
+    "Elemental_Potion_of_Power": 191389,
+    "Elemental_Potion_of_Ultimate_Power": 191383,
+    "Potion_of_Shocking_Disclosure": 191401,
+    "Draconic_Augment_Rune": 201325,
+    "Yusas_Hearty_Stew": 197793,
+    "Grand_Banquet_of_the_Kaluak": 197794,
+    "Hoard_of_Draconic_Delicacies": 197795,
+    "Fated_Fortune_Cookie": 197792,
+    "Filet_of_Fangs": 197779,
+    "Salt_Baked_Fishcake": 197781,
+    "Seamoth_Surprise": 197780,
+    "Timely_Demise": 197778,
+    "Aromatic_Seafood_Platter": 197783,
+    "Feisty_Fish_Sticks": 197782,
+    "Great_Cerulean_Sea": 197787,
+    "Revenge_Served_Cold": 197785,
+    "Thousandbone_Tongueslicer": 197786,
+    "Sizzling_Seafood_Medley": 197784,
+    "Roast_Duck_Delight": 197790,
+    "Thrice_Spiced_Mammoth_Kabob": 197776
+}
+
+enchants = {
+    "Legs_Frozen_Spellthread": 194013,
+    "Legs_Temporal_Spellthread": 194016,
+    "Legs_Vibrant_Spellthread": 194010,
+    "Weapon_Burning_Writ": 200051,
+    "Weapon_Earthen_Writ": 200053,
+    "Weapon_Frozen_Writ": 200057,
+    "Weapon_Sophic_Writ": 200055,
+    "Weapon_Wafting_Writ": 200059,
+    "Weapon_Frozen_Devotion": 200056,
+    "Weapon_Sophic_Devotion": 200054,
+    "Weapon_Wafting_Devotion": 200058,
+    "Chest_Reserve_of_Intellect": 200028,
+    "Chest_Waking_Stats": 200030,
+    "Ring_Devotion_of_Critical_Strike": 200037,
+    "Ring_Devotion_of_Haste": 200038,
+    "Ring_Devotion_of_Mastery": 200039,
+    "Ring_Devotion_of_Versatility": 200040,
+    "Ring_Writ_of_Critical_Strike": 200041,
+    "Ring_Writ_of_Haste": 200042,
+    "Ring_Writ_of_Mastery": 200043,
+    "Ring_Writ_of_Versatility": 200044,
+}
+
 racials = {
     "Human": 20598,
     "Blood_Elf": 28730,
@@ -32,53 +86,9 @@ racials = {
     "Highmountain_Tauren": 255658
 }
 
-enchants = {
-    "Weapon_Lightless_Force": 309620,
-    "Weapon_Sinful_Revelation": 309623,
-    "Weapon_Celestial_Guidance": 309627,
-    "Wrists_Illuminated_Soul": 309608,
-    "Wrists_Eternal_Intellect": 309609,
-    "Chest_Eternal_Bounds": 323761,
-    "Chest_Eternal_Stats": 324773,
-    "Chest_Eternal_Insight": 342316,
-    "Chest_Sacred_Stats": 323762,
-    "Ring_Tenet_of_Critical_Strike": 309616,
-    "Ring_Tenet_of_Versatility": 309619,
-    "Ring_Tenet_of_Haste": 309617,
-    "Ring_Tenet_of_Mastery": 309618,
-    "Ring_Bargain_of_Critical_Strike": 309612,
-    "Ring_Bargain_of_Versatility": 309615,
-    "Ring_Bargain_of_Haste": 309613,
-    "Ring_Bargain_of_Mastery": 309614
-}
-
-consumables = {
-    "Veiled_Augment_Rune": 181468,
-    "16_Versatility": 173129,
-    "16_Critical_Strike": 173127,
-    "16_Mastery": 173130,
-    "16_Haste": 173128,
-    "Spectral_Flask_of_Power": 171276,
-    "Potion_of_Phantom_Fire": 171349,
-    "Potion_of_Phantom_Fire_Shadowcore_Oil": 171349,
-    "Potion_of_Empowered_Exorcisms": 171352,
-    "Potion_of_Empowered_Exorcisms_Shadowcore_Oil": 171352,
-    "Potion_of_Spectral_Intellect": 171273,
-    "Potion_of_Deathly_Fixation": 171351,
-    "Potion_of_Deathly_Fixation_Shadowcore_Oil": 171351,
-    "Feast_of_Gluttonous_Hedonism": 172043,
-    "Spinefin_Souffle_and_Fries": 172041,
-    "Tenebrous_Crown_Roast_Aspic": 172045,
-    "Iridescent_Ravioli_with_Apple_Sauce": 172049,
-    "Steak_a_la_Mode": 172051,
-    "Shadowcore_Oil": 171285,
-    "7_Intellect": 168638,
-    "6_Intellect": 153709
-}
-
 tiersets = {
-    "T28-2-set": 364424,
-    "T28-2_4-set": 363469
+    "T29-2-set": 394961,
+    "T29-2_4-set": 394963
 }
 
 

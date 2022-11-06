@@ -1,0 +1,34 @@
+# 4T - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|92907|6.52%|
+|Phial_of_Charged_Isolation_3|92702|6.29%|
+|Phial_of_Static_Empowerment_2|92188|5.70%|
+|Phial_of_Charged_Isolation_2|92016|5.50%|
+|Iced_Phial_of_Corrupting_Rage_3|91992|5.47%|
+|Iced_Phial_of_Corrupting_Rage_2|91640|5.07%|
+|Phial_of_Static_Empowerment_1|91471|4.87%|
+|Phial_of_Charged_Isolation_1|91454|4.86%|
+|Iced_Phial_of_Corrupting_Rage_1|91236|4.61%|
+|Phial_of_Tepid_Versatility_3|90294|3.53%|
+|Phial_of_Elemental_Chaos_3|90259|3.48%|
+|Phial_of_Tepid_Versatility_2|90014|3.20%|
+|Phial_of_Elemental_Chaos_2|89984|3.17%|
+|Phial_of_Tepid_Versatility_1|89774|2.93%|
+|Phial_of_Elemental_Chaos_1|89720|2.87%|
+|Phial_of_Glacial_Fury_3|89532|2.65%|
+|Phial_of_Glacial_Fury_2|89234|2.31%|
+|Phial_of_Glacial_Fury_1|88927|1.96%|
+|Elemental_Potion_of_Ultimate_Power_3|88586|1.57%|
+|Elemental_Potion_of_Ultimate_Power_2|88369|1.32%|
+|Elemental_Potion_of_Power_3|88313|1.25%|
+|Elemental_Potion_of_Ultimate_Power_1|88234|1.16%|
+|Bottled_Putrescence_3|88208|1.13%|
+|Elemental_Potion_of_Power_2|88162|1.08%|
+|Bottled_Putrescence_2|88054|0.96%|
+|Elemental_Potion_of_Power_1|88046|0.95%|
+|Bottled_Putrescence_1|87904|0.78%|
+|Potion_of_Shocking_Disclosure_2|87405|0.21%|
+|Potion_of_Shocking_Disclosure_3|87396|0.20%|
+|Potion_of_Shocking_Disclosure_1|87345|0.14%|
+|Base|87219|0.00%|

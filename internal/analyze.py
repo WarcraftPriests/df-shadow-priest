@@ -325,7 +325,7 @@ def clear_output_files(talent_string):
 
 def generate_result_name(result, talent):
     """takes a full result file path and generate a readable name from it"""
-    fight_types = ["Composite", "Single", "Dungeons"]
+    fight_types = ["Composite", "Single", "Dungeons", "2T", "4T"]
     for fight_type in fight_types:
         if fight_type in result:
             return f"{fight_type} - {talent.upper()}"

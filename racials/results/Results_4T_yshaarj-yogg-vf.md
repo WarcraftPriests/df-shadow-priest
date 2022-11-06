@@ -1,0 +1,34 @@
+# 4T - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|83222|1.47%|
+|Troll|83182|1.43%|
+|Goblin|83024|1.23%|
+|Draenei|82988|1.19%|
+|Night_Elf_Haste|82988|1.19%|
+|Gnome|82955|1.15%|
+|Dark_Iron_Dwarf|82927|1.11%|
+|Blood_Elf|82828|0.99%|
+|Kul_Tiran|82783|0.94%|
+|Human|82732|0.88%|
+|Zandalari_Troll_Paku|82691|0.83%|
+|Highmountain_Tauren|82688|0.82%|
+|Night_Elf_Crit|82685|0.82%|
+|Worgen|82665|0.79%|
+|Nightborne|82618|0.74%|
+|Maghar_Orc|82559|0.66%|
+|Void_Elf|82551|0.66%|
+|Mechagnome|82258|0.30%|
+|Tauren|82203|0.23%|
+|Lightforged_Draenei|82163|0.18%|
+|Dwarf|82154|0.17%|
+|Panda_Feast|82144|0.16%|
+|Zandalari_Troll_Bwonsamdi|82120|0.13%|
+|Zandalari_Troll_Kimbul|82086|0.09%|
+|Panda_Vers|82048|0.04%|
+|Undead|82044|0.04%|
+|Panda_Haste|82020|0.01%|
+|Base|82013|0.00%|
+|Panda_Mastery|82013|0.00%|
+|Panda_Crit|81978|-0.04%|
+|Vulpera|81952|-0.08%|

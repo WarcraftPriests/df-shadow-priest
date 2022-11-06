@@ -1,0 +1,34 @@
+# Single - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|56604|1.41%|
+|Goblin|56586|1.38%|
+|Gnome|56574|1.36%|
+|Night_Elf_Haste|56568|1.35%|
+|Draenei|56471|1.17%|
+|Void_Elf|56429|1.10%|
+|Human|56423|1.09%|
+|Troll|56421|1.09%|
+|Blood_Elf|56401|1.05%|
+|Dark_Iron_Dwarf|56379|1.01%|
+|Zandalari_Troll_Paku|56367|0.99%|
+|Highmountain_Tauren|56353|0.96%|
+|Kul_Tiran|56352|0.96%|
+|Night_Elf_Crit|56350|0.96%|
+|Worgen|56330|0.92%|
+|Nightborne|56291|0.85%|
+|Maghar_Orc|56140|0.58%|
+|Zandalari_Troll_Kimbul|56022|0.37%|
+|Zandalari_Troll_Bwonsamdi|56016|0.36%|
+|Mechagnome|56012|0.35%|
+|Tauren|56009|0.35%|
+|Panda_Haste|56003|0.34%|
+|Dwarf|56002|0.33%|
+|Undead|55973|0.28%|
+|Panda_Feast|55925|0.20%|
+|Panda_Mastery|55873|0.10%|
+|Panda_Vers|55864|0.09%|
+|Panda_Crit|55857|0.07%|
+|Vulpera|55831|0.03%|
+|Base|55815|0.00%|
+|Lightforged_Draenei|55630|-0.33%|

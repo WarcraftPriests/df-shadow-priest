@@ -1,0 +1,34 @@
+# 2T - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|70689|1.50%|
+|Troll|70620|1.40%|
+|Gnome|70525|1.26%|
+|Goblin|70498|1.22%|
+|Night_Elf_Haste|70458|1.17%|
+|Draenei|70451|1.16%|
+|Dark_Iron_Dwarf|70398|1.08%|
+|Blood_Elf|70339|1.00%|
+|Zandalari_Troll_Paku|70335|0.99%|
+|Highmountain_Tauren|70332|0.99%|
+|Kul_Tiran|70325|0.98%|
+|Void_Elf|70320|0.97%|
+|Human|70291|0.93%|
+|Night_Elf_Crit|70285|0.92%|
+|Worgen|70252|0.87%|
+|Nightborne|70199|0.80%|
+|Maghar_Orc|70109|0.67%|
+|Mechagnome|69897|0.36%|
+|Tauren|69882|0.34%|
+|Dwarf|69872|0.33%|
+|Zandalari_Troll_Kimbul|69852|0.30%|
+|Zandalari_Troll_Bwonsamdi|69842|0.28%|
+|Undead|69818|0.25%|
+|Panda_Feast|69792|0.21%|
+|Panda_Haste|69748|0.15%|
+|Panda_Mastery|69730|0.12%|
+|Panda_Vers|69707|0.09%|
+|Panda_Crit|69691|0.07%|
+|Vulpera|69660|0.02%|
+|Base|69645|0.00%|
+|Lightforged_Draenei|69621|-0.04%|

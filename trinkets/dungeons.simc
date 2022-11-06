@@ -24,31 +24,13 @@ finger2=${gear.finger2},enchant_id=6556
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
-# Mythic+ Trinkets (End of Run): 372/376/379/382/385/389/392/395/398/402
-# Mythic+ Trinkets (Great Vault): 405/408/411/415/418
-# Highest from key: 402 // Highest from vault: 418
+# Mythic+ Trinkets (End of Run): 376/379/382/385/389/392/395/398/402/405
+# Mythic+ Trinkets (Great Vault): 408/411/415/418/421
+# Highest from key: 405 // Highest from vault: 421
 
-# TODO: consider adding non-s1 DF mythic-0 trinkets (372)
+# TODO: consider adding non-s1 DF mythic-0 trinkets
 
 # Court of Stars
-## Flask_of_the_Solemn_Night 137484 (healer trinket)
-# profileset."Flask_of_the_Solemn_Night_372"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=372
-# profileset."Flask_of_the_Solemn_Night_376"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=376
-# profileset."Flask_of_the_Solemn_Night_379"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=379
-# profileset."Flask_of_the_Solemn_Night_382"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=382
-# profileset."Flask_of_the_Solemn_Night_385"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=385
-# profileset."Flask_of_the_Solemn_Night_389"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=389
-# profileset."Flask_of_the_Solemn_Night_392"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=392
-# profileset."Flask_of_the_Solemn_Night_395"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=395
-# profileset."Flask_of_the_Solemn_Night_398"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=398
-# profileset."Flask_of_the_Solemn_Night_402"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=402
-# profileset."Flask_of_the_Solemn_Night_405"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=405
-# profileset."Flask_of_the_Solemn_Night_408"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=408
-# profileset."Flask_of_the_Solemn_Night_411"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=411
-# profileset."Flask_of_the_Solemn_Night_415"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=415
-# profileset."Flask_of_the_Solemn_Night_418"+=trinket1=flask_of_the_solemn_night,id=137484,ilevel=418
-
-profileset."Infernal_Wrist_372"+=trinket1=infernal_wrist,id=137485,ilevel=372
 profileset."Infernal_Wrist_376"+=trinket1=infernal_wrist,id=137485,ilevel=376
 profileset."Infernal_Wrist_379"+=trinket1=infernal_wrist,id=137485,ilevel=379
 profileset."Infernal_Wrist_382"+=trinket1=infernal_wrist,id=137485,ilevel=382
@@ -63,9 +45,9 @@ profileset."Infernal_Wrist_408"+=trinket1=infernal_wrist,id=137485,ilevel=408
 profileset."Infernal_Wrist_411"+=trinket1=infernal_wrist,id=137485,ilevel=411
 profileset."Infernal_Wrist_415"+=trinket1=infernal_wrist,id=137485,ilevel=415
 profileset."Infernal_Wrist_418"+=trinket1=infernal_wrist,id=137485,ilevel=418
+profileset."Infernal_Wrist_421"+=trinket1=infernal_wrist,id=137485,ilevel=421
 
 # Halls of Valor
-profileset."Eye_of_Skovald_372"+=trinket1=eye_of_skovald,id=133641,ilevel=372
 profileset."Eye_of_Skovald_376"+=trinket1=eye_of_skovald,id=133641,ilevel=376
 profileset."Eye_of_Skovald_379"+=trinket1=eye_of_skovald,id=133641,ilevel=379
 profileset."Eye_of_Skovald_382"+=trinket1=eye_of_skovald,id=133641,ilevel=382
@@ -80,8 +62,8 @@ profileset."Eye_of_Skovald_408"+=trinket1=eye_of_skovald,id=133641,ilevel=408
 profileset."Eye_of_Skovald_411"+=trinket1=eye_of_skovald,id=133641,ilevel=411
 profileset."Eye_of_Skovald_415"+=trinket1=eye_of_skovald,id=133641,ilevel=415
 profileset."Eye_of_Skovald_418"+=trinket1=eye_of_skovald,id=133641,ilevel=418
+profileset."Eye_of_Skovald_421"+=trinket1=eye_of_skovald,id=133641,ilevel=421
 
-profileset."Horn_of_Valor_372"+=trinket1=horn_of_valor,id=133642,ilevel=372
 profileset."Horn_of_Valor_376"+=trinket1=horn_of_valor,id=133642,ilevel=376
 profileset."Horn_of_Valor_379"+=trinket1=horn_of_valor,id=133642,ilevel=379
 profileset."Horn_of_Valor_382"+=trinket1=horn_of_valor,id=133642,ilevel=382
@@ -96,9 +78,9 @@ profileset."Horn_of_Valor_408"+=trinket1=horn_of_valor,id=133642,ilevel=408
 profileset."Horn_of_Valor_411"+=trinket1=horn_of_valor,id=133642,ilevel=411
 profileset."Horn_of_Valor_415"+=trinket1=horn_of_valor,id=133642,ilevel=415
 profileset."Horn_of_Valor_418"+=trinket1=horn_of_valor,id=133642,ilevel=418
+profileset."Horn_of_Valor_421"+=trinket1=horn_of_valor,id=133642,ilevel=421
 
 # Shadowmoon Burial Grounds
-profileset."Voidmenders_Shadowgem_372"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=372
 profileset."Voidmenders_Shadowgem_376"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=376
 profileset."Voidmenders_Shadowgem_379"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=379
 profileset."Voidmenders_Shadowgem_382"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=382
@@ -113,13 +95,13 @@ profileset."Voidmenders_Shadowgem_408"+=trinket1=voidmenders_shadowgem,id=110007
 profileset."Voidmenders_Shadowgem_411"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=411
 profileset."Voidmenders_Shadowgem_415"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=415
 profileset."Voidmenders_Shadowgem_418"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=418
+profileset."Voidmenders_Shadowgem_421"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=421
 
 # Temple of the Jade Serpent
 
 # Algeth'ar Academy
 ## Emerald_Coachs_Whistle 193718 (healer trinket)
 ## We can put this on an ally and when they do damage we get the proc as well
-profileset."Emerald_Coachs_Whistle_372"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=372
 profileset."Emerald_Coachs_Whistle_376"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=376
 profileset."Emerald_Coachs_Whistle_379"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=379
 profileset."Emerald_Coachs_Whistle_382"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=382
@@ -134,9 +116,9 @@ profileset."Emerald_Coachs_Whistle_408"+=trinket1=emerald_coachs_whistle,id=1937
 profileset."Emerald_Coachs_Whistle_411"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=411
 profileset."Emerald_Coachs_Whistle_415"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=415
 profileset."Emerald_Coachs_Whistle_418"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=418
+profileset."Emerald_Coachs_Whistle_421"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=421
 
 # Ruby Life Pools
-profileset."Blazebinders_Hoof_372"+=trinket1=blazebinders_hoof,id=193762,ilevel=372
 profileset."Blazebinders_Hoof_376"+=trinket1=blazebinders_hoof,id=193762,ilevel=376
 profileset."Blazebinders_Hoof_379"+=trinket1=blazebinders_hoof,id=193762,ilevel=379
 profileset."Blazebinders_Hoof_382"+=trinket1=blazebinders_hoof,id=193762,ilevel=382
@@ -151,8 +133,8 @@ profileset."Blazebinders_Hoof_408"+=trinket1=blazebinders_hoof,id=193762,ilevel=
 profileset."Blazebinders_Hoof_411"+=trinket1=blazebinders_hoof,id=193762,ilevel=411
 profileset."Blazebinders_Hoof_415"+=trinket1=blazebinders_hoof,id=193762,ilevel=415
 profileset."Blazebinders_Hoof_418"+=trinket1=blazebinders_hoof,id=193762,ilevel=418
+profileset."Blazebinders_Hoof_421"+=trinket1=blazebinders_hoof,id=193762,ilevel=421
 
-profileset."Ruby_Whelp_Shell_372"+=trinket1=ruby_whelp_shell,id=193757,ilevel=372
 profileset."Ruby_Whelp_Shell_376"+=trinket1=ruby_whelp_shell,id=193757,ilevel=376
 profileset."Ruby_Whelp_Shell_379"+=trinket1=ruby_whelp_shell,id=193757,ilevel=379
 profileset."Ruby_Whelp_Shell_382"+=trinket1=ruby_whelp_shell,id=193757,ilevel=382
@@ -167,9 +149,9 @@ profileset."Ruby_Whelp_Shell_408"+=trinket1=ruby_whelp_shell,id=193757,ilevel=40
 profileset."Ruby_Whelp_Shell_411"+=trinket1=ruby_whelp_shell,id=193757,ilevel=411
 profileset."Ruby_Whelp_Shell_415"+=trinket1=ruby_whelp_shell,id=193757,ilevel=415
 profileset."Ruby_Whelp_Shell_418"+=trinket1=ruby_whelp_shell,id=193757,ilevel=418
+profileset."Ruby_Whelp_Shell_421"+=trinket1=ruby_whelp_shell,id=193757,ilevel=421
 
 # The Azure Vault
-profileset."Tome_of_Unstable_Power_372"+=trinket1=tome_of_unstable_power,id=193628,ilevel=372
 profileset."Tome_of_Unstable_Power_376"+=trinket1=tome_of_unstable_power,id=193628,ilevel=376
 profileset."Tome_of_Unstable_Power_379"+=trinket1=tome_of_unstable_power,id=193628,ilevel=379
 profileset."Tome_of_Unstable_Power_382"+=trinket1=tome_of_unstable_power,id=193628,ilevel=382
@@ -184,8 +166,8 @@ profileset."Tome_of_Unstable_Power_408"+=trinket1=tome_of_unstable_power,id=1936
 profileset."Tome_of_Unstable_Power_411"+=trinket1=tome_of_unstable_power,id=193628,ilevel=411
 profileset."Tome_of_Unstable_Power_415"+=trinket1=tome_of_unstable_power,id=193628,ilevel=415
 profileset."Tome_of_Unstable_Power_418"+=trinket1=tome_of_unstable_power,id=193628,ilevel=418
+profileset."Tome_of_Unstable_Power_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
 
-profileset."Umbrelskuls_Fractured_Heart_372"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=372
 profileset."Umbrelskuls_Fractured_Heart_376"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=376
 profileset."Umbrelskuls_Fractured_Heart_379"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=379
 profileset."Umbrelskuls_Fractured_Heart_382"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=382
@@ -200,9 +182,9 @@ profileset."Umbrelskuls_Fractured_Heart_408"+=trinket1=umbrelskuls_fractured_hea
 profileset."Umbrelskuls_Fractured_Heart_411"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=411
 profileset."Umbrelskuls_Fractured_Heart_415"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=415
 profileset."Umbrelskuls_Fractured_Heart_418"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=418
+profileset."Umbrelskuls_Fractured_Heart_421"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=421
 
 # The Nokhud Offensive
-profileset."Furious_Ragefeather_372"+=trinket1=furious_ragefeather,id=193677,ilevel=372
 profileset."Furious_Ragefeather_376"+=trinket1=furious_ragefeather,id=193677,ilevel=376
 profileset."Furious_Ragefeather_379"+=trinket1=furious_ragefeather,id=193677,ilevel=379
 profileset."Furious_Ragefeather_382"+=trinket1=furious_ragefeather,id=193677,ilevel=382
@@ -217,3 +199,4 @@ profileset."Furious_Ragefeather_408"+=trinket1=furious_ragefeather,id=193677,ile
 profileset."Furious_Ragefeather_411"+=trinket1=furious_ragefeather,id=193677,ilevel=411
 profileset."Furious_Ragefeather_415"+=trinket1=furious_ragefeather,id=193677,ilevel=415
 profileset."Furious_Ragefeather_418"+=trinket1=furious_ragefeather,id=193677,ilevel=418
+profileset."Furious_Ragefeather_421"+=trinket1=furious_ragefeather,id=193677,ilevel=421

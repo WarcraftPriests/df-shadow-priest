@@ -27,24 +27,6 @@ ${gear.off_hand}
 
 food=disabled
 augmentation=disabled
-potion=disabled
-flask=disabled
-
-# Flasks/Phials
-profileset."Iced_Phial_of_Corrupting_Rage"+=flask=iced_phial_of_corrupting_rage
-profileset."Phial_of_Charged_Isolation"+=flask=phial_of_charged_isolation
-profileset."Phial_of_Elemental_Chaos"+=flask=phial_of_elemental_chaos
-profileset."Phial_of_Glacial_Fury"+=flask=phial_of_glacial_fury
-profileset."Phial_of_Static_Empowerment"+=flask=phial_of_static_empowerment
-profileset."Phial_of_Tepid_Versatility"+=flask=phial_of_tepid_versatility
-# phial_of_eye_in_the_storm (tank only probs)
-
-# Potions
-profileset."Bottled_Putrescence"+=potion=bottled_putrescence
-profileset."Elemental_Potion_of_Power"+=potion=elemental_potion_of_power
-# might be elemental_power
-profileset."Elemental_Potion_of_Ultimate_Power"+=potion=elemental_potion_of_ultimate_power
-profileset."Potion_of_Shocking_Disclosure"+=potion=potion_of_shocking_disclosure
 
 # Runes
 profileset."Draconic_Augment_Rune"+=augmentation=draconic_augment_rune

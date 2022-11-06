@@ -1,0 +1,34 @@
+# Dungeons - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|56655|6.39%|
+|Phial_of_Charged_Isolation_3|56538|6.17%|
+|Phial_of_Static_Empowerment_2|56189|5.52%|
+|Phial_of_Charged_Isolation_2|56111|5.37%|
+|Iced_Phial_of_Corrupting_Rage_3|56089|5.33%|
+|Iced_Phial_of_Corrupting_Rage_2|55898|4.97%|
+|Phial_of_Static_Empowerment_1|55884|4.94%|
+|Phial_of_Glacial_Fury_3|55735|4.66%|
+|Phial_of_Charged_Isolation_1|55717|4.63%|
+|Iced_Phial_of_Corrupting_Rage_1|55650|4.51%|
+|Phial_of_Glacial_Fury_2|55335|3.91%|
+|Phial_of_Tepid_Versatility_3|55110|3.49%|
+|Phial_of_Glacial_Fury_1|55051|3.38%|
+|Phial_of_Elemental_Chaos_3|54994|3.27%|
+|Phial_of_Tepid_Versatility_2|54982|3.25%|
+|Phial_of_Tepid_Versatility_1|54806|2.92%|
+|Phial_of_Elemental_Chaos_2|54759|2.83%|
+|Phial_of_Elemental_Chaos_1|54706|2.73%|
+|Bottled_Putrescence_3|54675|2.67%|
+|Bottled_Putrescence_2|54395|2.15%|
+|Bottled_Putrescence_1|54255|1.89%|
+|Elemental_Potion_of_Ultimate_Power_3|54175|1.74%|
+|Elemental_Potion_of_Ultimate_Power_2|54009|1.42%|
+|Elemental_Potion_of_Ultimate_Power_1|53998|1.40%|
+|Elemental_Potion_of_Power_3|53942|1.30%|
+|Elemental_Potion_of_Power_2|53804|1.04%|
+|Elemental_Potion_of_Power_1|53730|0.90%|
+|Potion_of_Shocking_Disclosure_3|53564|0.59%|
+|Potion_of_Shocking_Disclosure_1|53515|0.50%|
+|Potion_of_Shocking_Disclosure_2|53481|0.43%|
+|Base|53251|0.00%|

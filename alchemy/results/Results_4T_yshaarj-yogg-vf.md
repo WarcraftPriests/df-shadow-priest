@@ -1,0 +1,34 @@
+# 4T - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|86477|6.53%|
+|Phial_of_Charged_Isolation_3|86295|6.31%|
+|Phial_of_Static_Empowerment_2|85762|5.65%|
+|Iced_Phial_of_Corrupting_Rage_3|85600|5.45%|
+|Phial_of_Charged_Isolation_2|85588|5.44%|
+|Iced_Phial_of_Corrupting_Rage_2|85268|5.04%|
+|Phial_of_Static_Empowerment_1|85099|4.84%|
+|Phial_of_Charged_Isolation_1|85009|4.73%|
+|Iced_Phial_of_Corrupting_Rage_1|84928|4.63%|
+|Phial_of_Tepid_Versatility_3|83964|3.44%|
+|Phial_of_Elemental_Chaos_3|83803|3.24%|
+|Phial_of_Tepid_Versatility_2|83791|3.23%|
+|Phial_of_Elemental_Chaos_2|83586|2.97%|
+|Phial_of_Tepid_Versatility_1|83523|2.89%|
+|Phial_of_Glacial_Fury_3|83396|2.74%|
+|Phial_of_Elemental_Chaos_1|83293|2.61%|
+|Phial_of_Glacial_Fury_2|83100|2.37%|
+|Phial_of_Glacial_Fury_1|82858|2.08%|
+|Elemental_Potion_of_Ultimate_Power_3|82356|1.46%|
+|Elemental_Potion_of_Ultimate_Power_2|82211|1.28%|
+|Elemental_Potion_of_Power_3|82088|1.13%|
+|Bottled_Putrescence_3|82077|1.11%|
+|Elemental_Potion_of_Ultimate_Power_1|82030|1.06%|
+|Bottled_Putrescence_2|81980|1.00%|
+|Elemental_Potion_of_Power_2|81973|0.99%|
+|Bottled_Putrescence_1|81862|0.85%|
+|Elemental_Potion_of_Power_1|81859|0.85%|
+|Potion_of_Shocking_Disclosure_3|81327|0.19%|
+|Potion_of_Shocking_Disclosure_1|81323|0.19%|
+|Potion_of_Shocking_Disclosure_2|81297|0.15%|
+|Base|81173|0.00%|

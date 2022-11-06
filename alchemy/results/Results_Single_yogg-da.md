@@ -1,0 +1,34 @@
+# Single - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Charged_Isolation_3|60655|6.31%|
+|Phial_of_Static_Empowerment_3|60580|6.18%|
+|Phial_of_Charged_Isolation_2|60172|5.46%|
+|Phial_of_Static_Empowerment_2|60118|5.37%|
+|Iced_Phial_of_Corrupting_Rage_3|60113|5.36%|
+|Iced_Phial_of_Corrupting_Rage_2|59863|4.92%|
+|Phial_of_Charged_Isolation_1|59775|4.76%|
+|Phial_of_Static_Empowerment_1|59700|4.63%|
+|Iced_Phial_of_Corrupting_Rage_1|59646|4.54%|
+|Phial_of_Tepid_Versatility_3|59076|3.54%|
+|Phial_of_Elemental_Chaos_3|58989|3.39%|
+|Phial_of_Tepid_Versatility_2|58877|3.19%|
+|Phial_of_Elemental_Chaos_2|58832|3.11%|
+|Phial_of_Tepid_Versatility_1|58729|2.93%|
+|Phial_of_Elemental_Chaos_1|58708|2.89%|
+|Elemental_Potion_of_Ultimate_Power_3|58056|1.75%|
+|Elemental_Potion_of_Ultimate_Power_2|57918|1.51%|
+|Phial_of_Glacial_Fury_3|57885|1.45%|
+|Elemental_Potion_of_Ultimate_Power_1|57839|1.37%|
+|Elemental_Potion_of_Power_3|57797|1.30%|
+|Phial_of_Glacial_Fury_2|57766|1.24%|
+|Elemental_Potion_of_Power_2|57705|1.14%|
+|Phial_of_Glacial_Fury_1|57654|1.05%|
+|Elemental_Potion_of_Power_1|57606|0.96%|
+|Bottled_Putrescence_3|57490|0.76%|
+|Bottled_Putrescence_2|57456|0.70%|
+|Potion_of_Shocking_Disclosure_3|57453|0.69%|
+|Potion_of_Shocking_Disclosure_2|57393|0.59%|
+|Bottled_Putrescence_1|57373|0.55%|
+|Potion_of_Shocking_Disclosure_1|57342|0.50%|
+|Base|57057|0.00%|

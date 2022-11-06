@@ -1,0 +1,1 @@
+{"name": "Composite - yogg-da", "data": {"T29-2_4-set": {"DPS": 66476}, "T29-2-set": {"DPS": 63519}, "Base": {"DPS": 61582}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-11-05"}

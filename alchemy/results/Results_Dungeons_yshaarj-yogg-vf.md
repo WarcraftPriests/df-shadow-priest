@@ -1,0 +1,34 @@
+# Dungeons - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|57356|6.45%|
+|Phial_of_Charged_Isolation_3|57264|6.28%|
+|Phial_of_Static_Empowerment_2|56954|5.70%|
+|Iced_Phial_of_Corrupting_Rage_3|56941|5.68%|
+|Phial_of_Charged_Isolation_2|56839|5.49%|
+|Iced_Phial_of_Corrupting_Rage_2|56674|5.18%|
+|Phial_of_Static_Empowerment_1|56484|4.83%|
+|Phial_of_Charged_Isolation_1|56429|4.73%|
+|Iced_Phial_of_Corrupting_Rage_1|56391|4.66%|
+|Phial_of_Glacial_Fury_3|56263|4.42%|
+|Phial_of_Glacial_Fury_2|55840|3.64%|
+|Phial_of_Tepid_Versatility_3|55816|3.59%|
+|Phial_of_Glacial_Fury_1|55646|3.28%|
+|Phial_of_Elemental_Chaos_3|55632|3.25%|
+|Phial_of_Tepid_Versatility_2|55601|3.19%|
+|Phial_of_Elemental_Chaos_2|55559|3.11%|
+|Phial_of_Tepid_Versatility_1|55501|3.01%|
+|Phial_of_Elemental_Chaos_1|55367|2.76%|
+|Elemental_Potion_of_Ultimate_Power_3|54557|1.25%|
+|Elemental_Potion_of_Ultimate_Power_2|54454|1.06%|
+|Elemental_Potion_of_Power_3|54415|0.99%|
+|Elemental_Potion_of_Ultimate_Power_1|54406|0.97%|
+|Elemental_Potion_of_Power_2|54310|0.80%|
+|Elemental_Potion_of_Power_1|54268|0.72%|
+|Bottled_Putrescence_3|54230|0.65%|
+|Bottled_Putrescence_2|54192|0.58%|
+|Bottled_Putrescence_1|54163|0.52%|
+|Potion_of_Shocking_Disclosure_3|54149|0.50%|
+|Potion_of_Shocking_Disclosure_2|54094|0.40%|
+|Potion_of_Shocking_Disclosure_1|54010|0.24%|
+|Base|53881|0.00%|

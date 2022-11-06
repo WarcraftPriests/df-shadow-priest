@@ -189,7 +189,10 @@ def build_profiles(talent_string):
 
             # insert talents based on profile
             if talents_expr:
-                target_count = int(profile[-1])
+                if args.dungeons:
+                    target_count = 0
+                else:
+                    target_count = int(profile[-1])
                 if profile in config["singleTargetProfiles"]:
                     new_talents = config["builds"][talent_string]["single"]
                     sim_data = replace_talents(new_talents, sim_data)

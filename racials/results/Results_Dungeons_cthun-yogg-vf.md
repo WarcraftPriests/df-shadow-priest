@@ -1,0 +1,34 @@
+# Dungeons - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|53867|1.54%|
+|Orc|53840|1.49%|
+|Gnome|53827|1.46%|
+|Goblin|53762|1.34%|
+|Night_Elf_Haste|53723|1.27%|
+|Draenei|53694|1.21%|
+|Blood_Elf|53683|1.19%|
+|Human|53615|1.07%|
+|Highmountain_Tauren|53579|1.00%|
+|Zandalari_Troll_Paku|53573|0.99%|
+|Worgen|53571|0.98%|
+|Night_Elf_Crit|53552|0.95%|
+|Kul_Tiran|53549|0.94%|
+|Dark_Iron_Dwarf|53540|0.92%|
+|Nightborne|53427|0.71%|
+|Void_Elf|53420|0.70%|
+|Maghar_Orc|53408|0.67%|
+|Lightforged_Draenei|53381|0.62%|
+|Zandalari_Troll_Bwonsamdi|53273|0.42%|
+|Dwarf|53257|0.39%|
+|Undead|53241|0.36%|
+|Mechagnome|53233|0.34%|
+|Panda_Feast|53198|0.28%|
+|Tauren|53195|0.27%|
+|Zandalari_Troll_Kimbul|53195|0.27%|
+|Panda_Haste|53139|0.17%|
+|Panda_Crit|53110|0.11%|
+|Panda_Vers|53102|0.10%|
+|Panda_Mastery|53098|0.09%|
+|Base|53050|0.00%|
+|Vulpera|53044|-0.01%|

@@ -1,0 +1,34 @@
+# Dungeons - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|54530|1.42%|
+|Night_Elf_Haste|54449|1.27%|
+|Gnome|54433|1.24%|
+|Draenei|54401|1.18%|
+|Goblin|54393|1.17%|
+|Highmountain_Tauren|54336|1.06%|
+|Dark_Iron_Dwarf|54333|1.06%|
+|Blood_Elf|54317|1.03%|
+|Human|54317|1.03%|
+|Kul_Tiran|54310|1.01%|
+|Lightforged_Draenei|54301|1.00%|
+|Void_Elf|54294|0.98%|
+|Worgen|54289|0.97%|
+|Zandalari_Troll_Paku|54285|0.97%|
+|Troll|54274|0.95%|
+|Night_Elf_Crit|54268|0.94%|
+|Nightborne|54212|0.83%|
+|Maghar_Orc|54056|0.54%|
+|Tauren|54042|0.52%|
+|Dwarf|54022|0.48%|
+|Mechagnome|53967|0.38%|
+|Undead|53964|0.37%|
+|Zandalari_Troll_Bwonsamdi|53958|0.36%|
+|Zandalari_Troll_Kimbul|53936|0.32%|
+|Panda_Haste|53928|0.30%|
+|Panda_Vers|53912|0.27%|
+|Panda_Feast|53911|0.27%|
+|Panda_Crit|53852|0.16%|
+|Panda_Mastery|53815|0.09%|
+|Vulpera|53788|0.04%|
+|Base|53765|0.00%|

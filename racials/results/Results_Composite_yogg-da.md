@@ -1,0 +1,34 @@
+# Composite - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|67560|1.62%|
+|Troll|67444|1.45%|
+|Goblin|67292|1.22%|
+|Gnome|67286|1.21%|
+|Night_Elf_Haste|67284|1.21%|
+|Dark_Iron_Dwarf|67255|1.16%|
+|Draenei|67244|1.15%|
+|Void_Elf|67185|1.06%|
+|Blood_Elf|67141|0.99%|
+|Human|67136|0.98%|
+|Kul_Tiran|67112|0.95%|
+|Highmountain_Tauren|67100|0.93%|
+|Zandalari_Troll_Paku|67081|0.90%|
+|Night_Elf_Crit|67053|0.86%|
+|Worgen|67026|0.82%|
+|Nightborne|67013|0.80%|
+|Maghar_Orc|66937|0.68%|
+|Dwarf|66803|0.48%|
+|Tauren|66795|0.47%|
+|Mechagnome|66715|0.35%|
+|Zandalari_Troll_Kimbul|66688|0.31%|
+|Zandalari_Troll_Bwonsamdi|66681|0.30%|
+|Undead|66644|0.24%|
+|Panda_Haste|66641|0.24%|
+|Lightforged_Draenei|66633|0.23%|
+|Panda_Feast|66617|0.20%|
+|Panda_Mastery|66526|0.07%|
+|Panda_Crit|66525|0.06%|
+|Panda_Vers|66512|0.04%|
+|Base|66483|0.00%|
+|Vulpera|66476|-0.01%|

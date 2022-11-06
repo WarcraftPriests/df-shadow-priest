@@ -1,0 +1,34 @@
+# 4T - yogg-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|80827|1.63%|
+|Troll|80776|1.57%|
+|Night_Elf_Haste|80624|1.37%|
+|Goblin|80623|1.37%|
+|Gnome|80602|1.35%|
+|Dark_Iron_Dwarf|80456|1.16%|
+|Draenei|80424|1.12%|
+|Human|80333|1.01%|
+|Blood_Elf|80314|0.99%|
+|Highmountain_Tauren|80297|0.96%|
+|Kul_Tiran|80286|0.95%|
+|Zandalari_Troll_Paku|80267|0.93%|
+|Worgen|80178|0.81%|
+|Night_Elf_Crit|80176|0.81%|
+|Nightborne|80147|0.78%|
+|Void_Elf|80051|0.65%|
+|Maghar_Orc|80014|0.61%|
+|Dwarf|79952|0.53%|
+|Lightforged_Draenei|79908|0.48%|
+|Tauren|79902|0.47%|
+|Mechagnome|79869|0.43%|
+|Panda_Haste|79719|0.24%|
+|Zandalari_Troll_Bwonsamdi|79715|0.23%|
+|Panda_Feast|79706|0.22%|
+|Zandalari_Troll_Kimbul|79701|0.21%|
+|Panda_Crit|79656|0.16%|
+|Undead|79641|0.14%|
+|Panda_Mastery|79564|0.04%|
+|Vulpera|79533|0.00%|
+|Base|79530|0.00%|
+|Panda_Vers|79517|-0.02%|

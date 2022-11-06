@@ -1,0 +1,34 @@
+# 2T - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|72899|1.60%|
+|Troll|72755|1.40%|
+|Draenei|72578|1.16%|
+|Goblin|72567|1.14%|
+|Dark_Iron_Dwarf|72563|1.14%|
+|Gnome|72562|1.14%|
+|Night_Elf_Haste|72558|1.13%|
+|Blood_Elf|72515|1.07%|
+|Kul_Tiran|72421|0.94%|
+|Zandalari_Troll_Paku|72417|0.93%|
+|Void_Elf|72413|0.93%|
+|Night_Elf_Crit|72412|0.93%|
+|Highmountain_Tauren|72390|0.90%|
+|Worgen|72387|0.89%|
+|Human|72380|0.88%|
+|Nightborne|72312|0.79%|
+|Maghar_Orc|72230|0.67%|
+|Dwarf|72003|0.36%|
+|Mechagnome|72003|0.36%|
+|Tauren|71967|0.31%|
+|Zandalari_Troll_Kimbul|71957|0.29%|
+|Zandalari_Troll_Bwonsamdi|71927|0.25%|
+|Undead|71908|0.22%|
+|Panda_Feast|71901|0.21%|
+|Panda_Haste|71818|0.10%|
+|Lightforged_Draenei|71804|0.08%|
+|Panda_Vers|71794|0.06%|
+|Panda_Mastery|71791|0.06%|
+|Panda_Crit|71766|0.03%|
+|Vulpera|71750|0.00%|
+|Base|71748|0.00%|
