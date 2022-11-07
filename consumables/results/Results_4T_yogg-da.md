@@ -1,18 +1,18 @@
 # 4T - yogg-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|79859|0.83%|
-|Fated_Fortune_Cookie|79838|0.80%|
-|Sizzling_Seafood_Medley|79618|0.53%|
-|Timely_Demise|79607|0.51%|
-|Feisty_Fish_Sticks|79584|0.48%|
-|Roast_Duck_Delight|79566|0.46%|
-|Great_Cerulean_Sea|79563|0.46%|
-|Aromatic_Seafood_Platter|79529|0.41%|
-|Revenge_Served_Cold|79528|0.41%|
-|Seamoth_Surprise|79509|0.39%|
-|Thousandbone_Tongueslicer|79470|0.34%|
-|Filet_of_Fangs|79453|0.32%|
-|Thrice_Spiced_Mammoth_Kabob|79426|0.28%|
-|Salt_Baked_Fishcake|79422|0.28%|
-|Base|79201|0.00%|
+|Draconic_Augment_Rune|79932|0.90%|
+|Fated_Fortune_Cookie|79843|0.79%|
+|Timely_Demise|79675|0.57%|
+|Feisty_Fish_Sticks|79620|0.50%|
+|Revenge_Served_Cold|79557|0.42%|
+|Sizzling_Seafood_Medley|79548|0.41%|
+|Thousandbone_Tongueslicer|79546|0.41%|
+|Aromatic_Seafood_Platter|79544|0.41%|
+|Roast_Duck_Delight|79518|0.37%|
+|Great_Cerulean_Sea|79505|0.36%|
+|Filet_of_Fangs|79444|0.28%|
+|Seamoth_Surprise|79427|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|79393|0.22%|
+|Salt_Baked_Fishcake|79381|0.20%|
+|Base|79221|0.00%|
