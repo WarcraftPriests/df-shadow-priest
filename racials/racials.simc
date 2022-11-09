@@ -25,8 +25,10 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# arcane pulse not worth using
 profileset."Nightborne"+=race=nightborne
 
+# use this at low priority all time time, can sync with adds
 profileset."Lightforged_Draenei"+=race=lightforged_draenei
 
 profileset."Void_Elf"+=race=void_elf
@@ -47,16 +49,18 @@ profileset."Draenei"+=race=draenei
 
 profileset."Worgen"+=race=worgen
 
-profileset."Panda_Feast"+=race=pandaren
-profileset."Panda_Feast"+=food=feast_of_gluttonous_hedonism
+# profileset."Panda_Feast"+=race=pandaren
+# profileset."Panda_Feast"+=food=feast_of_gluttonous_hedonism
+profileset."Panda_Fortune_Cookie"+=race=pandaren
+profileset."Panda_Fortune_Cookie"+=food=fated_fortune_cookie
 profileset."Panda_Haste"+=race=pandaren
-profileset."Panda_Haste"+=food=tenebrous_crown_roast_aspic
+profileset."Panda_Haste"+=food=timely_demise
 profileset."Panda_Crit"+=race=pandaren
-profileset."Panda_Crit"+=food=spinefin_souffle_and_fries
+profileset."Panda_Crit"+=food=filet_of_fangs
 profileset."Panda_Mastery"+=race=pandaren
-profileset."Panda_Mastery"+=food=iridescent_ravioli_with_apple_sauce
+profileset."Panda_Mastery"+=food=saltbaked_fishcake
 profileset."Panda_Vers"+=race=pandaren
-profileset."Panda_Vers"+=food=steak_a_la_mode
+profileset."Panda_Vers"+=food=seamoth_surprise
 
 profileset."Undead"+=race=undead
 
@@ -64,14 +68,19 @@ profileset."Tauren"+=race=tauren
 
 profileset."Goblin"+=race=goblin
 
+# sync with power infusion
 profileset."Troll"+=race=troll
 
+# only use arcane_torrent in precombat, dps loss otherwise
 profileset."Blood_Elf"+=race=blood_elf
 
+# sync with power infusion
 profileset."Dark_Iron_Dwarf"+=race=dark_iron_dwarf
 
+# sync with power infusion
 profileset."Maghar_Orc"+=race=maghar_orc
 
+# not used
 profileset."Kul_Tiran"+=race=kul_tiran
 
 profileset."Zandalari_Troll_Kimbul"+=race=zandalari_troll
@@ -83,11 +92,21 @@ profileset."Zandalari_Troll_Paku"+=zandalari_loa=paku
 profileset."Zandalari_Troll_Bwonsamdi"+=race=zandalari_troll
 profileset."Zandalari_Troll_Bwonsamdi"+=zandalari_loa=bwonsamdi
 
+# these options just change the spell school
+# even dps or loss to use bag of tricks over filler spells out of cds
 profileset."Vulpera"+=race=vulpera
+# profileset."Vulpera_Corrosive"+=race=vulpera
+# profileset."Vulpera_Corrosive"+=vulpera_tricks=corrosive
+
+# profileset."Vulpera_Flames"+=race=vulpera
+# profileset."Vulpera_Flames"+=vulpera_tricks=flames
+
+# profileset."Vulpera_Shadows"+=race=vulpera
+# profileset."Vulpera_Shadows"+=vulpera_tricks=shadows
 
 profileset."Mechagnome"+=race=mechagnome
 
-# 10.0 racials
+# sync with power infusion
 profileset."Orc"+=race=orc
 
 profileset."Highmountain_Tauren"+=race=highmountain_tauren

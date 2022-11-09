@@ -1,1 +1,1 @@
-{"name": "Single - yogg-da", "data": {"T29-2_4-set": {"DPS": 57680}, "T29-2-set": {"DPS": 55205}, "Base": {"DPS": 53495}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-11-07"}
+{"name": "Single - yogg-da", "data": {"T29-2_4-set": {"DPS": 57734}, "T29-2-set": {"DPS": 55255}, "Base": {"DPS": 53537}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-11-08"}

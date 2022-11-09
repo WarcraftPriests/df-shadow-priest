@@ -50,11 +50,6 @@ profileset."Senseis_Alexstraszite_385"+=main_hand=${gear.main_hand},enchant_id=6
 profileset."Senseis_Alexstraszite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192921
 profileset."Senseis_Alexstraszite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192922
 
-# Queen's Ruby
-profileset."Crafty_Queens_Ruby_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192900
-profileset."Crafty_Queens_Ruby_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192901
-profileset."Crafty_Queens_Ruby_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192902
-
 # Ysemerald
 profileset."Crafty_Ysemerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192943
 profileset."Crafty_Ysemerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192944
@@ -89,11 +84,6 @@ profileset."Zen_Malygite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_i
 profileset."Zen_Malygite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192937
 profileset."Zen_Malygite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192938
 
-# Vibrant Emerald
-profileset."Energized_Vibrant_Emerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192906
-profileset."Energized_Vibrant_Emerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192907
-profileset."Energized_Vibrant_Emerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192908
-
 # Illimited Diamond
 profileset."Fierce_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192983
 profileset."Fierce_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192984
@@ -110,11 +100,6 @@ profileset."Resplendent_Illimited_Diamond_415"+=main_hand=${gear.main_hand},ench
 profileset."Skillful_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192986
 profileset."Skillful_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192987
 profileset."Skillful_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192988
-
-## Speed?
-# profileset."Straddling_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194112
-# profileset."Straddling_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194113
-# profileset."Straddling_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194114
 
 # Nozdorite
 profileset."Forceful_Nozdorite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192971
@@ -149,6 +134,21 @@ profileset."Senseis_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643
 profileset."Zen_Neltharite_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192962
 profileset."Zen_Neltharite_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192963
 profileset."Zen_Neltharite_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192964
+
+# Speed?
+# profileset."Straddling_Illimited_Diamond_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194112
+# profileset."Straddling_Illimited_Diamond_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194113
+# profileset."Straddling_Illimited_Diamond_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194114
+
+# Vibrant Emerald
+profileset."Energized_Vibrant_Emerald_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192906
+profileset."Energized_Vibrant_Emerald_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192907
+profileset."Energized_Vibrant_Emerald_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192908
+
+# Queen's Ruby
+profileset."Crafty_Queens_Ruby_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192900
+profileset."Crafty_Queens_Ruby_400"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192901
+profileset."Crafty_Queens_Ruby_415"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192902
 
 # Sundered Onyx
 profileset."Senseis_Sundered_Onyx_385"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192910

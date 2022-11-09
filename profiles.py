@@ -121,7 +121,7 @@ def build_simc_file(talent_string, profile_name):
 def replace_talents(talent_string, data):
     """Replaces the talents variable with the talent string given"""
     if "talents=" in data:
-        data = re.sub(r'talents=.*', f"talents={talent_string}", data, 1)
+        data = re.sub(r'talents=.*', f"talents={talent_string}", data)
     else:
         data.replace(
             "spec=shadow", f"spec=shadow\ntalents={talent_string}")

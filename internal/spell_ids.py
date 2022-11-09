@@ -1,5 +1,5 @@
 """spell ids to be used in json result files"""
-consumables = {
+alchemy = {
     "Iced_Phial_of_Corrupting_Rage": 191329,
     "Phial_of_Charged_Isolation": 191332,
     "Phial_of_Elemental_Chaos": 191359,
@@ -9,7 +9,10 @@ consumables = {
     "Bottled_Putrescence": 191362,
     "Elemental_Potion_of_Power": 191389,
     "Elemental_Potion_of_Ultimate_Power": 191383,
-    "Potion_of_Shocking_Disclosure": 191401,
+    "Potion_of_Shocking_Disclosure": 191401
+}
+
+consumables = {
     "Draconic_Augment_Rune": 201325,
     "Yusas_Hearty_Stew": 197793,
     "Grand_Banquet_of_the_Kaluak": 197794,
@@ -53,6 +56,38 @@ enchants = {
     "Ring_Writ_of_Versatility": 200044,
 }
 
+gems = {
+    "Crafty_Alexstraszite": 192919,
+    "Deadly_Alexstraszite": 192928,
+    "Radiant_Alexstraszite": 192925,
+    "Senseis_Alexstraszite": 192922,
+    "Crafty_Ysemerald": 192945,
+    "Energized_Ysemerald": 192952,
+    "Keen_Ysemerald": 192948,
+    "Quick_Ysemerald": 192955,
+    "Energized_Malygite": 192935,
+    "Radiant_Malygite": 192932,
+    "Stormy_Malygite": 192942,
+    "Zen_Malygite": 192938,
+    "Fierce_Illimited_Diamond": 192985,
+    "Inscribed_Illimited_Diamond": 192982,
+    "Resplendent_Illimited_Diamond": 192991,
+    "Skillful_Illimited_Diamond": 192988,
+    "Forceful_Nozdorite": 192973,
+    "Jagged_Nozdorite": 192970,
+    "Puissant_Nozdorite": 192976,
+    "Steady_Nozdorite": 192979,
+    "Fractured_Neltharite": 192967,
+    "Keen_Neltharite": 192961,
+    "Senseis_Neltharite": 192958,
+    "Zen_Neltharite": 192964,
+    "Energized_Vibrant_Emerald": 192908,
+    "Crafty_Queens_Ruby": 192902,
+    "Senseis_Sundered_Onyx": 192912,
+    "Solid_Eternity_Amber": 192916,
+    "Zen_Mystic_Sapphire": 192905
+}
+
 racials = {
     "Human": 20598,
     "Blood_Elf": 28730,
@@ -72,6 +107,7 @@ racials = {
     "Panda_Crit": 107072,
     "Panda_Mastery": 107072,
     "Panda_Vers": 107072,
+    "Panda_Fortune_Cookie": 107072,
     "Mechagnome": 312923,
     "Nightborne": 255665,
     "Night_Elf_Crit": 154748,
@@ -103,4 +139,8 @@ def find_ids(key):
         return consumables
     if key == 'tiersets':
         return tiersets
+    if key == 'gems':
+        return gems
+    if key == 'alchemy':
+        return alchemy
     return None
