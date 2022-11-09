@@ -1,38 +1,38 @@
 builds:
-  yogg-da:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJFtDIJJlESgSakEJSkQEkINpFSCA # DA_yshaarj_yogg_370843635931071_ST
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJFtDIJJlESgSakEJSkQEkINpFSCA # DA_yshaarj_yogg_370843635931071_ST
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJFtIRSJhEokGJRiEJEBJSTahkAA # DA_yshaarj_yogg_370843904366271_ST
+  yshaarj-da:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIINOQAAAAAAAAAAAAAkkIpEhU0SSSSBSgSakEJSkQEkINpFSCA # DA_cthun_yshaarj_216978857336255_AoE
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIINOQAAAAAAAAAAAAAkkIpEhU0SSSSBSgSakEJSkQEkINpFSCA # DA_cthun_yshaarj_216978857336255_AoE
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIINOQAAAAAAAAAAAAAkIJpEhU0SSkUSIBKpRSkIRCRQi0kWIJAA # DA_yshaarj_cthun_216978847948479_ST
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJFtIRSJhEokGJRiEJEBJSTahkAA # DA_yshaarj_yogg_370843904366271_ST
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAgIIBAAAAAAAAAAAAQSIpEhU0SSSShDIBKpRSkIRCRQi0kWIJAA # DA_cthun_yogg_445673048054207_AoE
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIIIBAAAAAAAAAAAAQSIpEhU0SSSShDIBKpRSkIRCRQi0kWIJAA # DA_cthun_yshaarj_234566815521215_AoE
   yshaarj-yogg-vf:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIi0cgEAAAAAAAAAAAAASioEh00SSSSBSgSakEJSkQEkINpFSCA # VF_yshaarj_yogg_371391521562047_AoE
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIi0IBAAAAAAAAAAAAgkIHoEh00SSSSBSgSakEJSkQEkINpFSCA # VF_yshaarj_yogg_370910485224895_AoE
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIi0IBAAAAAAAAAAAAgkIHoEh00SSSSBSgSakEJSkQEkINpFSCA # VF_yshaarj_yogg_370910485224895_AoE
     single: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJNtIRSJhEokGJRiEJEBJSTahkAA # VF_yshaarj_yogg_370843904366271_ST
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAIi0IBAAAAAAAAAAAAgIJKRINtkkkUISgSakEJSkQEkINpFSCA # VF_yshaarj_yogg_370842360323519_AoE
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIigEAAAAAAAAAAAAASioEh00SSSShIBKpRSkIRCRQi0kWIJAA # VF_yshaarj_yogg_370838074760639_AoE
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIigEAAAAAAAAAAAAASIpEh00SSSShDIBKpRSkIRCRQi0kWIJAA # VF_yshaarj_yogg_375304303876543_AoE
   cthun-yogg-vf:
     composite: BIQAAAAAAAAAAAAAAAAAAAAAAgINSAAAAAAAAAAAAAkDkIpEh00SSSSBSgSakEJSkQEkINpFSCA # VF_cthun_yogg_444577764285887_AoE
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgIIBAAAAAAAAAAAAQSikSESTLJJJFIBKpRSkIRCRQi0kWIJAA # VF_cthun_yogg_445672980946367_AoE
     single: BIQAAAAAAAAAAAAAAAAAAAAAAgINSAAAAAAAAAAAAAkDkIpEh00SSSSBSgSakEJSkQEkINpFSCA # VF_cthun_yogg_444577764285887_AoE
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAgINSAAAAAAAAAAAAAkDESKRINtkkkU4ASgSakEJSkQEkINpFSCA # VF_cthun_yogg_444577831393727_AoE
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAgINSAAAAAAAAAAAAAkDIJpEh00SSSShDIBKpRSkIRCRQi0kWIJAA # VF_cthun_yogg_444577821990335_AoE
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAgIIBAAAAAAAAAAAAQSIpEh00SSSShDIBKpRSkIRCRQi0kWIJAA # VF_cthun_yogg_445673048054207_AoE
 gear:
-  head: "head=headdraconic_hierophants_archcowl,id=200327,ilevel=424"
-  neck: "neck=neckalcs_pendant_of_fiery_dreams,id=109957,ilevel=418"
-  shoulders: "shoulder=shoulderdraconic_hierophants_wisdom,id=200329,ilevel=424"
-  back: "back=backfireproof_drape,id=193763,ilevel=418"
-  chest: "chest=chestarcanists_resonant_robes,id=134415,ilevel=418"
-  wrists: "wrists=wristsfelflame_bracers,id=109881,ilevel=418"
-  hands: "hands=handsdraconic_hierophants_grips,id=200326,ilevel=415"
-  waist: "waist=waistsky_saddle_cord,id=193691,ilevel=418"
-  legs: "legs=legsdraconic_hierophants_britches,id=200328,ilevel=415"
-  feet: "feet=feetsandals_of_the_wild_sovereign,id=195532,ilevel=424"
-  finger1: "finger1=finger1seal_of_filial_duty,id=195526,ilevel=430"
-  finger2: "finger2=finger2darkflame_loop,id=109766,ilevel=418"
+  head: "head=draconic_hierophants_archcowl,id=200327,ilevel=424"
+  neck: "neck=alcs_pendant_of_fiery_dreams,id=109957,ilevel=418"
+  shoulders: "shoulder=draconic_hierophants_wisdom,id=200329,ilevel=424"
+  back: "back=fireproof_drape,id=193763,ilevel=418"
+  chest: "chest=arcanists_resonant_robes,id=134415,ilevel=418"
+  wrists: "wrists=felflame_bracers,id=109881,ilevel=418"
+  hands: "hands=draconic_hierophants_grips,id=200326,ilevel=415"
+  waist: "waist=sky_saddle_cord,id=193691,ilevel=418"
+  legs: "legs=draconic_hierophants_britches,id=200328,ilevel=415"
+  feet: "feet=sandals_of_the_wild_sovereign,id=195532,ilevel=424"
+  finger1: "finger1=seal_of_filial_duty,id=195526,ilevel=430"
+  finger2: "finger2=darkflame_loop,id=109766,ilevel=418"
   trinket1: "crimson_aspirants_badge_of_ferocity,id=201449,bonus_id=8989/8990/1498/8766,ilevel=392"
   trinket2: "crimson_aspirants_insignia_of_alacrity,id=201451,bonus_id=8989/8990/1498/8766,ilevel=392"
-  main_hand: "main_hand=main_handfinal_grade,id=193707,ilevel=418"
+  main_hand: "main_hand=final_grade,id=193707,ilevel=418"
   off_hand: ""
 sims:
   alchemy:

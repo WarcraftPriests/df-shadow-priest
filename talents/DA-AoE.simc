@@ -3,7 +3,7 @@ level=70
 role=spell
 position=back
 spec=shadow
-class_talents=dispel_magic:1/shadowfiend:1/improved_flash_heal:1/purify_disease:1/shadow_word_death:1/from_darkness_comes_light:1/angelic_feather:1/death_and_madness:1/leap_of_faith:1/shackle_undead:1/dominate_mind:1/mass_dispel:1/power_infusion:1/vampiric_embrace:1/tithe_evasion:1/body_and_soul:1/twins_of_the_sun_priestess:1/sanlayn:1/unwavering_will:2/twist_of_fate:2/throes_of_pain:2/angels_mercy:1/halo:1/translucent_image:1/mindgames:1/lights_inspiration:2/manipulation:2/shattered_perceptions:1
+class_talents=dispel_magic:1/improved_flash_heal:1/purify_disease:1/from_darkness_comes_light:1/angelic_feather:1/death_and_madness:1/leap_of_faith:1/shackle_undead:1/dominate_mind:1/mass_dispel:1/power_infusion:1/vampiric_embrace:1/tithe_evasion:1/body_and_soul:1/twins_of_the_sun_priestess:1/sanlayn:1/unwavering_will:2/twist_of_fate:2/throes_of_pain:2/angels_mercy:1/halo:1/translucent_image:1/mindgames:1/lights_inspiration:2/manipulation:2/shattered_perceptions:1
 spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/coalescing_shadows:1/puppet_master:1/harnessed_shadows:1/shadow_crash:1/shadowy_insight:1/auspicious_spirits:1/mindbender:1
 
 set_bonus=tier29_2pc=1
@@ -26,6 +26,10 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# Custom trees
+profileset."DA_cthun_yogg_custom1_AoE"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/mental_fortitude:1/misery:1/coalescing_shadows:1/mind_sear:1/mind_spike:1/puppet_master:1/dark_ascension:1/surge_of_darkness:1/harnessed_shadows:1/shadowy_insight:1/ancient_madness:2/shadow_crash:1/mind_melt:1/auspicious_spirits:1/psychic_link:2/mindbender:1/mind_flay_insanity:1/encroaching_shadows:1/screams_of_the_void:2/mind_devourer:2/idol_of_cthun:1/idol_of_yoggsaron:1"
+
+# Generated Trees
 profileset."DA_yshaarj_71569048575423_AoE"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/mental_fortitude:1/misery:1/coalescing_shadows:1/mind_sear:1/puppet_master:1/mental_decay:1/dark_ascension:1/harnessed_shadows:1/shadowy_insight:1/ancient_madness:2/shadow_crash:1/maddening_touch:2/dark_evangelism:2/auspicious_spirits:1/psychic_link:2/mindbender:1/mind_flay_insanity:1/encroaching_shadows:1/inescapable_torment:2/screams_of_the_void:1/idol_of_yshaarj:1"
 profileset."DA_cthun_145236327636415_AoE"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/mental_fortitude:1/misery:1/coalescing_shadows:1/mind_sear:1/puppet_master:1/mental_decay:1/dark_ascension:1/harnessed_shadows:1/shadowy_insight:1/ancient_madness:2/shadow_crash:1/maddening_touch:2/dark_evangelism:2/auspicious_spirits:1/psychic_link:2/mindbender:1/mind_flay_insanity:1/encroaching_shadows:1/inescapable_torment:1/screams_of_the_void:2/idol_of_cthun:1"
 profileset."DA_yshaarj_71775207005631_AoE"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/mental_fortitude:1/misery:1/coalescing_shadows:1/mind_sear:1/puppet_master:1/mental_decay:1/dark_ascension:1/harnessed_shadows:1/shadowy_insight:1/ancient_madness:2/shadow_crash:1/maddening_touch:2/dark_evangelism:2/auspicious_spirits:1/psychic_link:2/mindbender:1/mind_flay_insanity:1/encroaching_shadows:1/inescapable_torment:2/mind_devourer:1/idol_of_yshaarj:1"
