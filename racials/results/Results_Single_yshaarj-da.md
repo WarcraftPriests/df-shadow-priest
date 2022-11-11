@@ -1,0 +1,34 @@
+# Single - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|58707|1.61%|
+|Troll|58644|1.50%|
+|Panda_Fortune_Cookie|58581|1.39%|
+|Goblin|58481|1.22%|
+|Night_Elf_Haste|58480|1.21%|
+|Gnome|58472|1.20%|
+|Dark_Iron_Dwarf|58461|1.18%|
+|Draenei|58460|1.18%|
+|Void_Elf|58433|1.13%|
+|Blood_Elf|58383|1.05%|
+|Kul_Tiran|58369|1.02%|
+|Highmountain_Tauren|58341|0.97%|
+|Human|58340|0.97%|
+|Zandalari_Troll_Paku|58316|0.93%|
+|Night_Elf_Crit|58303|0.91%|
+|Worgen|58274|0.86%|
+|Nightborne|58271|0.85%|
+|Maghar_Orc|58227|0.78%|
+|Panda_Haste|58148|0.64%|
+|Panda_Mastery|58145|0.63%|
+|Dwarf|58080|0.52%|
+|Tauren|58079|0.52%|
+|Panda_Vers|58058|0.48%|
+|Panda_Crit|58053|0.47%|
+|Zandalari_Troll_Kimbul|58016|0.41%|
+|Zandalari_Troll_Bwonsamdi|58012|0.40%|
+|Mechagnome|57995|0.38%|
+|Undead|57988|0.36%|
+|Vulpera|57823|0.08%|
+|Lightforged_Draenei|57819|0.07%|
+|Base|57778|0.00%|

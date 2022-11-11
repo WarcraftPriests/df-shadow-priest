@@ -1,0 +1,34 @@
+# 2T - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|72725|1.69%|
+|Troll|72545|1.44%|
+|Panda_Fortune_Cookie|72491|1.37%|
+|Dark_Iron_Dwarf|72362|1.19%|
+|Void_Elf|72354|1.17%|
+|Goblin|72333|1.15%|
+|Draenei|72331|1.14%|
+|Gnome|72312|1.12%|
+|Night_Elf_Haste|72303|1.10%|
+|Human|72212|0.98%|
+|Highmountain_Tauren|72194|0.95%|
+|Blood_Elf|72185|0.94%|
+|Kul_Tiran|72184|0.94%|
+|Zandalari_Troll_Paku|72153|0.89%|
+|Night_Elf_Crit|72122|0.85%|
+|Worgen|72095|0.81%|
+|Nightborne|72085|0.80%|
+|Maghar_Orc|72032|0.72%|
+|Tauren|71878|0.51%|
+|Panda_Vers|71868|0.50%|
+|Panda_Haste|71867|0.49%|
+|Panda_Mastery|71867|0.49%|
+|Dwarf|71849|0.47%|
+|Panda_Crit|71832|0.44%|
+|Lightforged_Draenei|71786|0.38%|
+|Mechagnome|71766|0.35%|
+|Zandalari_Troll_Kimbul|71708|0.27%|
+|Zandalari_Troll_Bwonsamdi|71703|0.26%|
+|Undead|71651|0.19%|
+|Base|71514|0.00%|
+|Vulpera|71488|-0.04%|

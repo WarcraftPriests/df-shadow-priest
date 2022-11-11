@@ -1,0 +1,34 @@
+# Composite - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Charged_Isolation_3|70299|6.11%|
+|Phial_of_Static_Empowerment_3|70084|5.79%|
+|Iced_Phial_of_Corrupting_Rage_3|69776|5.32%|
+|Phial_of_Charged_Isolation_2|69765|5.30%|
+|Phial_of_Static_Empowerment_2|69574|5.02%|
+|Iced_Phial_of_Corrupting_Rage_2|69526|4.95%|
+|Phial_of_Charged_Isolation_1|69311|4.62%|
+|Iced_Phial_of_Corrupting_Rage_1|69241|4.51%|
+|Phial_of_Static_Empowerment_1|69147|4.37%|
+|Phial_of_Tepid_Versatility_3|68553|3.48%|
+|Phial_of_Elemental_Chaos_3|68471|3.35%|
+|Phial_of_Tepid_Versatility_2|68368|3.20%|
+|Phial_of_Elemental_Chaos_2|68311|3.11%|
+|Phial_of_Tepid_Versatility_1|68176|2.91%|
+|Phial_of_Elemental_Chaos_1|68115|2.81%|
+|Phial_of_Glacial_Fury_3|67607|2.05%|
+|Phial_of_Glacial_Fury_2|67386|1.71%|
+|Elemental_Potion_of_Ultimate_Power_3|67348|1.66%|
+|Phial_of_Glacial_Fury_1|67224|1.47%|
+|Elemental_Potion_of_Ultimate_Power_2|67200|1.43%|
+|Elemental_Potion_of_Ultimate_Power_1|67070|1.24%|
+|Elemental_Potion_of_Power_3|67064|1.23%|
+|Elemental_Potion_of_Power_2|66956|1.07%|
+|Bottled_Putrescence_3|66899|0.98%|
+|Elemental_Potion_of_Power_1|66871|0.94%|
+|Bottled_Putrescence_2|66803|0.83%|
+|Potion_of_Shocking_Disclosure_3|66794|0.82%|
+|Potion_of_Shocking_Disclosure_2|66720|0.71%|
+|Bottled_Putrescence_1|66704|0.68%|
+|Potion_of_Shocking_Disclosure_1|66644|0.59%|
+|Base|66250|0.00%|

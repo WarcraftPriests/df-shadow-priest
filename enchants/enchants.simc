@@ -59,9 +59,10 @@ profileset."Weapon_Wafting_Writ_385"+=main_hand=${gear.main_hand},enchant_id=665
 profileset."Weapon_Wafting_Writ_400"+=main_hand=${gear.main_hand},enchant_id=6651
 profileset."Weapon_Wafting_Writ_415"+=main_hand=${gear.main_hand},enchant_id=6652
 
-profileset."Weapon_Frozen_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=6647
-profileset."Weapon_Frozen_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=6648
-profileset."Weapon_Frozen_Devotion_415"+=main_hand=${gear.main_hand},enchant_id=6649
+# requires 8yd melee, kind of bait to sim this
+# profileset."Weapon_Frozen_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=6647
+# profileset."Weapon_Frozen_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=6648
+# profileset."Weapon_Frozen_Devotion_415"+=main_hand=${gear.main_hand},enchant_id=6649
 
 profileset."Weapon_Sophic_Devotion_385"+=main_hand=${gear.main_hand},enchant_id=6641
 profileset."Weapon_Sophic_Devotion_400"+=main_hand=${gear.main_hand},enchant_id=6642

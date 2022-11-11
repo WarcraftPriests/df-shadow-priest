@@ -25,28 +25,100 @@ main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 # Darkmoon Cards
-# TODO: these cards can have different augments that change how they get shuffled
+# Emberscale Sigil (8858) - Your Darkmoon Deck no longer has Even cards.
+# Jetscale Sigil (8860) - Your Darkmoon Deck no longer shuffles when the Ace is drawn.
+# Sagescale Sigil (8861) - Your Darkmoon Deck only shuffles when you jump
+# Azurescale Sigil (8859) - Your Darkmoon Deck now shuffles from greatest to least.
+# Bronzescale Sigil (8857) - Your Darkmoon Deck shuffles faster
 profileset."Darkmoon_Deck_Box_Rime_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389
 profileset."Darkmoon_Deck_Box_Rime_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405
 profileset."Darkmoon_Deck_Box_Rime_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418
+
+profileset."Darkmoon_Deck_Box_Rime_Emberscale_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Rime_Emberscale_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Rime_Emberscale_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418,bonus_id=8858
+
+profileset."Darkmoon_Deck_Box_Rime_Jetscale_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Rime_Jetscale_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Rime_Jetscale_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418,bonus_id=8860
+
+profileset."Darkmoon_Deck_Box_Rime_Sagescale_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Rime_Sagescale_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Rime_Sagescale_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418,bonus_id=8861
+
+profileset."Darkmoon_Deck_Box_Rime_Azurescale_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Rime_Azurescale_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Rime_Azurescale_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418,bonus_id=8859
+
+profileset."Darkmoon_Deck_Box_Rime_Bronzescale_389"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=389,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Rime_Bronzescale_405"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=405,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Rime_Bronzescale_418"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=418,bonus_id=8857
 
 profileset."Darkmoon_Deck_Box_Inferno_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389
 profileset."Darkmoon_Deck_Box_Inferno_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405
 profileset."Darkmoon_Deck_Box_Inferno_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418
 
+profileset."Darkmoon_Deck_Box_Inferno_Emberscale_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Inferno_Emberscale_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Inferno_Emberscale_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418,bonus_id=8858
+
+profileset."Darkmoon_Deck_Box_Inferno_Jetscale_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Inferno_Jetscale_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Inferno_Jetscale_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418,bonus_id=8860
+
+profileset."Darkmoon_Deck_Box_Inferno_Sagescale_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Inferno_Sagescale_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Inferno_Sagescale_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418,bonus_id=8861
+
+profileset."Darkmoon_Deck_Box_Inferno_Azurescale_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Inferno_Azurescale_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Inferno_Azurescale_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418,bonus_id=8859
+
+profileset."Darkmoon_Deck_Box_Inferno_Bronzescale_389"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=389,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Inferno_Bronzescale_405"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=405,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Inferno_Bronzescale_418"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=418,bonus_id=8857
+
 profileset."Darkmoon_Deck_Box_Dance_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389
 profileset."Darkmoon_Deck_Box_Dance_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405
 profileset."Darkmoon_Deck_Box_Dance_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418
 
+profileset."Darkmoon_Deck_Box_Dance_Emberscale_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Dance_Emberscale_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Dance_Emberscale_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418,bonus_id=8858
+
+profileset."Darkmoon_Deck_Box_Dance_Jetscale_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Dance_Jetscale_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Dance_Jetscale_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418,bonus_id=8860
+
+profileset."Darkmoon_Deck_Box_Dance_Sagescale_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Dance_Sagescale_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Dance_Sagescale_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418,bonus_id=8861
+
+profileset."Darkmoon_Deck_Box_Dance_Azurescale_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Dance_Azurescale_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Dance_Azurescale_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418,bonus_id=8859
+
+profileset."Darkmoon_Deck_Box_Dance_Bronzescale_389"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=389,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Dance_Bronzescale_405"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=405,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Dance_Bronzescale_418"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=418,bonus_id=8857
+
 # Alchemy Stones
-profileset."Alacritous_Alchemist_Stone_350"+=trinket1=alacritous_alchemist_stone,id=191492,ilevel=350
-profileset."Sustaining_Alchemist_Stone_350"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=350
+profileset."Alacritous_Alchemist_Stone_389"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=389
 profileset."Alacritous_Alchemist_Stone_405"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=405
+profileset."Alacritous_Alchemist_Stone_418"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=418
 
 # Jewelcrafting
+profileset."Idol_of_the_Spell_Weaver_389"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=389
 profileset."Idol_of_the_Spell_Weaver_405"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=405
+profileset."Idol_of_the_Spell_Weaver_418"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=418
+
+profileset."Idol_of_the_Dreamer_389"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=389
 profileset."Idol_of_the_Dreamer_405"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=405
+profileset."Idol_of_the_Dreamer_418"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=418
+
+profileset."Idol_of_the_Earth_Warder_389"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=389
 profileset."Idol_of_the_Earth_Warder_405"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=405
+profileset."Idol_of_the_Earth_Warder_418"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=418
 
 # Questing Trinkets
 # TODO

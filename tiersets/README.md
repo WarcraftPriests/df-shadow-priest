@@ -1,10 +1,10 @@
 # tiersets Results
-## YOGG-DA
-- [Composite - YOGG-DA](results/Results_Composite_yogg-da.md)
-- [Single - YOGG-DA](results/Results_Single_yogg-da.md)
-- [Dungeons - YOGG-DA](results/Results_Dungeons_yogg-da.md)
-- [2T - YOGG-DA](results/Results_2T_yogg-da.md)
-- [4T - YOGG-DA](results/Results_4T_yogg-da.md)
+## YSHAARJ-DA
+- [Composite - YSHAARJ-DA](results/Results_Composite_yshaarj-da.md)
+- [Single - YSHAARJ-DA](results/Results_Single_yshaarj-da.md)
+- [Dungeons - YSHAARJ-DA](results/Results_Dungeons_yshaarj-da.md)
+- [2T - YSHAARJ-DA](results/Results_2T_yshaarj-da.md)
+- [4T - YSHAARJ-DA](results/Results_4T_yshaarj-da.md)
 ## YSHAARJ-YOGG-VF
 - [Composite - YSHAARJ-YOGG-VF](results/Results_Composite_yshaarj-yogg-vf.md)
 - [Single - YSHAARJ-YOGG-VF](results/Results_Single_yshaarj-yogg-vf.md)
