@@ -1,1 +1,0 @@
-{"name": "Single - hv", "data": {"saeldur": {"DPS": 10170}, "Base": {"DPS": 10032}, "Base_sfp": {"DPS": 9971}, "saeldur_sfp": {"DPS": 9937}}, "ids": {"saeldur": null, "Base_sfp": null, "saeldur_sfp": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["saeldur", "Base_sfp", "saeldur_sfp"], "last_updated": "2021-07-06"}

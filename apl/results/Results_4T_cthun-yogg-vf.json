@@ -1,0 +1,1 @@
+{"name": "4T - cthun-yogg-vf", "data": {"Base": {"DPS": 101681}, "2_vf_3_da": {"DPS": 101619}, "2vf_3_daup": {"DPS": 101602}}, "ids": {"2_vf_3_da": null, "2vf_3_daup": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["2_vf_3_da", "2vf_3_daup"], "last_updated": "2022-11-13"}

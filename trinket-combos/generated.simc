@@ -42,6 +42,12 @@ profileset."Infernal_Wrist_405-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_
 profileset."Infernal_Wrist_405-Voidmenders_Shadowgem_421"+=trinket1=infernal_wrist,id=137485,ilevel=405
 profileset."Infernal_Wrist_405-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
 
+profileset."Infernal_Wrist_405-Tome_of_Unstable_Power_405"+=trinket1=infernal_wrist,id=137485,ilevel=405
+profileset."Infernal_Wrist_405-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Infernal_Wrist_405-Tome_of_Unstable_Power_421"+=trinket1=infernal_wrist,id=137485,ilevel=405
+profileset."Infernal_Wrist_405-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
+
 profileset."Infernal_Wrist_405-Umbrelskuls_Fractured_Heart_405"+=trinket1=infernal_wrist,id=137485,ilevel=405
 profileset."Infernal_Wrist_405-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
 
@@ -108,6 +114,12 @@ profileset."Infernal_Wrist_421-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_
 profileset."Infernal_Wrist_421-Voidmenders_Shadowgem_421"+=trinket1=infernal_wrist,id=137485,ilevel=421
 profileset."Infernal_Wrist_421-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
 
+profileset."Infernal_Wrist_421-Tome_of_Unstable_Power_405"+=trinket1=infernal_wrist,id=137485,ilevel=421
+profileset."Infernal_Wrist_421-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Infernal_Wrist_421-Tome_of_Unstable_Power_421"+=trinket1=infernal_wrist,id=137485,ilevel=421
+profileset."Infernal_Wrist_421-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
+
 profileset."Infernal_Wrist_421-Umbrelskuls_Fractured_Heart_405"+=trinket1=infernal_wrist,id=137485,ilevel=421
 profileset."Infernal_Wrist_421-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
 
@@ -167,6 +179,12 @@ profileset."Eye_of_Skovald_405-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_
 
 profileset."Eye_of_Skovald_405-Voidmenders_Shadowgem_421"+=trinket1=eye_of_skovald,id=133641,ilevel=405
 profileset."Eye_of_Skovald_405-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
+
+profileset."Eye_of_Skovald_405-Tome_of_Unstable_Power_405"+=trinket1=eye_of_skovald,id=133641,ilevel=405
+profileset."Eye_of_Skovald_405-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Eye_of_Skovald_405-Tome_of_Unstable_Power_421"+=trinket1=eye_of_skovald,id=133641,ilevel=405
+profileset."Eye_of_Skovald_405-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
 
 profileset."Eye_of_Skovald_405-Umbrelskuls_Fractured_Heart_405"+=trinket1=eye_of_skovald,id=133641,ilevel=405
 profileset."Eye_of_Skovald_405-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
@@ -228,6 +246,12 @@ profileset."Eye_of_Skovald_421-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_
 profileset."Eye_of_Skovald_421-Voidmenders_Shadowgem_421"+=trinket1=eye_of_skovald,id=133641,ilevel=421
 profileset."Eye_of_Skovald_421-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
 
+profileset."Eye_of_Skovald_421-Tome_of_Unstable_Power_405"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+profileset."Eye_of_Skovald_421-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Eye_of_Skovald_421-Tome_of_Unstable_Power_421"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+profileset."Eye_of_Skovald_421-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
+
 profileset."Eye_of_Skovald_421-Umbrelskuls_Fractured_Heart_405"+=trinket1=eye_of_skovald,id=133641,ilevel=421
 profileset."Eye_of_Skovald_421-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
 
@@ -281,6 +305,12 @@ profileset."Horn_of_Valor_405-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_s
 
 profileset."Horn_of_Valor_405-Voidmenders_Shadowgem_421"+=trinket1=horn_of_valor,id=133642,ilevel=405
 profileset."Horn_of_Valor_405-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
+
+profileset."Horn_of_Valor_405-Tome_of_Unstable_Power_405"+=trinket1=horn_of_valor,id=133642,ilevel=405
+profileset."Horn_of_Valor_405-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Horn_of_Valor_405-Tome_of_Unstable_Power_421"+=trinket1=horn_of_valor,id=133642,ilevel=405
+profileset."Horn_of_Valor_405-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
 
 profileset."Horn_of_Valor_405-Umbrelskuls_Fractured_Heart_405"+=trinket1=horn_of_valor,id=133642,ilevel=405
 profileset."Horn_of_Valor_405-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
@@ -336,6 +366,12 @@ profileset."Horn_of_Valor_421-Voidmenders_Shadowgem_405"+=trinket2=voidmenders_s
 profileset."Horn_of_Valor_421-Voidmenders_Shadowgem_421"+=trinket1=horn_of_valor,id=133642,ilevel=421
 profileset."Horn_of_Valor_421-Voidmenders_Shadowgem_421"+=trinket2=voidmenders_shadowgem,id=110007,ilevel=421
 
+profileset."Horn_of_Valor_421-Tome_of_Unstable_Power_405"+=trinket1=horn_of_valor,id=133642,ilevel=421
+profileset."Horn_of_Valor_421-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Horn_of_Valor_421-Tome_of_Unstable_Power_421"+=trinket1=horn_of_valor,id=133642,ilevel=421
+profileset."Horn_of_Valor_421-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
+
 profileset."Horn_of_Valor_421-Umbrelskuls_Fractured_Heart_405"+=trinket1=horn_of_valor,id=133642,ilevel=421
 profileset."Horn_of_Valor_421-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
 
@@ -383,6 +419,12 @@ profileset."Horn_of_Valor_421-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=19
 
 profileset."Horn_of_Valor_421-Spiteful_Storm_424"+=trinket1=horn_of_valor,id=133642,ilevel=421
 profileset."Horn_of_Valor_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
+
+profileset."Voidmenders_Shadowgem_405-Tome_of_Unstable_Power_405"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=405
+profileset."Voidmenders_Shadowgem_405-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Voidmenders_Shadowgem_405-Tome_of_Unstable_Power_421"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=405
+profileset."Voidmenders_Shadowgem_405-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
 
 profileset."Voidmenders_Shadowgem_405-Umbrelskuls_Fractured_Heart_405"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=405
 profileset."Voidmenders_Shadowgem_405-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
@@ -432,6 +474,12 @@ profileset."Voidmenders_Shadowgem_405-Spiteful_Storm_411"+=trinket2=spiteful_sto
 profileset."Voidmenders_Shadowgem_405-Spiteful_Storm_424"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=405
 profileset."Voidmenders_Shadowgem_405-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
+profileset."Voidmenders_Shadowgem_421-Tome_of_Unstable_Power_405"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=421
+profileset."Voidmenders_Shadowgem_421-Tome_of_Unstable_Power_405"+=trinket2=tome_of_unstable_power,id=193628,ilevel=405
+
+profileset."Voidmenders_Shadowgem_421-Tome_of_Unstable_Power_421"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=421
+profileset."Voidmenders_Shadowgem_421-Tome_of_Unstable_Power_421"+=trinket2=tome_of_unstable_power,id=193628,ilevel=421
+
 profileset."Voidmenders_Shadowgem_421-Umbrelskuls_Fractured_Heart_405"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=421
 profileset."Voidmenders_Shadowgem_421-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
 
@@ -479,6 +527,102 @@ profileset."Voidmenders_Shadowgem_421-Spiteful_Storm_411"+=trinket2=spiteful_sto
 
 profileset."Voidmenders_Shadowgem_421-Spiteful_Storm_424"+=trinket1=voidmenders_shadowgem,id=110007,ilevel=421
 profileset."Voidmenders_Shadowgem_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
+
+profileset."Tome_of_Unstable_Power_405-Umbrelskuls_Fractured_Heart_405"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
+
+profileset."Tome_of_Unstable_Power_405-Umbrelskuls_Fractured_Heart_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Umbrelskuls_Fractured_Heart_421"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=421
+
+profileset."Tome_of_Unstable_Power_405-Furious_Ragefeather_405"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Furious_Ragefeather_405"+=trinket2=furious_ragefeather,id=193677,ilevel=405
+
+profileset."Tome_of_Unstable_Power_405-Furious_Ragefeather_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Furious_Ragefeather_421"+=trinket2=furious_ragefeather,id=193677,ilevel=421
+
+profileset."Tome_of_Unstable_Power_405-Conjured_Chillglobe_402"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Conjured_Chillglobe_402"+=trinket2=conjured_chillglobe,id=194300,ilevel=402
+
+profileset."Tome_of_Unstable_Power_405-Conjured_Chillglobe_415"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_405-Spiteful_Storm_411"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
+
+profileset."Tome_of_Unstable_Power_405-Spiteful_Storm_424"+=trinket1=tome_of_unstable_power,id=193628,ilevel=405
+profileset."Tome_of_Unstable_Power_405-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
+
+profileset."Tome_of_Unstable_Power_421-Umbrelskuls_Fractured_Heart_405"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Umbrelskuls_Fractured_Heart_405"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=405
+
+profileset."Tome_of_Unstable_Power_421-Umbrelskuls_Fractured_Heart_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Umbrelskuls_Fractured_Heart_421"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=421
+
+profileset."Tome_of_Unstable_Power_421-Furious_Ragefeather_405"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Furious_Ragefeather_405"+=trinket2=furious_ragefeather,id=193677,ilevel=405
+
+profileset."Tome_of_Unstable_Power_421-Furious_Ragefeather_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Furious_Ragefeather_421"+=trinket2=furious_ragefeather,id=193677,ilevel=421
+
+profileset."Tome_of_Unstable_Power_421-Conjured_Chillglobe_402"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Conjured_Chillglobe_402"+=trinket2=conjured_chillglobe,id=194300,ilevel=402
+
+profileset."Tome_of_Unstable_Power_421-Conjured_Chillglobe_415"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Conjured_Chillglobe_415"+=trinket2=conjured_chillglobe,id=194300,ilevel=415
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_408"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_421"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_0_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_408"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_421"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_1_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_408"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_408"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_408"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=408
+
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_421"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Whispering_Incarnate_Icon_2_421"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=421
+
+profileset."Tome_of_Unstable_Power_421-Spiteful_Storm_411"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Spiteful_Storm_411"+=trinket2=spiteful_storm,id=194309,ilevel=411
+
+profileset."Tome_of_Unstable_Power_421-Spiteful_Storm_424"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
+profileset."Tome_of_Unstable_Power_421-Spiteful_Storm_424"+=trinket2=spiteful_storm,id=194309,ilevel=424
 
 profileset."Umbrelskuls_Fractured_Heart_405-Furious_Ragefeather_405"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=405
 profileset."Umbrelskuls_Fractured_Heart_405-Furious_Ragefeather_405"+=trinket2=furious_ragefeather,id=193677,ilevel=405

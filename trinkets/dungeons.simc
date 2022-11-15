@@ -119,22 +119,6 @@ profileset."Emerald_Coachs_Whistle_418"+=trinket1=emerald_coachs_whistle,id=1937
 profileset."Emerald_Coachs_Whistle_421"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=421
 
 # Ruby Life Pools
-profileset."Blazebinders_Hoof_376"+=trinket1=blazebinders_hoof,id=193762,ilevel=376
-profileset."Blazebinders_Hoof_379"+=trinket1=blazebinders_hoof,id=193762,ilevel=379
-profileset."Blazebinders_Hoof_382"+=trinket1=blazebinders_hoof,id=193762,ilevel=382
-profileset."Blazebinders_Hoof_385"+=trinket1=blazebinders_hoof,id=193762,ilevel=385
-profileset."Blazebinders_Hoof_389"+=trinket1=blazebinders_hoof,id=193762,ilevel=389
-profileset."Blazebinders_Hoof_392"+=trinket1=blazebinders_hoof,id=193762,ilevel=392
-profileset."Blazebinders_Hoof_395"+=trinket1=blazebinders_hoof,id=193762,ilevel=395
-profileset."Blazebinders_Hoof_398"+=trinket1=blazebinders_hoof,id=193762,ilevel=398
-profileset."Blazebinders_Hoof_402"+=trinket1=blazebinders_hoof,id=193762,ilevel=402
-profileset."Blazebinders_Hoof_405"+=trinket1=blazebinders_hoof,id=193762,ilevel=405
-profileset."Blazebinders_Hoof_408"+=trinket1=blazebinders_hoof,id=193762,ilevel=408
-profileset."Blazebinders_Hoof_411"+=trinket1=blazebinders_hoof,id=193762,ilevel=411
-profileset."Blazebinders_Hoof_415"+=trinket1=blazebinders_hoof,id=193762,ilevel=415
-profileset."Blazebinders_Hoof_418"+=trinket1=blazebinders_hoof,id=193762,ilevel=418
-profileset."Blazebinders_Hoof_421"+=trinket1=blazebinders_hoof,id=193762,ilevel=421
-
 profileset."Ruby_Whelp_Shell_376"+=trinket1=ruby_whelp_shell,id=193757,ilevel=376
 profileset."Ruby_Whelp_Shell_379"+=trinket1=ruby_whelp_shell,id=193757,ilevel=379
 profileset."Ruby_Whelp_Shell_382"+=trinket1=ruby_whelp_shell,id=193757,ilevel=382
