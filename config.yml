@@ -19,12 +19,12 @@ builds:
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAgIIBAAAAAAAAAAAAQSIpEh00SSSShDIBKpRSkIRCRQi0kWIJAA # VF_cthun_yogg_445673048054207_AoE
 gear:
   head: "draconic_hierophants_archcowl,id=200327,ilevel=424"
-  neck: "alcs_pendant_of_fiery_dreams,id=109957,ilevel=421"
+  neck: "eye_of_the_vengeful_hurricane,id=195496,ilevel=421"
   shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
   back: "fireproof_drape,id=193763,ilevel=421"
   chest: "arcanists_resonant_robes,id=134415,ilevel=421"
   wrists: "felflame_bracers,id=109881,ilevel=421"
-  hands: "draconic_hierophants_grips,id=200326,ilevel=415"
+  hands: "draconic_hierophants_grips,id=200326,ilevel=421"
   waist: "sky_saddle_cord,id=193691,ilevel=421"
   legs: "draconic_hierophants_britches,id=200328,ilevel=415"
   feet: "sandals_of_the_wild_sovereign,id=195532,ilevel=424"
@@ -74,9 +74,9 @@ sims:
     chart: true
     lookupType: spell
     steps:
-      - 385
-      - 400
-      - 415
+      - 1
+      - 2
+      - 3
     files:
       - enchants.simc
   gear:
@@ -97,9 +97,9 @@ sims:
     chart: true
     lookupType: spell
     steps:
-      - 385
-      - 400
-      - 415
+      - 1
+      - 2
+      - 3
     files:
       - gems.simc
   racials:
@@ -165,6 +165,7 @@ sims:
     steps:
       - 350
       - 366
+      - 372
       - 376
       - 379
       - 382

@@ -1,18 +1,18 @@
 # Dungeons - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|60432|0.96%|
-|Fated_Fortune_Cookie|60260|0.67%|
-|Feisty_Fish_Sticks|60158|0.50%|
-|Aromatic_Seafood_Platter|60136|0.46%|
-|Sizzling_Seafood_Medley|60111|0.42%|
-|Revenge_Served_Cold|60097|0.40%|
-|Roast_Duck_Delight|60083|0.37%|
-|Great_Cerulean_Sea|60074|0.36%|
-|Thousandbone_Tongueslicer|60073|0.36%|
-|Filet_of_Fangs|60059|0.33%|
-|Timely_Demise|60059|0.33%|
-|Seamoth_Surprise|60029|0.28%|
-|Salt_Baked_Fishcake|60026|0.28%|
-|Thrice_Spiced_Mammoth_Kabob|59933|0.12%|
-|Base|59860|0.00%|
+|Draconic_Augment_Rune|68679|0.81%|
+|Fated_Fortune_Cookie|68629|0.74%|
+|Aromatic_Seafood_Platter|68456|0.49%|
+|Thousandbone_Tongueslicer|68430|0.45%|
+|Great_Cerulean_Sea|68427|0.44%|
+|Sizzling_Seafood_Medley|68401|0.41%|
+|Feisty_Fish_Sticks|68391|0.39%|
+|Filet_of_Fangs|68390|0.39%|
+|Revenge_Served_Cold|68343|0.32%|
+|Salt_Baked_Fishcake|68342|0.32%|
+|Seamoth_Surprise|68304|0.26%|
+|Roast_Duck_Delight|68303|0.26%|
+|Timely_Demise|68294|0.25%|
+|Thrice_Spiced_Mammoth_Kabob|68225|0.15%|
+|Base|68125|0.00%|

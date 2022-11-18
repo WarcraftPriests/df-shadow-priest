@@ -1,0 +1,1 @@
+{"name": "Dungeons - yshaarj-yogg-vf", "data": {"use_md_2_targets": {"DPS": 64010}, "Base": {"DPS": 63901}, "use_md_1_target": {"DPS": 63867}}, "ids": {"use_md_2_targets": null, "use_md_1_target": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_md_2_targets", "use_md_1_target"], "last_updated": "2022-11-18"}

@@ -1,6 +1,6 @@
 # Composite - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|2vf_3_daup|74938|0.00%|
-|Base|74938|0.00%|
-|2_vf_3_da|74937|0.00%|
+|use_md_2_targets|78725|0.10%|
+|Base|78647|0.00%|
+|use_md_1_target|78549|-0.12%|

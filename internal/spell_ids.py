@@ -54,6 +54,8 @@ enchants = {
     "Ring_Writ_of_Haste": 200042,
     "Ring_Writ_of_Mastery": 200043,
     "Ring_Writ_of_Versatility": 200044,
+    "Temp_Weapon_Howling_Rune": 194820,
+    "Temp_Weapon_Buzzing_Rune": 194823,
 }
 
 gems = {

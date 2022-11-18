@@ -28,7 +28,12 @@ ${gear.off_hand}
 # Mythic+ Trinkets (Great Vault): 408/411/415/418/421
 # Highest from key: 405 // Highest from vault: 421
 
-# TODO: consider adding non-s1 DF mythic-0 trinkets
+# Dragonflight non-S1 Mythic+0 Trinkets
+profileset."Idol_of_Pure_Decay_372"+=trinket1=idol_of_pure_decay,id=193660,ilevel=372
+profileset."Irideus_Fragment_372"+=trinket1=irideus_fragment,id=193743,ilevel=372
+profileset."Erupting_Spear_Fragment_372"+=trinket1=erupting_spear_fragment,id=193769,ilevel=372
+profileset."Spoils_of_Neltharus_372"+=trinket1=spoils_of_neltharus,id=193773,ilevel=372
+profileset."Time_Breaching_Talon_372"+=trinket1=timebreaching_talon,id=193791,ilevel=372
 
 # Court of Stars
 profileset."Infernal_Wrist_376"+=trinket1=infernal_wrist,id=137485,ilevel=376
@@ -102,6 +107,7 @@ profileset."Voidmenders_Shadowgem_421"+=trinket1=voidmenders_shadowgem,id=110007
 # Algeth'ar Academy
 ## Emerald_Coachs_Whistle 193718 (healer trinket)
 ## We can put this on an ally and when they do damage we get the proc as well
+profileset."Emerald_Coachs_Whistle_372"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=372
 profileset."Emerald_Coachs_Whistle_376"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=376
 profileset."Emerald_Coachs_Whistle_379"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=379
 profileset."Emerald_Coachs_Whistle_382"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=382
@@ -119,6 +125,7 @@ profileset."Emerald_Coachs_Whistle_418"+=trinket1=emerald_coachs_whistle,id=1937
 profileset."Emerald_Coachs_Whistle_421"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=421
 
 # Ruby Life Pools
+profileset."Ruby_Whelp_Shell_372"+=trinket1=ruby_whelp_shell,id=193757,ilevel=372
 profileset."Ruby_Whelp_Shell_376"+=trinket1=ruby_whelp_shell,id=193757,ilevel=376
 profileset."Ruby_Whelp_Shell_379"+=trinket1=ruby_whelp_shell,id=193757,ilevel=379
 profileset."Ruby_Whelp_Shell_382"+=trinket1=ruby_whelp_shell,id=193757,ilevel=382
@@ -136,6 +143,7 @@ profileset."Ruby_Whelp_Shell_418"+=trinket1=ruby_whelp_shell,id=193757,ilevel=41
 profileset."Ruby_Whelp_Shell_421"+=trinket1=ruby_whelp_shell,id=193757,ilevel=421
 
 # The Azure Vault
+profileset."Tome_of_Unstable_Power_372"+=trinket1=tome_of_unstable_power,id=193628,ilevel=372
 profileset."Tome_of_Unstable_Power_376"+=trinket1=tome_of_unstable_power,id=193628,ilevel=376
 profileset."Tome_of_Unstable_Power_379"+=trinket1=tome_of_unstable_power,id=193628,ilevel=379
 profileset."Tome_of_Unstable_Power_382"+=trinket1=tome_of_unstable_power,id=193628,ilevel=382
@@ -152,6 +160,7 @@ profileset."Tome_of_Unstable_Power_415"+=trinket1=tome_of_unstable_power,id=1936
 profileset."Tome_of_Unstable_Power_418"+=trinket1=tome_of_unstable_power,id=193628,ilevel=418
 profileset."Tome_of_Unstable_Power_421"+=trinket1=tome_of_unstable_power,id=193628,ilevel=421
 
+profileset."Umbrelskuls_Fractured_Heart_372"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=372
 profileset."Umbrelskuls_Fractured_Heart_376"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=376
 profileset."Umbrelskuls_Fractured_Heart_379"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=379
 profileset."Umbrelskuls_Fractured_Heart_382"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=382
@@ -169,6 +178,7 @@ profileset."Umbrelskuls_Fractured_Heart_418"+=trinket1=umbrelskuls_fractured_hea
 profileset."Umbrelskuls_Fractured_Heart_421"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=421
 
 # The Nokhud Offensive
+profileset."Furious_Ragefeather_372"+=trinket1=furious_ragefeather,id=193677,ilevel=372
 profileset."Furious_Ragefeather_376"+=trinket1=furious_ragefeather,id=193677,ilevel=376
 profileset."Furious_Ragefeather_379"+=trinket1=furious_ragefeather,id=193677,ilevel=379
 profileset."Furious_Ragefeather_382"+=trinket1=furious_ragefeather,id=193677,ilevel=382

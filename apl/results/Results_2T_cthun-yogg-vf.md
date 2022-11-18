@@ -1,6 +1,6 @@
 # 2T - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|2vf_3_daup|78330|0.06%|
-|2_vf_3_da|78320|0.05%|
-|Base|78282|0.00%|
+|use_md_1_target|83227|1.07%|
+|use_md_2_targets|83222|1.07%|
+|Base|82345|0.00%|
