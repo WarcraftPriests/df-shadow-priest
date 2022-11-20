@@ -1,4 +1,4 @@
 # Dungeons - cthun-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|63440|1.00|0.61|0.51|0.48|0.50|0.16|
+|Base|63392|1.00|0.60|0.52|0.47|0.51|0.16|
