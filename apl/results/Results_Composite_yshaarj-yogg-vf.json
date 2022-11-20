@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-yogg-vf", "data": {"use_md_2_targets": {"DPS": 77222}, "Base": {"DPS": 77168}, "use_md_1_target": {"DPS": 77054}}, "ids": {"use_md_2_targets": null, "use_md_1_target": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_md_2_targets", "use_md_1_target"], "last_updated": "2022-11-18"}
+{"name": "Composite - yshaarj-yogg-vf", "data": {"dp_cutoff": {"DPS": 78624}, "Base": {"DPS": 77686}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}

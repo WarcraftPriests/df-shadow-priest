@@ -1,1 +1,1 @@
-{"name": "2T - cthun-yogg-vf", "data": {"use_md_1_target": {"DPS": 83227}, "use_md_2_targets": {"DPS": 83222}, "Base": {"DPS": 82345}}, "ids": {"use_md_1_target": null, "use_md_2_targets": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_md_1_target", "use_md_2_targets"], "last_updated": "2022-11-18"}
+{"name": "2T - cthun-yogg-vf", "data": {"dp_cutoff": {"DPS": 85406}, "Base": {"DPS": 84419}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}

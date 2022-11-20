@@ -1,4 +1,3 @@
 profile,actor,DPS,increase,
-Dungeons,use_md_2_targets,64010,0.17%,
-Dungeons,Base,63901,0.00%,
-Dungeons,use_md_1_target,63867,-0.05%,
+Dungeons,dp_cutoff,63093,0.06%,
+Dungeons,Base,63053,0.00%,
