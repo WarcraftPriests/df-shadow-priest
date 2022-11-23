@@ -1,1 +1,1 @@
-{"name": "4T - cthun-yogg-vf", "data": {"dp_cutoff": {"DPS": 114144}, "Base": {"DPS": 109838}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "4T - cthun-yogg-vf", "data": {"Base": {"DPS": 112150}, "mfi_interrupt": {"DPS": 112074}, "mfi_interrupt_insanity=100": {"DPS": 112038}}, "ids": {"mfi_interrupt": null, "mfi_interrupt_insanity=100": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt", "mfi_interrupt_insanity=100"], "last_updated": "2022-11-21"}

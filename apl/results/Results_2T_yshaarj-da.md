@@ -1,5 +1,6 @@
 # 2T - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|82709|0.00%|
-|dp_cutoff|82701|-0.01%|
+|mfi_interrupt_insanity=100|87477|0.03%|
+|mfi_interrupt|87466|0.02%|
+|Base|87449|0.00%|

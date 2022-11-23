@@ -55,6 +55,10 @@ profileset."Phial_of_Tepid_Versatility_3"+=flask=phial_of_tepid_versatility_3
 # phial_of_eye_in_the_storm (tank only probs)
 
 # Potions
+# profileset."Residual_Neural_Channeling_Agent_1"+=potion=residual_neural_channeling_agent_1
+# profileset."Residual_Neural_Channeling_Agent_2"+=potion=residual_neural_channeling_agent_2
+# profileset."Residual_Neural_Channeling_Agent_3"+=potion=residual_neural_channeling_agent_3
+
 profileset."Bottled_Putrescence_1"+=potion=bottled_putrescence_1
 profileset."Bottled_Putrescence_2"+=potion=bottled_putrescence_2
 profileset."Bottled_Putrescence_3"+=potion=bottled_putrescence_3

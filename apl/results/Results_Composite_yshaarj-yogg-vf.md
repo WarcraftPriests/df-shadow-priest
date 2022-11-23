@@ -1,5 +1,6 @@
 # Composite - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_cutoff|78624|1.21%|
-|Base|77686|0.00%|
+|mfi_interrupt|79083|0.02%|
+|mfi_interrupt_insanity=100|79073|0.00%|
+|Base|79070|0.00%|

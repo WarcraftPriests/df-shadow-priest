@@ -1,1 +1,1 @@
-{"name": "Composite - cthun-yogg-vf", "data": {"dp_cutoff": {"DPS": 79951}, "Base": {"DPS": 79085}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "Composite - cthun-yogg-vf", "data": {"mfi_interrupt": {"DPS": 79636}, "Base": {"DPS": 79634}, "mfi_interrupt_insanity=100": {"DPS": 79633}}, "ids": {"mfi_interrupt": null, "mfi_interrupt_insanity=100": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt", "mfi_interrupt_insanity=100"], "last_updated": "2022-11-21"}

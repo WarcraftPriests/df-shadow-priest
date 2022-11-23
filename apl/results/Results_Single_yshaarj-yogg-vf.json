@@ -1,1 +1,1 @@
-{"name": "Single - yshaarj-yogg-vf", "data": {"Base": {"DPS": 65737}, "dp_cutoff": {"DPS": 65737}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "Single - yshaarj-yogg-vf", "data": {"Base": {"DPS": 65727}, "mfi_interrupt_insanity=100": {"DPS": 65713}, "mfi_interrupt": {"DPS": 65712}}, "ids": {"mfi_interrupt_insanity=100": null, "mfi_interrupt": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt_insanity=100", "mfi_interrupt"], "last_updated": "2022-11-21"}

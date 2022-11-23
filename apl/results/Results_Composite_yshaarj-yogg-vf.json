@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-yogg-vf", "data": {"dp_cutoff": {"DPS": 78624}, "Base": {"DPS": 77686}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "Composite - yshaarj-yogg-vf", "data": {"mfi_interrupt": {"DPS": 79083}, "mfi_interrupt_insanity=100": {"DPS": 79073}, "Base": {"DPS": 79070}}, "ids": {"mfi_interrupt": null, "mfi_interrupt_insanity=100": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt", "mfi_interrupt_insanity=100"], "last_updated": "2022-11-21"}

@@ -1,18 +1,18 @@
 # 4T - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|101803|0.83%|
-|Fated_Fortune_Cookie|101716|0.75%|
-|Thousandbone_Tongueslicer|101359|0.39%|
-|Sizzling_Seafood_Medley|101338|0.37%|
-|Great_Cerulean_Sea|101326|0.36%|
-|Feisty_Fish_Sticks|101319|0.35%|
-|Roast_Duck_Delight|101318|0.35%|
-|Revenge_Served_Cold|101293|0.33%|
-|Salt_Baked_Fishcake|101269|0.31%|
-|Timely_Demise|101264|0.30%|
-|Aromatic_Seafood_Platter|101260|0.30%|
-|Filet_of_Fangs|101256|0.29%|
-|Thrice_Spiced_Mammoth_Kabob|101228|0.27%|
-|Seamoth_Surprise|101222|0.26%|
-|Base|100960|0.00%|
+|Draconic_Augment_Rune|105610|0.84%|
+|Fated_Fortune_Cookie|105534|0.77%|
+|Revenge_Served_Cold|105239|0.49%|
+|Thousandbone_Tongueslicer|105192|0.44%|
+|Salt_Baked_Fishcake|105188|0.44%|
+|Feisty_Fish_Sticks|105177|0.43%|
+|Roast_Duck_Delight|105163|0.42%|
+|Great_Cerulean_Sea|105160|0.41%|
+|Aromatic_Seafood_Platter|105156|0.41%|
+|Sizzling_Seafood_Medley|105151|0.41%|
+|Seamoth_Surprise|105075|0.33%|
+|Filet_of_Fangs|105073|0.33%|
+|Timely_Demise|105050|0.31%|
+|Thrice_Spiced_Mammoth_Kabob|104949|0.21%|
+|Base|104727|0.00%|

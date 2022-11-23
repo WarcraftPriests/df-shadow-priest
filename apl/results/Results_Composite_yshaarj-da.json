@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-da", "data": {"dp_cutoff": {"DPS": 78489}, "Base": {"DPS": 77727}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "Composite - yshaarj-da", "data": {"mfi_interrupt": {"DPS": 77834}, "Base": {"DPS": 77829}, "mfi_interrupt_insanity=100": {"DPS": 77828}}, "ids": {"mfi_interrupt": null, "mfi_interrupt_insanity=100": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt", "mfi_interrupt_insanity=100"], "last_updated": "2022-11-21"}

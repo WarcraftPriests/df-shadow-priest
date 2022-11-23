@@ -1,1 +1,1 @@
-{"name": "2T - yshaarj-yogg-vf", "data": {"dp_cutoff": {"DPS": 87414}, "Base": {"DPS": 86955}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "2T - yshaarj-yogg-vf", "data": {"mfi_interrupt": {"DPS": 87712}, "mfi_interrupt_insanity=100": {"DPS": 87711}, "Base": {"DPS": 87708}}, "ids": {"mfi_interrupt": null, "mfi_interrupt_insanity=100": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_interrupt", "mfi_interrupt_insanity=100"], "last_updated": "2022-11-21"}

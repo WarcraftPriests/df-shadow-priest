@@ -1,3 +1,4 @@
 profile,actor,DPS,increase,
-2T,dp_cutoff,87414,0.53%,
-2T,Base,86955,0.00%,
+2T,mfi_interrupt,87712,0.01%,
+2T,mfi_interrupt_insanity=100,87711,0.00%,
+2T,Base,87708,0.00%,
