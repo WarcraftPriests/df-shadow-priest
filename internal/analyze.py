@@ -271,7 +271,9 @@ def build_json(sim_type, talent_string, results, directory, timestamp):
                     # split off the key to get the step
                     # key: Trinket_415 would turn into 415
                     key_step = key.split('_')[len(key.split('_')) - 1]
-                    key_name = key[:-4]
+                    # trim off _415 which is key_step + 1 char for the _
+                    offset = (len(key_step) + 1) * -1
+                    key_name = key[:offset]
                     if profile == key_name and str(key_step) == str(step):
                         chart_data["data"][profile][step] = int(
                             round(value, 0))
@@ -381,7 +383,8 @@ def analyze(talents, directory, dungeons, weights, timestamp):
         data = pandas.read_csv(csv, usecols=['profile', 'actor', 'DD', 'DPS'])
 
     talent_string = f"_{talents}" if talents else ""
-    sim_types = ["Dungeons"] if dungeons else ["Composite", "Single", "2T", "4T"]
+    sim_types = ["Dungeons"] if dungeons else [
+        "Composite", "Single", "2T", "4T"]
 
     for sim_type in sim_types:
         results = build_results(data, weights, sim_type, directory)

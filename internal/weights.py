@@ -31,9 +31,9 @@ weights_vault_of_the_incarnates = {
 }
 
 weights_single = {
-    'pw_na_1': 0.69514237856,
-    'lm_na_1': 0.25460636516,
-    'hm_na_1': 0.05025125628,
+    'pw_na_1': 0.74074074074,
+    'lm_na_1': 0.22222222222,
+    'hm_na_1': 0.03703703704,
 }
 
 weights_two_targets = {
