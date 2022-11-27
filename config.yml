@@ -102,7 +102,7 @@ sims:
     files:
       - racials.simc
   special-gear:
-    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear. Compared against Mythic BiS gear from the Raid or Mythic+ gear. Embellishments used where possible (BSL, BGW, or PAI)."
+    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear. Compared against Mythic BiS gear from the Raid or Mythic+ gear. Embellishments used where possible: Blue Silken Lining (BSL), Potion Absorption Inhibitor (PAI), or Bronzed Grip Wrappings (BGW)."
     builds: true
     weights: false
     chart: true
