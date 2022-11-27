@@ -124,6 +124,44 @@ racials = {
     "Highmountain_Tauren": 255658
 }
 
+special = {
+    "Neck_Elemental_Lariat_418": 193001,
+    "Finger1_Ring_Bound_Hourglass_418": 193000,
+    "Finger2_Ring_Bound_Hourglass_418": 193000,
+    "Legs_Vibrant_Wildercloth_Slacks_418": 193518,
+    "Legs_Vibrant_Wildercloth_Slacks_BSL_418": 193518,
+    "Legs_Vibrant_Wildercloth_Slacks_PAI_418": 193518,
+    "Waist_Vibrant_Wildercloth_Girdle_418": 193516,
+    "Waist_Vibrant_Wildercloth_Girdle_BSL_418": 193516,
+    "Waist_Vibrant_Wildercloth_Girdle_PAI_418": 193516,
+    "Hands_Vibrant_Wildercloth_Handwraps_418": 193504,
+    "Hands_Vibrant_Wildercloth_Handwraps_BSL_418": 193504,
+    "Hands_Vibrant_Wildercloth_Handwraps_PAI_418": 193504,
+    "Head_Vibrant_Wildercloth_Headcover_418": 193523,
+    "Head_Vibrant_Wildercloth_Headcover_BSL_418": 193523,
+    "Head_Vibrant_Wildercloth_Headcover_PAI_418": 193523,
+    "Back_Vibrant_Wildercloth_Shawl_418": 193511,
+    "Back_Vibrant_Wildercloth_Shawl_BSL_418": 193511,
+    "Back_Vibrant_Wildercloth_Shawl_PAI_418": 193511,
+    "Shoulders_Vibrant_Wildercloth_Shoulderspikes_418": 193508,
+    "Shoulders_Vibrant_Wildercloth_Shoulderspikes_BSL_418": 193508,
+    "Shoulders_Vibrant_Wildercloth_Shoulderspikes_PAI_418": 193508,
+    "Feet_Vibrant_Wildercloth_Slippers_418": 193519,
+    "Feet_Vibrant_Wildercloth_Slippers_BSL_418": 193519,
+    "Feet_Vibrant_Wildercloth_Slippers_PAI_418": 193519,
+    "Chest_Vibrant_Wildercloth_Vestments_418": 193509,
+    "Chest_Vibrant_Wildercloth_Vestments_BSL_418": 193509,
+    "Chest_Vibrant_Wildercloth_Vestments_PAI_418": 193509,
+    "Wrists_Vibrant_Wildercloth_Wristwraps_418": 193510,
+    "Wrists_Vibrant_Wildercloth_Wristwraps_BSL_418": 193510,
+    "Wrists_Vibrant_Wildercloth_Wristwraps_PAI_418": 193510,
+    "2h_Illuminating_Pillar_of_the_Isles_418": 194898,
+    "2h_Illuminating_Pillar_of_the_Isles_BSL_418": 194898,
+    "2h_Illuminating_Pillar_of_the_Isles_PAI_418": 194898,
+    "2h_Illuminating_Pillar_of_the_Isles_BGW_418": 194898,
+    "2h_Weathered_Explorers_Stave_418": 194894,
+}
+
 tiersets = {
     "T29-2-set": 394961,
     "T29-2_4-set": 394963
@@ -145,4 +183,6 @@ def find_ids(key):
         return gems
     if key == 'alchemy':
         return alchemy
+    if key == 'special-gear':
+        return special
     return None

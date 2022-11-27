@@ -8,8 +8,8 @@ from itertools import combinations
 
 combos = {
     # dungeons (405/421)
-    "Infernal_Wrist_405": "infernal_wrist,id=137485,ilevel=405",
-    "Infernal_Wrist_421": "infernal_wrist,id=137485,ilevel=421",
+    "Infernal_Writ_405": "infernal_writ,id=137485,ilevel=405",
+    "Infernal_Writ_421": "infernal_writ,id=137485,ilevel=421",
     "Eye_of_Skovald_405": "eye_of_skovald,id=133641,ilevel=405",
     "Eye_of_Skovald_421": "eye_of_skovald,id=133641,ilevel=421",
     "Horn_of_Valor_405": "horn_of_valor,id=133642,ilevel=405",

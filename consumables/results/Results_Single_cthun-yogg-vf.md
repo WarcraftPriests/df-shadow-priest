@@ -1,18 +1,18 @@
 # Single - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|63805|0.80%|
-|Fated_Fortune_Cookie|63747|0.71%|
-|Thousandbone_Tongueslicer|63575|0.44%|
-|Revenge_Served_Cold|63566|0.42%|
-|Great_Cerulean_Sea|63563|0.42%|
-|Feisty_Fish_Sticks|63557|0.41%|
-|Roast_Duck_Delight|63545|0.39%|
-|Sizzling_Seafood_Medley|63532|0.37%|
-|Filet_of_Fangs|63508|0.33%|
-|Salt_Baked_Fishcake|63506|0.33%|
-|Aromatic_Seafood_Platter|63494|0.31%|
-|Seamoth_Surprise|63489|0.30%|
-|Timely_Demise|63447|0.24%|
-|Thrice_Spiced_Mammoth_Kabob|63437|0.22%|
-|Base|63297|0.00%|
+|Draconic_Augment_Rune|66877|0.81%|
+|Fated_Fortune_Cookie|66782|0.67%|
+|Revenge_Served_Cold|66641|0.45%|
+|Aromatic_Seafood_Platter|66632|0.44%|
+|Sizzling_Seafood_Medley|66628|0.43%|
+|Thousandbone_Tongueslicer|66623|0.43%|
+|Great_Cerulean_Sea|66609|0.41%|
+|Salt_Baked_Fishcake|66605|0.40%|
+|Feisty_Fish_Sticks|66592|0.38%|
+|Timely_Demise|66570|0.35%|
+|Roast_Duck_Delight|66569|0.34%|
+|Filet_of_Fangs|66567|0.34%|
+|Seamoth_Surprise|66554|0.32%|
+|Thrice_Spiced_Mammoth_Kabob|66494|0.23%|
+|Base|66340|0.00%|

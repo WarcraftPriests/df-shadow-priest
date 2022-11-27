@@ -1,0 +1,98 @@
+priest="Base"
+level=70
+role=spell
+position=back
+spec=shadow
+talents=${talents}
+
+set_bonus=tier29_2pc=1
+set_bonus=tier29_4pc=1
+
+head=${gear.head},gem_id=192948
+neck=${gear.neck},gem_id=192985/192948/192948
+shoulders=${gear.shoulders}
+back=${gear.back}
+chest=${gear.chest},enchant_id=6625
+wrists=${gear.wrists},gem_id=192948
+hands=${gear.hands}
+waist=${gear.waist},gem_id=192948
+legs=${gear.legs},enchant_id=6541
+feet=${gear.feet}
+finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+finger2=${gear.finger2},enchant_id=6556,gem_id=192948
+trinket1=${gear.trinket1}
+trinket2=${gear.trinket2}
+main_hand=${gear.main_hand},enchant_id=6643
+${gear.off_hand}
+
+# Prof Gear 418 ilvl?
+# https://www.raidbots.com/static/data/live/bonuses.json
+
+## Jewelcrafting
+profileset."Neck_Elemental_Lariat_418"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=418,gem_id=192985/192948/192948
+
+profileset."Finger1_Ring_Bound_Hourglass_418"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=418,enchant_id=6556,gem_id=192948
+profileset."Finger2_Ring_Bound_Hourglass_418"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=418,enchant_id=6556,gem_id=192948
+
+## Tailoring
+# add chest whenever replacing tier slot chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+### Blue Silken Lining = 8932
+### Potion Absorption Inhibitor = 8175
+profileset."Legs_Vibrant_Wildercloth_Slacks_418"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=418,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Legs_Vibrant_Wildercloth_Slacks_BSL_418"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_BSL_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Legs_Vibrant_Wildercloth_Slacks_PAI_418"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_PAI_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+
+profileset."Waist_Vibrant_Wildercloth_Girdle_418"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
+profileset."Waist_Vibrant_Wildercloth_Girdle_BSL_418"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418,gem_id=192948
+profileset."Waist_Vibrant_Wildercloth_Girdle_PAI_418"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418,gem_id=192948
+
+profileset."Hands_Vibrant_Wildercloth_Handwraps_418"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Hands_Vibrant_Wildercloth_Handwraps_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Hands_Vibrant_Wildercloth_Handwraps_BSL_418"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418
+profileset."Hands_Vibrant_Wildercloth_Handwraps_BSL_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Hands_Vibrant_Wildercloth_Handwraps_PAI_418"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418
+profileset."Hands_Vibrant_Wildercloth_Handwraps_PAI_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+
+profileset."Head_Vibrant_Wildercloth_Headcover_418"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
+profileset."Head_Vibrant_Wildercloth_Headcover_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Head_Vibrant_Wildercloth_Headcover_BSL_418"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418,gem_id=192948
+profileset."Head_Vibrant_Wildercloth_Headcover_BSL_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Head_Vibrant_Wildercloth_Headcover_PAI_418"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418,gem_id=192948
+profileset."Head_Vibrant_Wildercloth_Headcover_PAI_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+
+profileset."Back_Vibrant_Wildercloth_Shawl_418"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Back_Vibrant_Wildercloth_Shawl_BSL_418"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418
+profileset."Back_Vibrant_Wildercloth_Shawl_PAI_418"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418
+
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_418"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_BSL_418"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_BSL_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_PAI_418"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_PAI_418"+=chest=draconic_hierophants_vestment,id=200324,ilevel=421,enchant_id=6625
+
+profileset."Feet_Vibrant_Wildercloth_Slippers_418"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Feet_Vibrant_Wildercloth_Slippers_BSL_418"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418
+profileset."Feet_Vibrant_Wildercloth_Slippers_PAI_418"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418
+
+profileset."Chest_Vibrant_Wildercloth_Vestments_418"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=418,enchant_id=6625
+profileset."Chest_Vibrant_Wildercloth_Vestments_BSL_418"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418,enchant_id=6625
+profileset."Chest_Vibrant_Wildercloth_Vestments_PAI_418"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418,enchant_id=6625
+
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_418"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_BSL_418"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=418,gem_id=192948
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_PAI_418"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8175,ilevel=418,gem_id=192948
+
+## Inscription
+### Blue Silken Lining - 8932
+### Potion Absorption Inhibitor - 8175
+### Bronzed Grip Wrappings - 8937
+profileset."2h_Illuminating_Pillar_of_the_Isles_418"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=418,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_BSL_418"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793/8932,ilevel=418,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_PAI_418"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793/8175,ilevel=418,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_BGW_418"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793/8937,ilevel=418,enchant_id=6643
+
+profileset."2h_Weathered_Explorers_Stave_418"+=main_hand=weathered_explorers_stave,id=194894,ilevel=418,enchant_id=6643

@@ -1,6 +1,6 @@
 # Single - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|mfi_interrupt_insanity=100|66800|0.05%|
-|mfi_interrupt|66784|0.02%|
-|Base|66768|0.00%|
+|use_blast_3to7|69326|0.03%|
+|Base|69306|0.00%|
+|use_blast_3to7_md|69297|-0.01%|

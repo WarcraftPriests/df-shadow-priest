@@ -23,15 +23,15 @@ gear:
   shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
   back: "fireproof_drape,id=193763,ilevel=421"
   chest: "arcanists_resonant_robes,id=134415,ilevel=421"
-  wrists: "felflame_bracers,id=109881,ilevel=421"
+  wrists: "manawracker_bindings,id=134310,ilevel=421"
   hands: "draconic_hierophants_grips,id=200326,ilevel=421"
   waist: "sky_saddle_cord,id=193691,ilevel=421"
   legs: "draconic_hierophants_britches,id=200328,ilevel=415"
   feet: "sandals_of_the_wild_sovereign,id=195532,ilevel=424"
   finger1: "seal_of_filial_duty,id=195526,ilevel=430"
-  finger2: "darkflame_loop,id=109766,ilevel=421"
-  trinket1: "crimson_aspirants_badge_of_ferocity,id=201449,bonus_id=8989/8990/1498/8766,ilevel=392"
-  trinket2: "crimson_aspirants_insignia_of_alacrity,id=201451,bonus_id=8989/8990/1498/8766,ilevel=392"
+  finger2: "woebearers_band,id=133638,ilevel=421"
+  trinket1: "horn_of_valor,id=133642,ilevel=421"
+  trinket2: "furious_ragefeather,id=193677,ilevel=421"
   main_hand: "final_grade,id=193707,ilevel=421"
   off_hand: ""
 sims:
@@ -79,17 +79,6 @@ sims:
       - 3
     files:
       - enchants.simc
-  gear:
-    description: "NYI"
-    builds: true
-    weights: false
-    chart: false
-    lookupType: item
-    steps:
-      - 226
-      - 233
-    files:
-      - t26.simc
   gems:
     description: "Sims all available gems against each other."
     builds: true
@@ -112,6 +101,16 @@ sims:
       - DPS
     files:
       - racials.simc
+  special-gear:
+    description: "Sims unique gear with effects to see the DPS gain."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - gear.simc
   stats:
     description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 100 stat each step)."
     builds: true

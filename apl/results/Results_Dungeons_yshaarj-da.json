@@ -1,1 +1,1 @@
-{"name": "Dungeons - yshaarj-da", "data": {"dp_cutoff": {"DPS": 62977}, "Base": {"DPS": 62934}}, "ids": {"dp_cutoff": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_cutoff"], "last_updated": "2022-11-19"}
+{"name": "Dungeons - yshaarj-da", "data": {"use_blast_3to7_md": {"DPS": 63379}, "Base": {"DPS": 63150}}, "ids": {"use_blast_3to7_md": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7_md"], "last_updated": "2022-11-26"}

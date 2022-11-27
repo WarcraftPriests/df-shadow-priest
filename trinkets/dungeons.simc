@@ -36,21 +36,21 @@ profileset."Spoils_of_Neltharus_372"+=trinket1=spoils_of_neltharus,id=193773,ile
 profileset."Time_Breaching_Talon_372"+=trinket1=timebreaching_talon,id=193791,ilevel=372
 
 # Court of Stars
-profileset."Infernal_Wrist_376"+=trinket1=infernal_wrist,id=137485,ilevel=376
-profileset."Infernal_Wrist_379"+=trinket1=infernal_wrist,id=137485,ilevel=379
-profileset."Infernal_Wrist_382"+=trinket1=infernal_wrist,id=137485,ilevel=382
-profileset."Infernal_Wrist_385"+=trinket1=infernal_wrist,id=137485,ilevel=385
-profileset."Infernal_Wrist_389"+=trinket1=infernal_wrist,id=137485,ilevel=389
-profileset."Infernal_Wrist_392"+=trinket1=infernal_wrist,id=137485,ilevel=392
-profileset."Infernal_Wrist_395"+=trinket1=infernal_wrist,id=137485,ilevel=395
-profileset."Infernal_Wrist_398"+=trinket1=infernal_wrist,id=137485,ilevel=398
-profileset."Infernal_Wrist_402"+=trinket1=infernal_wrist,id=137485,ilevel=402
-profileset."Infernal_Wrist_405"+=trinket1=infernal_wrist,id=137485,ilevel=405
-profileset."Infernal_Wrist_408"+=trinket1=infernal_wrist,id=137485,ilevel=408
-profileset."Infernal_Wrist_411"+=trinket1=infernal_wrist,id=137485,ilevel=411
-profileset."Infernal_Wrist_415"+=trinket1=infernal_wrist,id=137485,ilevel=415
-profileset."Infernal_Wrist_418"+=trinket1=infernal_wrist,id=137485,ilevel=418
-profileset."Infernal_Wrist_421"+=trinket1=infernal_wrist,id=137485,ilevel=421
+profileset."Infernal_Writ_376"+=trinket1=infernal_writ,id=137485,ilevel=376
+profileset."Infernal_Writ_379"+=trinket1=infernal_writ,id=137485,ilevel=379
+profileset."Infernal_Writ_382"+=trinket1=infernal_writ,id=137485,ilevel=382
+profileset."Infernal_Writ_385"+=trinket1=infernal_writ,id=137485,ilevel=385
+profileset."Infernal_Writ_389"+=trinket1=infernal_writ,id=137485,ilevel=389
+profileset."Infernal_Writ_392"+=trinket1=infernal_writ,id=137485,ilevel=392
+profileset."Infernal_Writ_395"+=trinket1=infernal_writ,id=137485,ilevel=395
+profileset."Infernal_Writ_398"+=trinket1=infernal_writ,id=137485,ilevel=398
+profileset."Infernal_Writ_402"+=trinket1=infernal_writ,id=137485,ilevel=402
+profileset."Infernal_Writ_405"+=trinket1=infernal_writ,id=137485,ilevel=405
+profileset."Infernal_Writ_408"+=trinket1=infernal_writ,id=137485,ilevel=408
+profileset."Infernal_Writ_411"+=trinket1=infernal_writ,id=137485,ilevel=411
+profileset."Infernal_Writ_415"+=trinket1=infernal_writ,id=137485,ilevel=415
+profileset."Infernal_Writ_418"+=trinket1=infernal_writ,id=137485,ilevel=418
+profileset."Infernal_Writ_421"+=trinket1=infernal_writ,id=137485,ilevel=421
 
 # Halls of Valor
 profileset."Eye_of_Skovald_376"+=trinket1=eye_of_skovald,id=133641,ilevel=376

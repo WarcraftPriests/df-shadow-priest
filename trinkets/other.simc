@@ -107,6 +107,10 @@ profileset."Alacritous_Alchemist_Stone_389"+=trinket1=alacritous_alchemist_stone
 profileset."Alacritous_Alchemist_Stone_405"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=405
 profileset."Alacritous_Alchemist_Stone_418"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=418
 
+profileset."Sustaining_Alchemist_Stone_389"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=389
+profileset."Sustaining_Alchemist_Stone_405"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=405
+profileset."Sustaining_Alchemist_Stone_418"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=418
+
 # Jewelcrafting
 profileset."Idol_of_the_Spell_Weaver_389"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=389
 profileset."Idol_of_the_Spell_Weaver_405"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=405

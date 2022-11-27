@@ -1,6 +1,6 @@
 # 4T - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|112150|0.00%|
-|mfi_interrupt|112074|-0.07%|
-|mfi_interrupt_insanity=100|112038|-0.10%|
+|use_blast_3to7|112836|0.38%|
+|use_blast_3to7_md|112671|0.23%|
+|Base|112408|0.00%|

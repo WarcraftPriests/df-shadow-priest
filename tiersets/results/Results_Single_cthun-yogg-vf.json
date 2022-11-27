@@ -1,1 +1,1 @@
-{"name": "Single - cthun-yogg-vf", "data": {"T29-2_4-set": {"DPS": 64281}, "T29-2-set": {"DPS": 61593}, "Base": {"DPS": 59663}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-11-24"}
+{"name": "Single - cthun-yogg-vf", "data": {"T29-2_4-set": {"DPS": 67297}, "T29-2-set": {"DPS": 64192}, "Base": {"DPS": 62324}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-11-26"}

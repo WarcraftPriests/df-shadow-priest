@@ -1,6 +1,6 @@
 # 4T - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|103056|0.00%|
-|mfi_interrupt|103042|-0.01%|
-|mfi_interrupt_insanity=100|102973|-0.08%|
+|use_blast_3to7|104985|1.16%|
+|use_blast_3to7_md|104975|1.15%|
+|Base|103780|0.00%|
