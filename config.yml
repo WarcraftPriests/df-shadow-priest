@@ -102,7 +102,7 @@ sims:
     files:
       - racials.simc
   special-gear:
-    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear. Compared against Mythic BiS gear from the Raid or Mythic+ gear."
+    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear, crafted with BiS stats when possible. Compared against Mythic BiS gear from the Raid or Mythic+ gear.<br><br>A negative DPS gain means the crafted piece with BiS stats is worse than the Mythic BiS piece. This usually means the BiS piece has a higher ilvl than the crafted piece."
     builds: true
     weights: false
     chart: true
