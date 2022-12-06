@@ -22,11 +22,11 @@ gear:
   neck: "eye_of_the_vengeful_hurricane,id=195496,ilevel=421"
   shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
   back: "fireproof_drape,id=193763,ilevel=421"
-  chest: "arcanists_resonant_robes,id=134415,ilevel=421"
+  chest: "draconic_hierophants_vestment,id=200324,ilevel=421" # todo fix ilvl
   wrists: "manawracker_bindings,id=134310,ilevel=421"
   hands: "draconic_hierophants_grips,id=200326,ilevel=421"
   waist: "sky_saddle_cord,id=193691,ilevel=421"
-  legs: "draconic_hierophants_britches,id=200328,ilevel=415"
+  legs: "leggings_of_swirling_runes,id=133610,ilevel=421" # todo is this even obtainable?
   feet: "sandals_of_the_wild_sovereign,id=195532,ilevel=424"
   finger1: "seal_of_filial_duty,id=195526,ilevel=430"
   finger2: "woebearers_band,id=133638,ilevel=421"
@@ -81,6 +81,7 @@ sims:
       - enchants.simc
   gems:
     description: "Sims all available gems against each other. Lists each gem at ranks 1, 2, and 3."
+    iterations: 20000
     builds: true
     weights: false
     chart: true
@@ -102,7 +103,7 @@ sims:
     files:
       - racials.simc
   special-gear:
-    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear. Compared against Mythic BiS gear from the Raid or Mythic+ gear."
+    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear, crafted with BiS stats when possible. Compared against Mythic BiS gear from the Raid or Mythic+ gear.<br>A negative DPS gain means the crafted piece with BiS stats is worse than the Mythic BiS piece. This usually means the BiS piece has a higher ilvl than the crafted piece."
     builds: true
     weights: false
     chart: true

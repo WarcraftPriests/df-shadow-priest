@@ -145,6 +145,14 @@ special = {
     "Wrists_Vibrant_Wildercloth_Wristwraps_418": 193510,
     "2h_Illuminating_Pillar_of_the_Isles_418": 194898,
     "2h_Weathered_Explorers_Stave_418": 194894,
+    "Azureweave_Mantle_Slippers_418": 193520,
+    "Azureweave_Robe_Slippers_418": 193536,
+    "Feet_Blue_Dragon_Soles_418": 193532,
+    "Shoulders_Amice_of_the_Blue_418": 193526,
+    "Chronocloth_Gloves_Sash_418": 193527,
+    "Chronocloth_Sash_Leggings_418": 193537,
+    "Head_Hood_of_Surging_Time_418": 193521,
+    "Wrists_Allied_Wristguards_of_Time_Dilation_418": 193530,
 }
 
 tiersets = {
