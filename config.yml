@@ -22,7 +22,7 @@ gear:
   neck: "eye_of_the_vengeful_hurricane,id=195496,ilevel=421"
   shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
   back: "fireproof_drape,id=193763,ilevel=421"
-  chest: "draconic_hierophants_vestment,id=200324,ilevel=421" # todo fix ilvl
+  chest: "draconic_hierophants_vestment,id=200324,ilevel=421"
   wrists: "manawracker_bindings,id=134310,ilevel=421"
   hands: "draconic_hierophants_grips,id=200326,ilevel=421"
   waist: "sky_saddle_cord,id=193691,ilevel=421"

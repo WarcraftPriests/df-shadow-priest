@@ -1,1 +1,1 @@
-{"name": "Single - cthun-yogg-vf", "data": {"use_blast_3to7_md": {"DPS": 68186}, "use_blast_3to7": {"DPS": 68182}, "Base": {"DPS": 68166}}, "ids": {"use_blast_3to7_md": null, "use_blast_3to7": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7_md", "use_blast_3to7"], "last_updated": "2022-11-26"}
+{"name": "Single - cthun-yogg-vf", "data": {"vf_short_circuit": {"DPS": 67820}, "Base": {"DPS": 67800}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}

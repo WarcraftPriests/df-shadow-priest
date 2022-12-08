@@ -1,1 +1,1 @@
-{"name": "Dungeons - cthun-yogg-vf", "data": {"use_blast_3to7_md": {"DPS": 63639}, "Base": {"DPS": 63394}}, "ids": {"use_blast_3to7_md": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7_md"], "last_updated": "2022-11-26"}
+{"name": "Dungeons - cthun-yogg-vf", "data": {"Base": {"DPS": 65030}, "vf_short_circuit": {"DPS": 64890}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}

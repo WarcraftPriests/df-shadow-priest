@@ -125,7 +125,30 @@ profileset."Idol_of_the_Earth_Warder_405"+=trinket1=idol_of_the_earth_warder,id=
 profileset."Idol_of_the_Earth_Warder_418"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=418
 
 # Questing Trinkets
-# TODO
+profileset."Primal_Ritual_Shell_Wind_379"+=trinket1=primal_ritual_shell,id=200563,ilevel=379
+profileset."Primal_Ritual_Shell_Wind_379"+=dragonflight.primal_ritual_shell_blessing=wind
+profileset."Primal_Ritual_Shell_Wind_385"+=trinket1=primal_ritual_shell,id=200563,ilevel=385
+profileset."Primal_Ritual_Shell_Wind_385"+=dragonflight.primal_ritual_shell_blessing=wind
+
+profileset."Primal_Ritual_Shell_Flame_379"+=trinket1=primal_ritual_shell,id=200563,ilevel=379
+profileset."Primal_Ritual_Shell_Flame_379"+=dragonflight.primal_ritual_shell_blessing=flame
+profileset."Primal_Ritual_Shell_Flame_385"+=trinket1=primal_ritual_shell,id=200563,ilevel=385
+profileset."Primal_Ritual_Shell_Flame_385"+=dragonflight.primal_ritual_shell_blessing=flame
+
+profileset."Bottomless_Reliquary_Satchel_379"+=trinket1=bottomless_reliquary_satchel,id=198695,ilevel=379
+profileset."Bottomless_Reliquary_Satchel_385"+=trinket1=bottomless_reliquary_satchel,id=198695,ilevel=385
+
+profileset."Razorwind_Talisman_379"+=trinket1=razorwind_talisman,id=200161,ilevel=379
+profileset."Razorwind_Talisman_385"+=trinket1=razorwind_talisman,id=200161,ilevel=385
+
+profileset."Grals_Discarded_Tooth_379"+=trinket1=grals_discarded_tooth,id=192797,ilevel=379
+profileset."Grals_Discarded_Tooth_385"+=trinket1=grals_discarded_tooth,id=192797,ilevel=385
+
+profileset."Azure_Arcanic_Amplifier_379"+=trinket1=azure_arcanic_amplifier,id=198407,ilevel=379
+profileset."Azure_Arcanic_Amplifier_385"+=trinket1=azure_arcanic_amplifier,id=198407,ilevel=385
+
+profileset."Breath_of_the_Plains_379"+=trinket1=breath_of_the_plains,id=198539,ilevel=379
+profileset."Breath_of_the_Plains_385"+=trinket1=breath_of_the_plains,id=198539,ilevel=385
 
 # PVP Trinkets
 # Honor:    ?

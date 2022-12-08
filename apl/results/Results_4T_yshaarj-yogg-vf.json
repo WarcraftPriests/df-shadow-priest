@@ -1,1 +1,1 @@
-{"name": "4T - yshaarj-yogg-vf", "data": {"use_blast_3to7_md": {"DPS": 110102}, "use_blast_3to7": {"DPS": 110056}, "Base": {"DPS": 109064}}, "ids": {"use_blast_3to7_md": null, "use_blast_3to7": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7_md", "use_blast_3to7"], "last_updated": "2022-11-26"}
+{"name": "4T - yshaarj-yogg-vf", "data": {"Base": {"DPS": 113068}, "vf_short_circuit": {"DPS": 112896}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}

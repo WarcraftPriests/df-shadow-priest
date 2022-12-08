@@ -1,5 +1,5 @@
 # Dungeons - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|use_blast_3to7_md|63379|0.36%|
-|Base|63150|0.00%|
+|Base|66628|0.00%|
+|vf_short_circuit|66609|-0.03%|

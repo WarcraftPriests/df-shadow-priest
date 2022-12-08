@@ -27,7 +27,7 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
-priest="test"
+priest="vf_short_circuit"
 level=70
 role=spell
 position=back
@@ -86,7 +86,7 @@ actions+=/variable,name=pool_amount,op=set,value=60
 actions+=/run_action_list,name=main
 
 actions.cds=power_infusion,if=(buff.voidform.up|buff.dark_ascension.up)
-actions.cds+=/void_eruption,if=!cooldown.fiend.up&(pet.fiend.active|!talent.mindbender)&(cooldown.mind_blast.charges=0|time>15|buff.shadowy_insight.up&cooldown.mind_blast.charges=buff.shadowy_insight.stack)
+actions.cds+=/void_eruption,if=!cooldown.fiend.up&(pet.fiend.active|!talent.mindbender)&(cooldown.mind_blast.charges=0|buff.mind_devourer.up|time>15|buff.shadowy_insight.up&cooldown.mind_blast.charges=buff.shadowy_insight.stack)
 actions.cds+=/dark_ascension,if=pet.fiend.active&cooldown.mind_blast.charges<2|!talent.mindbender&!cooldown.fiend.up&cooldown.fiend.remains>=15
 actions.cds+=/call_action_list,name=trinkets
 actions.cds+=/mindbender,if=(dot.shadow_word_pain.ticking&variable.vts_applied|action.shadow_crash.in_flight)

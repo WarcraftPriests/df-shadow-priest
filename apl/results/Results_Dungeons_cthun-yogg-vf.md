@@ -1,5 +1,5 @@
 # Dungeons - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|use_blast_3to7_md|63639|0.39%|
-|Base|63394|0.00%|
+|Base|65030|0.00%|
+|vf_short_circuit|64890|-0.22%|

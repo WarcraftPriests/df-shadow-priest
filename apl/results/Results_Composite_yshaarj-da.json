@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-da", "data": {"use_blast_3to7": {"DPS": 80417}, "use_blast_3to7_md": {"DPS": 80403}, "Base": {"DPS": 80143}}, "ids": {"use_blast_3to7": null, "use_blast_3to7_md": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7", "use_blast_3to7_md"], "last_updated": "2022-11-26"}
+{"name": "Composite - yshaarj-da", "data": {"vf_short_circuit": {"DPS": 80958}, "Base": {"DPS": 80956}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}

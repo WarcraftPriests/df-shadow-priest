@@ -1,1 +1,1 @@
-{"name": "Single - yshaarj-yogg-vf", "data": {"Base": {"DPS": 68732}, "use_blast_3to7": {"DPS": 68728}, "use_blast_3to7_md": {"DPS": 68716}}, "ids": {"use_blast_3to7": null, "use_blast_3to7_md": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["use_blast_3to7", "use_blast_3to7_md"], "last_updated": "2022-11-26"}
+{"name": "Single - yshaarj-yogg-vf", "data": {"Base": {"DPS": 69271}, "vf_short_circuit": {"DPS": 69191}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}
