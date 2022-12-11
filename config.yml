@@ -1,4 +1,5 @@
 builds:
+  # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   yshaarj-da:
     composite: BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEhUQSSSJJSgSakEJSkQEkINpFSCA # DA_yshaarj_yogg_370842075652015_AoE
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIi0IBAAAAAAAAAAAAgIJKRIFSSSSJiEokGJRiEJEBJSTahkAA # DA_yshaarj_yogg_370842360324015_AoE
