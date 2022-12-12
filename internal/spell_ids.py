@@ -153,6 +153,8 @@ special = {
     "Chronocloth_Sash_Leggings_418": 193537,
     "Head_Hood_of_Surging_Time_418": 193521,
     "Wrists_Allied_Wristguards_of_Time_Dilation_418": 193530,
+    "MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418": 194879,
+    "MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418": 193496,
 }
 
 tiersets = {
