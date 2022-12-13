@@ -7,22 +7,22 @@ from itertools import combinations
 # pylint: disable=line-too-long
 
 combos = {
-    # dungeons (405/421)
-    "Infernal_Writ_405": "infernal_writ,id=137485,ilevel=405",
+    # dungeons (415/421)
+    "Infernal_Writ_415": "infernal_writ,id=137485,ilevel=415",
     "Infernal_Writ_421": "infernal_writ,id=137485,ilevel=421",
-    "Eye_of_Skovald_405": "eye_of_skovald,id=133641,ilevel=405",
+    "Eye_of_Skovald_415": "eye_of_skovald,id=133641,ilevel=415",
     "Eye_of_Skovald_421": "eye_of_skovald,id=133641,ilevel=421",
-    "Horn_of_Valor_405": "horn_of_valor,id=133642,ilevel=405",
+    "Horn_of_Valor_415": "horn_of_valor,id=133642,ilevel=415",
     "Horn_of_Valor_421": "horn_of_valor,id=133642,ilevel=421",
-    "Voidmenders_Shadowgem_405": "voidmenders_shadowgem,id=110007,ilevel=405",
+    "Voidmenders_Shadowgem_415": "voidmenders_shadowgem,id=110007,ilevel=415",
     "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
-    # "Ruby_Whelp_Shell_405": "ruby_whelp_shell,id=193757,ilevel=405",
+    # "Ruby_Whelp_Shell_415": "ruby_whelp_shell,id=193757,ilevel=415",
     # "Ruby_Whelp_Shell_421": "ruby_whelp_shell,id=193757,ilevel=421",
-    "Tome_of_Unstable_Power_405": "tome_of_unstable_power,id=193628,ilevel=405",
+    "Tome_of_Unstable_Power_415": "tome_of_unstable_power,id=193628,ilevel=415",
     "Tome_of_Unstable_Power_421": "tome_of_unstable_power,id=193628,ilevel=421",
-    "Umbrelskuls_Fractured_Heart_405": "umbrelskuls_fractured_heart,id=193639,ilevel=405",
+    "Umbrelskuls_Fractured_Heart_415": "umbrelskuls_fractured_heart,id=193639,ilevel=415",
     "Umbrelskuls_Fractured_Heart_421": "umbrelskuls_fractured_heart,id=193639,ilevel=421",
-    "Furious_Ragefeather_405": "furious_ragefeather,id=193677,ilevel=405",
+    "Furious_Ragefeather_415": "furious_ragefeather,id=193677,ilevel=415",
     "Furious_Ragefeather_421": "furious_ragefeather,id=193677,ilevel=421",
     # vault of the incarnates
     "Conjured_Chillglobe_402": "conjured_chillglobe,id=194300,ilevel=402",

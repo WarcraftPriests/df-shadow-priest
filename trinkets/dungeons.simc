@@ -26,7 +26,7 @@ ${gear.off_hand}
 
 # Mythic+ Trinkets (End of Run): 376/379/382/385/389/392/395/398/402/405
 # Mythic+ Trinkets (Great Vault): 408/411/415/418/421
-# Highest from key: 405 // Highest from vault: 421
+# Highest from key: 405 // Valor: 415 // Highest from vault: 421
 
 # Dragonflight non-S1 Mythic+0 Trinkets
 profileset."Idol_of_Pure_Decay_372"+=trinket1=idol_of_pure_decay,id=193660,ilevel=372
