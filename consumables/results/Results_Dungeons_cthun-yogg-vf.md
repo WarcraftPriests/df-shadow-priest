@@ -1,18 +1,18 @@
 # Dungeons - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|65919|0.86%|
-|Feisty_Fish_Sticks|65862|0.78%|
-|Thousandbone_Tongueslicer|65843|0.75%|
-|Timely_Demise|65834|0.73%|
-|Aromatic_Seafood_Platter|65819|0.71%|
-|Sizzling_Seafood_Medley|65794|0.67%|
-|Revenge_Served_Cold|65777|0.65%|
-|Fated_Fortune_Cookie|65757|0.62%|
-|Great_Cerulean_Sea|65727|0.57%|
-|Filet_of_Fangs|65718|0.56%|
-|Salt_Baked_Fishcake|65714|0.55%|
-|Seamoth_Surprise|65663|0.47%|
-|Roast_Duck_Delight|65602|0.38%|
-|Thrice_Spiced_Mammoth_Kabob|65468|0.17%|
-|Base|65355|0.00%|
+|Draconic_Augment_Rune|69992|0.88%|
+|Aromatic_Seafood_Platter|69981|0.86%|
+|Fated_Fortune_Cookie|69972|0.85%|
+|Sizzling_Seafood_Medley|69943|0.81%|
+|Feisty_Fish_Sticks|69936|0.80%|
+|Timely_Demise|69926|0.78%|
+|Thousandbone_Tongueslicer|69899|0.74%|
+|Revenge_Served_Cold|69896|0.74%|
+|Great_Cerulean_Sea|69836|0.65%|
+|Seamoth_Surprise|69831|0.65%|
+|Filet_of_Fangs|69798|0.60%|
+|Salt_Baked_Fishcake|69684|0.43%|
+|Roast_Duck_Delight|69672|0.42%|
+|Thrice_Spiced_Mammoth_Kabob|69672|0.42%|
+|Base|69383|0.00%|
