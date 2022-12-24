@@ -1,1 +1,1 @@
-{"name": "4T - yshaarj-yogg-vf", "data": {"Base": {"DPS": 113068}, "vf_short_circuit": {"DPS": 112896}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}
+{"name": "4T - yshaarj-yogg-vf", "data": {"after_am": {"DPS": 119400}, "Base": {"DPS": 119391}, "after": {"DPS": 119383}}, "ids": {"after_am": null, "after": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["after_am", "after"], "last_updated": "2022-12-24"}

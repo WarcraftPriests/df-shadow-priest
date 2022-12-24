@@ -1,5 +1,6 @@
 # Composite - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|vf_short_circuit|82146|0.01%|
-|Base|82138|0.00%|
+|saeldur+fight_remains+stack_check|90403|0.02%|
+|Base|90388|0.00%|
+|on_cd|90240|-0.16%|

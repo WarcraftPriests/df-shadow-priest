@@ -1,5 +1,6 @@
 # 2T - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|91819|0.00%|
-|vf_short_circuit|91727|-0.10%|
+|after|100367|0.03%|
+|after_am|100352|0.01%|
+|Base|100339|0.00%|

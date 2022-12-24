@@ -1,5 +1,6 @@
 # Composite - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|82950|0.00%|
-|vf_short_circuit|82855|-0.11%|
+|after|90700|0.04%|
+|after_am|90665|0.00%|
+|Base|90664|0.00%|

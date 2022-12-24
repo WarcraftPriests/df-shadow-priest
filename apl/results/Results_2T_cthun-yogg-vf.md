@@ -1,5 +1,6 @@
 # 2T - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|vf_short_circuit|88633|0.04%|
-|Base|88594|0.00%|
+|saeldur+fight_remains+stack_check|97461|0.01%|
+|Base|97455|0.00%|
+|on_cd|97292|-0.17%|

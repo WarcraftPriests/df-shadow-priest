@@ -1,1 +1,1 @@
-{"name": "2T - cthun-yogg-vf", "data": {"vf_short_circuit": {"DPS": 88633}, "Base": {"DPS": 88594}}, "ids": {"vf_short_circuit": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["vf_short_circuit"], "last_updated": "2022-11-29"}
+{"name": "2T - cthun-yogg-vf", "data": {"saeldur+fight_remains+stack_check": {"DPS": 97461}, "Base": {"DPS": 97455}, "on_cd": {"DPS": 97292}}, "ids": {"saeldur+fight_remains+stack_check": null, "on_cd": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["saeldur+fight_remains+stack_check", "on_cd"], "last_updated": "2022-12-24"}

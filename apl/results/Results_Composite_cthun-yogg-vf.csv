@@ -1,3 +1,4 @@
 profile,actor,DPS,increase,
-Composite,vf_short_circuit,82146,0.01%,
-Composite,Base,82138,0.00%,
+Composite,saeldur+fight_remains+stack_check,90403,0.02%,
+Composite,Base,90388,0.00%,
+Composite,on_cd,90240,-0.16%,
