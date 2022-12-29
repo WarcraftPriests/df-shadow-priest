@@ -1,1 +1,1 @@
-{"name": "2T - yshaarj-yogg-vf", "data": {"T29-2_4-set": {"DPS": 98933}, "T29-2-set": {"DPS": 94921}, "Base": {"DPS": 91968}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-12-23"}
+{"name": "2T - yshaarj-yogg-vf", "data": {"T29-2_4-set": {"DPS": 98981}, "T29-2-set": {"DPS": 94897}, "Base": {"DPS": 91943}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2022-12-28"}
