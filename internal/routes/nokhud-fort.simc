@@ -1,0 +1,39 @@
+fight_style=DungeonRoute
+override.bloodlust=0
+override.arcane_intellect=0
+override.power_word_fortitude=0
+override.battle_shout=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+override.windfury_totem=0
+single_actor_batch=1
+max_time=2400
+enemy="The Nokhud Offensive 15 Fortified"
+enemy_health=999999
+keystone_level=15
+keystone_pct_hp=27
+raid_events=/invulnerable,cooldown=4800,duration=4800,retarget=1
+raid_events+=/pull,pull=01,bloodlust=0,delay=007,mark_duration=13,enemies="Nokhud_Warspear_1":725969:Humanoid|"Nokhud_Warspear_2":725969:Humanoid|"Nokhud_Longbow_1":653373:Humanoid|"Nokhud_Longbow_2":653373:Humanoid|"Nokhud_Hornsounder_1":580775:Humanoid|"Nokhud_Beastmaster_1":725969:Humanoid|"Nokhud_Plainstomper_1":1306745:Humanoid|"War_Ohuna_1":290387:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=014,mark_duration=13,enemies="Nokhud_Warspear_1":725969:Humanoid|"Nokhud_Hornsounder_1":580775:Humanoid|"Nokhud_Beastmaster_1":725969:Humanoid|"Nokhud_Plainstomper_1":1306745:Humanoid|"War_Ohuna_1":290387:Beast
+raid_events+=/pull,pull=03,bloodlust=0,delay=010,mark_duration=13,enemies="Nokhud_Longbow_1":653373:Humanoid|"Nokhud_Longbow_2":653373:Humanoid|"Nokhud_Hornsounder_1":580775:Humanoid|"Nokhud_Beastmaster_1":725969:Humanoid|"War_Ohuna_1":290387:Beast|"Nokhud_Lancemaster_1":1306745:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,mark_duration=13,enemies="Nokhud_Warspear_1":725969:Humanoid|"Nokhud_Warspear_2":725969:Humanoid|"Nokhud_Longbow_1":653373:Humanoid|"Nokhud_Longbow_2":653373:Humanoid|"Nokhud_Lancemaster_1":1306745:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=015,mark_duration=13,enemies="Nokhud_Warspear_1":725969:Humanoid|"Nokhud_Longbow_1":653373:Humanoid|"Nokhud_Hornsounder_1":580775:Humanoid|"Nokhud_Lancemaster_1":1306745:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Granyth":4580288:Dragonkin
+raid_events+=/pull,pull=07,bloodlust=0,delay=014,mark_duration=13,enemies="Stormsurge_Totem_1":348464:Not specified|"Stormcaller_Boroo_1":1161551:Humanoid|"Primalist_Arcblade_1":871163:Humanoid|"Primalist_Arcblade_2":871163:Humanoid|"Primalist_Thunderbeast_1":1451939:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=007,mark_duration=13,enemies="Stormcaller_Zarii_1":1161551:Humanoid|"Primalist_Stormspeaker_1":725969:Humanoid|"Primalist_Arcblade_1":871163:Humanoid|"Primalist_Arcblade_2":871163:Humanoid|"Unstable_Squall_1":290387:Elemental|"Primal_Stormshield_1":943761:Elemental|"Primal_Stormshield_2":943761:Elemental|"Stormsurge_Totem_1":348464:Not specified
+raid_events+=/pull,pull=09,bloodlust=0,delay=015,mark_duration=13,enemies="Stormsurge_Totem_1":348464:Not specified|"Primalist_Stormspeaker_1":725969:Humanoid|"Stormcaller_Solongo_1":1161551:Humanoid|"Unstable_Squall_1":290387:Elemental|"Primal_Stormshield_1":943761:Elemental|"Primal_Gust_1":290387:Elemental|"Primal_Gust_2":290387:Elemental|"Primal_Gust_3":290387:Elemental|"Primal_Gust_4":290387:Elemental
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,mark_duration=13,enemies="Stormsurge_Totem_1":348464:Not specified|"Primalist_Stormspeaker_1":725969:Humanoid|"Stormcaller_Arynga_1":1161551:Humanoid|"Unstable_Squall_1":290387:Elemental|"Primalist_Arcblade_1":871163:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=008,mark_duration=13,enemies="Primal_Stormshield_1":943761:Elemental|"Primal_Stormshield_2":943761:Elemental|"Primalist_Thunderbeast_1":1451939:Beast
+raid_events+=/pull,pull=12,bloodlust=0,delay=015,mark_duration=13,enemies="BOSS_The_Raging_Tempest":6026694:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=012,mark_duration=13,enemies="Ukhel_Beastcaller_1":1016357:Humanoid|"Desecrated_Ohuna_1":580775:Undead|"Desecrated_Ohuna_2":580775:Undead|"Desecrated_Ohuna_3":580775:Undead|"Desecrated_Ohuna_4":580775:Undead|"Desecrated_Ohuna_5":580775:Undead|"Desecrated_Bakar_1":290387:Undead|"Soulharvester_Galtmaa_1":1161551:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=014,mark_duration=13,enemies="Risen_Mystic_1":580775:Undead|"Ukhel_Beastcaller_1":1016357:Humanoid|"Ukhel_Deathspeaker_1":871163:Humanoid|"Ukhel_Deathspeaker_2":871163:Humanoid|"Desecrated_Ohuna_1":580775:Undead|"Risen_Warrior_1":725969:Undead|"Risen_Warrior_2":725969:Undead|"Soulharvester_Duuren_1":1161551:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=010,mark_duration=13,enemies="Risen_Mystic_1":580775:Undead|"Ukhel_Beastcaller_1":1016357:Humanoid|"Ukhel_Deathspeaker_1":871163:Humanoid|"Ukhel_Deathspeaker_2":871163:Humanoid|"Desecrated_Ohuna_1":580775:Undead|"Desecrated_Bakar_1":290387:Undead|"Desecrated_Bakar_2":290387:Undead|"Soulharvester_Tumen_1":1161551:Humanoid|"Risen_Warrior_1":725969:Undead
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,mark_duration=13,enemies="Risen_Mystic_1":580775:Undead|"Risen_Mystic_2":580775:Undead|"Risen_Mystic_3":580775:Undead|"Soulharvester_Mandakh_1":1161551:Humanoid|"Ukhel_Deathspeaker_1":871163:Humanoid|"Risen_Warrior_1":725969:Undead|"Risen_Warrior_2":725969:Undead|"Risen_Warrior_3":725969:Undead|"Ukhel_Corruptor_1":725969:Humanoid|"Ukhel_Corruptor_2":725969:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=009,mark_duration=13,enemies="BOSS_Maruuk":6026694:Undead|"BOSS_Teera":6026694:Undead
+raid_events+=/pull,pull=18,bloodlust=0,delay=011,mark_duration=13,enemies="Nokhud_Thunderfist_1":725969:Humanoid|"Nokhud_Thunderfist_2":725969:Humanoid
+raid_events+=/pull,pull=19,bloodlust=0,delay=012,mark_duration=13,enemies="Nokhud_Warspear_1":725969:Humanoid|"Nokhud_Warspear_2":725969:Humanoid|"Nokhud_Thunderfist_1":725969:Humanoid|"Primalist_Arcblade_1":871163:Humanoid
+raid_events+=/pull,pull=20,bloodlust=0,delay=014,mark_duration=13,enemies="Nokhud_Thunderfist_1":725969:Humanoid|"Nokhud_Thunderfist_2":725969:Humanoid
+raid_events+=/pull,pull=21,bloodlust=0,delay=010,mark_duration=13,enemies="Nokhud_Thunderfist_1":725969:Humanoid|"Nokhud_Defender_1":1343043:Humanoid|"Nokhud_Defender_2":1343043:Humanoid
+raid_events+=/pull,pull=22,bloodlust=0,delay=009,mark_duration=13,enemies="Balara_1":1742327:Humanoid|"Batak_1":1742327:Humanoid
+raid_events+=/pull,pull=23,bloodlust=0,delay=015,mark_duration=13,enemies="BOSS_Balakar_Khan":4821355:Humanoid

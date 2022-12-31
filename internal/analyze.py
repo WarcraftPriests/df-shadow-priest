@@ -59,8 +59,8 @@ def find_weight(sim_type, profile_name):
     elif sim_type == "4T":
         weight_type = "fourTargetWeights"
     elif sim_type == "Dungeons":
-        # Dungeon sim is just 1 sim, so we return 1 here
-        return 1
+        # TODO: dont hardcode this
+        return 1 / 8
     weight = find_weights(config[weight_type]).get(profile_name)
     if not weight:
         return 0
@@ -73,8 +73,11 @@ def build_results(data, weights, sim_type, directory):
     results = {}
     for value in data.iterrows():
         actor = value[1].actor
-        fight_style = re.search(
-            '((hm|lm|pw).*|dungeons$)', value[1].profile).group()
+        if sim_type == "Dungeons":
+            fight_style = "dungeons"
+        else:
+            fight_style = re.search(
+                '((hm|lm|pw).*|dungeons$)', value[1].profile).group()
         weight = find_weight(sim_type, fight_style)
         weighted_dps = value[1].DPS * weight
         if weights:
