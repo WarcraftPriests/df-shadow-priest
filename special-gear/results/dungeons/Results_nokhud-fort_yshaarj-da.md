@@ -1,0 +1,34 @@
+# nokhud-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|98042|0.64%|
+|Chronocloth_Sash_Leggings_418|97960|0.55%|
+|Neck_Elemental_Lariat_3Earth_418|97842|0.43%|
+|Azureweave_Mantle_Slippers_418|97822|0.41%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|97762|0.35%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|97719|0.31%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|97705|0.29%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|97703|0.29%|
+|Chronocloth_Gloves_Sash_418|97702|0.29%|
+|Shoulders_Amice_of_the_Blue_418|97675|0.26%|
+|Embellishment_Potion_Absorption_Inhibitor|97616|0.20%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|97486|0.07%|
+|Finger2_Ring_Bound_Hourglass_418|97461|0.04%|
+|Embellishment_Bronzed_Grip_Wrappings|97458|0.04%|
+|Base|97421|0.00%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|97396|-0.03%|
+|Back_Vibrant_Wildercloth_Shawl_418|97336|-0.09%|
+|Waist_Vibrant_Wildercloth_Girdle_418|97300|-0.12%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|97296|-0.13%|
+|Azureweave_Robe_Slippers_418|97253|-0.17%|
+|Finger1_Ring_Bound_Hourglass_418|97252|-0.17%|
+|Feet_Blue_Dragon_Soles_418|97188|-0.24%|
+|Legs_Vibrant_Wildercloth_Slacks_418|97146|-0.28%|
+|Feet_Vibrant_Wildercloth_Slippers_418|97138|-0.29%|
+|2h_Illuminating_Pillar_of_the_Isles_418|97084|-0.35%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|97066|-0.36%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|97017|-0.41%|
+|Chest_Vibrant_Wildercloth_Vestments_418|96894|-0.54%|
+|Head_Hood_of_Surging_Time_418|96707|-0.73%|
+|Head_Vibrant_Wildercloth_Headcover_418|96475|-0.97%|
+|2h_Weathered_Explorers_Stave_418|96274|-1.18%|

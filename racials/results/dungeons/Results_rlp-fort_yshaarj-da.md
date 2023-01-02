@@ -1,0 +1,34 @@
+# rlp-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|83968|0.91%|
+|Goblin|83943|0.88%|
+|Orc|83927|0.86%|
+|Gnome|83913|0.84%|
+|Human|83898|0.83%|
+|Draenei|83894|0.82%|
+|Night_Elf_Haste|83892|0.82%|
+|Blood_Elf|83826|0.74%|
+|Zandalari_Troll_Paku|83797|0.71%|
+|Highmountain_Tauren|83780|0.69%|
+|Dark_Iron_Dwarf|83776|0.68%|
+|Kul_Tiran|83772|0.68%|
+|Night_Elf_Crit|83716|0.61%|
+|Worgen|83702|0.59%|
+|Nightborne|83693|0.58%|
+|Panda_Fortune_Cookie|83670|0.55%|
+|Void_Elf|83650|0.53%|
+|Dwarf|83615|0.49%|
+|Tauren|83605|0.47%|
+|Maghar_Orc|83552|0.41%|
+|Mechagnome|83458|0.30%|
+|Zandalari_Troll_Kimbul|83426|0.26%|
+|Panda_Mastery|83416|0.25%|
+|Lightforged_Draenei|83415|0.25%|
+|Undead|83399|0.23%|
+|Panda_Haste|83391|0.22%|
+|Zandalari_Troll_Bwonsamdi|83380|0.20%|
+|Panda_Vers|83366|0.19%|
+|Panda_Crit|83344|0.16%|
+|Vulpera|83283|0.09%|
+|Base|83210|0.00%|

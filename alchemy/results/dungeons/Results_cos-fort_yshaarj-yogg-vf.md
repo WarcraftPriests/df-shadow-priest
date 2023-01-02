@@ -1,0 +1,34 @@
+# cos-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|56514|4.68%|
+|Phial_of_Charged_Isolation_3|56439|4.54%|
+|Phial_of_Static_Empowerment_2|56216|4.12%|
+|Phial_of_Charged_Isolation_2|56124|3.95%|
+|Phial_of_Static_Empowerment_1|55942|3.62%|
+|Phial_of_Charged_Isolation_1|55907|3.55%|
+|Iced_Phial_of_Corrupting_Rage_3|55518|2.83%|
+|Phial_of_Tepid_Versatility_3|55443|2.69%|
+|Iced_Phial_of_Corrupting_Rage_2|55433|2.67%|
+|Phial_of_Elemental_Chaos_3|55352|2.52%|
+|Phial_of_Tepid_Versatility_2|55329|2.48%|
+|Iced_Phial_of_Corrupting_Rage_1|55318|2.46%|
+|Phial_of_Elemental_Chaos_2|55272|2.38%|
+|Phial_of_Glacial_Fury_3|55237|2.31%|
+|Phial_of_Tepid_Versatility_1|55218|2.28%|
+|Phial_of_Elemental_Chaos_1|55193|2.23%|
+|Phial_of_Glacial_Fury_2|55082|2.02%|
+|Phial_of_Glacial_Fury_1|54938|1.76%|
+|Elemental_Potion_of_Ultimate_Power_3|54330|0.63%|
+|Elemental_Potion_of_Ultimate_Power_2|54279|0.54%|
+|Elemental_Potion_of_Ultimate_Power_1|54242|0.47%|
+|Bottled_Putrescence_3|54228|0.44%|
+|Elemental_Potion_of_Power_3|54226|0.44%|
+|Elemental_Potion_of_Power_2|54224|0.44%|
+|Potion_of_Shocking_Disclosure_3|54217|0.42%|
+|Potion_of_Shocking_Disclosure_2|54196|0.38%|
+|Potion_of_Shocking_Disclosure_1|54183|0.36%|
+|Elemental_Potion_of_Power_1|54182|0.36%|
+|Bottled_Putrescence_2|54181|0.36%|
+|Bottled_Putrescence_1|54178|0.35%|
+|Base|53989|0.00%|

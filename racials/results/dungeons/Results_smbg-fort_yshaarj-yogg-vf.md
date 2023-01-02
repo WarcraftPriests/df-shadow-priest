@@ -1,0 +1,34 @@
+# smbg-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Night_Elf_Haste|70961|0.96%|
+|Gnome|70955|0.95%|
+|Goblin|70955|0.95%|
+|Human|70912|0.89%|
+|Draenei|70900|0.87%|
+|Orc|70836|0.78%|
+|Kul_Tiran|70826|0.77%|
+|Highmountain_Tauren|70815|0.75%|
+|Zandalari_Troll_Paku|70787|0.71%|
+|Blood_Elf|70769|0.69%|
+|Worgen|70754|0.66%|
+|Night_Elf_Crit|70747|0.65%|
+|Nightborne|70742|0.65%|
+|Troll|70742|0.65%|
+|Void_Elf|70700|0.59%|
+|Panda_Fortune_Cookie|70696|0.58%|
+|Dark_Iron_Dwarf|70649|0.52%|
+|Dwarf|70590|0.43%|
+|Tauren|70575|0.41%|
+|Maghar_Orc|70554|0.38%|
+|Lightforged_Draenei|70505|0.31%|
+|Mechagnome|70488|0.29%|
+|Zandalari_Troll_Bwonsamdi|70461|0.25%|
+|Panda_Haste|70440|0.22%|
+|Panda_Mastery|70423|0.19%|
+|Panda_Crit|70422|0.19%|
+|Zandalari_Troll_Kimbul|70421|0.19%|
+|Undead|70420|0.19%|
+|Panda_Vers|70411|0.18%|
+|Vulpera|70298|0.02%|
+|Base|70287|0.00%|

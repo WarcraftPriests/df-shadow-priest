@@ -57,7 +57,7 @@ def build_settings(profile_name_string, weights, dungeons):
         with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as file:
             data = file.read()
             file.close()
-        settings_string += data
+        settings_string += "\n" + data
     return settings_string
 
 
@@ -167,11 +167,7 @@ def build_profiles(talent_string):
             data = file.read()
             file.close()
         if args.dungeons:
-            keys = ["algethar", "azure", "cos", "hov",
-                    "nokhud", "rlp", "smbg", "temple"]
-            affixes = ["fort"]
-            combinations = [
-                f"{key}-{affix}" for key in keys for affix in affixes]
+            combinations = utils.get_dungeon_combos()
         if talent_string:
             if args.dungeons:
                 talents_expr = config["builds"][talent_string]["dungeons"]

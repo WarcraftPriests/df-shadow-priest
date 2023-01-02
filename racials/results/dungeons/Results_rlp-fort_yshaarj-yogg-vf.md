@@ -1,0 +1,34 @@
+# rlp-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|83371|0.68%|
+|Gnome|83284|0.57%|
+|Goblin|83270|0.56%|
+|Night_Elf_Haste|83248|0.53%|
+|Orc|83243|0.53%|
+|Draenei|83226|0.50%|
+|Human|83204|0.48%|
+|Zandalari_Troll_Paku|83186|0.46%|
+|Highmountain_Tauren|83179|0.45%|
+|Kul_Tiran|83164|0.43%|
+|Night_Elf_Crit|83150|0.41%|
+|Nightborne|83149|0.41%|
+|Dark_Iron_Dwarf|83133|0.39%|
+|Void_Elf|83087|0.34%|
+|Panda_Fortune_Cookie|83086|0.34%|
+|Blood_Elf|83073|0.32%|
+|Worgen|83066|0.31%|
+|Maghar_Orc|83032|0.27%|
+|Tauren|83018|0.25%|
+|Dwarf|83017|0.25%|
+|Panda_Mastery|82954|0.18%|
+|Mechagnome|82952|0.17%|
+|Panda_Haste|82951|0.17%|
+|Zandalari_Troll_Bwonsamdi|82948|0.17%|
+|Zandalari_Troll_Kimbul|82943|0.16%|
+|Undead|82935|0.15%|
+|Lightforged_Draenei|82930|0.15%|
+|Panda_Crit|82926|0.14%|
+|Panda_Vers|82924|0.14%|
+|Vulpera|82823|0.02%|
+|Base|82808|0.00%|

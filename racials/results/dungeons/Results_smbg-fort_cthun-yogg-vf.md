@@ -1,0 +1,34 @@
+# smbg-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Night_Elf_Haste|69512|1.29%|
+|Gnome|69510|1.28%|
+|Goblin|69505|1.28%|
+|Human|69355|1.06%|
+|Draenei|69337|1.03%|
+|Orc|69262|0.92%|
+|Highmountain_Tauren|69233|0.88%|
+|Kul_Tiran|69212|0.85%|
+|Troll|69189|0.82%|
+|Zandalari_Troll_Paku|69179|0.80%|
+|Blood_Elf|69177|0.80%|
+|Night_Elf_Crit|69148|0.76%|
+|Worgen|69141|0.75%|
+|Nightborne|69138|0.74%|
+|Panda_Fortune_Cookie|69107|0.70%|
+|Void_Elf|69057|0.62%|
+|Dark_Iron_Dwarf|69038|0.60%|
+|Dwarf|68930|0.44%|
+|Tauren|68926|0.43%|
+|Maghar_Orc|68910|0.41%|
+|Panda_Haste|68903|0.40%|
+|Lightforged_Draenei|68889|0.38%|
+|Mechagnome|68861|0.34%|
+|Zandalari_Troll_Bwonsamdi|68798|0.25%|
+|Undead|68786|0.23%|
+|Panda_Mastery|68775|0.21%|
+|Zandalari_Troll_Kimbul|68762|0.19%|
+|Panda_Crit|68754|0.18%|
+|Panda_Vers|68744|0.17%|
+|Base|68629|0.00%|
+|Vulpera|68592|-0.05%|

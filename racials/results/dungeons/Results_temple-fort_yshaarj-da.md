@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|64758|0.86%|
+|Night_Elf_Haste|64755|0.85%|
+|Goblin|64722|0.80%|
+|Human|64717|0.79%|
+|Orc|64697|0.76%|
+|Draenei|64692|0.76%|
+|Highmountain_Tauren|64642|0.68%|
+|Zandalari_Troll_Paku|64616|0.64%|
+|Kul_Tiran|64603|0.62%|
+|Nightborne|64597|0.61%|
+|Night_Elf_Crit|64594|0.60%|
+|Troll|64587|0.59%|
+|Blood_Elf|64578|0.58%|
+|Dark_Iron_Dwarf|64575|0.57%|
+|Worgen|64570|0.57%|
+|Panda_Fortune_Cookie|64562|0.55%|
+|Void_Elf|64542|0.52%|
+|Tauren|64496|0.45%|
+|Dwarf|64461|0.40%|
+|Maghar_Orc|64415|0.32%|
+|Panda_Haste|64382|0.27%|
+|Mechagnome|64379|0.27%|
+|Lightforged_Draenei|64362|0.24%|
+|Zandalari_Troll_Bwonsamdi|64360|0.24%|
+|Undead|64336|0.20%|
+|Panda_Vers|64333|0.20%|
+|Panda_Mastery|64317|0.17%|
+|Zandalari_Troll_Kimbul|64309|0.16%|
+|Panda_Crit|64288|0.13%|
+|Vulpera|64214|0.01%|
+|Base|64207|0.00%|

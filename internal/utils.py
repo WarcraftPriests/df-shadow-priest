@@ -35,3 +35,13 @@ def generate_parser(description):
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
     return parser
+
+
+def get_dungeon_combos():
+    """creates a list of the dungeon combinations"""
+    keys = ["algethar", "azure", "cos", "hov",
+            "nokhud", "rlp", "smbg", "temple"]
+    affixes = ["fort"]
+    combos = [
+        f"{key}-{affix}" for key in keys for affix in affixes]
+    return combos

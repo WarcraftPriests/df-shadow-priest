@@ -1,0 +1,34 @@
+# algethar-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|103724|1.06%|
+|Night_Elf_Haste|103687|1.02%|
+|Goblin|103669|1.00%|
+|Troll|103542|0.88%|
+|Human|103469|0.81%|
+|Draenei|103425|0.77%|
+|Blood_Elf|103400|0.74%|
+|Highmountain_Tauren|103305|0.65%|
+|Orc|103304|0.65%|
+|Nightborne|103303|0.65%|
+|Kul_Tiran|103293|0.64%|
+|Zandalari_Troll_Paku|103285|0.63%|
+|Night_Elf_Crit|103227|0.57%|
+|Worgen|103223|0.57%|
+|Panda_Fortune_Cookie|103158|0.51%|
+|Void_Elf|103076|0.43%|
+|Dark_Iron_Dwarf|103047|0.40%|
+|Panda_Haste|103025|0.38%|
+|Maghar_Orc|103001|0.35%|
+|Tauren|102997|0.35%|
+|Dwarf|102971|0.32%|
+|Mechagnome|102929|0.28%|
+|Lightforged_Draenei|102926|0.28%|
+|Panda_Vers|102830|0.19%|
+|Zandalari_Troll_Bwonsamdi|102824|0.18%|
+|Panda_Mastery|102814|0.17%|
+|Panda_Crit|102804|0.16%|
+|Zandalari_Troll_Kimbul|102784|0.14%|
+|Undead|102724|0.08%|
+|Base|102639|0.00%|
+|Vulpera|102625|-0.01%|

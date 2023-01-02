@@ -1,0 +1,34 @@
+# rlp-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|84720|0.88%|
+|Chronocloth_Sash_Leggings_418|84585|0.72%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|84364|0.46%|
+|Chronocloth_Gloves_Sash_418|84293|0.38%|
+|Azureweave_Mantle_Slippers_418|84261|0.34%|
+|Shoulders_Amice_of_the_Blue_418|84215|0.28%|
+|Neck_Elemental_Lariat_3Earth_418|84155|0.21%|
+|Finger2_Ring_Bound_Hourglass_418|84148|0.20%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|84100|0.15%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|84099|0.14%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|84098|0.14%|
+|Embellishment_Potion_Absorption_Inhibitor|84096|0.14%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|84086|0.13%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|84081|0.12%|
+|Embellishment_Bronzed_Grip_Wrappings|84013|0.04%|
+|Base|83978|0.00%|
+|Back_Vibrant_Wildercloth_Shawl_418|83951|-0.03%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|83949|-0.03%|
+|Waist_Vibrant_Wildercloth_Girdle_418|83931|-0.06%|
+|Legs_Vibrant_Wildercloth_Slacks_418|83906|-0.09%|
+|Feet_Vibrant_Wildercloth_Slippers_418|83867|-0.13%|
+|Finger1_Ring_Bound_Hourglass_418|83824|-0.18%|
+|2h_Illuminating_Pillar_of_the_Isles_418|83666|-0.37%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|83664|-0.37%|
+|Azureweave_Robe_Slippers_418|83585|-0.47%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|83580|-0.47%|
+|Feet_Blue_Dragon_Soles_418|83548|-0.51%|
+|Chest_Vibrant_Wildercloth_Vestments_418|83436|-0.65%|
+|Head_Hood_of_Surging_Time_418|83361|-0.73%|
+|Head_Vibrant_Wildercloth_Headcover_418|83144|-0.99%|
+|2h_Weathered_Explorers_Stave_418|82817|-1.38%|

@@ -1,0 +1,34 @@
+# nokhud-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|95923|0.51%|
+|Gnome|95921|0.50%|
+|Goblin|95921|0.50%|
+|Night_Elf_Haste|95919|0.50%|
+|Human|95882|0.46%|
+|Draenei|95861|0.44%|
+|Troll|95849|0.43%|
+|Highmountain_Tauren|95821|0.40%|
+|Kul_Tiran|95815|0.39%|
+|Panda_Fortune_Cookie|95806|0.38%|
+|Worgen|95799|0.38%|
+|Zandalari_Troll_Paku|95796|0.37%|
+|Nightborne|95788|0.36%|
+|Night_Elf_Crit|95781|0.36%|
+|Blood_Elf|95779|0.35%|
+|Dark_Iron_Dwarf|95771|0.35%|
+|Void_Elf|95708|0.28%|
+|Tauren|95696|0.27%|
+|Maghar_Orc|95682|0.25%|
+|Dwarf|95669|0.24%|
+|Panda_Haste|95617|0.18%|
+|Mechagnome|95616|0.18%|
+|Zandalari_Troll_Kimbul|95575|0.14%|
+|Zandalari_Troll_Bwonsamdi|95573|0.14%|
+|Lightforged_Draenei|95564|0.13%|
+|Panda_Crit|95556|0.12%|
+|Panda_Mastery|95556|0.12%|
+|Undead|95542|0.11%|
+|Panda_Vers|95507|0.07%|
+|Vulpera|95453|0.01%|
+|Base|95441|0.00%|

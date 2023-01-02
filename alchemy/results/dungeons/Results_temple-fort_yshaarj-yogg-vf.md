@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|63363|4.15%|
+|Phial_of_Charged_Isolation_3|63264|3.99%|
+|Phial_of_Static_Empowerment_2|63045|3.63%|
+|Phial_of_Charged_Isolation_2|62977|3.52%|
+|Phial_of_Static_Empowerment_1|62795|3.22%|
+|Phial_of_Charged_Isolation_1|62740|3.13%|
+|Iced_Phial_of_Corrupting_Rage_3|62340|2.47%|
+|Phial_of_Tepid_Versatility_3|62290|2.39%|
+|Iced_Phial_of_Corrupting_Rage_2|62258|2.33%|
+|Phial_of_Elemental_Chaos_3|62215|2.26%|
+|Phial_of_Tepid_Versatility_2|62173|2.19%|
+|Iced_Phial_of_Corrupting_Rage_1|62160|2.17%|
+|Phial_of_Elemental_Chaos_2|62136|2.13%|
+|Phial_of_Tepid_Versatility_1|62082|2.04%|
+|Phial_of_Glacial_Fury_3|62074|2.03%|
+|Phial_of_Elemental_Chaos_1|62064|2.02%|
+|Phial_of_Glacial_Fury_2|61893|1.73%|
+|Phial_of_Glacial_Fury_1|61774|1.54%|
+|Elemental_Potion_of_Ultimate_Power_3|61294|0.75%|
+|Elemental_Potion_of_Ultimate_Power_2|61224|0.63%|
+|Elemental_Potion_of_Power_3|61190|0.58%|
+|Elemental_Potion_of_Ultimate_Power_1|61181|0.56%|
+|Potion_of_Shocking_Disclosure_3|61163|0.53%|
+|Potion_of_Shocking_Disclosure_2|61139|0.49%|
+|Elemental_Potion_of_Power_2|61111|0.45%|
+|Bottled_Putrescence_3|61105|0.44%|
+|Potion_of_Shocking_Disclosure_1|61100|0.43%|
+|Bottled_Putrescence_2|61088|0.41%|
+|Elemental_Potion_of_Power_1|61067|0.38%|
+|Bottled_Putrescence_1|61037|0.33%|
+|Base|60838|0.00%|
