@@ -309,6 +309,7 @@ def convert_increase_to_double(increase):
 
 
 def clear_dir(path, talent_string, fight_types):
+    # pylint: disable=too-many-branches
     """clear out unused files that are not in the current run"""
     for file in os.listdir(path):
         # ignore the sub-folder
