@@ -8,7 +8,7 @@ from itertools import combinations
 
 combos = {
     # dungeons (415/421)
-    "Infernal_Writ_415": "infernal_writ,id=137485,ilevel=415",
+    # "Infernal_Writ_415": "infernal_writ,id=137485,ilevel=415",
     "Infernal_Writ_421": "infernal_writ,id=137485,ilevel=421",
     "Eye_of_Skovald_415": "eye_of_skovald,id=133641,ilevel=415",
     "Eye_of_Skovald_421": "eye_of_skovald,id=133641,ilevel=421",
@@ -18,12 +18,14 @@ combos = {
     "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
     # "Ruby_Whelp_Shell_415": "ruby_whelp_shell,id=193757,ilevel=415",
     # "Ruby_Whelp_Shell_421": "ruby_whelp_shell,id=193757,ilevel=421",
-    "Tome_of_Unstable_Power_415": "tome_of_unstable_power,id=193628,ilevel=415",
+    # "Tome_of_Unstable_Power_415": "tome_of_unstable_power,id=193628,ilevel=415",
     "Tome_of_Unstable_Power_421": "tome_of_unstable_power,id=193628,ilevel=421",
-    "Umbrelskuls_Fractured_Heart_415": "umbrelskuls_fractured_heart,id=193639,ilevel=415",
+    # "Umbrelskuls_Fractured_Heart_415": "umbrelskuls_fractured_heart,id=193639,ilevel=415",
     "Umbrelskuls_Fractured_Heart_421": "umbrelskuls_fractured_heart,id=193639,ilevel=421",
     "Furious_Ragefeather_415": "furious_ragefeather,id=193677,ilevel=415",
     "Furious_Ragefeather_421": "furious_ragefeather,id=193677,ilevel=421",
+    "Windscar_Whetstone_415": "windscar_whetstone,id=137486,ilevel=415",
+    "Windscar_Whetstone_421": "windscar_whetstone,id=137486,ilevel=421",
     # vault of the incarnates
     "Conjured_Chillglobe_402": "conjured_chillglobe,id=194300,ilevel=402",
     "Conjured_Chillglobe_415": "conjured_chillglobe,id=194300,ilevel=415",
