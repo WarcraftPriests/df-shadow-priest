@@ -52,6 +52,23 @@ profileset."Infernal_Writ_415"+=trinket1=infernal_writ,id=137485,ilevel=415
 profileset."Infernal_Writ_418"+=trinket1=infernal_writ,id=137485,ilevel=418
 profileset."Infernal_Writ_421"+=trinket1=infernal_writ,id=137485,ilevel=421
 
+## kinda trolling?
+profileset."Windscar_Whetstone_376"+=trinket1=windscar_whetstone,id=137486,ilevel=376
+profileset."Windscar_Whetstone_379"+=trinket1=windscar_whetstone,id=137486,ilevel=379
+profileset."Windscar_Whetstone_382"+=trinket1=windscar_whetstone,id=137486,ilevel=382
+profileset."Windscar_Whetstone_385"+=trinket1=windscar_whetstone,id=137486,ilevel=385
+profileset."Windscar_Whetstone_389"+=trinket1=windscar_whetstone,id=137486,ilevel=389
+profileset."Windscar_Whetstone_392"+=trinket1=windscar_whetstone,id=137486,ilevel=392
+profileset."Windscar_Whetstone_395"+=trinket1=windscar_whetstone,id=137486,ilevel=395
+profileset."Windscar_Whetstone_398"+=trinket1=windscar_whetstone,id=137486,ilevel=398
+profileset."Windscar_Whetstone_402"+=trinket1=windscar_whetstone,id=137486,ilevel=402
+profileset."Windscar_Whetstone_405"+=trinket1=windscar_whetstone,id=137486,ilevel=405
+profileset."Windscar_Whetstone_408"+=trinket1=windscar_whetstone,id=137486,ilevel=408
+profileset."Windscar_Whetstone_411"+=trinket1=windscar_whetstone,id=137486,ilevel=411
+profileset."Windscar_Whetstone_415"+=trinket1=windscar_whetstone,id=137486,ilevel=415
+profileset."Windscar_Whetstone_418"+=trinket1=windscar_whetstone,id=137486,ilevel=418
+profileset."Windscar_Whetstone_421"+=trinket1=windscar_whetstone,id=137486,ilevel=421
+
 # Halls of Valor
 profileset."Eye_of_Skovald_376"+=trinket1=eye_of_skovald,id=133641,ilevel=376
 profileset."Eye_of_Skovald_379"+=trinket1=eye_of_skovald,id=133641,ilevel=379
