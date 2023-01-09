@@ -110,8 +110,9 @@ actions.aoe+=/mindgames,if=spell_targets.mind_sear<5&dot.devouring_plague.tickin
 actions.aoe+=/void_torrent,if=insanity<=35&!talent.psychic_link,target_if=variable.dots_up
 actions.aoe+=/call_action_list,name=filler
 
-actions.pl_torrent=vampiric_touch,if=remains<=7&cooldown.void_torrent.remains<gcd*2
+actions.pl_torrent=vampiric_touch,if=remains<=6&cooldown.void_torrent.remains<gcd*2
 actions.pl_torrent+=/devouring_plague,if=remains<=4&cooldown.void_torrent.remains<gcd&!buff.voidform.up
+actions.pl_torrent+=/mind_sear,if=buff.voidform.up
 actions.pl_torrent+=/void_torrent,if=dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking&dot.devouring_plague.ticking|buff.voidform.up
 actions.pl_torrent+=/mindgames,if=dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking&dot.devouring_plague.ticking|buff.voidform.up
 
