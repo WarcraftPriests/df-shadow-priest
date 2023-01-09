@@ -119,15 +119,15 @@ actions.pl_torrent+=/mindgames,if=dot.vampiric_touch.ticking&dot.shadow_word_pai
 # TODO: Play the game
 actions.aoe_pl_ire=/
 
-actions.filler=mind_flay,if=buff.mind_flay_insanity.up&variable.dots_up&(!buff.surge_of_darkness.up|talent.screams_of_the_void)
+actions.filler=mind_flay,if=buff.mind_flay_insanity.up&dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking&(!buff.surge_of_darkness.up|talent.screams_of_the_void)
 actions.filler+=/vampiric_touch,target_if=min:remains,if=buff.unfurling_darkness.up
 actions.filler+=/mind_spike,if=buff.surge_of_darkness.up
 actions.filler+=/lights_judgment,if=!raid_event.adds.exists|raid_event.adds.in>75|spell_targets.lights_judgment>1
-# Use Halo if all DoTS are active and you are not in Voidform or it will hit at least 2 targets. Save up to 20s if adds are coming soon.
-actions.filler+=/halo,if=raid_event.adds.in>20&(spell_targets.halo>1|(variable.all_dots_up&!buff.voidform.up))
-# Use when it will hit at least 2 targets.
-actions.filler+=/divine_star,if=spell_targets.divine_star>1
+# Save up to 20s if adds are coming soon.
+actions.filler+=/halo,if=raid_event.adds.in>20
 actions.filler+=/shadow_word_death,target_if=min:target.time_to_die,if=target.health.pct<20&(spell_targets.mind_sear<4|talent.inescapable_torment.rank=2&pet.fiend.active)
+# Use when it will hit at least 2 targets.
+actions.filler+=/divine_star,if=raid_event.adds.in>10
 actions.filler+=/mind_spike,if=(!talent.mental_decay|dot.vampiric_touch.remains>=(cooldown.shadow_crash.remains+action.shadow_crash.travel_time))&!talent.idol_of_cthun
 actions.filler+=/mind_flay,chain=1,interrupt_immediate=1,interrupt_if=ticks>=2
 # Use Shadow Crash while moving as a low-priority action when adds will not come in 30 seconds.
