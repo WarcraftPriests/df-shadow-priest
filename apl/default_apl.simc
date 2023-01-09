@@ -92,7 +92,7 @@ actions.aoe+=/mindbender,if=(dot.shadow_word_pain.ticking&variable.vts_applied|a
 # Use Mind Blast when capped on charges and talented into Mind Devourer to fish for the buff. Only use when facing 3-7 targets.
 actions.aoe+=/mind_blast,if=cooldown.mind_blast.full_recharge_time<=gcd.max+cast_time&talent.mind_devourer.rank=2&spell_targets.mind_sear>=3&!buff.mind_devourer.up&spell_targets.mind_sear<=7
 actions.aoe+=/mind_blast,if=(cooldown.mind_blast.full_recharge_time<=gcd.max+cast_time|pet.fiend.remains<=cast_time+gcd.max)&pet.fiend.active&talent.inescapable_torment&pet.fiend.remains>cast_time&spell_targets.mind_sear<=7&!buff.mind_devourer.up
-actions.aoe+=/void_bolt,if=insanity<=85|talent.psychic_link
+actions.aoe+=/void_bolt,if=insanity<=85
 # Use Mind Sear on 3+ targets and either you have at least 75 insanity, 4pc buff is inactive, or 2pc buff is at 3 stacks, or mind devourer is up on 2+ targets. If Mind Devourer is up do not cancel mind sear.
 actions.aoe+=/mind_sear,target_if=max:spell_targets.mind_sear,if=buff.mind_devourer.up&spell_targets.mind_sear>1|spell_targets.mind_sear>variable.mind_sear_cutoff&(insanity>=75|((!set_bonus.tier29_4pc&!set_bonus.tier29_2pc)|!buff.dark_reveries.up)|(!set_bonus.tier29_2pc|buff.gathering_shadows.stack=3))&!variable.pool_for_cds,early_chain_if=ticks>=2&!buff.mind_devourer_ms_active.up,interrupt_immediate=1,interrupt_if=ticks>=2&!buff.mind_devourer_ms_active.up
 actions.aoe+=/call_action_list,name=pl_torrent,if=talent.void_torrent&talent.psychic_link&cooldown.void_torrent.remains<=3&(!variable.holding_crash|raid_event.adds.count%(active_dot.vampiric_touch+raid_event.adds.count)<1.5)&((insanity>=50|dot.devouring_plague.ticking)&!buff.mind_devourer.up|buff.voidform.up)
@@ -110,7 +110,7 @@ actions.aoe+=/mindgames,if=spell_targets.mind_sear<5&dot.devouring_plague.tickin
 actions.aoe+=/void_torrent,if=insanity<=35&!talent.psychic_link,target_if=variable.dots_up
 actions.aoe+=/call_action_list,name=filler
 
-actions.pl_torrent=void_bolt,if=!dot.devouring_plague.ticking
+actions.pl_torrent=void_bolt
 actions.pl_torrent+=/vampiric_touch,if=remains<=6&cooldown.void_torrent.remains<gcd*2
 actions.pl_torrent+=/devouring_plague,if=remains<=4&cooldown.void_torrent.remains<gcd&!buff.voidform.up
 actions.pl_torrent+=/mind_sear,if=buff.voidform.up&!buff.mind_devourer.up
