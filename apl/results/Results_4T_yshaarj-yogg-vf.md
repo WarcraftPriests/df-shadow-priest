@@ -1,6 +1,5 @@
 # 4T - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|after_am|119400|0.01%|
-|Base|119391|0.00%|
-|after|119383|-0.01%|
+|let_it_rip|132290|1.15%|
+|Base|130791|0.00%|
