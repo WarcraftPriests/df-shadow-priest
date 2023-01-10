@@ -44,7 +44,7 @@ def clear_out_folders(path):
             print(error)
 
 
-def build_settings(profile_name_string, weights):
+def build_settings(profile_name_string, weights, dungeons):
     """Add any and all expressions to the bottom of the profile"""
     settings_string = '\n'
     for expression in fightExpressions.items():
@@ -53,6 +53,11 @@ def build_settings(profile_name_string, weights):
             settings_string += fightExpressions[abbreviation] + "\n"
     if weights:
         settings_string += fightExpressions['weights']
+    if dungeons:
+        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as file:
+            data = file.read()
+            file.close()
+        settings_string += "\n" + data
     return settings_string
 
 
@@ -162,7 +167,7 @@ def build_profiles(talent_string):
             data = file.read()
             file.close()
         if args.dungeons:
-            combinations = ["dungeons"]
+            combinations = utils.get_dungeon_combos()
         if talent_string:
             if args.dungeons:
                 talents_expr = config["builds"][talent_string]["dungeons"]
@@ -185,7 +190,7 @@ def build_profiles(talent_string):
             # prefix the profile name with the base file name
             profile_name = f"{sim_file[:-5]}_{profile}"
             settings = build_settings(
-                profile, config["sims"][args.dir[:-1]]["weights"])
+                profile, config["sims"][args.dir[:-1]]["weights"], args.dungeons)
 
             # insert talents based on profile
             if talents_expr:

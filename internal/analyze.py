@@ -23,9 +23,11 @@ def assure_path_exists(path):
         os.makedirs(dir_name)
 
 
-def build_output_string(sim_type, talent_string, file_type):
+def build_output_string(sim_type, talent_string, file_type, dungeons):
     """creates output string for the results file"""
     output_dir = "results/"
+    if dungeons:
+        output_dir += "dungeons/"
     assure_path_exists(output_dir)
     output_string = f"{output_dir}Results_{sim_type}{talent_string}.{file_type}"
     return output_string
@@ -47,7 +49,7 @@ def get_change(current, previous):
         return 0
 
 
-def find_weight(sim_type, profile_name):
+def find_weight(sim_type, profile_name, dungeons):
     """looks up the weight based on the sim type"""
     weight_type = ""
     if sim_type == "Composite":
@@ -59,23 +61,34 @@ def find_weight(sim_type, profile_name):
     elif sim_type == "4T":
         weight_type = "fourTargetWeights"
     elif sim_type == "Dungeons":
-        # Dungeon sim is just 1 sim, so we return 1 here
-        return 1
+        # in the future dont hardcode this
+        return 1 / 8
+    elif dungeons:
+        if sim_type == profile_name:
+            weight = 1
+        else:
+            weight = 0
+        return weight
     weight = find_weights(config[weight_type]).get(profile_name)
     if not weight:
         return 0
     return weight
 
 
-def build_results(data, weights, sim_type, directory):
+def build_results(data, weights, sim_type, directory, dungeons):
     # pylint: disable=too-many-locals
     """create results dict from sim data"""
     results = {}
     for value in data.iterrows():
         actor = value[1].actor
-        fight_style = re.search(
-            '((hm|lm|pw).*|dungeons$)', value[1].profile).group()
-        weight = find_weight(sim_type, fight_style)
+        if sim_type == "Dungeons":
+            fight_style = "dungeons"
+        elif dungeons:
+            fight_style = value[1].profile.split("_", 1)[1]
+        else:
+            fight_style = re.search(
+                '((hm|lm|pw).*|dungeons$)', value[1].profile).group()
+        weight = find_weight(sim_type, fight_style, dungeons)
         weighted_dps = value[1].DPS * weight
         if weights:
             intellect = value[1].int
@@ -116,10 +129,10 @@ def generate_report_name(sim_type, talent_string):
     return f"{sim_type}{talents}"
 
 
-def build_markdown(sim_type, talent_string, results, weights, base_dps):
+def build_markdown(sim_type, talent_string, results, weights, base_dps, dungeons):
     # pylint: disable=too-many-arguments,consider-using-f-string,line-too-long
     """converts result data into markdown files"""
-    output_file = build_output_string(sim_type, talent_string, "md")
+    output_file = build_output_string(sim_type, talent_string, "md", dungeons)
     report_name = generate_report_name(sim_type, talent_string)
     with open(output_file, 'w+', encoding="utf8") as results_md:
         if weights:
@@ -151,10 +164,10 @@ def build_markdown(sim_type, talent_string, results, weights, base_dps):
                                  (key, value, get_change(value, base_dps)))
 
 
-def build_csv(sim_type, talent_string, results, weights, base_dps):
+def build_csv(sim_type, talent_string, results, weights, base_dps, dungeons):
     # pylint: disable=too-many-arguments,consider-using-f-string
     """build csv from results dict"""
-    output_file = build_output_string(sim_type, talent_string, "csv")
+    output_file = build_output_string(sim_type, talent_string, "csv", dungeons)
     with open(output_file, 'w', encoding="utf8") as results_csv:
         if weights:
             results_csv.write(
@@ -221,10 +234,11 @@ def lookup_item_id(item_name, directory):
     return None
 
 
-def build_json(sim_type, talent_string, results, directory, timestamp):
+def build_json(sim_type, talent_string, results, directory, timestamp, dungeons):
     # pylint: disable=too-many-arguments, disable=too-many-locals
     """build json from results"""
-    output_file = build_output_string(sim_type, talent_string, "json")
+    output_file = build_output_string(
+        sim_type, talent_string, "json", dungeons)
     human_date = time.strftime('%Y-%m-%d', time.localtime(timestamp))
     chart_data = {
         "name": generate_report_name(sim_type, talent_string),
@@ -294,35 +308,48 @@ def convert_increase_to_double(increase):
     return increase
 
 
-def clear_output_files(talent_string):
+def clear_dir(path, talent_string, fight_types):
     # pylint: disable=too-many-branches
-    """after all results are built clear out unused files"""
-    for file in os.listdir("results"):
-        file_to_delete = "results/" + file
+    """clear out unused files that are not in the current run"""
+    for file in os.listdir(path):
+        # ignore the sub-folder
+        if file == "dungeons":
+            continue
+        file_to_delete = path + "/" + file
         output_files = []
         if talent_string:
             for talent in config["builds"]:
-                for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
+                for fight_type in fight_types:
                     if config["analyze"]["markdown"]:
                         output_files.append(
-                            f"results/Results_{fight_type}_{talent}.md")
+                            f"{path}/Results_{fight_type}_{talent}.md")
                     if config["analyze"]["csv"]:
                         output_files.append(
-                            f"results/Results_{fight_type}_{talent}.csv")
+                            f"{path}/Results_{fight_type}_{talent}.csv")
                     if config["analyze"]["json"]:
                         output_files.append(
-                            f"results/Results_{fight_type}_{talent}.json")
+                            f"{path}/Results_{fight_type}_{talent}.json")
         else:
-            for fight_type in ["Composite", "Single", "Dungeons", "2T", "4T"]:
+            for fight_type in fight_types:
                 if config["analyze"]["markdown"]:
-                    output_files.append(f"results/Results_{fight_type}.md")
+                    output_files.append(f"{path}/Results_{fight_type}.md")
                 if config["analyze"]["csv"]:
-                    output_files.append(f"results/Results_{fight_type}.csv")
+                    output_files.append(f"{path}/Results_{fight_type}.csv")
                 if config["analyze"]["json"]:
-                    output_files.append(f"results/Results_{fight_type}.json")
+                    output_files.append(f"{path}/Results_{fight_type}.json")
         if file_to_delete not in output_files:
             if os.path.exists(file_to_delete):
                 os.remove(file_to_delete)
+
+
+def clear_output_files(talent_string):
+    # pylint: disable=too-many-branches
+    """after all results are built clear out unused files"""
+    dungeon_fights = utils.get_dungeon_combos()
+
+    clear_dir("results", talent_string, [
+              "Composite", "Single", "Dungeons", "2T", "4T"])
+    clear_dir("results/dungeons", talent_string, dungeon_fights)
 
 
 def generate_result_name(result, talent):
@@ -386,17 +413,37 @@ def analyze(talents, directory, dungeons, weights, timestamp):
     sim_types = ["Dungeons"] if dungeons else [
         "Composite", "Single", "2T", "4T"]
 
+    # Main Composites
     for sim_type in sim_types:
-        results = build_results(data, weights, sim_type, directory)
+        results = build_results(data, weights, sim_type, directory, False)
         base_dps = results.get('Base')
         if config["analyze"]["markdown"]:
             build_markdown(sim_type, talent_string, results,
-                           weights, base_dps)
+                           weights, base_dps, False)
         if config["analyze"]["csv"]:
             build_csv(sim_type, talent_string, results,
-                      weights, base_dps)
+                      weights, base_dps, False)
         if config["analyze"]["json"] and not weights:
-            build_json(sim_type, talent_string, results, directory, timestamp)
+            build_json(sim_type, talent_string, results,
+                       directory, timestamp, False)
+
+    # Dungeon Composite
+    if dungeons:
+        combinations = utils.get_dungeon_combos()
+
+        for combo in combinations:
+            results = build_results(data, weights, combo, directory, True)
+            base_dps = results.get('Base')
+            if config["analyze"]["markdown"]:
+                build_markdown(combo, talent_string, results,
+                               weights, base_dps, True)
+            if config["analyze"]["csv"]:
+                build_csv(combo, talent_string, results,
+                          weights, base_dps, True)
+            if config["analyze"]["json"] and not weights:
+                build_json(combo, talent_string, results,
+                           directory, timestamp, True)
+
     clear_output_files(talent_string)
     build_readme_md(directory, talent_string)
     os.chdir("..")

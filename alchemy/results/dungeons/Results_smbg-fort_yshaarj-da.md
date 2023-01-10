@@ -1,0 +1,34 @@
+# smbg-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|70751|5.91%|
+|Phial_of_Charged_Isolation_3|70614|5.70%|
+|Phial_of_Static_Empowerment_2|70318|5.26%|
+|Phial_of_Charged_Isolation_2|70241|5.14%|
+|Phial_of_Static_Empowerment_1|69977|4.75%|
+|Phial_of_Charged_Isolation_1|69882|4.61%|
+|Iced_Phial_of_Corrupting_Rage_3|69084|3.41%|
+|Phial_of_Tepid_Versatility_3|69031|3.33%|
+|Iced_Phial_of_Corrupting_Rage_2|68947|3.21%|
+|Phial_of_Elemental_Chaos_3|68940|3.20%|
+|Phial_of_Tepid_Versatility_2|68916|3.16%|
+|Iced_Phial_of_Corrupting_Rage_1|68764|2.93%|
+|Phial_of_Elemental_Chaos_2|68717|2.86%|
+|Phial_of_Tepid_Versatility_1|68707|2.85%|
+|Phial_of_Glacial_Fury_3|68663|2.78%|
+|Phial_of_Elemental_Chaos_1|68585|2.66%|
+|Phial_of_Glacial_Fury_2|68375|2.35%|
+|Phial_of_Glacial_Fury_1|68119|1.97%|
+|Elemental_Potion_of_Ultimate_Power_3|67486|1.02%|
+|Elemental_Potion_of_Ultimate_Power_2|67413|0.91%|
+|Bottled_Putrescence_3|67319|0.77%|
+|Elemental_Potion_of_Power_3|67287|0.72%|
+|Potion_of_Shocking_Disclosure_3|67272|0.70%|
+|Elemental_Potion_of_Ultimate_Power_1|67267|0.69%|
+|Elemental_Potion_of_Power_2|67240|0.65%|
+|Bottled_Putrescence_2|67206|0.60%|
+|Potion_of_Shocking_Disclosure_2|67205|0.60%|
+|Bottled_Putrescence_1|67165|0.54%|
+|Elemental_Potion_of_Power_1|67162|0.53%|
+|Potion_of_Shocking_Disclosure_1|67140|0.50%|
+|Base|66805|0.00%|

@@ -1,0 +1,40 @@
+# !1v17VTjmq0)LYHHKWx7I00I0yDZvtB7dwbcNZyJIRatx7x6F7Z)o2eQekkNXV3D37E2Wa2dmADBRy4744uNyGvLVbYag9SOxmEFDpkL4Ng4cZgNLIpOxVB4c7Uf7P9ffwMKrL4lQFVREQ78BNE4i9TtnV(2PdJ1YbXeJ(yBNMl(iI)w03Eu0nGTSggTbVm31RPUcU(EDGIU)H4FzvegDURLr)5Np8TpYh(6V(Xrg956(zut555XrCqE)CFpRkJewGo30JpJ9gEFs92j1URGOFm5OkleO(R(HOFKU(uvsCcY5(D6xvVwjEfDUbAHb9w9Mjr5Wh6xlloV7mi3BqwUiVeuVZ84AoblqmGHng0qMPoaiIfcw6Q(IywS4YJl00EM3yZ92f9SAvF94BTD6WIyjDBCWUOG4ER0W)(f8RQ1axMwTmMR9RmRYnpfoXxgWue1xAfATQOu3LbwtNegPCJH2TwADKK4Eassu2kPrpgTJadu)Y1GvnHfYjeBZCMVkirsHIfqiSvCMXUnzip7tiQ8Dgo2HVlp7JNhbiwJ4A66vpNTS9vBHzPDVRAxee7B9HgylnIzloKb7xiDADWN98K6nlPwU1p5CsMUDP)8kSn2JFe7XplsWEpaaj5ZXNn2xsBte00dGwRzq794HK6XAoYGuziZ5cVQ6345kJfLqsYD4jHXEeBrog)Ew5ssz4(3dZdxqXG9le70FGaFuFnV6o)jShpl1F3XnmmT(yhx(foFcLHBQL2RNK27CKw(B748UZZ9Yxn6jv08hfBtUnW()
+fight_style=DungeonRoute
+override.bloodlust=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+override.windfury_totem=0
+single_actor_batch=1
+max_time=1800
+enemy="Temple of the Jade Serpent 20 Fortified"
+enemy_health=999999
+keystone_level=20
+keystone_pct_hp=27
+raid_events=/invulnerable,cooldown=3600,duration=3600,retarget=1
+raid_events+=/pull,pull=01,bloodlust=0,delay=015,mark_duration=13,enemies="Fallen_Waterspeaker_1":1166910:Humanoid|"Corrupt_Droplet_1":466764:Elemental|"Corrupt_Droplet_2":466764:Elemental|"Corrupt_Droplet_3":466764:Elemental
+raid_events+=/pull,pull=02,bloodlust=0,delay=009,mark_duration=13,enemies="Corrupt_Droplet_1":466764:Elemental|"Corrupt_Droplet_2":466764:Elemental|"Corrupt_Droplet_3":466764:Elemental|"Corrupt_Living_Water_1":1868282:Elemental
+raid_events+=/pull,pull=03,bloodlust=0,delay=006,mark_duration=13,enemies="Corrupt_Living_Water_1":1868282:Elemental|"Corrupt_Droplet_1":466764:Elemental|"Corrupt_Droplet_2":466764:Elemental|"Corrupt_Droplet_3":466764:Elemental
+raid_events+=/pull,pull=04,bloodlust=0,delay=011,mark_duration=13,enemies="Fallen_Waterspeaker_1":1166910:Humanoid|"Corrupt_Droplet_1":466764:Elemental|"Corrupt_Droplet_2":466764:Elemental|"Corrupt_Droplet_3":466764:Elemental|"Corrupt_Droplet_4":466764:Elemental
+raid_events+=/pull,pull=05,bloodlust=0,delay=006,mark_duration=13,enemies="Fallen_Waterspeaker_1":1166910:Humanoid|"Fallen_Waterspeaker_2":1166910:Humanoid|"Corrupt_Living_Water_1":1868282:Elemental
+raid_events+=/pull,pull=06,bloodlust=0,delay=014,mark_duration=13,enemies="BOSS_Wise_Mari":5840896:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=015,mark_duration=13,enemies="Haunting_Sha_1":991873:Aberration|"Xiang_1":1868282:Humanoid|"Jiang_1":1868282:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=009,mark_duration=13,enemies="Lesser_Sha_1":350303:Aberration|"Lesser_Sha_2":350303:Aberration|"Lesser_Sha_3":350303:Aberration|"Lesser_Sha_4":350303:Aberration|"Lesser_Sha_5":350303:Aberration|"The_Talking_Fish_1":1401211:Beast|"Haunting_Sha_1":991873:Aberration
+raid_events+=/pull,pull=09,bloodlust=0,delay=015,mark_duration=13,enemies="Haunting_Sha_1":991873:Aberration|"The_Songbird_Queen_1":1868282:Beast|"Lesser_Sha_1":350303:Aberration|"Lesser_Sha_2":350303:Aberration|"Lesser_Sha_3":350303:Aberration|"Lesser_Sha_4":350303:Aberration|"Lesser_Sha_5":350303:Aberration
+raid_events+=/pull,pull=10,bloodlust=0,delay=011,mark_duration=13,enemies="The_Crybaby_Hozen_1":1576362:Humanoid|"The_Nodding_Tiger_1":1167675:Beast|"The_Golden_Beetle_1":1050908:Beast
+raid_events+=/pull,pull=11,bloodlust=0,delay=015,mark_duration=13,enemies="Corrupted_Scroll_1":145959:Not specified
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,mark_duration=13,enemies="BOSS_Peril":3115139:Elemental|"BOSS_Strife":3115139:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=007,mark_duration=13,enemies="Shambling_Infester_1":2800585:Aberration
+raid_events+=/pull,pull=14,bloodlust=0,delay=007,mark_duration=13,enemies="Depraved_Mistweaver_1":1050908:Humanoid|"Sha-Touched_Guardian_1":1166910:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=011,mark_duration=13,enemies="Depraved_Mistweaver_1":1050908:Humanoid|"Sha-Touched_Guardian_1":1166910:Humanoid|"Minion_of_Doubt_1":1225255:Elemental
+raid_events+=/pull,pull=16,bloodlust=0,delay=006,mark_duration=13,enemies="Haunting_Sha_1":991873:Aberration|"Lesser_Sha_1":350074:Elemental|"Lesser_Sha_2":350074:Elemental|"Lesser_Sha_3":350074:Elemental|"Lesser_Sha_4":350074:Elemental|"Lesser_Sha_5":350074:Elemental
+raid_events+=/pull,pull=17,bloodlust=0,delay=007,mark_duration=13,enemies="Shambling_Infester_1":2800585:Aberration
+raid_events+=/pull,pull=18,bloodlust=0,delay=012,mark_duration=13,enemies="Minion_of_Doubt_1":1225255:Elemental|"Lesser_Sha_1":350074:Elemental|"Lesser_Sha_2":350074:Elemental|"Lesser_Sha_3":350074:Elemental|"Lesser_Sha_4":350074:Elemental|"Haunting_Sha_1":991873:Aberration
+raid_events+=/pull,pull=19,bloodlust=0,delay=014,mark_duration=13,enemies="Lesser_Sha_1":350074:Elemental|"Lesser_Sha_2":350074:Elemental|"Lesser_Sha_3":350074:Elemental|"Lesser_Sha_4":350074:Elemental|"Lesser_Sha_5":350074:Elemental|"Minion_of_Doubt_1":1225255:Elemental
+raid_events+=/pull,pull=20,bloodlust=0,delay=009,mark_duration=13,enemies="Haunting_Sha_1":991873:Aberration|"Sha-Touched_Guardian_1":1166910:Humanoid|"Depraved_Mistweaver_1":1050908:Humanoid
+raid_events+=/pull,pull=21,bloodlust=0,delay=014,mark_duration=13,enemies="BOSS_Liu_Flameheart":6814379:Humanoid
+raid_events+=/pull,pull=22,bloodlust=0,delay=013,mark_duration=13,enemies="Fallen_Waterspeaker_1":1166910:Humanoid|"Sha-Touched_Guardian_1":1166910:Humanoid|"Depraved_Mistweaver_1":1050908:Humanoid
+raid_events+=/pull,pull=23,bloodlust=0,delay=014,mark_duration=13,enemies="BOSS_Sha_of_Doubt":6814379:Elemental

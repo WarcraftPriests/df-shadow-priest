@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-yogg-vf", "data": {"after": {"DPS": 90700}, "after_am": {"DPS": 90665}, "Base": {"DPS": 90664}}, "ids": {"after": null, "after_am": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["after", "after_am"], "last_updated": "2022-12-24"}
+{"name": "Composite - yshaarj-yogg-vf", "data": {"let_it_rip": {"DPS": 97176}, "Base": {"DPS": 96026}}, "ids": {"let_it_rip": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["let_it_rip"], "last_updated": "2023-01-09"}

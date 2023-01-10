@@ -1,0 +1,34 @@
+# cos-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|57960|1.03%|
+|Goblin|57959|1.03%|
+|Night_Elf_Haste|57946|1.00%|
+|Human|57896|0.92%|
+|Draenei|57859|0.85%|
+|Kul_Tiran|57798|0.75%|
+|Troll|57790|0.73%|
+|Highmountain_Tauren|57787|0.73%|
+|Orc|57783|0.72%|
+|Nightborne|57777|0.71%|
+|Blood_Elf|57767|0.69%|
+|Worgen|57760|0.68%|
+|Void_Elf|57758|0.68%|
+|Night_Elf_Crit|57757|0.67%|
+|Zandalari_Troll_Paku|57727|0.62%|
+|Dark_Iron_Dwarf|57717|0.60%|
+|Panda_Fortune_Cookie|57712|0.60%|
+|Tauren|57642|0.47%|
+|Dwarf|57633|0.46%|
+|Mechagnome|57557|0.33%|
+|Maghar_Orc|57547|0.31%|
+|Undead|57534|0.29%|
+|Panda_Haste|57531|0.28%|
+|Zandalari_Troll_Bwonsamdi|57519|0.26%|
+|Zandalari_Troll_Kimbul|57506|0.24%|
+|Panda_Mastery|57497|0.22%|
+|Panda_Crit|57470|0.17%|
+|Panda_Vers|57451|0.14%|
+|Lightforged_Draenei|57429|0.10%|
+|Base|57370|0.00%|
+|Vulpera|57351|-0.03%|

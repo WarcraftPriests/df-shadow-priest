@@ -1,0 +1,34 @@
+# algethar-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|103891|4.57%|
+|Phial_of_Charged_Isolation_3|103784|4.46%|
+|Phial_of_Static_Empowerment_2|103378|4.05%|
+|Phial_of_Charged_Isolation_2|103235|3.91%|
+|Phial_of_Static_Empowerment_1|102950|3.62%|
+|Phial_of_Charged_Isolation_1|102717|3.39%|
+|Phial_of_Elemental_Chaos_3|102031|2.70%|
+|Iced_Phial_of_Corrupting_Rage_3|102025|2.69%|
+|Phial_of_Tepid_Versatility_3|101903|2.57%|
+|Iced_Phial_of_Corrupting_Rage_2|101883|2.55%|
+|Phial_of_Tepid_Versatility_2|101773|2.44%|
+|Phial_of_Elemental_Chaos_2|101770|2.43%|
+|Iced_Phial_of_Corrupting_Rage_1|101654|2.32%|
+|Phial_of_Elemental_Chaos_1|101616|2.28%|
+|Phial_of_Tepid_Versatility_1|101547|2.21%|
+|Phial_of_Glacial_Fury_3|100997|1.66%|
+|Phial_of_Glacial_Fury_2|100800|1.46%|
+|Phial_of_Glacial_Fury_1|100522|1.18%|
+|Elemental_Potion_of_Ultimate_Power_3|100036|0.69%|
+|Bottled_Putrescence_3|99989|0.64%|
+|Elemental_Potion_of_Ultimate_Power_2|99929|0.58%|
+|Potion_of_Shocking_Disclosure_3|99927|0.58%|
+|Elemental_Potion_of_Power_3|99880|0.53%|
+|Elemental_Potion_of_Ultimate_Power_1|99875|0.53%|
+|Potion_of_Shocking_Disclosure_2|99853|0.51%|
+|Bottled_Putrescence_1|99850|0.50%|
+|Bottled_Putrescence_2|99846|0.50%|
+|Elemental_Potion_of_Power_2|99826|0.48%|
+|Potion_of_Shocking_Disclosure_1|99753|0.40%|
+|Elemental_Potion_of_Power_1|99710|0.36%|
+|Base|99351|0.00%|

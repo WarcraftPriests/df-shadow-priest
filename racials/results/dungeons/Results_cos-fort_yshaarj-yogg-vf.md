@@ -1,0 +1,34 @@
+# cos-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|57344|0.97%|
+|Gnome|57331|0.94%|
+|Night_Elf_Haste|57320|0.92%|
+|Human|57257|0.81%|
+|Troll|57237|0.78%|
+|Draenei|57229|0.76%|
+|Orc|57173|0.67%|
+|Blood_Elf|57162|0.65%|
+|Kul_Tiran|57156|0.64%|
+|Nightborne|57138|0.60%|
+|Zandalari_Troll_Paku|57138|0.60%|
+|Highmountain_Tauren|57131|0.59%|
+|Night_Elf_Crit|57118|0.57%|
+|Worgen|57108|0.55%|
+|Void_Elf|57107|0.55%|
+|Dark_Iron_Dwarf|57068|0.48%|
+|Panda_Fortune_Cookie|57059|0.46%|
+|Dwarf|56981|0.33%|
+|Tauren|56981|0.33%|
+|Maghar_Orc|56965|0.30%|
+|Mechagnome|56950|0.27%|
+|Panda_Haste|56948|0.27%|
+|Zandalari_Troll_Bwonsamdi|56921|0.22%|
+|Panda_Mastery|56910|0.20%|
+|Undead|56910|0.20%|
+|Zandalari_Troll_Kimbul|56907|0.20%|
+|Lightforged_Draenei|56874|0.14%|
+|Panda_Vers|56858|0.11%|
+|Panda_Crit|56855|0.11%|
+|Base|56795|0.00%|
+|Vulpera|56748|-0.08%|

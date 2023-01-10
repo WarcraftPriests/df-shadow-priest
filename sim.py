@@ -89,11 +89,16 @@ def run_sims(args, iterations, talent):
     count = 0
 
     for profile in profiles:
-        profile_name = re.search(
-            '((hm|lm|pw).+?(?=.simc)|dungeons.simc)', profile).group()
+        if args.dungeons:
+            profile_name = profile
+        else:
+            profile_name = re.search(
+                '((hm|lm|pw).+?(?=.simc)|dungeons.simc)', profile).group()
         count = count + 1
         if not args.dungeons:
             weight = find_weights(config["compositeWeights"]).get(profile_name)
+        elif args.dungeons:
+            weight = 1 / len(profiles)
         else:
             weight = 1
         print(f"Simming {count} out of {len(profiles)}.")

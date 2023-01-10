@@ -1,1 +1,1 @@
-{"name": "4T - yshaarj-yogg-vf", "data": {"after_am": {"DPS": 119400}, "Base": {"DPS": 119391}, "after": {"DPS": 119383}}, "ids": {"after_am": null, "after": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["after_am", "after"], "last_updated": "2022-12-24"}
+{"name": "4T - yshaarj-yogg-vf", "data": {"let_it_rip": {"DPS": 132290}, "Base": {"DPS": 130791}}, "ids": {"let_it_rip": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["let_it_rip"], "last_updated": "2023-01-09"}

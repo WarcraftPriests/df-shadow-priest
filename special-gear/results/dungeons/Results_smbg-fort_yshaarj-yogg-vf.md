@@ -1,0 +1,34 @@
+# smbg-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|72698|0.48%|
+|Chronocloth_Sash_Leggings_418|72647|0.41%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|72508|0.22%|
+|Chronocloth_Gloves_Sash_418|72494|0.20%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|72491|0.20%|
+|Neck_Elemental_Lariat_3Earth_418|72491|0.20%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|72474|0.17%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|72469|0.17%|
+|Azureweave_Mantle_Slippers_418|72468|0.17%|
+|Shoulders_Amice_of_the_Blue_418|72454|0.15%|
+|Finger2_Ring_Bound_Hourglass_418|72437|0.12%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|72410|0.09%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|72387|0.05%|
+|Embellishment_Potion_Absorption_Inhibitor|72382|0.05%|
+|Embellishment_Bronzed_Grip_Wrappings|72362|0.02%|
+|Base|72348|0.00%|
+|Waist_Vibrant_Wildercloth_Girdle_418|72334|-0.02%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|72333|-0.02%|
+|Back_Vibrant_Wildercloth_Shawl_418|72324|-0.03%|
+|Finger1_Ring_Bound_Hourglass_418|72320|-0.04%|
+|Legs_Vibrant_Wildercloth_Slacks_418|72251|-0.13%|
+|Feet_Vibrant_Wildercloth_Slippers_418|72243|-0.15%|
+|Feet_Blue_Dragon_Soles_418|72212|-0.19%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|72181|-0.23%|
+|2h_Illuminating_Pillar_of_the_Isles_418|72158|-0.26%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|72105|-0.34%|
+|Azureweave_Robe_Slippers_418|72037|-0.43%|
+|Chest_Vibrant_Wildercloth_Vestments_418|71999|-0.48%|
+|Head_Hood_of_Surging_Time_418|71956|-0.54%|
+|Head_Vibrant_Wildercloth_Headcover_418|71702|-0.89%|
+|2h_Weathered_Explorers_Stave_418|71437|-1.26%|
