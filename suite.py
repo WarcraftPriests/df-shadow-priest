@@ -71,12 +71,14 @@ def main():
     parser = argparse.ArgumentParser(description="Sims full sim suite")
     parser.add_argument(
         '--exclude', help='Exclude certain sim folders from the suite run',
-        choices=config["sims"].keys(), default=["apl", "talents"],
+        choices=config["sims"].keys(), default=["apl"],
         nargs='+', required=False)
     parser.add_argument(
         '--fresh', help='restart suite from start', action='store_true')
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
+    parser.add_argument(
+        '--dungeons', help='only run the dungeon suite', action='store_true')
     args = parser.parse_args()
 
     if args.fresh or not os.path.exists(output_file):
@@ -93,7 +95,8 @@ def main():
         if sim in args.exclude:
             continue
         sim_dir = (f"{sim}/")
-        run_suite(sim_dir, "composite", output_file, sim, ptr)
+        if not args.dungeons:
+            run_suite(sim_dir, "composite", output_file, sim, ptr)
         run_suite(sim_dir, "dungeons", output_file, sim, ptr)
 
 

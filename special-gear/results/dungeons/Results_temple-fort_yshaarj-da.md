@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|66710|0.73%|
+|Chronocloth_Sash_Leggings_418|66558|0.50%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|66500|0.42%|
+|Neck_Elemental_Lariat_3Earth_418|66426|0.31%|
+|Embellishment_Potion_Absorption_Inhibitor|66424|0.30%|
+|Azureweave_Mantle_Slippers_418|66423|0.30%|
+|Shoulders_Amice_of_the_Blue_418|66408|0.28%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|66407|0.28%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|66407|0.28%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|66392|0.25%|
+|Chronocloth_Gloves_Sash_418|66387|0.25%|
+|Finger2_Ring_Bound_Hourglass_418|66281|0.09%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|66261|0.06%|
+|Base|66224|0.00%|
+|Embellishment_Bronzed_Grip_Wrappings|66180|-0.07%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|66172|-0.08%|
+|Back_Vibrant_Wildercloth_Shawl_418|66133|-0.14%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|66118|-0.16%|
+|Waist_Vibrant_Wildercloth_Girdle_418|66107|-0.18%|
+|Finger1_Ring_Bound_Hourglass_418|66050|-0.26%|
+|Legs_Vibrant_Wildercloth_Slacks_418|66023|-0.30%|
+|Azureweave_Robe_Slippers_418|66010|-0.32%|
+|Feet_Blue_Dragon_Soles_418|66002|-0.34%|
+|Feet_Vibrant_Wildercloth_Slippers_418|65997|-0.34%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|65950|-0.41%|
+|2h_Illuminating_Pillar_of_the_Isles_418|65945|-0.42%|
+|Head_Hood_of_Surging_Time_418|65854|-0.56%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|65844|-0.57%|
+|Chest_Vibrant_Wildercloth_Vestments_418|65761|-0.70%|
+|Head_Vibrant_Wildercloth_Headcover_418|65446|-1.17%|
+|2h_Weathered_Explorers_Stave_418|65075|-1.74%|

@@ -1,0 +1,34 @@
+# algethar-fort - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Chronocloth_Sash_Leggings_418|107161|0.44%|
+|Embellishment_Blue_Silken_Lining|107125|0.41%|
+|Finger2_Ring_Bound_Hourglass_418|107009|0.30%|
+|Embellishment_Potion_Absorption_Inhibitor|106913|0.21%|
+|Chronocloth_Gloves_Sash_418|106906|0.20%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|106828|0.13%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|106738|0.04%|
+|Base|106690|0.00%|
+|Embellishment_Bronzed_Grip_Wrappings|106644|-0.04%|
+|Finger1_Ring_Bound_Hourglass_418|106635|-0.05%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|106608|-0.08%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|106582|-0.10%|
+|Back_Vibrant_Wildercloth_Shawl_418|106549|-0.13%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|106489|-0.19%|
+|Waist_Vibrant_Wildercloth_Girdle_418|106481|-0.20%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|106455|-0.22%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|106442|-0.23%|
+|Neck_Elemental_Lariat_3Earth_418|106439|-0.24%|
+|2h_Illuminating_Pillar_of_the_Isles_418|106438|-0.24%|
+|Legs_Vibrant_Wildercloth_Slacks_418|106398|-0.27%|
+|Feet_Vibrant_Wildercloth_Slippers_418|106372|-0.30%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|106202|-0.46%|
+|Azureweave_Mantle_Slippers_418|106141|-0.51%|
+|Feet_Blue_Dragon_Soles_418|106030|-0.62%|
+|Head_Hood_of_Surging_Time_418|106007|-0.64%|
+|Shoulders_Amice_of_the_Blue_418|106007|-0.64%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|105911|-0.73%|
+|2h_Weathered_Explorers_Stave_418|105683|-0.94%|
+|Chest_Vibrant_Wildercloth_Vestments_418|105574|-1.05%|
+|Head_Vibrant_Wildercloth_Headcover_418|105287|-1.32%|
+|Azureweave_Robe_Slippers_418|105229|-1.37%|

@@ -1,1 +1,1 @@
-{"name": "Composite - yshaarj-da", "data": {"after": {"DPS": 89260}, "after_am": {"DPS": 89259}, "Base": {"DPS": 89095}}, "ids": {"after": null, "after_am": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["after", "after_am"], "last_updated": "2022-12-24"}
+{"name": "Composite - yshaarj-da", "data": {"let_it_rip": {"DPS": 95168}, "Base": {"DPS": 94469}}, "ids": {"let_it_rip": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["let_it_rip"], "last_updated": "2023-01-09"}

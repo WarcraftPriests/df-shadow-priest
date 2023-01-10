@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|64185|0.79%|
+|Gnome|64182|0.79%|
+|Night_Elf_Haste|64161|0.75%|
+|Orc|64141|0.72%|
+|Human|64132|0.71%|
+|Draenei|64119|0.69%|
+|Kul_Tiran|64071|0.61%|
+|Highmountain_Tauren|64055|0.59%|
+|Zandalari_Troll_Paku|64043|0.57%|
+|Worgen|64039|0.56%|
+|Night_Elf_Crit|64038|0.56%|
+|Blood_Elf|64036|0.56%|
+|Dark_Iron_Dwarf|64035|0.55%|
+|Nightborne|64035|0.55%|
+|Troll|64020|0.53%|
+|Void_Elf|63972|0.46%|
+|Panda_Fortune_Cookie|63945|0.41%|
+|Maghar_Orc|63897|0.34%|
+|Lightforged_Draenei|63887|0.32%|
+|Dwarf|63885|0.32%|
+|Tauren|63868|0.29%|
+|Mechagnome|63837|0.24%|
+|Panda_Haste|63835|0.24%|
+|Zandalari_Troll_Bwonsamdi|63809|0.20%|
+|Zandalari_Troll_Kimbul|63800|0.19%|
+|Panda_Vers|63793|0.17%|
+|Undead|63789|0.17%|
+|Panda_Mastery|63782|0.16%|
+|Panda_Crit|63752|0.11%|
+|Base|63682|0.00%|
+|Vulpera|63678|-0.01%|

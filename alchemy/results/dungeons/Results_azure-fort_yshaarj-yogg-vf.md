@@ -1,0 +1,34 @@
+# azure-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|69085|5.30%|
+|Phial_of_Charged_Isolation_3|68926|5.06%|
+|Phial_of_Static_Empowerment_2|68657|4.65%|
+|Phial_of_Charged_Isolation_2|68506|4.42%|
+|Phial_of_Static_Empowerment_1|68222|3.99%|
+|Phial_of_Charged_Isolation_1|68112|3.82%|
+|Iced_Phial_of_Corrupting_Rage_3|67421|2.77%|
+|Phial_of_Tepid_Versatility_3|67300|2.58%|
+|Iced_Phial_of_Corrupting_Rage_2|67259|2.52%|
+|Phial_of_Elemental_Chaos_3|67207|2.44%|
+|Phial_of_Tepid_Versatility_2|67123|2.31%|
+|Iced_Phial_of_Corrupting_Rage_1|67082|2.25%|
+|Phial_of_Elemental_Chaos_2|67078|2.25%|
+|Phial_of_Glacial_Fury_3|66960|2.07%|
+|Phial_of_Tepid_Versatility_1|66954|2.06%|
+|Phial_of_Elemental_Chaos_1|66898|1.97%|
+|Phial_of_Glacial_Fury_2|66694|1.66%|
+|Phial_of_Glacial_Fury_1|66541|1.43%|
+|Elemental_Potion_of_Ultimate_Power_3|65971|0.56%|
+|Elemental_Potion_of_Ultimate_Power_2|65899|0.45%|
+|Elemental_Potion_of_Ultimate_Power_1|65864|0.39%|
+|Elemental_Potion_of_Power_3|65861|0.39%|
+|Elemental_Potion_of_Power_2|65840|0.36%|
+|Potion_of_Shocking_Disclosure_3|65839|0.36%|
+|Elemental_Potion_of_Power_1|65811|0.31%|
+|Potion_of_Shocking_Disclosure_1|65786|0.28%|
+|Potion_of_Shocking_Disclosure_2|65771|0.25%|
+|Bottled_Putrescence_2|65750|0.22%|
+|Bottled_Putrescence_3|65746|0.21%|
+|Bottled_Putrescence_1|65722|0.18%|
+|Base|65605|0.00%|

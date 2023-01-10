@@ -1,0 +1,34 @@
+# hov-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|69817|0.44%|
+|Goblin|69793|0.41%|
+|Gnome|69781|0.39%|
+|Human|69772|0.38%|
+|Night_Elf_Haste|69757|0.36%|
+|Troll|69755|0.35%|
+|Kul_Tiran|69741|0.33%|
+|Draenei|69739|0.33%|
+|Dark_Iron_Dwarf|69717|0.30%|
+|Highmountain_Tauren|69714|0.29%|
+|Night_Elf_Crit|69713|0.29%|
+|Zandalari_Troll_Paku|69711|0.29%|
+|Void_Elf|69704|0.28%|
+|Worgen|69702|0.28%|
+|Blood_Elf|69697|0.27%|
+|Nightborne|69696|0.27%|
+|Panda_Fortune_Cookie|69691|0.26%|
+|Maghar_Orc|69650|0.20%|
+|Dwarf|69629|0.17%|
+|Tauren|69620|0.16%|
+|Panda_Haste|69607|0.14%|
+|Panda_Mastery|69601|0.13%|
+|Mechagnome|69596|0.12%|
+|Undead|69594|0.12%|
+|Zandalari_Troll_Bwonsamdi|69593|0.12%|
+|Zandalari_Troll_Kimbul|69591|0.12%|
+|Panda_Vers|69586|0.11%|
+|Panda_Crit|69579|0.10%|
+|Lightforged_Draenei|69569|0.08%|
+|Vulpera|69523|0.02%|
+|Base|69510|0.00%|

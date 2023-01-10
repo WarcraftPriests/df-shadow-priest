@@ -1,1 +1,1 @@
-{"name": "Composite - cthun-yogg-vf", "data": {"saeldur+fight_remains+stack_check": {"DPS": 90403}, "Base": {"DPS": 90388}, "on_cd": {"DPS": 90240}}, "ids": {"saeldur+fight_remains+stack_check": null, "on_cd": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["saeldur+fight_remains+stack_check", "on_cd"], "last_updated": "2022-12-24"}
+{"name": "Composite - cthun-yogg-vf", "data": {"let_it_rip": {"DPS": 97408}, "Base": {"DPS": 95594}}, "ids": {"let_it_rip": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["let_it_rip"], "last_updated": "2023-01-09"}

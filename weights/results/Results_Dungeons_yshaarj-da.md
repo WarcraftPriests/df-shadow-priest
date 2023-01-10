@@ -1,4 +1,4 @@
 # Dungeons - yshaarj-da
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|71370|1.00|0.60|0.49|0.46|0.48|0.14|
+|Base|62108|1.00|0.52|0.47|0.39|0.48|0.26|

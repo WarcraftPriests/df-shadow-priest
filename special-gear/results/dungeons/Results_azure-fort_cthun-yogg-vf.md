@@ -1,0 +1,34 @@
+# azure-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|70942|0.61%|
+|Chronocloth_Sash_Leggings_418|70847|0.48%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|70725|0.31%|
+|Chronocloth_Gloves_Sash_418|70645|0.19%|
+|Azureweave_Mantle_Slippers_418|70637|0.18%|
+|Embellishment_Potion_Absorption_Inhibitor|70624|0.16%|
+|Finger2_Ring_Bound_Hourglass_418|70623|0.16%|
+|Shoulders_Amice_of_the_Blue_418|70603|0.13%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|70586|0.11%|
+|Embellishment_Bronzed_Grip_Wrappings|70537|0.04%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|70521|0.02%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|70516|0.01%|
+|Neck_Elemental_Lariat_3Earth_418|70512|0.00%|
+|Base|70509|0.00%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|70502|-0.01%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|70463|-0.07%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|70459|-0.07%|
+|Finger1_Ring_Bound_Hourglass_418|70442|-0.10%|
+|Back_Vibrant_Wildercloth_Shawl_418|70426|-0.12%|
+|Waist_Vibrant_Wildercloth_Girdle_418|70416|-0.13%|
+|Legs_Vibrant_Wildercloth_Slacks_418|70391|-0.17%|
+|Feet_Vibrant_Wildercloth_Slippers_418|70379|-0.18%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|70282|-0.32%|
+|2h_Illuminating_Pillar_of_the_Isles_418|70245|-0.37%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|70197|-0.44%|
+|Azureweave_Robe_Slippers_418|70192|-0.45%|
+|Feet_Blue_Dragon_Soles_418|70151|-0.51%|
+|Head_Hood_of_Surging_Time_418|70130|-0.54%|
+|Chest_Vibrant_Wildercloth_Vestments_418|70100|-0.58%|
+|Head_Vibrant_Wildercloth_Headcover_418|69884|-0.89%|
+|2h_Weathered_Explorers_Stave_418|69533|-1.38%|

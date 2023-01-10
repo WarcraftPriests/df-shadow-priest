@@ -1,0 +1,34 @@
+# hov-fort - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|70432|0.20%|
+|Human|70426|0.19%|
+|Kul_Tiran|70416|0.18%|
+|Orc|70412|0.17%|
+|Draenei|70410|0.17%|
+|Void_Elf|70403|0.16%|
+|Night_Elf_Haste|70400|0.16%|
+|Blood_Elf|70397|0.15%|
+|Gnome|70396|0.15%|
+|Highmountain_Tauren|70390|0.14%|
+|Zandalari_Troll_Paku|70385|0.14%|
+|Night_Elf_Crit|70377|0.12%|
+|Dark_Iron_Dwarf|70376|0.12%|
+|Worgen|70368|0.11%|
+|Troll|70367|0.11%|
+|Nightborne|70357|0.10%|
+|Panda_Fortune_Cookie|70357|0.10%|
+|Maghar_Orc|70356|0.09%|
+|Undead|70352|0.09%|
+|Panda_Mastery|70346|0.08%|
+|Tauren|70346|0.08%|
+|Panda_Haste|70338|0.07%|
+|Lightforged_Draenei|70331|0.06%|
+|Panda_Vers|70329|0.06%|
+|Vulpera|70317|0.04%|
+|Dwarf|70315|0.04%|
+|Panda_Crit|70314|0.03%|
+|Mechagnome|70311|0.03%|
+|Zandalari_Troll_Kimbul|70307|0.02%|
+|Zandalari_Troll_Bwonsamdi|70297|0.01%|
+|Base|70290|0.00%|

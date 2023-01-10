@@ -1,0 +1,34 @@
+# hov-fort - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|69254|3.38%|
+|Phial_of_Charged_Isolation_3|69223|3.34%|
+|Phial_of_Static_Empowerment_2|69106|3.16%|
+|Phial_of_Charged_Isolation_2|69014|3.02%|
+|Phial_of_Static_Empowerment_1|68897|2.85%|
+|Phial_of_Charged_Isolation_1|68843|2.77%|
+|Iced_Phial_of_Corrupting_Rage_3|68595|2.40%|
+|Phial_of_Elemental_Chaos_3|68552|2.33%|
+|Phial_of_Tepid_Versatility_3|68513|2.28%|
+|Iced_Phial_of_Corrupting_Rage_2|68498|2.25%|
+|Phial_of_Tepid_Versatility_2|68423|2.14%|
+|Phial_of_Elemental_Chaos_2|68421|2.14%|
+|Iced_Phial_of_Corrupting_Rage_1|68413|2.13%|
+|Phial_of_Elemental_Chaos_1|68355|2.04%|
+|Phial_of_Tepid_Versatility_1|68330|2.00%|
+|Phial_of_Glacial_Fury_3|68251|1.89%|
+|Phial_of_Glacial_Fury_2|68132|1.71%|
+|Phial_of_Glacial_Fury_1|67985|1.49%|
+|Elemental_Potion_of_Ultimate_Power_3|67602|0.92%|
+|Elemental_Potion_of_Ultimate_Power_2|67519|0.79%|
+|Elemental_Potion_of_Ultimate_Power_1|67512|0.78%|
+|Elemental_Potion_of_Power_3|67492|0.75%|
+|Bottled_Putrescence_3|67476|0.73%|
+|Potion_of_Shocking_Disclosure_3|67460|0.70%|
+|Elemental_Potion_of_Power_2|67415|0.64%|
+|Bottled_Putrescence_2|67404|0.62%|
+|Potion_of_Shocking_Disclosure_2|67374|0.58%|
+|Bottled_Putrescence_1|67360|0.56%|
+|Elemental_Potion_of_Power_1|67350|0.54%|
+|Potion_of_Shocking_Disclosure_1|67311|0.48%|
+|Base|66988|0.00%|

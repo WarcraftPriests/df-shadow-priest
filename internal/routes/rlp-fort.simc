@@ -1,0 +1,32 @@
+# !1vvxVTjmu0Fl99vPyZxHhxxxL60eRAuTP9IfeWoXDo4jWK28c)239Ade70nPOySV(EUNZ5Admc7zwzDBRU7h8(bPUJveVHqjSYgTs3)uTIBm8h7eA7ghn6pHRl72ZU7Q90(gKlZWkn83G)VREq2mv99V(0u1UZtv33xB60dSYJTselrpNFqRA)Iw2XBz7yL747hLke6cYL44eaUx58FZkIyLJYww5j5hpF8Zdf)m(xWKA1ihHSzSVN3zEAuPyf5RZlh3P4N4WAuwzVuy(MqmWndqkfO(nya7qKBi2nKyhmR4C)y3EUUZjukQt(rKTa1h4kEJbTplMqXH0(dWJ1IS8Nvn265MapcLf)rxyW6UI9N4yJZYb3reXfIvOwsJ6HxkcaKMhqlHVGdIsoFPY(OhXVqZaqsSGK57qlXwQY)Zrt9e0fgKpRKKagi2HmiZlJza8PoUL8WT4YiWTjZSGSjWhiZovORcUrbHE1gTiVnazAaIX2zlPDTd70xEq(r(mB7cDDMlj2snik2cjPwtNKz7PKTOglOBWSki5b0ijqm5wlCLvXozmVzsaZxai1w)T2YNfOjhZsdu2YzqlyllxtC9fssyJzgPTbDM0v3arFw22hC(B2klX4jEhS9Nsy)RBgwZfnQNdGk3tIGUrSYCgCQdSm7cyRyRLVgpwtzV7Ud2dwKK7aJVWwSnSA5ETC8P4v(DXqwpW7aJqdojeVsgZ7USAPHFPZMfQRy2Ub1)EXv3adbagP0GgO9vHTsHq2mQmNTmVuV7f4fFRVLRS190djBOrKus6MissuonIjUn22JF420uiefcKhNNsbDcHIVCc4o0ZkFumvDwpov1u3nvvFslBNQeQ6JW3iuW3B(GnCpexp2zMQEvQuW3z4tv8o94(d4kg4)xghGOPtvGy7BoGFDz4g4Jr6PkZb5WuL0Rq3GkSdyGtSS)(d
+fight_style=DungeonRoute
+override.bloodlust=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+override.windfury_totem=0
+single_actor_batch=1
+max_time=1800
+enemy="Ruby Life Pools 20 Fortified"
+enemy_health=999999
+keystone_level=20
+keystone_pct_hp=27
+raid_events=/invulnerable,cooldown=3600,duration=3600,retarget=1
+raid_events+=/pull,pull=01,bloodlust=0,delay=009,mark_duration=13,enemies="Primal_Juggernaut_1":1999850:Elemental|"Flashfrost_Earthshaper_1":999925:Humanoid|"Flashfrost_Earthshaper_2":999925:Humanoid|"Flashfrost_Earthshaper_3":999925:Humanoid|"Primal_Terrasentry_1":999925:Elemental|"Flashfrost_Chillweaver_1":999925:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=014,mark_duration=13,enemies="Primal_Terrasentry_1":999925:Elemental|"Primal_Terrasentry_2":999925:Elemental|"Primal_Terrasentry_3":999925:Elemental|"Primal_Terrasentry_4":999925:Elemental|"Flashfrost_Chillweaver_1":999925:Humanoid|"Flashfrost_Chillweaver_2":999925:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,mark_duration=13,enemies="Flashfrost_Earthshaper_1":999925:Humanoid|"Flashfrost_Chillweaver_1":999925:Humanoid|"Flashfrost_Chillweaver_2":999925:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,mark_duration=13,enemies="Primal_Juggernaut_1":1999850:Elemental|"Defier_Draghar_1":2999775:Dragonkin
+raid_events+=/pull,pull=05,bloodlust=0,delay=010,mark_duration=13,enemies="BOSS_Melidrussa_Chillworn":5829033:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=009,mark_duration=13,enemies="Thunderhead_1":2999775:Dragonkin
+raid_events+=/pull,pull=07,bloodlust=0,delay=013,mark_duration=13,enemies="Blazebound_Destroyer_1":1699872:Elemental|"Primalist_Cinderweaver_1":999925:Humanoid|"Primalist_Cinderweaver_2":999925:Humanoid|"Primalist_Cinderweaver_3":999925:Humanoid|"Primalist_Flamedancer_1":1199909:Humanoid|"Primalist_Flamedancer_2":1199909:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=013,mark_duration=13,enemies="Blazebound_Destroyer_1":1699872:Elemental|"Primalist_Cinderweaver_1":999925:Humanoid|"Primalist_Flamedancer_1":1199909:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=014,mark_duration=13,enemies="Blazebound_Destroyer_1":1699872:Elemental|"Scorchling_1":199984:Elemental|"Scorchling_2":199984:Elemental|"Scorchling_3":199984:Elemental|"Scorchling_4":199984:Elemental|"Scorchling_5":199984:Elemental|"Scorchling_6":199984:Elemental|"Scorchling_7":199984:Elemental|"Scorchling_8":199984:Elemental|"Primalist_Cinderweaver_1":999925:Humanoid|"Primalist_Flamedancer_1":1199909:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=014,mark_duration=13,enemies="Blazebound_Destroyer_1":1699872:Elemental|"Primalist_Cinderweaver_1":999925:Humanoid|"Primalist_Cinderweaver_2":999925:Humanoid|"Primalist_Cinderweaver_3":999925:Humanoid|"Primalist_Flamedancer_1":1199909:Humanoid|"Primalist_Flamedancer_2":1199909:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,mark_duration=13,enemies="BOSS_Kokia_Blazehoof":5829033:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=015,mark_duration=13,enemies="Tempest_Channeler_1":1599880:Humanoid|"Storm_Warrior_1":999925:Humanoid|"Storm_Warrior_2":999925:Humanoid|"Storm_Warrior_3":999925:Humanoid|"Storm_Warrior_4":999925:Humanoid|"Primal_Thundercloud_1":149363:Elemental|"Primal_Thundercloud_2":149363:Elemental|"Primal_Thundercloud_3":149363:Elemental|"Primal_Thundercloud_4":149363:Elemental|"Primal_Thundercloud_5":149363:Elemental|"Primal_Thundercloud_6":149363:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=014,mark_duration=13,enemies="Primal_Thundercloud_1":149363:Elemental|"Primal_Thundercloud_2":149363:Elemental|"Primal_Thundercloud_3":149363:Elemental|"Primal_Thundercloud_4":149363:Elemental|"Primal_Thundercloud_5":149363:Elemental|"Primal_Thundercloud_6":149363:Elemental|"Primal_Thundercloud_7":149363:Elemental|"Primal_Thundercloud_8":149363:Elemental|"Tempest_Channeler_1":1599880:Humanoid|"Flame_Channeler_1":1599880:Humanoid|"Flame_Channeler_2":1599880:Humanoid|"Storm_Warrior_1":999925:Humanoid|"Storm_Warrior_2":999925:Humanoid|"Storm_Warrior_3":999925:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=010,mark_duration=13,enemies="High_Channeler_Ryvati_1":2999775:Humanoid|"Primal_Thundercloud_1":149363:Elemental|"Primal_Thundercloud_2":149363:Elemental|"Primal_Thundercloud_3":149363:Elemental|"Primal_Thundercloud_4":149363:Elemental|"Storm_Warrior_1":999925:Humanoid|"Storm_Warrior_2":999925:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Erkhart_Stormvein":4163594:Humanoid|"BOSS_Kyrakka":3330876:Dragonkin
