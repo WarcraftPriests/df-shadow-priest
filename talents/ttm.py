@@ -19,7 +19,7 @@ if __name__ == '__main__':
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
-                ' 2122122', "_" + profile.split('-')[1].split('.simc')[0])
+                ' 2111122', "_" + profile.split('-')[1].split('.simc')[0])
 
             idols = ["yshaarj", "cthun", "yogg", "nzoth"]
             IDOLS_USED = ""
