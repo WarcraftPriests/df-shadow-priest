@@ -4,7 +4,7 @@ if __name__ == '__main__':
     profiles = ["VF-AoE.simc", "DA-AoE.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
-        with open(profile, 'r') as file:
+        with open(profile, 'r', encoding="utf8") as file:
             data = file.readlines()
             file.close()
 
@@ -35,6 +35,6 @@ if __name__ == '__main__':
 
             OUTPUT_FILE = OUTPUT_FILE + line
 
-        with open(profile, 'w') as file:
+        with open(profile, 'w', encoding="utf8") as file:
             file.writelines(OUTPUT_FILE)
             file.close()
