@@ -1,1 +1,1 @@
-{"name": "2T - cthun-yogg-vf", "data": {"T29-2_4-set": {"DPS": 94927}, "T29-2-set": {"DPS": 90851}, "Base": {"DPS": 88284}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2023-01-04"}
+{"name": "2T - cthun-yogg-vf", "data": {"T29-2_4-set": {"DPS": 100943}, "T29-2-set": {"DPS": 96611}, "Base": {"DPS": 93956}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2023-01-12"}

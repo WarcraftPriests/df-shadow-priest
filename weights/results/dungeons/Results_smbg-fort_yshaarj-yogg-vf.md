@@ -1,4 +1,4 @@
 # smbg-fort - yshaarj-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|58515|1.00|0.54|0.47|0.43|0.46|0.19|
+|Base|50054|1.00|0.41|0.44|0.39|0.44|0.21|

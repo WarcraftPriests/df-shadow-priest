@@ -1,4 +1,4 @@
 # Dungeons - yshaarj-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|65191|1.00|0.56|0.51|0.48|0.51|0.20|
+|Base|57088|1.00|0.48|0.50|0.47|0.50|0.24|

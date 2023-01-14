@@ -1,4 +1,4 @@
 # Composite - yshaarj-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|89095|1.00|0.48|0.50|0.53|0.48|0.13|
+|Base|93198|1.00|0.45|0.48|0.51|0.44|0.12|

@@ -1,4 +1,4 @@
 # azure-fort - yshaarj-da
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|57457|1.00|0.39|0.36|0.29|0.37|0.42|
+|Base|59910|1.00|0.50|0.46|0.51|0.49|0.24|
