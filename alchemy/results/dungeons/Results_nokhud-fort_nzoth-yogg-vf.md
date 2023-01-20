@@ -1,0 +1,34 @@
+# nokhud-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|106867|6.00%|
+|Phial_of_Charged_Isolation_3|106625|5.76%|
+|Phial_of_Static_Empowerment_2|106067|5.21%|
+|Phial_of_Charged_Isolation_2|105797|4.94%|
+|Phial_of_Static_Empowerment_1|105360|4.51%|
+|Phial_of_Charged_Isolation_1|105075|4.22%|
+|Iced_Phial_of_Corrupting_Rage_3|103902|3.06%|
+|Phial_of_Tepid_Versatility_3|103820|2.98%|
+|Iced_Phial_of_Corrupting_Rage_2|103596|2.76%|
+|Phial_of_Tepid_Versatility_2|103570|2.73%|
+|Phial_of_Elemental_Chaos_3|103535|2.70%|
+|Iced_Phial_of_Corrupting_Rage_1|103320|2.48%|
+|Phial_of_Elemental_Chaos_2|103251|2.42%|
+|Phial_of_Tepid_Versatility_1|103240|2.40%|
+|Phial_of_Elemental_Chaos_1|103047|2.21%|
+|Phial_of_Glacial_Fury_3|102442|1.61%|
+|Phial_of_Glacial_Fury_2|102172|1.35%|
+|Phial_of_Glacial_Fury_1|101965|1.14%|
+|Elemental_Potion_of_Ultimate_Power_3|101307|0.49%|
+|Elemental_Potion_of_Power_3|101243|0.42%|
+|Elemental_Potion_of_Ultimate_Power_2|101236|0.42%|
+|Elemental_Potion_of_Ultimate_Power_1|101197|0.38%|
+|Potion_of_Shocking_Disclosure_3|101170|0.35%|
+|Elemental_Potion_of_Power_2|101153|0.33%|
+|Bottled_Putrescence_3|101146|0.33%|
+|Potion_of_Shocking_Disclosure_2|101101|0.28%|
+|Elemental_Potion_of_Power_1|101091|0.27%|
+|Bottled_Putrescence_2|101088|0.27%|
+|Bottled_Putrescence_1|101073|0.25%|
+|Potion_of_Shocking_Disclosure_1|101032|0.21%|
+|Base|100816|0.00%|

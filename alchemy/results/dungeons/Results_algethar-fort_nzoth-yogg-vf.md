@@ -1,0 +1,34 @@
+# algethar-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|107960|4.55%|
+|Phial_of_Charged_Isolation_3|107781|4.38%|
+|Phial_of_Static_Empowerment_2|107237|3.85%|
+|Phial_of_Charged_Isolation_2|107049|3.67%|
+|Phial_of_Static_Empowerment_1|106573|3.21%|
+|Phial_of_Charged_Isolation_1|106371|3.01%|
+|Iced_Phial_of_Corrupting_Rage_3|105450|2.12%|
+|Phial_of_Tepid_Versatility_3|105390|2.06%|
+|Iced_Phial_of_Corrupting_Rage_2|105250|1.92%|
+|Phial_of_Elemental_Chaos_3|105232|1.91%|
+|Phial_of_Tepid_Versatility_2|105168|1.84%|
+|Phial_of_Elemental_Chaos_2|105087|1.77%|
+|Iced_Phial_of_Corrupting_Rage_1|105043|1.72%|
+|Phial_of_Tepid_Versatility_1|105027|1.71%|
+|Phial_of_Elemental_Chaos_1|104875|1.56%|
+|Phial_of_Glacial_Fury_3|104476|1.17%|
+|Phial_of_Glacial_Fury_2|104314|1.02%|
+|Phial_of_Glacial_Fury_1|104101|0.81%|
+|Elemental_Potion_of_Ultimate_Power_3|103807|0.53%|
+|Elemental_Potion_of_Ultimate_Power_2|103693|0.42%|
+|Bottled_Putrescence_3|103661|0.39%|
+|Elemental_Potion_of_Power_3|103656|0.38%|
+|Potion_of_Shocking_Disclosure_3|103653|0.38%|
+|Elemental_Potion_of_Ultimate_Power_1|103646|0.37%|
+|Potion_of_Shocking_Disclosure_2|103622|0.35%|
+|Bottled_Putrescence_2|103598|0.32%|
+|Elemental_Potion_of_Power_2|103587|0.31%|
+|Elemental_Potion_of_Power_1|103568|0.30%|
+|Bottled_Putrescence_1|103565|0.29%|
+|Potion_of_Shocking_Disclosure_1|103554|0.28%|
+|Base|103263|0.00%|

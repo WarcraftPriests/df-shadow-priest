@@ -1,0 +1,34 @@
+# azure-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|92879|0.74%|
+|Night_Elf_Haste|92831|0.69%|
+|Draenei|92809|0.66%|
+|Gnome|92797|0.65%|
+|Human|92783|0.64%|
+|Kul_Tiran|92734|0.58%|
+|Highmountain_Tauren|92727|0.57%|
+|Nightborne|92714|0.56%|
+|Zandalari_Troll_Paku|92680|0.52%|
+|Night_Elf_Crit|92661|0.50%|
+|Void_Elf|92655|0.50%|
+|Blood_Elf|92638|0.48%|
+|Orc|92633|0.47%|
+|Worgen|92633|0.47%|
+|Panda_Fortune_Cookie|92590|0.43%|
+|Troll|92575|0.41%|
+|Dark_Iron_Dwarf|92538|0.37%|
+|Tauren|92463|0.29%|
+|Dwarf|92455|0.28%|
+|Mechagnome|92425|0.25%|
+|Maghar_Orc|92419|0.24%|
+|Panda_Haste|92384|0.20%|
+|Undead|92354|0.17%|
+|Panda_Mastery|92349|0.16%|
+|Zandalari_Troll_Bwonsamdi|92345|0.16%|
+|Lightforged_Draenei|92338|0.15%|
+|Zandalari_Troll_Kimbul|92329|0.14%|
+|Panda_Crit|92314|0.13%|
+|Panda_Vers|92277|0.09%|
+|Vulpera|92261|0.07%|
+|Base|92197|0.00%|

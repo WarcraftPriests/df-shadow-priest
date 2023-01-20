@@ -41,7 +41,7 @@ def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
     keys = ["algethar", "azure", "cos", "hov",
             "nokhud", "rlp", "smbg", "temple"]
-    affixes = ["fort"]
+    affixes = ["fort", "tyran"]
     combos = [
         f"{key}-{affix}" for key in keys for affix in affixes]
     return combos

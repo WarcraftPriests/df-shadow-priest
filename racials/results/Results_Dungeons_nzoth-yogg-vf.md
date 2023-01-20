@@ -1,0 +1,34 @@
+# Dungeons - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|90602|0.90%|
+|Gnome|90595|0.89%|
+|Night_Elf_Haste|90583|0.88%|
+|Draenei|90572|0.87%|
+|Human|90556|0.85%|
+|Nightborne|90430|0.71%|
+|Kul_Tiran|90418|0.69%|
+|Highmountain_Tauren|90401|0.67%|
+|Void_Elf|90388|0.66%|
+|Zandalari_Troll_Paku|90368|0.64%|
+|Orc|90353|0.62%|
+|Blood_Elf|90351|0.62%|
+|Troll|90347|0.61%|
+|Night_Elf_Crit|90334|0.60%|
+|Panda_Fortune_Cookie|90319|0.58%|
+|Worgen|90312|0.58%|
+|Dark_Iron_Dwarf|90252|0.51%|
+|Dwarf|90129|0.37%|
+|Tauren|90117|0.36%|
+|Maghar_Orc|90080|0.32%|
+|Mechagnome|90060|0.29%|
+|Panda_Haste|89980|0.21%|
+|Zandalari_Troll_Bwonsamdi|89967|0.19%|
+|Undead|89956|0.18%|
+|Panda_Mastery|89953|0.18%|
+|Zandalari_Troll_Kimbul|89953|0.18%|
+|Panda_Crit|89920|0.14%|
+|Panda_Vers|89906|0.12%|
+|Lightforged_Draenei|89904|0.12%|
+|Vulpera|89797|0.00%|
+|Base|89795|0.00%|

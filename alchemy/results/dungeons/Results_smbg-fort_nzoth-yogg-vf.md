@@ -1,0 +1,34 @@
+# smbg-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|82066|3.47%|
+|Phial_of_Charged_Isolation_3|81968|3.35%|
+|Phial_of_Static_Empowerment_2|81652|2.95%|
+|Phial_of_Charged_Isolation_2|81530|2.80%|
+|Phial_of_Static_Empowerment_1|81356|2.58%|
+|Phial_of_Charged_Isolation_1|81259|2.46%|
+|Iced_Phial_of_Corrupting_Rage_3|80812|1.89%|
+|Phial_of_Tepid_Versatility_3|80792|1.87%|
+|Iced_Phial_of_Corrupting_Rage_2|80700|1.75%|
+|Phial_of_Elemental_Chaos_3|80689|1.74%|
+|Phial_of_Tepid_Versatility_2|80662|1.70%|
+|Iced_Phial_of_Corrupting_Rage_1|80611|1.64%|
+|Phial_of_Elemental_Chaos_2|80582|1.60%|
+|Phial_of_Tepid_Versatility_1|80557|1.57%|
+|Phial_of_Elemental_Chaos_1|80498|1.50%|
+|Phial_of_Glacial_Fury_3|80358|1.32%|
+|Phial_of_Glacial_Fury_2|80202|1.12%|
+|Phial_of_Glacial_Fury_1|80091|0.98%|
+|Elemental_Potion_of_Ultimate_Power_3|79543|0.29%|
+|Bottled_Putrescence_3|79526|0.27%|
+|Elemental_Potion_of_Ultimate_Power_1|79507|0.25%|
+|Elemental_Potion_of_Power_2|79496|0.23%|
+|Elemental_Potion_of_Power_1|79486|0.22%|
+|Elemental_Potion_of_Ultimate_Power_2|79479|0.21%|
+|Elemental_Potion_of_Power_3|79477|0.21%|
+|Potion_of_Shocking_Disclosure_3|79462|0.19%|
+|Bottled_Putrescence_2|79446|0.17%|
+|Potion_of_Shocking_Disclosure_2|79432|0.15%|
+|Bottled_Putrescence_1|79428|0.15%|
+|Potion_of_Shocking_Disclosure_1|79418|0.14%|
+|Base|79310|0.00%|

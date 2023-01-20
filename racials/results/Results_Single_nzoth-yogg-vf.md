@@ -1,0 +1,34 @@
+# Single - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|78503|1.35%|
+|Void_Elf|78375|1.18%|
+|Draenei|78346|1.14%|
+|Human|78331|1.12%|
+|Night_Elf_Haste|78329|1.12%|
+|Goblin|78323|1.11%|
+|Gnome|78322|1.11%|
+|Dark_Iron_Dwarf|78238|1.00%|
+|Blood_Elf|78207|0.96%|
+|Nightborne|78199|0.95%|
+|Zandalari_Troll_Paku|78170|0.92%|
+|Highmountain_Tauren|78145|0.88%|
+|Kul_Tiran|78140|0.88%|
+|Night_Elf_Crit|78121|0.85%|
+|Troll|78099|0.82%|
+|Worgen|78089|0.81%|
+|Panda_Fortune_Cookie|78053|0.77%|
+|Maghar_Orc|77959|0.64%|
+|Dwarf|77918|0.59%|
+|Tauren|77897|0.56%|
+|Mechagnome|77745|0.37%|
+|Panda_Mastery|77708|0.32%|
+|Zandalari_Troll_Bwonsamdi|77700|0.31%|
+|Zandalari_Troll_Kimbul|77673|0.27%|
+|Undead|77642|0.23%|
+|Panda_Crit|77630|0.22%|
+|Panda_Vers|77617|0.20%|
+|Panda_Haste|77604|0.19%|
+|Vulpera|77490|0.04%|
+|Base|77460|0.00%|
+|Lightforged_Draenei|77446|-0.02%|

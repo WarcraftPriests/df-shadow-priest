@@ -1,0 +1,34 @@
+# rlp-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|90727|1.01%|
+|Night_Elf_Haste|90708|0.99%|
+|Goblin|90693|0.98%|
+|Gnome|90668|0.95%|
+|Human|90660|0.94%|
+|Highmountain_Tauren|90532|0.80%|
+|Nightborne|90526|0.79%|
+|Kul_Tiran|90518|0.78%|
+|Void_Elf|90511|0.77%|
+|Orc|90448|0.70%|
+|Night_Elf_Crit|90443|0.70%|
+|Zandalari_Troll_Paku|90442|0.70%|
+|Troll|90431|0.68%|
+|Panda_Fortune_Cookie|90413|0.66%|
+|Worgen|90408|0.66%|
+|Blood_Elf|90407|0.66%|
+|Dark_Iron_Dwarf|90392|0.64%|
+|Dwarf|90213|0.44%|
+|Tauren|90185|0.41%|
+|Maghar_Orc|90159|0.38%|
+|Mechagnome|90124|0.34%|
+|Zandalari_Troll_Bwonsamdi|90036|0.24%|
+|Lightforged_Draenei|90023|0.23%|
+|Panda_Mastery|90020|0.23%|
+|Panda_Haste|90004|0.21%|
+|Panda_Crit|89994|0.20%|
+|Undead|89985|0.19%|
+|Zandalari_Troll_Kimbul|89985|0.19%|
+|Panda_Vers|89953|0.15%|
+|Vulpera|89851|0.04%|
+|Base|89817|0.00%|

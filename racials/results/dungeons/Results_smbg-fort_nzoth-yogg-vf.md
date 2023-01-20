@@ -1,0 +1,34 @@
+# smbg-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|81640|0.72%|
+|Draenei|81624|0.70%|
+|Human|81616|0.69%|
+|Goblin|81593|0.66%|
+|Night_Elf_Haste|81566|0.63%|
+|Void_Elf|81500|0.55%|
+|Nightborne|81499|0.54%|
+|Kul_Tiran|81494|0.54%|
+|Highmountain_Tauren|81489|0.53%|
+|Orc|81485|0.53%|
+|Zandalari_Troll_Paku|81459|0.49%|
+|Blood_Elf|81448|0.48%|
+|Panda_Fortune_Cookie|81433|0.46%|
+|Worgen|81420|0.45%|
+|Night_Elf_Crit|81411|0.44%|
+|Dark_Iron_Dwarf|81398|0.42%|
+|Troll|81328|0.33%|
+|Dwarf|81293|0.29%|
+|Tauren|81270|0.26%|
+|Maghar_Orc|81241|0.23%|
+|Undead|81210|0.19%|
+|Panda_Haste|81204|0.18%|
+|Mechagnome|81203|0.18%|
+|Zandalari_Troll_Kimbul|81181|0.15%|
+|Panda_Mastery|81157|0.12%|
+|Zandalari_Troll_Bwonsamdi|81156|0.12%|
+|Panda_Crit|81082|0.03%|
+|Lightforged_Draenei|81076|0.02%|
+|Panda_Vers|81076|0.02%|
+|Base|81058|0.00%|
+|Vulpera|80999|-0.07%|

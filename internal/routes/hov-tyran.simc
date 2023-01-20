@@ -1,0 +1,37 @@
+# !9rvtpUniq0)szWX2XxBRwP2dURww1JOMepK6wIPYb2n9s)TxgaBJXrvcffgEZB(65raIxf8JDD6HVHJ361dI297awPGFwR0JpFuHgd(5bP2d0A0FKS3pCr8HmmD3D(kmcUbV7(9fT1G)97fcExVu2F2Qm)r0Y2j4VJ4ViO8RD9eRYre)Hw19fD)a2joj4NWl2EffKwy5D6IJ43oQSi53z74ioyE2QuoIHzdC7jf(g6m6c(VDVEZHUfs(PL5paHWLi0X9Ns)PIog69a0j0gcZKjtS2DjNSaLYjhMSs2AqI4fpwiiy7GN4AFOHDzuwGuASjdAIMkPl1XlvbY3NsoeCckslL6KGuGnuEphKcp(Y0Ge5TCfVSuc9WjgsYgsc4QTxxvqYtub1KKhrhtByeexJyPJn7W8eRyzIzwckK6dSDWL2yDtLy(LgAQtafRhwnjyCttFfazduF6UqKxk0cLzGwj9GYKm6iek7QKw(CNKnLPtxMQUmTxluNfWcXwPidYaTpJjkpyBBEMybLlCwGgKoqy8at0xTI(GaGL1I9j(gjWJM6p6Ju6BNOucoKvmufdh(pYNarbN9bKL2eBz7xDlDIMRByvRlk2UhiCyhYabpq4WAwbYmVr7t2HlOEWVITIwWIxPLJUnL3qfE2q7TJYeFgo2lnFvkVHg)QpQRhxqe)EosV(0pDEFZBGB77e8MY6RMRS7p1C2zt8V)
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2280
+enemy="Halls of Valor 20 Tyrannical"
+enemy_health=999999
+keystone_level=20
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=012,mark_duration=13,enemies="Valarjar_Champion_1":1070831:Humanoid|"Valarjar_Champion_2":1070831:Humanoid|"Valarjar_Champion_3":1070831:Humanoid|"Valarjar_Champion_4":1070831:Humanoid|"Valarjar_Champion_5":1070831:Humanoid|"Valarjar_Champion_6":1070831:Humanoid|"Valarjar_Thundercaller_1":973483:Humanoid|"Valarjar_Thundercaller_2":973483:Humanoid|"Storm_Drake_1":1946965:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Hymdall":8755533:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=013,mark_duration=13,enemies="Valarjar_Champion_1":1070831:Humanoid|"Valarjar_Champion_2":1070831:Humanoid|"Valarjar_Champion_3":1070831:Humanoid|"Valarjar_Mystic_1":876134:Humanoid|"Valarjar_Mystic_2":876134:Humanoid|"Valarjar_Shieldmaiden_1":1265527:Humanoid|"Valarjar_Runecarver_1":1022156:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=010,mark_duration=13,enemies="Valarjar_Champion_1":1070831:Humanoid|"Valarjar_Champion_2":1070831:Humanoid|"Valarjar_Thundercaller_1":973483:Humanoid|"Valarjar_Mystic_1":876134:Humanoid|"Valarjar_Mystic_2":876134:Humanoid|"Valarjar_Shieldmaiden_1":1265527:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=005,mark_duration=13,enemies="Valarjar_Champion_1":1070831:Humanoid|"Valarjar_Thundercaller_1":973483:Humanoid|"Valarjar_Runecarver_1":1022156:Humanoid|"Valarjar_Shieldmaiden_1":1265527:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=014,mark_duration=13,enemies="Valarjar_Purifier_1":1557572:Humanoid|"Valarjar_Shieldmaiden_1":1265527:Humanoid|"Valarjar_Shieldmaiden_2":1265527:Humanoid|"Valarjar_Shieldmaiden_3":1265527:Humanoid|"Valarjar_Shieldmaiden_4":1265527:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=013,mark_duration=13,enemies="Valarjar_Aspirant_1":1946965:Humanoid|"Valarjar_Shieldmaiden_1":1265527:Humanoid|"Valarjar_Shieldmaiden_2":1265527:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=005,mark_duration=13,enemies="Solsten_1":2531055:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=014,mark_duration=13,enemies="Olmyr_the_Enlightened_1":2531055:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=015,mark_duration=13,enemies="BOSS_Hyrja":8843973:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=007,mark_duration=13,enemies="Valarjar_Champion_1":1070831:Humanoid|"Valarjar_Mystic_1":876134:Humanoid|"Valarjar_Runecarver_1":1022156:Humanoid|"Valarjar_Marksman_1":973483:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,mark_duration=13,enemies="Storm_Drake_1":1654920:Beast
+raid_events+=/pull,pull=13,bloodlust=0,delay=014,mark_duration=13,enemies="BOSS_Fenryr":8746786:Beast
+raid_events+=/pull,pull=14,bloodlust=0,delay=010,mark_duration=13,enemies="Ebonclaw_Worg_1":876134:Beast|"Ebonclaw_Worg_2":876134:Beast
+raid_events+=/pull,pull=15,bloodlust=0,delay=010,mark_duration=13,enemies="Ebonclaw_Worg_1":876134:Beast|"Ebonclaw_Worg_2":876134:Beast|"Ebonclaw_Worg_3":876134:Beast
+raid_events+=/pull,pull=16,bloodlust=0,delay=006,mark_duration=13,enemies="Steeljaw_Grizzly_1":1166138:Beast|"Steeljaw_Grizzly_2":1166138:Beast|"Steeljaw_Grizzly_3":1166138:Beast|"Steeljaw_Grizzly_4":1166138:Beast|"Steeljaw_Grizzly_5":1166138:Beast|"Steeljaw_Grizzly_6":1166138:Beast|"Steeljaw_Grizzly_7":1166138:Beast
+raid_events+=/pull,pull=17,bloodlust=0,delay=008,mark_duration=13,enemies="Angerhoof_Bull_1":1070831:Beast|"Angerhoof_Bull_2":1070831:Beast|"Angerhoof_Bull_3":1070831:Beast|"Angerhoof_Bull_4":1070831:Beast|"Angerhoof_Bull_5":1070831:Beast
+raid_events+=/pull,pull=18,bloodlust=0,delay=006,mark_duration=13,enemies="King_Tor_1":2920448:Humanoid|"King_Ranulf_1":2531055:Humanoid|"King_Haldor_1":2433707:Humanoid|"King_Bjorn_1":2531055:Humanoid
+raid_events+=/pull,pull=19,bloodlust=0,delay=015,mark_duration=13,enemies="BOSS_God-King_Skovald":8843973:Humanoid
+raid_events+=/pull,pull=20,bloodlust=0,delay=007,mark_duration=13,enemies="BOSS_Odyn":6803055:Humanoid

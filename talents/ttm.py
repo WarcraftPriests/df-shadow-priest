@@ -16,6 +16,9 @@ if __name__ == '__main__':
             continue
 
         for line in data:
+            if 'Solved loadout ' not in line:
+                OUTPUT_FILE = OUTPUT_FILE + line
+                continue
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(

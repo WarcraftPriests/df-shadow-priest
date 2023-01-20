@@ -1,0 +1,36 @@
+# !Tvvttonmm0FpCRk25RRaxGdHDiah9qBJtjD9MWK6SB5c)2XsYXXoLz60All9K0tp7Qa13uTh76Mg)HE(2W0OQrEaYYvTNNmtZpD0OTw9Ng7NihxStFaTpmEr9(D(0D3fRYQAT67UV)60Iv)3FkvTDd99dNxm2)OAYoOAFtRFgDT9LUbe1(zT(xtMUppnmQ7uNuTN0xwgmysAGTZXnoGF9OzrJXDEzEwpAFAXyChvhm0UCYOFvBOG)T70BoVBWoTPW9L1vfSb3VUnv(n0E2KGCJBpx(7f6(EvtU3rj5yo6MdqCBjguzahBihfpIDwKBuIchYTNpPykR1i6ufNNcUG6)TYt49eDredmxRc6toTTGwuslQOfWbAvndnbt2)dlWxLscnGBDOKWdacqqWiMticvbabwBe6J6KwTg5x)PBTv)jSTwlL8eAGOYIiW8BJPpm6Q4gzTsktGsYrxUJsrY3Xmj0oH2AGoPC64c1iRPOkM4eveXjpqeNKhlcEqi4jHOMioroNOAksiwQaz70sewmuQyXAnsBwFXVvFSgoGcxs1rcdugSnjl4bzMxKqvfvqRiEeyggYJO4T6CT2liBIOH4(RvGmEcdfPuoi2nvP5sGl42a1IOKSKf8(gHVEcsUtQzjPNGPKU)geW373AjzORTb77uTBbvMmT2cQiHpKj8HmaRLAMneE4AWHaGLQh15q9oARs9OCoBNCMcAVcodsCYgEw9JlJx0tJ078c8vE9l4l0UNRVPn6Zw8pp8rs3UNh6TFPV)M2sV)6PPO3Z8WpD6Ql6BKH2LHov71Rd3FE(7lM3ENZM6Fd
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=1800
+enemy="Court of Stars 20 Tyrannical"
+enemy_health=999999
+keystone_level=20
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=008,mark_duration=13,enemies="Duskwatch_Sentry_1":243538:Humanoid|"Bound_Energy_1":584494:Elemental|"Bound_Energy_2":584494:Elemental|"Duskwatch_Guard_1":974157:Humanoid|"Duskwatch_Guard_2":974157:Humanoid|"Duskwatch_Guard_3":974157:Humanoid|"Duskwatch_Guard_4":974157:Humanoid|"Duskwatch_Arcanist_1":779325:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=007,mark_duration=13,enemies="Mana_Saber_1":292248:Beast|"Mana_Saber_2":292248:Beast|"Duskwatch_Sentry_1":243538:Humanoid|"Mana_Wyrm_1":194831:Beast|"Mana_Wyrm_2":194831:Beast|"Duskwatch_Guard_1":974157:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,mark_duration=13,enemies="Guardian_Construct_1":1558651:Mechanical|"Mana_Wyrm_1":194831:Beast|"Mana_Wyrm_2":194831:Beast|"Mana_Wyrm_3":194831:Beast|"Mana_Wyrm_4":194831:Beast|"Mana_Wyrm_5":194831:Beast|"Mana_Wyrm_6":194831:Beast|"Mana_Wyrm_7":194831:Beast|"Mana_Wyrm_8":194831:Beast
+raid_events+=/pull,pull=04,bloodlust=0,delay=014,mark_duration=13,enemies="Duskwatch_Sentry_1":243538:Humanoid|"Mana_Wyrm_1":194831:Beast|"Mana_Wyrm_2":194831:Beast|"Mana_Wyrm_3":194831:Beast|"Mana_Wyrm_4":194831:Beast|"Mana_Wyrm_5":194831:Beast|"Mana_Wyrm_6":194831:Beast|"Mana_Wyrm_7":194831:Beast|"Mana_Wyrm_8":194831:Beast|"Guardian_Construct_1":1558651:Mechanical|"Duskwatch_Guard_1":974157:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=012,mark_duration=13,enemies="Duskwatch_Sentry_1":243538:Humanoid|"Duskwatch_Guard_1":974157:Humanoid|"Mana_Saber_1":292248:Beast
+raid_events+=/pull,pull=06,bloodlust=0,delay=010,mark_duration=13,enemies="Bound_Energy_1":584494:Elemental|"Guardian_Construct_1":1558651:Mechanical|"Duskwatch_Guard_1":974157:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=014,mark_duration=13,enemies="BOSS_Patrol_Captain_Gerdo":8889739:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=005,mark_duration=13,enemies="Duskwatch_Guard_1":974157:Humanoid|"Guardian_Construct_1":1558651:Mechanical|"Mana_Wyrm_1":194831:Beast|"Mana_Wyrm_2":194831:Beast|"Mana_Wyrm_3":194831:Beast|"Mana_Wyrm_4":194831:Beast|"Mana_Wyrm_5":194831:Beast|"Mana_Wyrm_6":194831:Beast|"Mana_Wyrm_7":194831:Beast
+raid_events+=/pull,pull=09,bloodlust=0,delay=015,mark_duration=13,enemies="Watchful_Inquisitor_1":974157:Demon|"Blazing_Imp_1":194831:Demon|"Blazing_Imp_2":194831:Demon|"Blazing_Imp_3":194831:Demon|"Blazing_Imp_4":194831:Demon
+raid_events+=/pull,pull=10,bloodlust=0,delay=010,mark_duration=13,enemies="Blazing_Imp_1":194831:Demon|"Blazing_Imp_2":194831:Demon|"Blazing_Imp_3":194831:Demon|"Blazing_Imp_4":194831:Demon|"Blazing_Imp_5":194831:Demon|"Blazing_Imp_6":194831:Demon|"Blazing_Imp_7":194831:Demon|"Blazing_Imp_8":194831:Demon
+raid_events+=/pull,pull=11,bloodlust=0,delay=006,mark_duration=13,enemies="Felbound_Enforcer_1":1753483:Demon
+raid_events+=/pull,pull=12,bloodlust=0,delay=008,mark_duration=13,enemies="Watchful_Inquisitor_1":974157:Demon|"Shadow_Mistress_1":876743:Demon|"Legion_Hound_1":389663:Demon|"Imacu'tya_1":2727640:Demon
+raid_events+=/pull,pull=13,bloodlust=0,delay=012,mark_duration=13,enemies="Blazing_Imp_1":194831:Demon|"Blazing_Imp_2":194831:Demon|"Blazing_Imp_3":194831:Demon|"Blazing_Imp_4":194831:Demon|"Blazing_Imp_5":194831:Demon|"Blazing_Imp_6":194831:Demon|"Blazing_Imp_7":194831:Demon|"Blazing_Imp_8":194831:Demon
+raid_events+=/pull,pull=14,bloodlust=0,delay=005,mark_duration=13,enemies="Felbound_Enforcer_1":1753483:Demon
+raid_events+=/pull,pull=15,bloodlust=0,delay=006,mark_duration=13,enemies="Baalgar_the_Watchful_1":2532810:Demon
+raid_events+=/pull,pull=16,bloodlust=0,delay=013,mark_duration=13,enemies="Watchful_Inquisitor_1":974157:Demon|"Shadow_Mistress_1":876743:Demon|"Jazshariu_1":5844945:Demon
+raid_events+=/pull,pull=17,bloodlust=0,delay=013,mark_duration=13,enemies="BOSS_Talixae_Flamewreath":6349814:Demon
+raid_events+=/pull,pull=18,bloodlust=0,delay=010,mark_duration=13,enemies="Gerenth_the_Vile_1":1285887:Humanoid
+raid_events+=/pull,pull=19,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Advisor_Melandrus":8889739:Humanoid
