@@ -1,0 +1,34 @@
+# temple-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|70663|5.46%|
+|Phial_of_Charged_Isolation_3|70543|5.28%|
+|Phial_of_Static_Empowerment_2|70272|4.87%|
+|Phial_of_Charged_Isolation_2|70176|4.73%|
+|Phial_of_Static_Empowerment_1|69899|4.32%|
+|Phial_of_Charged_Isolation_1|69791|4.16%|
+|Phial_of_Tepid_Versatility_3|69191|3.26%|
+|Iced_Phial_of_Corrupting_Rage_3|69175|3.24%|
+|Iced_Phial_of_Corrupting_Rage_2|69026|3.01%|
+|Phial_of_Tepid_Versatility_2|69020|3.01%|
+|Phial_of_Elemental_Chaos_3|68966|2.93%|
+|Phial_of_Tepid_Versatility_1|68858|2.76%|
+|Iced_Phial_of_Corrupting_Rage_1|68854|2.76%|
+|Phial_of_Elemental_Chaos_2|68817|2.70%|
+|Phial_of_Elemental_Chaos_1|68653|2.46%|
+|Phial_of_Glacial_Fury_3|68638|2.44%|
+|Phial_of_Glacial_Fury_2|68405|2.09%|
+|Phial_of_Glacial_Fury_1|68179|1.75%|
+|Elemental_Potion_of_Ultimate_Power_3|67523|0.77%|
+|Bottled_Putrescence_3|67494|0.73%|
+|Potion_of_Shocking_Disclosure_3|67487|0.72%|
+|Elemental_Potion_of_Ultimate_Power_2|67469|0.69%|
+|Elemental_Potion_of_Ultimate_Power_1|67432|0.64%|
+|Potion_of_Shocking_Disclosure_2|67419|0.62%|
+|Bottled_Putrescence_2|67407|0.60%|
+|Elemental_Potion_of_Power_3|67394|0.58%|
+|Bottled_Putrescence_1|67361|0.53%|
+|Elemental_Potion_of_Power_2|67352|0.52%|
+|Potion_of_Shocking_Disclosure_1|67338|0.50%|
+|Elemental_Potion_of_Power_1|67297|0.43%|
+|Base|67006|0.00%|

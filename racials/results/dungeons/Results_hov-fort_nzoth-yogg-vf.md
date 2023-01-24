@@ -1,0 +1,34 @@
+# hov-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|82614|1.18%|
+|Draenei|82589|1.15%|
+|Night_Elf_Haste|82576|1.13%|
+|Goblin|82554|1.11%|
+|Human|82552|1.10%|
+|Void_Elf|82418|0.94%|
+|Nightborne|82413|0.93%|
+|Kul_Tiran|82395|0.91%|
+|Highmountain_Tauren|82379|0.89%|
+|Zandalari_Troll_Paku|82351|0.86%|
+|Worgen|82328|0.83%|
+|Night_Elf_Crit|82322|0.82%|
+|Panda_Fortune_Cookie|82279|0.77%|
+|Blood_Elf|82260|0.75%|
+|Dwarf|82046|0.48%|
+|Tauren|82027|0.46%|
+|Mechagnome|81961|0.38%|
+|Lightforged_Draenei|81860|0.26%|
+|Panda_Mastery|81844|0.24%|
+|Panda_Haste|81828|0.22%|
+|Undead|81805|0.19%|
+|Zandalari_Troll_Bwonsamdi|81796|0.18%|
+|Panda_Vers|81793|0.18%|
+|Zandalari_Troll_Kimbul|81786|0.17%|
+|Panda_Crit|81753|0.13%|
+|Vulpera|81669|0.02%|
+|Orc|81667|0.02%|
+|Base|81650|0.00%|
+|Maghar_Orc|81648|0.00%|
+|Dark_Iron_Dwarf|81635|-0.02%|
+|Troll|81618|-0.04%|

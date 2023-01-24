@@ -1,0 +1,34 @@
+# algethar-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|97402|5.73%|
+|Phial_of_Charged_Isolation_3|97220|5.54%|
+|Phial_of_Static_Empowerment_2|96805|5.09%|
+|Phial_of_Charged_Isolation_2|96693|4.96%|
+|Phial_of_Static_Empowerment_1|96302|4.54%|
+|Phial_of_Charged_Isolation_1|96185|4.41%|
+|Iced_Phial_of_Corrupting_Rage_3|95292|3.44%|
+|Phial_of_Tepid_Versatility_3|95245|3.39%|
+|Iced_Phial_of_Corrupting_Rage_2|95087|3.22%|
+|Phial_of_Tepid_Versatility_2|95052|3.18%|
+|Phial_of_Elemental_Chaos_3|95049|3.18%|
+|Phial_of_Tepid_Versatility_1|94871|2.99%|
+|Phial_of_Elemental_Chaos_2|94852|2.97%|
+|Iced_Phial_of_Corrupting_Rage_1|94844|2.96%|
+|Phial_of_Elemental_Chaos_1|94631|2.73%|
+|Phial_of_Glacial_Fury_3|94372|2.44%|
+|Phial_of_Glacial_Fury_2|94076|2.12%|
+|Phial_of_Glacial_Fury_1|93793|1.82%|
+|Bottled_Putrescence_3|92939|0.89%|
+|Elemental_Potion_of_Ultimate_Power_3|92926|0.87%|
+|Potion_of_Shocking_Disclosure_3|92916|0.86%|
+|Potion_of_Shocking_Disclosure_2|92816|0.76%|
+|Elemental_Potion_of_Ultimate_Power_2|92800|0.74%|
+|Bottled_Putrescence_2|92791|0.73%|
+|Elemental_Potion_of_Ultimate_Power_1|92727|0.66%|
+|Elemental_Potion_of_Power_3|92713|0.64%|
+|Potion_of_Shocking_Disclosure_1|92701|0.63%|
+|Bottled_Putrescence_1|92700|0.63%|
+|Elemental_Potion_of_Power_2|92655|0.58%|
+|Elemental_Potion_of_Power_1|92615|0.54%|
+|Base|92120|0.00%|

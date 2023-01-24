@@ -1,0 +1,34 @@
+# algethar-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|87168|0.79%|
+|Human|87112|0.73%|
+|Gnome|87105|0.72%|
+|Night_Elf_Haste|87089|0.70%|
+|Goblin|87071|0.68%|
+|Nightborne|87020|0.62%|
+|Highmountain_Tauren|86993|0.59%|
+|Void_Elf|86977|0.57%|
+|Blood_Elf|86949|0.54%|
+|Night_Elf_Crit|86946|0.53%|
+|Kul_Tiran|86937|0.52%|
+|Zandalari_Troll_Paku|86936|0.52%|
+|Worgen|86888|0.47%|
+|Panda_Fortune_Cookie|86877|0.45%|
+|Tauren|86746|0.30%|
+|Mechagnome|86735|0.29%|
+|Dwarf|86699|0.25%|
+|Lightforged_Draenei|86630|0.17%|
+|Undead|86624|0.16%|
+|Panda_Haste|86621|0.16%|
+|Zandalari_Troll_Kimbul|86620|0.16%|
+|Zandalari_Troll_Bwonsamdi|86604|0.14%|
+|Panda_Mastery|86592|0.12%|
+|Panda_Crit|86581|0.11%|
+|Panda_Vers|86545|0.07%|
+|Orc|86524|0.05%|
+|Base|86484|0.00%|
+|Dark_Iron_Dwarf|86468|-0.02%|
+|Troll|86468|-0.02%|
+|Maghar_Orc|86466|-0.02%|
+|Vulpera|86464|-0.02%|

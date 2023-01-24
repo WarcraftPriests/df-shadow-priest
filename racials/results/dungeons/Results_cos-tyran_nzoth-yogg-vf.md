@@ -1,0 +1,34 @@
+# cos-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|62824|0.96%|
+|Night_Elf_Haste|62783|0.89%|
+|Goblin|62780|0.89%|
+|Draenei|62761|0.86%|
+|Human|62755|0.85%|
+|Nightborne|62689|0.74%|
+|Void_Elf|62655|0.69%|
+|Kul_Tiran|62651|0.68%|
+|Highmountain_Tauren|62625|0.64%|
+|Blood_Elf|62610|0.62%|
+|Night_Elf_Crit|62597|0.59%|
+|Zandalari_Troll_Paku|62589|0.58%|
+|Worgen|62569|0.55%|
+|Panda_Fortune_Cookie|62564|0.54%|
+|Dwarf|62435|0.33%|
+|Tauren|62414|0.30%|
+|Mechagnome|62390|0.26%|
+|Zandalari_Troll_Bwonsamdi|62376|0.24%|
+|Zandalari_Troll_Kimbul|62362|0.22%|
+|Panda_Haste|62357|0.21%|
+|Panda_Mastery|62327|0.16%|
+|Undead|62327|0.16%|
+|Lightforged_Draenei|62300|0.12%|
+|Panda_Vers|62296|0.11%|
+|Panda_Crit|62252|0.04%|
+|Maghar_Orc|62245|0.03%|
+|Base|62227|0.00%|
+|Vulpera|62223|-0.01%|
+|Orc|62213|-0.02%|
+|Dark_Iron_Dwarf|62204|-0.04%|
+|Troll|62182|-0.07%|

@@ -1,0 +1,34 @@
+# smbg-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|68493|0.90%|
+|Human|68476|0.87%|
+|Draenei|68455|0.84%|
+|Gnome|68453|0.84%|
+|Night_Elf_Haste|68438|0.81%|
+|Highmountain_Tauren|68353|0.69%|
+|Nightborne|68346|0.68%|
+|Void_Elf|68328|0.65%|
+|Kul_Tiran|68320|0.64%|
+|Night_Elf_Crit|68313|0.63%|
+|Zandalari_Troll_Paku|68298|0.61%|
+|Panda_Fortune_Cookie|68281|0.58%|
+|Blood_Elf|68273|0.57%|
+|Worgen|68266|0.56%|
+|Tauren|68127|0.36%|
+|Dwarf|68115|0.34%|
+|Mechagnome|68095|0.31%|
+|Lightforged_Draenei|68069|0.27%|
+|Undead|68028|0.21%|
+|Zandalari_Troll_Bwonsamdi|68022|0.20%|
+|Zandalari_Troll_Kimbul|68001|0.17%|
+|Panda_Mastery|67995|0.16%|
+|Panda_Crit|67985|0.15%|
+|Panda_Haste|67980|0.14%|
+|Panda_Vers|67963|0.11%|
+|Orc|67915|0.04%|
+|Base|67885|0.00%|
+|Troll|67882|0.00%|
+|Maghar_Orc|67877|-0.01%|
+|Dark_Iron_Dwarf|67852|-0.05%|
+|Vulpera|67850|-0.05%|

@@ -1,0 +1,34 @@
+# smbg-tyran - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Night_Elf_Haste|69258|0.77%|
+|Draenei|69256|0.77%|
+|Goblin|69256|0.77%|
+|Gnome|69255|0.77%|
+|Human|69233|0.74%|
+|Kul_Tiran|69153|0.62%|
+|Highmountain_Tauren|69141|0.60%|
+|Nightborne|69101|0.55%|
+|Worgen|69097|0.54%|
+|Blood_Elf|69083|0.52%|
+|Void_Elf|69067|0.50%|
+|Zandalari_Troll_Paku|69061|0.49%|
+|Panda_Fortune_Cookie|69044|0.46%|
+|Night_Elf_Crit|69035|0.45%|
+|Dwarf|68939|0.31%|
+|Tauren|68915|0.28%|
+|Mechagnome|68908|0.26%|
+|Panda_Haste|68856|0.19%|
+|Zandalari_Troll_Kimbul|68856|0.19%|
+|Lightforged_Draenei|68829|0.15%|
+|Zandalari_Troll_Bwonsamdi|68824|0.14%|
+|Undead|68810|0.12%|
+|Panda_Vers|68790|0.09%|
+|Panda_Mastery|68771|0.07%|
+|Panda_Crit|68769|0.06%|
+|Orc|68758|0.05%|
+|Base|68726|0.00%|
+|Vulpera|68723|0.00%|
+|Troll|68703|-0.03%|
+|Dark_Iron_Dwarf|68683|-0.06%|
+|Maghar_Orc|68675|-0.07%|

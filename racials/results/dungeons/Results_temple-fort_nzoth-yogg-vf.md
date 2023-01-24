@@ -1,0 +1,34 @@
+# temple-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|70278|0.90%|
+|Gnome|70251|0.87%|
+|Draenei|70234|0.84%|
+|Night_Elf_Haste|70217|0.82%|
+|Human|70215|0.81%|
+|Highmountain_Tauren|70134|0.70%|
+|Nightborne|70126|0.69%|
+|Blood_Elf|70117|0.67%|
+|Kul_Tiran|70107|0.66%|
+|Void_Elf|70088|0.63%|
+|Night_Elf_Crit|70082|0.62%|
+|Zandalari_Troll_Paku|70074|0.61%|
+|Panda_Fortune_Cookie|70062|0.59%|
+|Worgen|70056|0.59%|
+|Tauren|69923|0.39%|
+|Dwarf|69907|0.37%|
+|Mechagnome|69881|0.33%|
+|Lightforged_Draenei|69833|0.27%|
+|Panda_Haste|69807|0.23%|
+|Zandalari_Troll_Kimbul|69802|0.22%|
+|Zandalari_Troll_Bwonsamdi|69784|0.20%|
+|Undead|69783|0.19%|
+|Panda_Mastery|69776|0.18%|
+|Panda_Crit|69764|0.17%|
+|Panda_Vers|69755|0.15%|
+|Vulpera|69685|0.05%|
+|Troll|69676|0.04%|
+|Maghar_Orc|69663|0.02%|
+|Base|69648|0.00%|
+|Dark_Iron_Dwarf|69642|-0.01%|
+|Orc|69637|-0.02%|

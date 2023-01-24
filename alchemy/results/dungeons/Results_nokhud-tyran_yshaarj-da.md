@@ -1,0 +1,34 @@
+# nokhud-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|85377|5.77%|
+|Phial_of_Charged_Isolation_3|85164|5.50%|
+|Phial_of_Static_Empowerment_2|84866|5.13%|
+|Phial_of_Charged_Isolation_2|84710|4.94%|
+|Phial_of_Static_Empowerment_1|84324|4.46%|
+|Phial_of_Charged_Isolation_1|84227|4.34%|
+|Phial_of_Tepid_Versatility_3|83311|3.21%|
+|Iced_Phial_of_Corrupting_Rage_3|83261|3.15%|
+|Phial_of_Elemental_Chaos_3|83111|2.96%|
+|Iced_Phial_of_Corrupting_Rage_2|83106|2.95%|
+|Phial_of_Tepid_Versatility_2|83105|2.95%|
+|Phial_of_Elemental_Chaos_2|82900|2.70%|
+|Phial_of_Tepid_Versatility_1|82897|2.69%|
+|Iced_Phial_of_Corrupting_Rage_1|82870|2.66%|
+|Phial_of_Elemental_Chaos_1|82744|2.50%|
+|Phial_of_Glacial_Fury_3|82575|2.30%|
+|Phial_of_Glacial_Fury_2|82285|1.94%|
+|Phial_of_Glacial_Fury_1|82057|1.65%|
+|Elemental_Potion_of_Ultimate_Power_1|80743|0.03%|
+|Bottled_Putrescence_3|80741|0.02%|
+|Elemental_Potion_of_Ultimate_Power_2|80732|0.01%|
+|Base|80722|0.00%|
+|Elemental_Potion_of_Ultimate_Power_3|80721|0.00%|
+|Potion_of_Shocking_Disclosure_2|80715|-0.01%|
+|Elemental_Potion_of_Power_3|80714|-0.01%|
+|Potion_of_Shocking_Disclosure_1|80712|-0.01%|
+|Elemental_Potion_of_Power_1|80706|-0.02%|
+|Bottled_Putrescence_1|80704|-0.02%|
+|Bottled_Putrescence_2|80703|-0.02%|
+|Potion_of_Shocking_Disclosure_3|80703|-0.02%|
+|Elemental_Potion_of_Power_2|80673|-0.06%|

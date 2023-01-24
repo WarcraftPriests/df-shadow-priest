@@ -1,0 +1,34 @@
+# 4T - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|150629|1.20%|
+|Draenei|150561|1.15%|
+|Gnome|150526|1.13%|
+|Night_Elf_Haste|150498|1.11%|
+|Blood_Elf|150490|1.11%|
+|Human|150450|1.08%|
+|Nightborne|150387|1.04%|
+|Night_Elf_Crit|150184|0.90%|
+|Highmountain_Tauren|150147|0.88%|
+|Zandalari_Troll_Paku|150125|0.86%|
+|Void_Elf|150116|0.86%|
+|Kul_Tiran|150110|0.85%|
+|Worgen|150066|0.82%|
+|Panda_Fortune_Cookie|150034|0.80%|
+|Lightforged_Draenei|149612|0.52%|
+|Dwarf|149604|0.51%|
+|Tauren|149572|0.49%|
+|Orc|149427|0.39%|
+|Mechagnome|149410|0.38%|
+|Troll|149324|0.32%|
+|Panda_Mastery|149234|0.26%|
+|Dark_Iron_Dwarf|149179|0.23%|
+|Panda_Crit|149118|0.19%|
+|Panda_Haste|149106|0.18%|
+|Zandalari_Troll_Bwonsamdi|149078|0.16%|
+|Maghar_Orc|149057|0.14%|
+|Panda_Vers|149048|0.14%|
+|Zandalari_Troll_Kimbul|149047|0.14%|
+|Undead|148991|0.10%|
+|Vulpera|148861|0.01%|
+|Base|148843|0.00%|

@@ -1,0 +1,34 @@
+# hov-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|75188|0.85%|
+|Human|75171|0.82%|
+|Gnome|75150|0.80%|
+|Goblin|75145|0.79%|
+|Night_Elf_Haste|75121|0.76%|
+|Nightborne|75077|0.70%|
+|Highmountain_Tauren|75046|0.66%|
+|Kul_Tiran|75043|0.65%|
+|Zandalari_Troll_Paku|75024|0.63%|
+|Void_Elf|75015|0.61%|
+|Night_Elf_Crit|74984|0.57%|
+|Blood_Elf|74981|0.57%|
+|Worgen|74975|0.56%|
+|Panda_Fortune_Cookie|74967|0.55%|
+|Dwarf|74850|0.39%|
+|Tauren|74823|0.36%|
+|Mechagnome|74787|0.31%|
+|Zandalari_Troll_Bwonsamdi|74730|0.23%|
+|Lightforged_Draenei|74707|0.20%|
+|Zandalari_Troll_Kimbul|74701|0.19%|
+|Panda_Haste|74699|0.19%|
+|Panda_Mastery|74699|0.19%|
+|Undead|74672|0.15%|
+|Panda_Vers|74644|0.12%|
+|Panda_Crit|74619|0.08%|
+|Vulpera|74613|0.08%|
+|Orc|74605|0.06%|
+|Dark_Iron_Dwarf|74572|0.02%|
+|Troll|74570|0.02%|
+|Base|74557|0.00%|
+|Maghar_Orc|74543|-0.02%|

@@ -1,0 +1,34 @@
+# rlp-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|80562|5.21%|
+|Phial_of_Charged_Isolation_3|80324|4.90%|
+|Phial_of_Static_Empowerment_2|79944|4.41%|
+|Phial_of_Charged_Isolation_2|79825|4.25%|
+|Phial_of_Static_Empowerment_1|79486|3.81%|
+|Phial_of_Charged_Isolation_1|79362|3.64%|
+|Iced_Phial_of_Corrupting_Rage_3|78601|2.65%|
+|Phial_of_Tepid_Versatility_3|78520|2.55%|
+|Iced_Phial_of_Corrupting_Rage_2|78406|2.40%|
+|Phial_of_Tepid_Versatility_2|78380|2.36%|
+|Phial_of_Elemental_Chaos_3|78361|2.34%|
+|Iced_Phial_of_Corrupting_Rage_1|78224|2.16%|
+|Phial_of_Elemental_Chaos_2|78220|2.15%|
+|Phial_of_Tepid_Versatility_1|78195|2.12%|
+|Phial_of_Elemental_Chaos_1|78077|1.97%|
+|Phial_of_Glacial_Fury_3|77940|1.79%|
+|Phial_of_Glacial_Fury_2|77678|1.45%|
+|Phial_of_Glacial_Fury_1|77538|1.26%|
+|Elemental_Potion_of_Ultimate_Power_2|76916|0.45%|
+|Elemental_Potion_of_Ultimate_Power_3|76890|0.42%|
+|Bottled_Putrescence_2|76852|0.37%|
+|Bottled_Putrescence_3|76847|0.36%|
+|Potion_of_Shocking_Disclosure_3|76822|0.33%|
+|Elemental_Potion_of_Power_3|76819|0.32%|
+|Elemental_Potion_of_Power_2|76812|0.31%|
+|Potion_of_Shocking_Disclosure_2|76810|0.31%|
+|Elemental_Potion_of_Ultimate_Power_1|76809|0.31%|
+|Bottled_Putrescence_1|76783|0.28%|
+|Elemental_Potion_of_Power_1|76758|0.24%|
+|Potion_of_Shocking_Disclosure_1|76757|0.24%|
+|Base|76571|0.00%|

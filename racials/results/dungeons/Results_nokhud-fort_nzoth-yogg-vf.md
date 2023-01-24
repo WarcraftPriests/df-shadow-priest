@@ -1,0 +1,34 @@
+# nokhud-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|92188|0.95%|
+|Draenei|92186|0.95%|
+|Goblin|92138|0.90%|
+|Night_Elf_Haste|92138|0.90%|
+|Human|92119|0.88%|
+|Highmountain_Tauren|92012|0.76%|
+|Nightborne|92002|0.75%|
+|Kul_Tiran|91998|0.75%|
+|Blood_Elf|91947|0.69%|
+|Zandalari_Troll_Paku|91939|0.68%|
+|Night_Elf_Crit|91923|0.66%|
+|Worgen|91921|0.66%|
+|Void_Elf|91919|0.66%|
+|Panda_Fortune_Cookie|91873|0.61%|
+|Dwarf|91708|0.43%|
+|Tauren|91637|0.35%|
+|Mechagnome|91618|0.33%|
+|Lightforged_Draenei|91573|0.28%|
+|Zandalari_Troll_Bwonsamdi|91520|0.22%|
+|Panda_Haste|91499|0.20%|
+|Zandalari_Troll_Kimbul|91489|0.19%|
+|Panda_Mastery|91473|0.17%|
+|Panda_Crit|91471|0.17%|
+|Panda_Vers|91429|0.12%|
+|Undead|91426|0.12%|
+|Orc|91352|0.04%|
+|Troll|91350|0.04%|
+|Dark_Iron_Dwarf|91324|0.01%|
+|Vulpera|91319|0.00%|
+|Base|91317|0.00%|
+|Maghar_Orc|91314|0.00%|

@@ -1,0 +1,34 @@
+# cos-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|66815|1.14%|
+|Gnome|66812|1.13%|
+|Goblin|66797|1.11%|
+|Human|66765|1.06%|
+|Night_Elf_Haste|66762|1.06%|
+|Nightborne|66665|0.91%|
+|Highmountain_Tauren|66653|0.89%|
+|Kul_Tiran|66632|0.86%|
+|Void_Elf|66595|0.80%|
+|Blood_Elf|66594|0.80%|
+|Night_Elf_Crit|66582|0.78%|
+|Worgen|66568|0.76%|
+|Zandalari_Troll_Paku|66562|0.75%|
+|Panda_Fortune_Cookie|66547|0.73%|
+|Tauren|66363|0.45%|
+|Dwarf|66338|0.41%|
+|Mechagnome|66332|0.41%|
+|Zandalari_Troll_Bwonsamdi|66256|0.29%|
+|Undead|66239|0.26%|
+|Panda_Mastery|66236|0.26%|
+|Zandalari_Troll_Kimbul|66235|0.26%|
+|Panda_Haste|66206|0.21%|
+|Lightforged_Draenei|66195|0.20%|
+|Panda_Vers|66187|0.19%|
+|Panda_Crit|66181|0.18%|
+|Orc|66084|0.03%|
+|Vulpera|66074|0.02%|
+|Base|66064|0.00%|
+|Maghar_Orc|66030|-0.05%|
+|Troll|66027|-0.06%|
+|Dark_Iron_Dwarf|66002|-0.09%|

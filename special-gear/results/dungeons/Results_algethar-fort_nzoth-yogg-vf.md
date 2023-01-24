@@ -1,0 +1,34 @@
+# algethar-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|99689|0.65%|
+|Chronocloth_Sash_Leggings_418|99478|0.44%|
+|Neck_Elemental_Lariat_3Earth_418|99442|0.40%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|99424|0.38%|
+|Azureweave_Mantle_Slippers_418|99402|0.36%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|99388|0.35%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|99381|0.34%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|99377|0.34%|
+|Shoulders_Amice_of_the_Blue_418|99329|0.29%|
+|Embellishment_Potion_Absorption_Inhibitor|99221|0.18%|
+|Finger2_Ring_Bound_Hourglass_418|99214|0.17%|
+|Chronocloth_Gloves_Sash_418|99210|0.17%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|99095|0.05%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|99093|0.05%|
+|Base|99045|0.00%|
+|Embellishment_Bronzed_Grip_Wrappings|99033|-0.01%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|98992|-0.05%|
+|Waist_Vibrant_Wildercloth_Girdle_418|98972|-0.07%|
+|Back_Vibrant_Wildercloth_Shawl_418|98962|-0.08%|
+|Legs_Vibrant_Wildercloth_Slacks_418|98895|-0.15%|
+|Feet_Vibrant_Wildercloth_Slippers_418|98835|-0.21%|
+|Azureweave_Robe_Slippers_418|98816|-0.23%|
+|Finger1_Ring_Bound_Hourglass_418|98810|-0.24%|
+|Feet_Blue_Dragon_Soles_418|98808|-0.24%|
+|2h_Illuminating_Pillar_of_the_Isles_418|98676|-0.37%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|98623|-0.43%|
+|Chest_Vibrant_Wildercloth_Vestments_418|98580|-0.47%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|98562|-0.49%|
+|Head_Hood_of_Surging_Time_418|98345|-0.71%|
+|Head_Vibrant_Wildercloth_Headcover_418|98024|-1.03%|
+|2h_Weathered_Explorers_Stave_418|97317|-1.74%|

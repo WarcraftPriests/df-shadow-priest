@@ -1,18 +1,18 @@
 # algethar-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|79387|0.76%|
-|Fated_Fortune_Cookie|79325|0.68%|
-|Revenge_Served_Cold|79225|0.55%|
-|Great_Cerulean_Sea|79214|0.54%|
-|Sizzling_Seafood_Medley|79186|0.50%|
-|Thousandbone_Tongueslicer|79185|0.50%|
-|Aromatic_Seafood_Platter|79162|0.47%|
-|Feisty_Fish_Sticks|79158|0.46%|
-|Filet_of_Fangs|79120|0.42%|
-|Seamoth_Surprise|79090|0.38%|
-|Salt_Baked_Fishcake|79085|0.37%|
-|Timely_Demise|79063|0.34%|
-|Roast_Duck_Delight|79018|0.29%|
-|Thrice_Spiced_Mammoth_Kabob|78951|0.20%|
-|Base|78792|0.00%|
+|Draconic_Augment_Rune|95223|0.50%|
+|Fated_Fortune_Cookie|95146|0.42%|
+|Sizzling_Seafood_Medley|95108|0.38%|
+|Aromatic_Seafood_Platter|95096|0.37%|
+|Timely_Demise|95075|0.35%|
+|Thousandbone_Tongueslicer|95072|0.35%|
+|Feisty_Fish_Sticks|95071|0.34%|
+|Great_Cerulean_Sea|95056|0.33%|
+|Revenge_Served_Cold|95052|0.32%|
+|Seamoth_Surprise|94979|0.25%|
+|Salt_Baked_Fishcake|94971|0.24%|
+|Filet_of_Fangs|94933|0.20%|
+|Roast_Duck_Delight|94887|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|94860|0.12%|
+|Base|94745|0.00%|

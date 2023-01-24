@@ -1,0 +1,34 @@
+# azure-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|76142|1.17%|
+|Draenei|76122|1.14%|
+|Gnome|76114|1.13%|
+|Night_Elf_Haste|76111|1.13%|
+|Human|76040|1.03%|
+|Highmountain_Tauren|75917|0.87%|
+|Kul_Tiran|75917|0.87%|
+|Nightborne|75863|0.80%|
+|Zandalari_Troll_Paku|75838|0.76%|
+|Blood_Elf|75810|0.73%|
+|Void_Elf|75804|0.72%|
+|Night_Elf_Crit|75799|0.71%|
+|Worgen|75788|0.70%|
+|Panda_Fortune_Cookie|75785|0.69%|
+|Tauren|75698|0.58%|
+|Dwarf|75654|0.52%|
+|Mechagnome|75522|0.34%|
+|Zandalari_Troll_Bwonsamdi|75478|0.29%|
+|Lightforged_Draenei|75454|0.25%|
+|Panda_Haste|75444|0.24%|
+|Undead|75441|0.24%|
+|Zandalari_Troll_Kimbul|75429|0.22%|
+|Panda_Mastery|75397|0.18%|
+|Panda_Vers|75390|0.17%|
+|Panda_Crit|75382|0.16%|
+|Orc|75358|0.13%|
+|Base|75263|0.00%|
+|Dark_Iron_Dwarf|75253|-0.01%|
+|Vulpera|75234|-0.04%|
+|Troll|75230|-0.04%|
+|Maghar_Orc|75227|-0.05%|

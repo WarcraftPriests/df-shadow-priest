@@ -1,0 +1,34 @@
+# !1r1YUTToq0FjrZhYABt30IlycmdAr3qCTSg5OwfPczQ00n9BVZmK6jCbKSmhEMdpZl6f(N9UZvv9DFbgU1035TQmXbT3DPVTF4PZTqiaFQRUNbog6FGS30D1)HDyQEh91h8Ua8o(7P(Xa8N)x6Dvn11nxgBd)2BpK5D)cGFqqDVw1qSwpaWl9TvFUVPdQ8LExjCDSPLoeRyzFAbs8BNBhbYVlJddqx4PX2wCR8zdUXYw4nanEW7(jU7neTvS6hCd6HOd)gnXCZbeEI1sOUEEx9kiwtAHuZCiP)IphOiYkLeARur4Ss8nh)GVhXp4Bb(bFfzuAMytntDstexRucPJcGqkxR)CgRHHFCDui3ffsyrXhxDgfSCjDO51MjAvmonJWerKJCMK6ISkOeeU1sMjKsuh)hHeY4Z7TUlRxxkHPC86maffOs2YlFI5Rqs4kiKITQ64o2iHpZ2gLPyQ1toT1uc3YPvuUrxQigE9YXXnsZLavbtNk20OInnQytJk20O0X6GHleQytJolvSeC4z1u3l5nIuqUtFr)1ukfjqtfxKbn(FCYWQPsjvx5MfX6EEY)9dfHusCkmolI1GPWWerRlI9ozCyy48K1eddtmmmXWWeddtQ3pplgg5IyyysHHrUrEtnkHvwv3v6YvZdk(r7V34m7WUzRfot9uc1UMkUmR32uXR3pomRN4Ow(MOXmBJSA2CgCJVDB0m1pLFVHbZg1eMV77JJDxH(U4LXg6Uy4v6Eu8s1BqlCjqxXNCLKIBOPo8yD9niW3sssinRNMNt83x(D07BSb3ytL391VPF5)E8b5PItOn)F)
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=1980
+enemy="Shadowmoon Burial Grounds 20 Tyrannical"
+enemy_health=999999
+keystone_level=20
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=014,mark_duration=13,enemies="Reanimated_Ritual_Bones_1":973767:Undead|"Reanimated_Ritual_Bones_2":973767:Undead|"Shadowmoon_Bone-Mender_1":1168520:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=013,mark_duration=13,enemies="Shadowmoon_Loyalist_1":1071144:Humanoid|"Corpse_Skitterling_1":146065:Beast|"Corpse_Skitterling_2":146065:Beast|"Corpse_Skitterling_3":146065:Beast|"Corpse_Skitterling_4":146065:Beast|"Corpse_Skitterling_5":146065:Beast|"Corpse_Skitterling_6":146065:Beast|"Corpse_Skitterling_7":146065:Beast|"Corpse_Skitterling_8":146065:Beast|"Corpse_Skitterling_9":146065:Beast|"Corpse_Skitterling_10":146065:Beast|"Defiled_Spirit_1":730326:Undead|"Defiled_Spirit_2":730326:Undead|"Defiled_Spirit_3":730326:Undead
+raid_events+=/pull,pull=03,bloodlust=0,delay=011,mark_duration=13,enemies="Reanimated_Ritual_Bones_1":973767:Undead|"Reanimated_Ritual_Bones_2":973767:Undead|"Reanimated_Ritual_Bones_3":973767:Undead|"Shadowmoon_Bone-Mender_1":1168520:Humanoid|"Corpse_Skitterling_1":146065:Beast|"Corpse_Skitterling_2":146065:Beast|"Corpse_Skitterling_3":146065:Beast|"Corpse_Skitterling_4":146065:Beast|"Corpse_Skitterling_5":146065:Beast|"Corpse_Skitterling_6":146065:Beast|"Corpse_Skitterling_7":146065:Beast|"Corpse_Skitterling_8":146065:Beast|"Corpse_Skitterling_9":146065:Beast|"Corpse_Skitterling_10":146065:Beast
+raid_events+=/pull,pull=04,bloodlust=0,delay=007,mark_duration=13,enemies="BOSS_Sadana_Bloodfury":7983053:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=013,mark_duration=13,enemies="Shadowmoon_Dominator_1":925079:Humanoid|"Shadowmoon_Dominator_2":925079:Humanoid|"Shadowmoon_Dominator_3":925079:Humanoid|"Subjugated_Soul_1":1558027:Undead|"Subjugated_Soul_2":1558027:Undead|"Subjugated_Soul_3":1558027:Undead
+raid_events+=/pull,pull=06,bloodlust=0,delay=008,mark_duration=13,enemies="Shadowmoon_Exhumer_1":1363274:Humanoid|"Shadowmoon_Exhumer_2":1363274:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=006,mark_duration=13,enemies="BOSS_Nhallish":8109766:Undead
+raid_events+=/pull,pull=08,bloodlust=0,delay=008,mark_duration=13,enemies="Shadowmoon_Exhumer_1":1363274:Humanoid|"Subjugated_Soul_1":1558027:Undead|"Subjugated_Soul_2":1558027:Undead|"Shadowmoon_Dominator_1":925079:Humanoid|"Shadowmoon_Dominator_2":925079:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=013,mark_duration=13,enemies="Shadowmoon_Exhumer_1":1363274:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=009,mark_duration=13,enemies="Corpse_Skitterling_1":146065:Beast|"Corpse_Skitterling_2":146065:Beast|"Corpse_Skitterling_3":146065:Beast|"Corpse_Skitterling_4":146065:Beast|"Corpse_Skitterling_5":146065:Beast|"Corpse_Skitterling_6":146065:Beast|"Corpse_Skitterling_7":146065:Beast|"Corpse_Skitterling_8":146065:Beast|"Corpse_Skitterling_9":146065:Beast|"Corpse_Skitterling_10":146065:Beast|"Corpse_Skitterling_11":146065:Beast|"Corpse_Skitterling_12":146065:Beast|"Corpse_Skitterling_13":146065:Beast|"Corpse_Skitterling_14":146065:Beast|"Corpse_Skitterling_15":146065:Beast|"Corpse_Skitterling_16":146065:Beast|"Corpse_Skitterling_17":146065:Beast|"Corpse_Skitterling_18":146065:Beast|"Monstrous_Corpse_Spider_1":973767:Beast|"Plagued_Bat_1":779014:Beast|"Plagued_Bat_2":779014:Beast
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,mark_duration=13,enemies="Corpse_Skitterling_1":146065:Beast|"Corpse_Skitterling_2":146065:Beast|"Corpse_Skitterling_3":146065:Beast|"Corpse_Skitterling_4":146065:Beast|"Corpse_Skitterling_5":146065:Beast|"Corpse_Skitterling_6":146065:Beast|"Corpse_Skitterling_7":146065:Beast|"Corpse_Skitterling_8":146065:Beast|"Corpse_Skitterling_9":146065:Beast|"Corpse_Skitterling_10":146065:Beast|"Corpse_Skitterling_11":146065:Beast|"Corpse_Skitterling_12":146065:Beast|"Corpse_Skitterling_13":146065:Beast|"Monstrous_Corpse_Spider_1":973767:Beast|"Monstrous_Corpse_Spider_2":973767:Beast
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,mark_duration=13,enemies="Carrion_Worm_1":2337041:Beast|"Plagued_Bat_1":779014:Beast|"Plagued_Bat_2":779014:Beast|"Plagued_Bat_3":779014:Beast|"Plagued_Bat_4":779014:Beast
+raid_events+=/pull,pull=13,bloodlust=0,delay=006,mark_duration=13,enemies="Carrion_Worm_1":2337041:Beast
+raid_events+=/pull,pull=14,bloodlust=0,delay=006,mark_duration=13,enemies="BOSS_Bonemaw":8870058:Beast
+raid_events+=/pull,pull=15,bloodlust=0,delay=009,mark_duration=13,enemies="Plagued_Bat_1":779014:Beast|"Plagued_Bat_2":779014:Beast|"Monstrous_Corpse_Spider_1":973767:Beast|"Monstrous_Corpse_Spider_2":973767:Beast
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,mark_duration=13,enemies="Void_Spawn_1":1558027:Aberration|"Void_Spawn_2":1558027:Aberration
+raid_events+=/pull,pull=17,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Ner'zhul":9630349:Humanoid

@@ -1,0 +1,34 @@
+# nokhud-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|84264|1.13%|
+|Gnome|84255|1.12%|
+|Night_Elf_Haste|84236|1.09%|
+|Draenei|84210|1.06%|
+|Human|84201|1.05%|
+|Highmountain_Tauren|84024|0.84%|
+|Kul_Tiran|84015|0.83%|
+|Nightborne|83997|0.81%|
+|Blood_Elf|83968|0.77%|
+|Night_Elf_Crit|83946|0.75%|
+|Panda_Fortune_Cookie|83946|0.75%|
+|Zandalari_Troll_Paku|83936|0.73%|
+|Worgen|83931|0.73%|
+|Void_Elf|83911|0.70%|
+|Tauren|83816|0.59%|
+|Dwarf|83811|0.58%|
+|Mechagnome|83661|0.40%|
+|Lightforged_Draenei|83573|0.30%|
+|Panda_Haste|83553|0.27%|
+|Zandalari_Troll_Bwonsamdi|83547|0.27%|
+|Zandalari_Troll_Kimbul|83522|0.24%|
+|Undead|83492|0.20%|
+|Panda_Crit|83458|0.16%|
+|Panda_Mastery|83454|0.15%|
+|Orc|83447|0.15%|
+|Panda_Vers|83436|0.13%|
+|Vulpera|83350|0.03%|
+|Troll|83347|0.03%|
+|Maghar_Orc|83334|0.01%|
+|Dark_Iron_Dwarf|83332|0.01%|
+|Base|83325|0.00%|

@@ -1,0 +1,34 @@
+# temple-tyran - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|66389|1.01%|
+|Goblin|66360|0.96%|
+|Night_Elf_Haste|66343|0.94%|
+|Draenei|66287|0.85%|
+|Human|66287|0.85%|
+|Nightborne|66204|0.72%|
+|Kul_Tiran|66166|0.67%|
+|Night_Elf_Crit|66163|0.66%|
+|Zandalari_Troll_Paku|66158|0.65%|
+|Highmountain_Tauren|66157|0.65%|
+|Blood_Elf|66155|0.65%|
+|Void_Elf|66148|0.64%|
+|Worgen|66095|0.56%|
+|Panda_Fortune_Cookie|66071|0.52%|
+|Dwarf|66022|0.45%|
+|Tauren|65956|0.35%|
+|Mechagnome|65945|0.33%|
+|Panda_Mastery|65911|0.28%|
+|Zandalari_Troll_Bwonsamdi|65905|0.27%|
+|Panda_Haste|65895|0.25%|
+|Undead|65880|0.23%|
+|Lightforged_Draenei|65879|0.23%|
+|Zandalari_Troll_Kimbul|65862|0.20%|
+|Panda_Vers|65844|0.18%|
+|Panda_Crit|65843|0.17%|
+|Orc|65814|0.13%|
+|Troll|65769|0.06%|
+|Vulpera|65756|0.04%|
+|Maghar_Orc|65747|0.03%|
+|Dark_Iron_Dwarf|65740|0.02%|
+|Base|65728|0.00%|

@@ -1,0 +1,34 @@
+# algethar-tyran - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|87370|0.65%|
+|Goblin|87366|0.65%|
+|Human|87358|0.64%|
+|Night_Elf_Haste|87339|0.62%|
+|Gnome|87336|0.61%|
+|Highmountain_Tauren|87209|0.47%|
+|Nightborne|87197|0.45%|
+|Kul_Tiran|87183|0.44%|
+|Blood_Elf|87174|0.43%|
+|Panda_Fortune_Cookie|87173|0.43%|
+|Night_Elf_Crit|87170|0.42%|
+|Zandalari_Troll_Paku|87163|0.41%|
+|Void_Elf|87149|0.40%|
+|Worgen|87120|0.36%|
+|Tauren|87035|0.27%|
+|Dwarf|87028|0.26%|
+|Mechagnome|86994|0.22%|
+|Undead|86922|0.14%|
+|Panda_Haste|86916|0.13%|
+|Zandalari_Troll_Bwonsamdi|86901|0.11%|
+|Panda_Mastery|86895|0.10%|
+|Lightforged_Draenei|86892|0.10%|
+|Zandalari_Troll_Kimbul|86876|0.08%|
+|Panda_Crit|86869|0.07%|
+|Panda_Vers|86860|0.06%|
+|Orc|86851|0.05%|
+|Vulpera|86816|0.01%|
+|Base|86804|0.00%|
+|Dark_Iron_Dwarf|86790|-0.02%|
+|Maghar_Orc|86780|-0.03%|
+|Troll|86766|-0.04%|

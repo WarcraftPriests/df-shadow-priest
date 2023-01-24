@@ -1,7 +1,7 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-AoE.simc", "DA-AoE.simc"]
+    profiles = ["VF-ST.simc", "DA-ST.simc", "VF-AoE.simc", "DA-AoE.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
@@ -16,6 +16,9 @@ if __name__ == '__main__':
             continue
 
         for line in data:
+            if 'Solved loadout ' not in line:
+                OUTPUT_FILE = OUTPUT_FILE + line
+                continue
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(

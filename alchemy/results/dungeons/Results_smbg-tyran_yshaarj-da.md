@@ -1,0 +1,34 @@
+# smbg-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|70635|4.58%|
+|Phial_of_Charged_Isolation_3|70515|4.41%|
+|Phial_of_Static_Empowerment_2|70218|3.97%|
+|Phial_of_Charged_Isolation_2|70111|3.81%|
+|Phial_of_Static_Empowerment_1|69836|3.40%|
+|Phial_of_Charged_Isolation_1|69715|3.22%|
+|Iced_Phial_of_Corrupting_Rage_3|69171|2.42%|
+|Phial_of_Tepid_Versatility_3|69168|2.41%|
+|Phial_of_Elemental_Chaos_3|69076|2.28%|
+|Phial_of_Tepid_Versatility_2|69051|2.24%|
+|Iced_Phial_of_Corrupting_Rage_2|69004|2.17%|
+|Phial_of_Tepid_Versatility_1|68948|2.09%|
+|Phial_of_Elemental_Chaos_2|68940|2.07%|
+|Iced_Phial_of_Corrupting_Rage_1|68925|2.05%|
+|Phial_of_Elemental_Chaos_1|68824|1.90%|
+|Phial_of_Glacial_Fury_3|68818|1.89%|
+|Phial_of_Glacial_Fury_2|68649|1.64%|
+|Phial_of_Glacial_Fury_1|68471|1.38%|
+|Elemental_Potion_of_Power_2|67582|0.06%|
+|Elemental_Potion_of_Power_3|67569|0.04%|
+|Bottled_Putrescence_1|67560|0.03%|
+|Bottled_Putrescence_3|67560|0.03%|
+|Elemental_Potion_of_Power_1|67559|0.03%|
+|Elemental_Potion_of_Ultimate_Power_2|67558|0.03%|
+|Bottled_Putrescence_2|67553|0.02%|
+|Potion_of_Shocking_Disclosure_2|67552|0.02%|
+|Elemental_Potion_of_Ultimate_Power_3|67548|0.01%|
+|Elemental_Potion_of_Ultimate_Power_1|67547|0.01%|
+|Potion_of_Shocking_Disclosure_3|67546|0.01%|
+|Potion_of_Shocking_Disclosure_1|67540|0.00%|
+|Base|67539|0.00%|

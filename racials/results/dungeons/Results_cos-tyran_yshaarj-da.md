@@ -1,0 +1,34 @@
+# cos-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|62671|0.80%|
+|Goblin|62644|0.76%|
+|Gnome|62641|0.75%|
+|Draenei|62621|0.72%|
+|Night_Elf_Haste|62621|0.72%|
+|Highmountain_Tauren|62551|0.61%|
+|Nightborne|62549|0.60%|
+|Kul_Tiran|62545|0.60%|
+|Void_Elf|62506|0.53%|
+|Zandalari_Troll_Paku|62506|0.53%|
+|Night_Elf_Crit|62496|0.52%|
+|Worgen|62493|0.51%|
+|Blood_Elf|62477|0.49%|
+|Panda_Fortune_Cookie|62475|0.48%|
+|Dwarf|62415|0.39%|
+|Tauren|62400|0.36%|
+|Mechagnome|62324|0.24%|
+|Zandalari_Troll_Bwonsamdi|62300|0.20%|
+|Zandalari_Troll_Kimbul|62283|0.18%|
+|Undead|62277|0.17%|
+|Panda_Haste|62270|0.15%|
+|Lightforged_Draenei|62259|0.14%|
+|Panda_Mastery|62233|0.09%|
+|Panda_Vers|62228|0.09%|
+|Orc|62207|0.05%|
+|Panda_Crit|62207|0.05%|
+|Base|62174|0.00%|
+|Vulpera|62163|-0.02%|
+|Dark_Iron_Dwarf|62154|-0.03%|
+|Maghar_Orc|62145|-0.05%|
+|Troll|62117|-0.09%|

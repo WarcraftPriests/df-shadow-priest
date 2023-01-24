@@ -1,0 +1,34 @@
+# cos-fort - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|67302|5.66%|
+|Phial_of_Charged_Isolation_3|67207|5.51%|
+|Phial_of_Static_Empowerment_2|66812|4.89%|
+|Phial_of_Charged_Isolation_2|66723|4.75%|
+|Phial_of_Static_Empowerment_1|66358|4.18%|
+|Phial_of_Charged_Isolation_1|66262|4.03%|
+|Iced_Phial_of_Corrupting_Rage_3|65627|3.03%|
+|Phial_of_Tepid_Versatility_3|65612|3.01%|
+|Phial_of_Tepid_Versatility_2|65466|2.78%|
+|Phial_of_Elemental_Chaos_3|65437|2.73%|
+|Iced_Phial_of_Corrupting_Rage_2|65436|2.73%|
+|Phial_of_Elemental_Chaos_2|65309|2.53%|
+|Phial_of_Tepid_Versatility_1|65297|2.51%|
+|Iced_Phial_of_Corrupting_Rage_1|65292|2.50%|
+|Phial_of_Elemental_Chaos_1|65164|2.30%|
+|Phial_of_Glacial_Fury_3|65118|2.23%|
+|Phial_of_Glacial_Fury_2|64917|1.92%|
+|Phial_of_Glacial_Fury_1|64712|1.59%|
+|Elemental_Potion_of_Ultimate_Power_3|64079|0.60%|
+|Bottled_Putrescence_3|64017|0.50%|
+|Elemental_Potion_of_Ultimate_Power_2|64002|0.48%|
+|Potion_of_Shocking_Disclosure_3|63997|0.47%|
+|Elemental_Potion_of_Power_3|63987|0.46%|
+|Elemental_Potion_of_Ultimate_Power_1|63974|0.43%|
+|Bottled_Putrescence_2|63971|0.43%|
+|Elemental_Potion_of_Power_2|63951|0.40%|
+|Potion_of_Shocking_Disclosure_2|63948|0.39%|
+|Bottled_Putrescence_1|63937|0.38%|
+|Potion_of_Shocking_Disclosure_1|63922|0.35%|
+|Elemental_Potion_of_Power_1|63912|0.34%|
+|Base|63697|0.00%|

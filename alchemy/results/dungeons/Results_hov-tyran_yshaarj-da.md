@@ -1,0 +1,34 @@
+# hov-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|76741|5.20%|
+|Phial_of_Charged_Isolation_3|76588|4.99%|
+|Phial_of_Static_Empowerment_2|76295|4.59%|
+|Phial_of_Charged_Isolation_2|76149|4.39%|
+|Phial_of_Static_Empowerment_1|75867|4.00%|
+|Phial_of_Charged_Isolation_1|75740|3.83%|
+|Phial_of_Tepid_Versatility_3|75061|2.90%|
+|Iced_Phial_of_Corrupting_Rage_3|75031|2.86%|
+|Phial_of_Tepid_Versatility_2|74883|2.66%|
+|Phial_of_Elemental_Chaos_3|74881|2.65%|
+|Iced_Phial_of_Corrupting_Rage_2|74858|2.62%|
+|Phial_of_Tepid_Versatility_1|74731|2.45%|
+|Phial_of_Elemental_Chaos_2|74717|2.43%|
+|Iced_Phial_of_Corrupting_Rage_1|74709|2.42%|
+|Phial_of_Elemental_Chaos_1|74564|2.22%|
+|Phial_of_Glacial_Fury_3|74488|2.11%|
+|Phial_of_Glacial_Fury_2|74277|1.82%|
+|Phial_of_Glacial_Fury_1|74132|1.63%|
+|Elemental_Potion_of_Ultimate_Power_2|72947|0.00%|
+|Base|72946|0.00%|
+|Elemental_Potion_of_Power_2|72944|0.00%|
+|Elemental_Potion_of_Ultimate_Power_1|72943|0.00%|
+|Bottled_Putrescence_1|72930|-0.02%|
+|Bottled_Putrescence_3|72930|-0.02%|
+|Elemental_Potion_of_Power_3|72927|-0.03%|
+|Elemental_Potion_of_Ultimate_Power_3|72926|-0.03%|
+|Potion_of_Shocking_Disclosure_2|72926|-0.03%|
+|Potion_of_Shocking_Disclosure_1|72924|-0.03%|
+|Elemental_Potion_of_Power_1|72921|-0.03%|
+|Bottled_Putrescence_2|72917|-0.04%|
+|Potion_of_Shocking_Disclosure_3|72904|-0.06%|

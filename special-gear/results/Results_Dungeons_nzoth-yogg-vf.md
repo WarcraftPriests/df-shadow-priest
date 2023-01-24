@@ -1,0 +1,34 @@
+# Dungeons - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|79998|0.83%|
+|Chronocloth_Sash_Leggings_418|79808|0.59%|
+|Neck_Elemental_Lariat_3Earth_418|79782|0.56%|
+|Azureweave_Mantle_Slippers_418|79724|0.49%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|79710|0.47%|
+|Shoulders_Amice_of_the_Blue_418|79708|0.47%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|79703|0.46%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|79697|0.45%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|79691|0.45%|
+|Embellishment_Potion_Absorption_Inhibitor|79539|0.25%|
+|Finger2_Ring_Bound_Hourglass_418|79496|0.20%|
+|Chronocloth_Gloves_Sash_418|79480|0.18%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|79423|0.11%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|79396|0.07%|
+|Base|79337|0.00%|
+|Embellishment_Bronzed_Grip_Wrappings|79333|-0.01%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|79268|-0.09%|
+|Back_Vibrant_Wildercloth_Shawl_418|79258|-0.10%|
+|Waist_Vibrant_Wildercloth_Girdle_418|79230|-0.13%|
+|Legs_Vibrant_Wildercloth_Slacks_418|79180|-0.20%|
+|Feet_Vibrant_Wildercloth_Slippers_418|79113|-0.28%|
+|Azureweave_Robe_Slippers_418|79102|-0.30%|
+|Finger1_Ring_Bound_Hourglass_418|79098|-0.30%|
+|Feet_Blue_Dragon_Soles_418|79075|-0.33%|
+|2h_Illuminating_Pillar_of_the_Isles_418|78931|-0.51%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|78905|-0.54%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|78834|-0.63%|
+|Chest_Vibrant_Wildercloth_Vestments_418|78828|-0.64%|
+|Head_Hood_of_Surging_Time_418|78652|-0.86%|
+|Head_Vibrant_Wildercloth_Headcover_418|78293|-1.32%|
+|2h_Weathered_Explorers_Stave_418|77664|-2.11%|
