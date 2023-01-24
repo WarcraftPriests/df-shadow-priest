@@ -1,0 +1,34 @@
+# azure-tyran - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|76172|5.52%|
+|Phial_of_Charged_Isolation_3|75995|5.27%|
+|Phial_of_Static_Empowerment_2|75582|4.70%|
+|Phial_of_Charged_Isolation_2|75444|4.51%|
+|Phial_of_Static_Empowerment_1|75107|4.04%|
+|Phial_of_Charged_Isolation_1|74946|3.82%|
+|Iced_Phial_of_Corrupting_Rage_3|74197|2.78%|
+|Phial_of_Tepid_Versatility_3|74173|2.75%|
+|Iced_Phial_of_Corrupting_Rage_2|74015|2.53%|
+|Phial_of_Elemental_Chaos_3|74000|2.51%|
+|Phial_of_Tepid_Versatility_2|73971|2.47%|
+|Phial_of_Elemental_Chaos_2|73841|2.29%|
+|Iced_Phial_of_Corrupting_Rage_1|73826|2.27%|
+|Phial_of_Tepid_Versatility_1|73818|2.26%|
+|Phial_of_Elemental_Chaos_1|73676|2.06%|
+|Phial_of_Glacial_Fury_3|73602|1.96%|
+|Phial_of_Glacial_Fury_2|73393|1.67%|
+|Phial_of_Glacial_Fury_1|73207|1.41%|
+|Elemental_Potion_of_Ultimate_Power_3|72546|0.49%|
+|Bottled_Putrescence_3|72533|0.48%|
+|Potion_of_Shocking_Disclosure_3|72524|0.46%|
+|Bottled_Putrescence_2|72477|0.40%|
+|Potion_of_Shocking_Disclosure_2|72472|0.39%|
+|Elemental_Potion_of_Ultimate_Power_2|72464|0.38%|
+|Bottled_Putrescence_1|72441|0.35%|
+|Elemental_Potion_of_Ultimate_Power_1|72430|0.33%|
+|Elemental_Potion_of_Power_3|72422|0.32%|
+|Potion_of_Shocking_Disclosure_1|72417|0.31%|
+|Elemental_Potion_of_Power_2|72403|0.30%|
+|Elemental_Potion_of_Power_1|72362|0.24%|
+|Base|72190|0.00%|

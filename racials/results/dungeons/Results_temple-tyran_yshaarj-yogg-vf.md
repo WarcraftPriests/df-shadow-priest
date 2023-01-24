@@ -1,0 +1,34 @@
+# temple-tyran - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|65630|0.84%|
+|Night_Elf_Haste|65617|0.82%|
+|Goblin|65612|0.81%|
+|Human|65609|0.81%|
+|Draenei|65598|0.79%|
+|Kul_Tiran|65508|0.65%|
+|Nightborne|65457|0.57%|
+|Highmountain_Tauren|65452|0.57%|
+|Worgen|65451|0.57%|
+|Night_Elf_Crit|65442|0.55%|
+|Zandalari_Troll_Paku|65428|0.53%|
+|Blood_Elf|65423|0.52%|
+|Void_Elf|65401|0.49%|
+|Panda_Fortune_Cookie|65395|0.48%|
+|Dwarf|65300|0.33%|
+|Tauren|65274|0.29%|
+|Mechagnome|65251|0.26%|
+|Zandalari_Troll_Bwonsamdi|65212|0.20%|
+|Undead|65193|0.17%|
+|Lightforged_Draenei|65174|0.14%|
+|Panda_Crit|65171|0.14%|
+|Panda_Haste|65168|0.13%|
+|Panda_Mastery|65164|0.12%|
+|Panda_Vers|65153|0.11%|
+|Zandalari_Troll_Kimbul|65149|0.10%|
+|Orc|65132|0.08%|
+|Base|65083|0.00%|
+|Dark_Iron_Dwarf|65062|-0.03%|
+|Maghar_Orc|65041|-0.06%|
+|Vulpera|65038|-0.07%|
+|Troll|65035|-0.07%|

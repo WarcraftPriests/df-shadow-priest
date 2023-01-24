@@ -1,0 +1,34 @@
+# cos-tyran - cthun-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|64421|1.03%|
+|Night_Elf_Haste|64395|0.99%|
+|Goblin|64377|0.96%|
+|Human|64370|0.95%|
+|Draenei|64321|0.88%|
+|Kul_Tiran|64247|0.76%|
+|Nightborne|64234|0.74%|
+|Blood_Elf|64226|0.73%|
+|Void_Elf|64225|0.72%|
+|Highmountain_Tauren|64198|0.68%|
+|Night_Elf_Crit|64189|0.67%|
+|Zandalari_Troll_Paku|64186|0.66%|
+|Worgen|64163|0.63%|
+|Panda_Fortune_Cookie|64113|0.55%|
+|Tauren|63992|0.36%|
+|Dwarf|63980|0.34%|
+|Mechagnome|63935|0.27%|
+|Panda_Haste|63926|0.26%|
+|Zandalari_Troll_Bwonsamdi|63921|0.25%|
+|Undead|63911|0.23%|
+|Panda_Mastery|63910|0.23%|
+|Zandalari_Troll_Kimbul|63906|0.22%|
+|Panda_Crit|63896|0.21%|
+|Panda_Vers|63846|0.13%|
+|Lightforged_Draenei|63845|0.13%|
+|Orc|63825|0.10%|
+|Base|63763|0.00%|
+|Vulpera|63754|-0.01%|
+|Dark_Iron_Dwarf|63746|-0.03%|
+|Maghar_Orc|63732|-0.05%|
+|Troll|63732|-0.05%|

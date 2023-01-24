@@ -1,0 +1,34 @@
+# hov-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|75703|5.17%|
+|Phial_of_Charged_Isolation_3|75550|4.95%|
+|Phial_of_Static_Empowerment_2|75242|4.53%|
+|Phial_of_Charged_Isolation_2|75162|4.41%|
+|Phial_of_Static_Empowerment_1|74865|4.00%|
+|Phial_of_Charged_Isolation_1|74758|3.85%|
+|Iced_Phial_of_Corrupting_Rage_3|74135|2.99%|
+|Phial_of_Tepid_Versatility_3|74094|2.93%|
+|Phial_of_Tepid_Versatility_2|73979|2.77%|
+|Phial_of_Elemental_Chaos_3|73945|2.72%|
+|Iced_Phial_of_Corrupting_Rage_2|73943|2.72%|
+|Iced_Phial_of_Corrupting_Rage_1|73831|2.57%|
+|Phial_of_Elemental_Chaos_2|73808|2.53%|
+|Phial_of_Tepid_Versatility_1|73793|2.51%|
+|Phial_of_Elemental_Chaos_1|73643|2.30%|
+|Phial_of_Glacial_Fury_3|73579|2.22%|
+|Phial_of_Glacial_Fury_2|73351|1.90%|
+|Phial_of_Glacial_Fury_1|73125|1.59%|
+|Elemental_Potion_of_Ultimate_Power_3|72511|0.73%|
+|Potion_of_Shocking_Disclosure_3|72453|0.65%|
+|Bottled_Putrescence_3|72440|0.63%|
+|Elemental_Potion_of_Ultimate_Power_2|72440|0.63%|
+|Bottled_Putrescence_2|72402|0.58%|
+|Potion_of_Shocking_Disclosure_2|72366|0.53%|
+|Elemental_Potion_of_Power_3|72351|0.51%|
+|Potion_of_Shocking_Disclosure_1|72348|0.51%|
+|Elemental_Potion_of_Ultimate_Power_1|72332|0.48%|
+|Bottled_Putrescence_1|72319|0.47%|
+|Elemental_Potion_of_Power_2|72291|0.43%|
+|Elemental_Potion_of_Power_1|72256|0.38%|
+|Base|71984|0.00%|

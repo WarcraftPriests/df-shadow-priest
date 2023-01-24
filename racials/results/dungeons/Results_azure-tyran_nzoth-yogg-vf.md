@@ -1,0 +1,34 @@
+# azure-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Draenei|75393|1.18%|
+|Gnome|75384|1.17%|
+|Human|75380|1.17%|
+|Night_Elf_Haste|75358|1.14%|
+|Goblin|75356|1.13%|
+|Nightborne|75251|0.99%|
+|Kul_Tiran|75227|0.96%|
+|Void_Elf|75205|0.93%|
+|Highmountain_Tauren|75181|0.90%|
+|Night_Elf_Crit|75139|0.84%|
+|Blood_Elf|75136|0.84%|
+|Zandalari_Troll_Paku|75122|0.82%|
+|Worgen|75083|0.77%|
+|Panda_Fortune_Cookie|75054|0.73%|
+|Dwarf|74874|0.49%|
+|Tauren|74860|0.47%|
+|Mechagnome|74824|0.42%|
+|Zandalari_Troll_Bwonsamdi|74719|0.28%|
+|Lightforged_Draenei|74712|0.27%|
+|Zandalari_Troll_Kimbul|74689|0.24%|
+|Panda_Haste|74674|0.22%|
+|Panda_Crit|74655|0.19%|
+|Undead|74655|0.19%|
+|Panda_Mastery|74637|0.17%|
+|Panda_Vers|74632|0.16%|
+|Base|74511|0.00%|
+|Maghar_Orc|74511|0.00%|
+|Dark_Iron_Dwarf|74510|0.00%|
+|Vulpera|74499|-0.02%|
+|Orc|74494|-0.02%|
+|Troll|74464|-0.06%|

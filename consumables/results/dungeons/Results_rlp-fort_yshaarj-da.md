@@ -1,18 +1,18 @@
 # rlp-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|85800|0.67%|
-|Fated_Fortune_Cookie|85766|0.63%|
-|Sizzling_Seafood_Medley|85664|0.51%|
-|Revenge_Served_Cold|85650|0.50%|
-|Aromatic_Seafood_Platter|85641|0.49%|
-|Great_Cerulean_Sea|85632|0.48%|
-|Thousandbone_Tongueslicer|85623|0.46%|
-|Feisty_Fish_Sticks|85620|0.46%|
-|Timely_Demise|85598|0.44%|
-|Salt_Baked_Fishcake|85566|0.40%|
-|Seamoth_Surprise|85562|0.39%|
-|Filet_of_Fangs|85540|0.37%|
-|Roast_Duck_Delight|85450|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|85362|0.16%|
-|Base|85227|0.00%|
+|Draconic_Augment_Rune|78495|0.53%|
+|Fated_Fortune_Cookie|78460|0.48%|
+|Sizzling_Seafood_Medley|78430|0.45%|
+|Revenge_Served_Cold|78394|0.40%|
+|Thousandbone_Tongueslicer|78392|0.40%|
+|Feisty_Fish_Sticks|78388|0.39%|
+|Great_Cerulean_Sea|78378|0.38%|
+|Aromatic_Seafood_Platter|78350|0.34%|
+|Timely_Demise|78343|0.33%|
+|Seamoth_Surprise|78331|0.32%|
+|Filet_of_Fangs|78328|0.32%|
+|Salt_Baked_Fishcake|78291|0.27%|
+|Roast_Duck_Delight|78217|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|78194|0.14%|
+|Base|78082|0.00%|

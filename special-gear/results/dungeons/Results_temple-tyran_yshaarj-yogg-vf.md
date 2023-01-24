@@ -1,0 +1,34 @@
+# temple-tyran - yshaarj-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|68345|0.94%|
+|Chronocloth_Sash_Leggings_418|68172|0.69%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|68149|0.65%|
+|Neck_Elemental_Lariat_3Earth_418|68051|0.51%|
+|Azureweave_Mantle_Slippers_418|68027|0.47%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|68003|0.44%|
+|Shoulders_Amice_of_the_Blue_418|68002|0.44%|
+|Embellishment_Potion_Absorption_Inhibitor|68001|0.44%|
+|Finger2_Ring_Bound_Hourglass_418|67991|0.42%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|67952|0.36%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|67951|0.36%|
+|Chronocloth_Gloves_Sash_418|67881|0.26%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|67791|0.13%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|67791|0.13%|
+|Embellishment_Bronzed_Grip_Wrappings|67729|0.03%|
+|Base|67706|0.00%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|67667|-0.06%|
+|Back_Vibrant_Wildercloth_Shawl_418|67638|-0.10%|
+|Waist_Vibrant_Wildercloth_Girdle_418|67618|-0.13%|
+|Finger1_Ring_Bound_Hourglass_418|67572|-0.20%|
+|Legs_Vibrant_Wildercloth_Slacks_418|67520|-0.27%|
+|Feet_Vibrant_Wildercloth_Slippers_418|67465|-0.36%|
+|2h_Illuminating_Pillar_of_the_Isles_418|67342|-0.54%|
+|Feet_Blue_Dragon_Soles_418|67325|-0.56%|
+|Azureweave_Robe_Slippers_418|67308|-0.59%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|67292|-0.61%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|67138|-0.84%|
+|Head_Hood_of_Surging_Time_418|67093|-0.91%|
+|Chest_Vibrant_Wildercloth_Vestments_418|67050|-0.97%|
+|Head_Vibrant_Wildercloth_Headcover_418|66543|-1.72%|
+|2h_Weathered_Explorers_Stave_418|66088|-2.39%|

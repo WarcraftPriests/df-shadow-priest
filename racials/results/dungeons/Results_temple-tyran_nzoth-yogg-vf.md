@@ -1,0 +1,34 @@
+# temple-tyran - nzoth-yogg-vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Goblin|65289|0.90%|
+|Night_Elf_Haste|65273|0.88%|
+|Gnome|65272|0.87%|
+|Draenei|65270|0.87%|
+|Human|65256|0.85%|
+|Highmountain_Tauren|65187|0.74%|
+|Nightborne|65182|0.74%|
+|Blood_Elf|65175|0.72%|
+|Void_Elf|65139|0.67%|
+|Kul_Tiran|65138|0.67%|
+|Night_Elf_Crit|65115|0.63%|
+|Worgen|65115|0.63%|
+|Zandalari_Troll_Paku|65104|0.62%|
+|Panda_Fortune_Cookie|65084|0.58%|
+|Dwarf|64943|0.37%|
+|Tauren|64913|0.32%|
+|Mechagnome|64908|0.31%|
+|Lightforged_Draenei|64853|0.23%|
+|Zandalari_Troll_Bwonsamdi|64851|0.22%|
+|Undead|64843|0.21%|
+|Zandalari_Troll_Kimbul|64830|0.19%|
+|Panda_Mastery|64825|0.18%|
+|Panda_Vers|64810|0.16%|
+|Panda_Haste|64796|0.14%|
+|Panda_Crit|64783|0.12%|
+|Vulpera|64713|0.01%|
+|Orc|64710|0.01%|
+|Base|64706|0.00%|
+|Dark_Iron_Dwarf|64699|-0.01%|
+|Troll|64694|-0.02%|
+|Maghar_Orc|64670|-0.06%|

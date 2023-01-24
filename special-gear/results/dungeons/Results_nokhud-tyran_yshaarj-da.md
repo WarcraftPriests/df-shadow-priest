@@ -1,0 +1,34 @@
+# nokhud-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Embellishment_Blue_Silken_Lining|87025|0.68%|
+|Chronocloth_Sash_Leggings_418|86948|0.60%|
+|MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418|86783|0.40%|
+|Neck_Elemental_Lariat_3Earth_418|86743|0.36%|
+|Azureweave_Mantle_Slippers_418|86715|0.33%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Fire_418|86715|0.33%|
+|Neck_Elemental_Lariat_1Earth-1Air-1Frost_418|86703|0.31%|
+|Neck_Elemental_Lariat_2Earth-1Air_418|86694|0.30%|
+|Finger2_Ring_Bound_Hourglass_418|86689|0.30%|
+|Chronocloth_Gloves_Sash_418|86687|0.29%|
+|Shoulders_Amice_of_the_Blue_418|86578|0.17%|
+|MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418|86519|0.10%|
+|Wrists_Allied_Wristguards_of_Time_Dilation_418|86499|0.08%|
+|Embellishment_Potion_Absorption_Inhibitor|86492|0.07%|
+|Embellishment_Bronzed_Grip_Wrappings|86442|0.01%|
+|Base|86433|0.00%|
+|Back_Vibrant_Wildercloth_Shawl_418|86384|-0.06%|
+|Wrists_Vibrant_Wildercloth_Wristwraps_418|86379|-0.06%|
+|Finger1_Ring_Bound_Hourglass_418|86355|-0.09%|
+|Waist_Vibrant_Wildercloth_Girdle_418|86332|-0.12%|
+|Legs_Vibrant_Wildercloth_Slacks_418|86275|-0.18%|
+|Feet_Vibrant_Wildercloth_Slippers_418|86194|-0.28%|
+|Feet_Blue_Dragon_Soles_418|86123|-0.36%|
+|Azureweave_Robe_Slippers_418|86086|-0.40%|
+|2h_Illuminating_Pillar_of_the_Isles_418|86062|-0.43%|
+|Hands_Vibrant_Wildercloth_Handwraps_418|86036|-0.46%|
+|Shoulders_Vibrant_Wildercloth_Shoulderspikes_418|85894|-0.62%|
+|Chest_Vibrant_Wildercloth_Vestments_418|85793|-0.74%|
+|Head_Hood_of_Surging_Time_418|85656|-0.90%|
+|Head_Vibrant_Wildercloth_Headcover_418|85278|-1.34%|
+|2h_Weathered_Explorers_Stave_418|84840|-1.84%|

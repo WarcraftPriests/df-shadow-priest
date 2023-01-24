@@ -17,3 +17,9 @@
 - [Dungeons - CTHUN-YOGG-VF](results/Results_Dungeons_cthun-yogg-vf.md)
 - [2T - CTHUN-YOGG-VF](results/Results_2T_cthun-yogg-vf.md)
 - [4T - CTHUN-YOGG-VF](results/Results_4T_cthun-yogg-vf.md)
+## NZOTH-YOGG-VF
+- [Composite - NZOTH-YOGG-VF](results/Results_Composite_nzoth-yogg-vf.md)
+- [Single - NZOTH-YOGG-VF](results/Results_Single_nzoth-yogg-vf.md)
+- [Dungeons - NZOTH-YOGG-VF](results/Results_Dungeons_nzoth-yogg-vf.md)
+- [2T - NZOTH-YOGG-VF](results/Results_2T_nzoth-yogg-vf.md)
+- [4T - NZOTH-YOGG-VF](results/Results_4T_nzoth-yogg-vf.md)

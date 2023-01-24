@@ -1,0 +1,34 @@
+# rlp-tyran - yshaarj-da
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Gnome|74616|0.98%|
+|Goblin|74604|0.96%|
+|Night_Elf_Haste|74567|0.91%|
+|Draenei|74536|0.87%|
+|Human|74531|0.86%|
+|Highmountain_Tauren|74398|0.68%|
+|Nightborne|74390|0.67%|
+|Kul_Tiran|74388|0.67%|
+|Blood_Elf|74349|0.61%|
+|Night_Elf_Crit|74336|0.60%|
+|Zandalari_Troll_Paku|74334|0.59%|
+|Worgen|74325|0.58%|
+|Panda_Fortune_Cookie|74322|0.58%|
+|Void_Elf|74311|0.56%|
+|Dwarf|74256|0.49%|
+|Tauren|74226|0.45%|
+|Mechagnome|74113|0.30%|
+|Lightforged_Draenei|74084|0.26%|
+|Panda_Haste|74061|0.22%|
+|Undead|74035|0.19%|
+|Zandalari_Troll_Kimbul|74030|0.18%|
+|Zandalari_Troll_Bwonsamdi|74019|0.17%|
+|Panda_Vers|73995|0.14%|
+|Panda_Mastery|73976|0.11%|
+|Panda_Crit|73955|0.08%|
+|Orc|73943|0.06%|
+|Vulpera|73933|0.05%|
+|Dark_Iron_Dwarf|73901|0.01%|
+|Base|73895|0.00%|
+|Maghar_Orc|73880|-0.02%|
+|Troll|73855|-0.05%|

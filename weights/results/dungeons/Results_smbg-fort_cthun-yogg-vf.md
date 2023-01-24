@@ -1,4 +1,4 @@
 # smbg-fort - cthun-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|51784|1.00|0.53|0.56|0.53|0.56|0.26|
+|Base|72797|1.00|0.48|0.46|0.48|0.45|0.13|
