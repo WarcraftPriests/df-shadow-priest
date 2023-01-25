@@ -24,6 +24,9 @@ finger2=${gear.finger2},enchant_id=6556
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# Primalist Future Event
+profileset."Sands_of_Temporal_Perfection_389"+=trinket1=sands_of_temporal_perfection,id=202015,ilevel=389
+
 # Darkmoon Cards
 # Emberscale Sigil (8858) - Your Darkmoon Deck no longer has Even cards.
 # Jetscale Sigil (8860) - Your Darkmoon Deck no longer shuffles when the Ace is drawn.
