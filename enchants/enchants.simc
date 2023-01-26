@@ -8,18 +8,18 @@ talents=${talents}
 set_bonus=tier29_2pc=1
 set_bonus=tier29_4pc=1
 
-head=${gear.head}
-neck=${gear.neck}
+head=${gear.head},gem_id=192948
+neck=${gear.neck},gem_id=192985/192948/192948
 shoulders=${gear.shoulders}
 back=${gear.back}
 chest=${gear.chest}
-wrists=${gear.wrists}
+wrists=${gear.wrists},gem_id=192948
 hands=${gear.hands}
-waist=${gear.waist}
+waist=${gear.waist},gem_id=192948
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1}
-finger2=${gear.finger2}
+finger1=${gear.finger1},gem_id=192948
+finger2=${gear.finger2},gem_id=192948
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
 main_hand=${gear.main_hand}

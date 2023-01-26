@@ -9,18 +9,18 @@ default_actions=1
 set_bonus=tier29_2pc=1
 set_bonus=tier29_4pc=1
 
-head=${gear.head}
-neck=${gear.neck}
+head=${gear.head},gem_id=192948
+neck=${gear.neck},gem_id=192985/192948/192948
 shoulders=${gear.shoulders}
 back=${gear.back}
 chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists}
+wrists=${gear.wrists},gem_id=192948
 hands=${gear.hands}
-waist=${gear.waist}
+waist=${gear.waist},gem_id=192948
 legs=${gear.legs},enchant_id=6541
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556
-finger2=${gear.finger2},enchant_id=6556
+finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
@@ -115,17 +115,97 @@ profileset."Sustaining_Alchemist_Stone_405"+=trinket1=sustaining_alchemist_stone
 profileset."Sustaining_Alchemist_Stone_418"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=418
 
 # Jewelcrafting
+## Versatility - Energized Malygite 192935
 profileset."Idol_of_the_Spell_Weaver_389"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=389
+profileset."Idol_of_the_Spell_Weaver_389"+=head=${gear.head},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_389"+=neck=${gear.neck},gem_id=192985/192935/192935
+profileset."Idol_of_the_Spell_Weaver_389"+=wrists=${gear.wrists},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_389"+=waist=${gear.waist},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_389"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_389"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192935
 profileset."Idol_of_the_Spell_Weaver_405"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=405
+profileset."Idol_of_the_Spell_Weaver_405"+=head=${gear.head},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_405"+=neck=${gear.neck},gem_id=192985/192935/192935
+profileset."Idol_of_the_Spell_Weaver_405"+=wrists=${gear.wrists},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_405"+=waist=${gear.waist},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_405"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_405"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192935
 profileset."Idol_of_the_Spell_Weaver_418"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=418
+profileset."Idol_of_the_Spell_Weaver_418"+=head=${gear.head},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_418"+=neck=${gear.neck},gem_id=192985/192935/192935
+profileset."Idol_of_the_Spell_Weaver_418"+=wrists=${gear.wrists},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_418"+=waist=${gear.waist},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_418"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_418"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192935
 
+## Haste - Keen Ysemerald 192948
 profileset."Idol_of_the_Dreamer_389"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=389
+profileset."Idol_of_the_Dreamer_389"+=head=${gear.head},gem_id=192948
+profileset."Idol_of_the_Dreamer_389"+=neck=${gear.neck},gem_id=192985/192948/192948
+profileset."Idol_of_the_Dreamer_389"+=wrists=${gear.wrists},gem_id=192948
+profileset."Idol_of_the_Dreamer_389"+=waist=${gear.waist},gem_id=192948
+profileset."Idol_of_the_Dreamer_389"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+profileset."Idol_of_the_Dreamer_389"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 profileset."Idol_of_the_Dreamer_405"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=405
+profileset."Idol_of_the_Dreamer_405"+=head=${gear.head},gem_id=192948
+profileset."Idol_of_the_Dreamer_405"+=neck=${gear.neck},gem_id=192985/192948/192948
+profileset."Idol_of_the_Dreamer_405"+=wrists=${gear.wrists},gem_id=192948
+profileset."Idol_of_the_Dreamer_405"+=waist=${gear.waist},gem_id=192948
+profileset."Idol_of_the_Dreamer_405"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+profileset."Idol_of_the_Dreamer_405"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 profileset."Idol_of_the_Dreamer_418"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=418
+profileset."Idol_of_the_Dreamer_418"+=head=${gear.head},gem_id=192948
+profileset."Idol_of_the_Dreamer_418"+=neck=${gear.neck},gem_id=192985/192948/192948
+profileset."Idol_of_the_Dreamer_418"+=wrists=${gear.wrists},gem_id=192948
+profileset."Idol_of_the_Dreamer_418"+=waist=${gear.waist},gem_id=192948
+profileset."Idol_of_the_Dreamer_418"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+profileset."Idol_of_the_Dreamer_418"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 
+## Mastery Keen Neltharite 192961
 profileset."Idol_of_the_Earth_Warder_389"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=389
+profileset."Idol_of_the_Earth_Warder_389"+=head=${gear.head},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_389"+=neck=${gear.neck},gem_id=192985/192961/192961
+profileset."Idol_of_the_Earth_Warder_389"+=wrists=${gear.wrists},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_389"+=waist=${gear.waist},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_389"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
+profileset."Idol_of_the_Earth_Warder_389"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
 profileset."Idol_of_the_Earth_Warder_405"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=405
+profileset."Idol_of_the_Earth_Warder_405"+=head=${gear.head},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_405"+=neck=${gear.neck},gem_id=192985/192961/192961
+profileset."Idol_of_the_Earth_Warder_405"+=wrists=${gear.wrists},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_405"+=waist=${gear.waist},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_405"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
+profileset."Idol_of_the_Earth_Warder_405"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
 profileset."Idol_of_the_Earth_Warder_418"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=418
+profileset."Idol_of_the_Earth_Warder_418"+=head=${gear.head},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_418"+=neck=${gear.neck},gem_id=192985/192961/192961
+profileset."Idol_of_the_Earth_Warder_418"+=wrists=${gear.wrists},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_418"+=waist=${gear.waist},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_418"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
+profileset."Idol_of_the_Earth_Warder_418"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
+
+## Critical Strike - Crafty Alexstraszite 192919
+profileset."Idol_of_the_Life_Binder_389"+=trinket1=idol_of_the_lifebinder,id=193003,ilevel=389
+profileset."Idol_of_the_Life_Binder_389"+=head=${gear.head},gem_id=192919
+profileset."Idol_of_the_Life_Binder_389"+=neck=${gear.neck},gem_id=192985/192919/192919
+profileset."Idol_of_the_Life_Binder_389"+=wrists=${gear.wrists},gem_id=192919
+profileset."Idol_of_the_Life_Binder_389"+=waist=${gear.waist},gem_id=192919
+profileset."Idol_of_the_Life_Binder_389"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_389"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_405"+=trinket1=idol_of_the_lifebinder,id=193003,ilevel=405
+profileset."Idol_of_the_Life_Binder_405"+=head=${gear.head},gem_id=192919
+profileset."Idol_of_the_Life_Binder_405"+=neck=${gear.neck},gem_id=192985/192919/192919
+profileset."Idol_of_the_Life_Binder_405"+=wrists=${gear.wrists},gem_id=192919
+profileset."Idol_of_the_Life_Binder_405"+=waist=${gear.waist},gem_id=192919
+profileset."Idol_of_the_Life_Binder_405"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_405"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_418"+=trinket1=idol_of_the_lifebinder,id=193003,ilevel=418
+profileset."Idol_of_the_Life_Binder_418"+=head=${gear.head},gem_id=192919
+profileset."Idol_of_the_Life_Binder_418"+=neck=${gear.neck},gem_id=192985/192919/192919
+profileset."Idol_of_the_Life_Binder_418"+=wrists=${gear.wrists},gem_id=192919
+profileset."Idol_of_the_Life_Binder_418"+=waist=${gear.waist},gem_id=192919
+profileset."Idol_of_the_Life_Binder_418"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_418"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
 
 # Questing Trinkets
 profileset."Primal_Ritual_Shell_Wind_379"+=trinket1=primal_ritual_shell,id=200563,ilevel=379
