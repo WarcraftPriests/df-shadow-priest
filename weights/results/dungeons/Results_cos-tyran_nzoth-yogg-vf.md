@@ -1,4 +1,4 @@
 # cos-tyran - nzoth-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|62196|1.00|0.47|0.43|0.46|0.43|0.19|
+|Base|69552|1.00|0.50|0.42|0.46|0.42|0.18|

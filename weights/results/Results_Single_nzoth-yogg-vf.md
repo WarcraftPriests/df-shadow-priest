@@ -1,4 +1,4 @@
 # Single - nzoth-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|70179|1.00|0.49|0.47|0.51|0.44|0.14|
+|Base|81025|1.00|0.53|0.47|0.51|0.44|0.12|
