@@ -1,5 +1,5 @@
 # Dungeons - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|67392|0.00%|
-|vf_short_circuit|67033|-0.53%|
+|void_torrent_over_mfi|85402|0.00%|
+|Base|85399|0.00%|

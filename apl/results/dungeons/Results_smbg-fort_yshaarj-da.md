@@ -1,5 +1,5 @@
 # smbg-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|62896|0.01%|
-|Base|62891|0.00%|
+|Base|80303|0.00%|
+|void_torrent_over_mfi|80297|-0.01%|

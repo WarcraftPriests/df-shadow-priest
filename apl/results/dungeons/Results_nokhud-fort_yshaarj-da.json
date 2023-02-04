@@ -1,1 +1,1 @@
-{"name": "nokhud-fort - yshaarj-da", "data": {"uncapped_mg": {"DPS": 77882}, "Base": {"DPS": 77878}}, "ids": {"uncapped_mg": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["uncapped_mg"], "last_updated": "2023-01-08"}
+{"name": "nokhud-fort - yshaarj-da", "data": {"void_torrent_over_mfi": {"DPS": 100602}, "Base": {"DPS": 100575}}, "ids": {"void_torrent_over_mfi": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["void_torrent_over_mfi"], "last_updated": "2023-02-03"}

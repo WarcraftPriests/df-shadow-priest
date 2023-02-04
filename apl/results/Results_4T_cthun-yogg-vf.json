@@ -1,1 +1,1 @@
-{"name": "4T - cthun-yogg-vf", "data": {"let_it_rip": {"DPS": 132890}, "Base": {"DPS": 131269}}, "ids": {"let_it_rip": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["let_it_rip"], "last_updated": "2023-01-09"}
+{"name": "4T - cthun-yogg-vf", "data": {"Base": {"DPS": 201384}, "void_torrent_over_mfi": {"DPS": 201353}}, "ids": {"void_torrent_over_mfi": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["void_torrent_over_mfi"], "last_updated": "2023-02-03"}

@@ -1,5 +1,5 @@
 # Composite - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|let_it_rip|95168|0.74%|
-|Base|94469|0.00%|
+|void_torrent_over_mfi|98668|0.07%|
+|Base|98602|0.00%|

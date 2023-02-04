@@ -1,5 +1,5 @@
 # temple-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|60491|0.02%|
-|Base|60477|0.00%|
+|void_torrent_over_mfi|76700|0.05%|
+|Base|76663|0.00%|

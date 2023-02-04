@@ -1,5 +1,5 @@
 # azure-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|64301|0.02%|
-|Base|64291|0.00%|
+|Base|90411|0.00%|
+|void_torrent_over_mfi|90408|0.00%|

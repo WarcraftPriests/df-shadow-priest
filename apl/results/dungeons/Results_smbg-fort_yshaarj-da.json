@@ -1,1 +1,1 @@
-{"name": "smbg-fort - yshaarj-da", "data": {"uncapped_mg": {"DPS": 62896}, "Base": {"DPS": 62891}}, "ids": {"uncapped_mg": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["uncapped_mg"], "last_updated": "2023-01-08"}
+{"name": "smbg-fort - yshaarj-da", "data": {"Base": {"DPS": 80303}, "void_torrent_over_mfi": {"DPS": 80297}}, "ids": {"void_torrent_over_mfi": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["void_torrent_over_mfi"], "last_updated": "2023-02-03"}

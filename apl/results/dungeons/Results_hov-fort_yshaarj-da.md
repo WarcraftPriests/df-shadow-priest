@@ -1,5 +1,5 @@
 # hov-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|64445|0.00%|
-|uncapped_mg|64437|-0.01%|
+|void_torrent_over_mfi|89374|0.02%|
+|Base|89356|0.00%|

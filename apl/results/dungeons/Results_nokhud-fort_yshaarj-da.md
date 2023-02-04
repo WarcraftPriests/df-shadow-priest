@@ -1,5 +1,5 @@
 # nokhud-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|77882|0.01%|
-|Base|77878|0.00%|
+|void_torrent_over_mfi|100602|0.03%|
+|Base|100575|0.00%|

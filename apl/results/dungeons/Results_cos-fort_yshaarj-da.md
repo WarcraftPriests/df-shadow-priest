@@ -1,5 +1,5 @@
 # cos-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|57115|0.02%|
-|Base|57105|0.00%|
+|Base|73258|0.00%|
+|void_torrent_over_mfi|73255|0.00%|

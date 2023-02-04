@@ -1,5 +1,5 @@
 # Single - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|let_it_rip|79702|0.86%|
-|Base|79018|0.00%|
+|Base|81175|0.00%|
+|void_torrent_over_mfi|81163|-0.01%|

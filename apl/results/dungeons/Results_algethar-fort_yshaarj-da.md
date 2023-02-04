@@ -1,5 +1,5 @@
 # algethar-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|uncapped_mg|82693|0.03%|
-|Base|82669|0.00%|
+|Base|104137|0.00%|
+|void_torrent_over_mfi|104113|-0.02%|
