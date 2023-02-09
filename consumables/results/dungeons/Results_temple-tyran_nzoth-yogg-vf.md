@@ -1,18 +1,18 @@
 # temple-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|74489|0.55%|
-|Fated_Fortune_Cookie|74457|0.51%|
-|Sizzling_Seafood_Medley|74413|0.45%|
-|Aromatic_Seafood_Platter|74407|0.44%|
-|Great_Cerulean_Sea|74393|0.42%|
-|Feisty_Fish_Sticks|74385|0.41%|
-|Thousandbone_Tongueslicer|74359|0.38%|
-|Revenge_Served_Cold|74356|0.37%|
-|Timely_Demise|74352|0.37%|
-|Filet_of_Fangs|74321|0.32%|
-|Salt_Baked_Fishcake|74316|0.32%|
-|Seamoth_Surprise|74282|0.27%|
-|Roast_Duck_Delight|74227|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|74197|0.16%|
-|Base|74081|0.00%|
+|Draconic_Augment_Rune|74622|0.53%|
+|Feisty_Fish_Sticks|74549|0.43%|
+|Aromatic_Seafood_Platter|74535|0.41%|
+|Fated_Fortune_Cookie|74533|0.41%|
+|Sizzling_Seafood_Medley|74521|0.39%|
+|Revenge_Served_Cold|74516|0.39%|
+|Thousandbone_Tongueslicer|74505|0.37%|
+|Timely_Demise|74494|0.36%|
+|Great_Cerulean_Sea|74465|0.32%|
+|Seamoth_Surprise|74439|0.28%|
+|Salt_Baked_Fishcake|74437|0.28%|
+|Filet_of_Fangs|74436|0.28%|
+|Roast_Duck_Delight|74389|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|74327|0.13%|
+|Base|74230|0.00%|

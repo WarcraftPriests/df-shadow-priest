@@ -1,18 +1,18 @@
 # algethar-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|96792|0.75%|
-|Fated_Fortune_Cookie|96689|0.64%|
-|Sizzling_Seafood_Medley|96656|0.61%|
-|Aromatic_Seafood_Platter|96612|0.56%|
-|Feisty_Fish_Sticks|96590|0.54%|
-|Revenge_Served_Cold|96557|0.50%|
-|Great_Cerulean_Sea|96534|0.48%|
-|Thousandbone_Tongueslicer|96526|0.47%|
-|Timely_Demise|96519|0.46%|
-|Filet_of_Fangs|96466|0.41%|
-|Salt_Baked_Fishcake|96426|0.37%|
-|Seamoth_Surprise|96408|0.35%|
-|Roast_Duck_Delight|96306|0.24%|
-|Thrice_Spiced_Mammoth_Kabob|96264|0.20%|
-|Base|96074|0.00%|
+|Draconic_Augment_Rune|96757|0.71%|
+|Sizzling_Seafood_Medley|96703|0.66%|
+|Fated_Fortune_Cookie|96659|0.61%|
+|Feisty_Fish_Sticks|96640|0.59%|
+|Aromatic_Seafood_Platter|96623|0.57%|
+|Thousandbone_Tongueslicer|96538|0.48%|
+|Revenge_Served_Cold|96532|0.48%|
+|Timely_Demise|96517|0.46%|
+|Great_Cerulean_Sea|96499|0.44%|
+|Salt_Baked_Fishcake|96496|0.44%|
+|Seamoth_Surprise|96487|0.43%|
+|Filet_of_Fangs|96447|0.39%|
+|Roast_Duck_Delight|96326|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|96229|0.16%|
+|Base|96073|0.00%|
