@@ -1,4 +1,4 @@
 # hov-tyran - yshaarj-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|86536|1.00|0.54|0.46|0.49|0.45|0.11|
+|Base|88747|1.00|0.51|0.48|0.54|0.51|0.12|

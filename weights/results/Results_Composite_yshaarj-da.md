@@ -1,4 +1,4 @@
 # Composite - yshaarj-da
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|101765|1.00|0.46|0.46|0.55|0.45|0.11|
+|Base|101961|1.00|0.45|0.44|0.56|0.45|0.11|

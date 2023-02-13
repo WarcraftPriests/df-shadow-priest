@@ -1,4 +1,4 @@
 # smbg-fort - yshaarj-da
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|82699|1.00|0.53|0.46|0.47|0.46|0.13|
+|Base|84725|1.00|0.54|0.51|0.57|0.55|0.15|

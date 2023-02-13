@@ -1,4 +1,4 @@
 # Composite - nzoth-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|103082|1.00|0.51|0.47|0.50|0.44|0.11|
+|Base|105256|1.00|0.43|0.46|0.52|0.45|0.11|

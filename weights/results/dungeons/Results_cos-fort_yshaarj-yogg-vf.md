@@ -1,4 +1,4 @@
 # cos-fort - yshaarj-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|75774|1.00|0.57|0.48|0.50|0.47|0.26|
+|Base|77095|1.00|0.45|0.41|0.46|0.42|0.30|

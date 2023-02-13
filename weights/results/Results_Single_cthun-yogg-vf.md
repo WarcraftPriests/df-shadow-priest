@@ -1,4 +1,4 @@
 # Single - cthun-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|83892|1.00|0.55|0.50|0.53|0.46|0.12|
+|Base|85151|1.00|0.47|0.47|0.55|0.46|0.12|

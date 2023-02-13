@@ -25,6 +25,44 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# Onyx Annulet
+## Desirous Blood Stone = 204027 (Shadow Damage Proc)
+## Flame Licked Stone = 204002 (Fire Damage Proc)
+## Swirling Mojo Stone = 204015 (?)
+## Storm Infused Stone = 204000 (Critical Strikes proc Nature DMG)
+## Echoing Thunder Stone = 204001 (Moving gives Nature DMG proc)
+## Humming Arcane Stone = 204018 (Magic dmg chance to proc Arcane DMG for each stone family equipped)
+## Entropic Fel Stone = 204005 (Fire dmg from Stones increased, now Chaos)
+## Freezing Ice Stone = 204011 (Frost DMG proc)
+## Pestilent Plague Stone = 204022 (Nature DMG proc DoT)
+## Prodigious Sand Stone = 204008 (?)
+## Cold Frost Stone = 204012 (Absorb Shield)
+## Shining Obsidian Stone = 204007 (Gaining absorb from a Stone erupts in melee)
+
+## Each gem has ilevel, that ilevel increases the rings ilevel. Effects scale off the rings total item level
+## https://www.wowhead.com/ptr/items/gems?filter=82;2;100007
+profileset."Onyx_Annulet_1-ETS3_411"+=finger1=onyx_annulet,id=203460,enchant_id=6556,gem_id=204001/204001/204001
+
+profileset."Onyx_Annulet_1-FLS3_411"+=finger1=onyx_annulet,id=203460,enchant_id=6556,gem_id=204002/204002/204002
+
+profileset."Onyx_Annulet_1-FIS3_411"+=finger1=onyx_annulet,id=203460,enchant_id=6556,gem_id=204011/204011/204011
+
+profileset."Onyx_Annulet_1-EFS2-FLS1_411"+=finger1=onyx_annulet,id=203460,enchant_id=6556,gem_id=204005/204005/204002
+profileset."Onyx_Annulet_1-EFS1-FLS2_411"+=finger1=onyx_annulet,id=203460,enchant_id=6556,gem_id=204005/204002/204002
+
+# Raid Items
+profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+
+profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
+
+profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+
+profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
+
 # Embellishments
 ## Blue Silken Lining - 8932
 ## Potion Absorption Inhibitor - 8175

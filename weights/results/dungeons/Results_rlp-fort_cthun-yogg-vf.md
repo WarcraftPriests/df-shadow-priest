@@ -1,4 +1,4 @@
 # rlp-fort - cthun-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|94013|1.00|0.54|0.46|0.48|0.46|0.13|
+|Base|96806|1.00|0.44|0.47|0.51|0.48|0.13|

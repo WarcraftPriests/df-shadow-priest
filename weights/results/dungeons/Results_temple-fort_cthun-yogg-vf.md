@@ -1,4 +1,4 @@
 # temple-fort - cthun-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|82994|1.00|0.57|0.48|0.50|0.48|0.14|
+|Base|85246|1.00|0.46|0.49|0.54|0.51|0.16|

@@ -1,4 +1,4 @@
 # rlp-tyran - nzoth-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|85641|1.00|0.49|0.44|0.46|0.44|0.12|
+|Base|88201|1.00|0.52|0.56|0.60|0.58|0.14|

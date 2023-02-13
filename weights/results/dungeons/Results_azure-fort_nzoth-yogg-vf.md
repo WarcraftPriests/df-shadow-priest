@@ -1,4 +1,4 @@
 # azure-fort - nzoth-yogg-vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|94245|1.00|0.44|0.37|0.40|0.37|0.18|
+|Base|96129|1.00|0.36|0.35|0.40|0.38|0.12|
