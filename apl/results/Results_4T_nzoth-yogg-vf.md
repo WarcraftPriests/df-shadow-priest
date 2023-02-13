@@ -1,5 +1,5 @@
 # 4T - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|209008|0.00%|
-|void_torrent_over_mfi|208982|-0.01%|
+|da_up_voit_check|210112|0.01%|
+|Base|210091|0.00%|

@@ -1,5 +1,5 @@
 # Composite - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|99936|0.00%|
-|void_torrent_over_mfi|99929|-0.01%|
+|Base|101823|0.00%|
+|da_up_voit_check|101799|-0.02%|

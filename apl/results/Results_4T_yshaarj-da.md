@@ -1,5 +1,5 @@
 # 4T - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|182416|0.01%|
-|Base|182406|0.00%|
+|da_up_voit_check|182898|0.01%|
+|Base|182885|0.00%|
