@@ -1,18 +1,18 @@
 # hov-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|97415|1.02%|
-|Fated_Fortune_Cookie|97231|0.83%|
-|Feisty_Fish_Sticks|97167|0.77%|
-|Sizzling_Seafood_Medley|97126|0.72%|
-|Aromatic_Seafood_Platter|97116|0.71%|
-|Revenge_Served_Cold|97090|0.69%|
-|Great_Cerulean_Sea|97087|0.68%|
-|Thousandbone_Tongueslicer|97062|0.66%|
-|Salt_Baked_Fishcake|96954|0.54%|
-|Seamoth_Surprise|96952|0.54%|
-|Timely_Demise|96950|0.54%|
-|Filet_of_Fangs|96922|0.51%|
-|Roast_Duck_Delight|96788|0.37%|
-|Thrice_Spiced_Mammoth_Kabob|96650|0.23%|
-|Base|96429|0.00%|
+|Draconic_Augment_Rune|99891|0.71%|
+|Fated_Fortune_Cookie|99830|0.65%|
+|Great_Cerulean_Sea|99759|0.58%|
+|Feisty_Fish_Sticks|99757|0.58%|
+|Revenge_Served_Cold|99731|0.55%|
+|Sizzling_Seafood_Medley|99726|0.55%|
+|Thousandbone_Tongueslicer|99716|0.54%|
+|Aromatic_Seafood_Platter|99701|0.52%|
+|Salt_Baked_Fishcake|99619|0.44%|
+|Seamoth_Surprise|99612|0.43%|
+|Filet_of_Fangs|99608|0.43%|
+|Timely_Demise|99578|0.40%|
+|Roast_Duck_Delight|99438|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|99342|0.16%|
+|Base|99185|0.00%|

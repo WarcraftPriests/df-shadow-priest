@@ -1,18 +1,18 @@
 # Single - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|81315|0.89%|
-|Fated_Fortune_Cookie|81200|0.75%|
-|Feisty_Fish_Sticks|81187|0.73%|
-|Sizzling_Seafood_Medley|81182|0.73%|
-|Aromatic_Seafood_Platter|81153|0.69%|
-|Thousandbone_Tongueslicer|81141|0.68%|
-|Revenge_Served_Cold|81128|0.66%|
-|Great_Cerulean_Sea|81113|0.64%|
-|Timely_Demise|81039|0.55%|
-|Salt_Baked_Fishcake|81038|0.55%|
-|Filet_of_Fangs|80999|0.50%|
-|Seamoth_Surprise|80980|0.48%|
-|Roast_Duck_Delight|80891|0.37%|
-|Thrice_Spiced_Mammoth_Kabob|80760|0.20%|
-|Base|80596|0.00%|
+|Draconic_Augment_Rune|82096|0.85%|
+|Fated_Fortune_Cookie|82009|0.74%|
+|Thousandbone_Tongueslicer|81923|0.63%|
+|Great_Cerulean_Sea|81914|0.62%|
+|Sizzling_Seafood_Medley|81914|0.62%|
+|Revenge_Served_Cold|81910|0.62%|
+|Aromatic_Seafood_Platter|81881|0.58%|
+|Feisty_Fish_Sticks|81870|0.57%|
+|Salt_Baked_Fishcake|81847|0.54%|
+|Filet_of_Fangs|81795|0.48%|
+|Seamoth_Surprise|81794|0.48%|
+|Timely_Demise|81753|0.43%|
+|Roast_Duck_Delight|81652|0.30%|
+|Thrice_Spiced_Mammoth_Kabob|81598|0.23%|
+|Base|81407|0.00%|
