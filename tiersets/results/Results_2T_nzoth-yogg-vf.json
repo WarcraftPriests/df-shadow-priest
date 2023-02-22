@@ -1,1 +1,1 @@
-{"name": "2T - nzoth-yogg-vf", "data": {"T29-2_4-set": {"DPS": 119394}, "T29-2-set": {"DPS": 114202}, "Base": {"DPS": 111083}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2023-02-15"}
+{"name": "2T - nzoth-yogg-vf", "data": {"T29-2_4-set": {"DPS": 119411}, "T29-2-set": {"DPS": 114233}, "Base": {"DPS": 111057}}, "ids": {"T29-2_4-set": 394963, "T29-2-set": 394961}, "simulated_steps": ["DPS"], "sorted_data_keys": ["T29-2_4-set", "T29-2-set"], "last_updated": "2023-02-18"}

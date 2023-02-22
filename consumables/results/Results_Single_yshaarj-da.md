@@ -1,18 +1,18 @@
 # Single - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|85011|0.80%|
-|Fated_Fortune_Cookie|84938|0.71%|
-|Sizzling_Seafood_Medley|84875|0.64%|
-|Great_Cerulean_Sea|84868|0.63%|
-|Thousandbone_Tongueslicer|84850|0.61%|
-|Aromatic_Seafood_Platter|84815|0.57%|
-|Revenge_Served_Cold|84809|0.56%|
-|Feisty_Fish_Sticks|84809|0.56%|
-|Salt_Baked_Fishcake|84781|0.53%|
-|Timely_Demise|84704|0.44%|
-|Seamoth_Surprise|84688|0.42%|
-|Filet_of_Fangs|84676|0.40%|
-|Roast_Duck_Delight|84567|0.27%|
-|Thrice_Spiced_Mammoth_Kabob|84484|0.18%|
-|Base|84336|0.00%|
+|Draconic_Augment_Rune|85024|0.85%|
+|Fated_Fortune_Cookie|84928|0.74%|
+|Thousandbone_Tongueslicer|84894|0.70%|
+|Great_Cerulean_Sea|84891|0.70%|
+|Sizzling_Seafood_Medley|84842|0.64%|
+|Salt_Baked_Fishcake|84821|0.61%|
+|Aromatic_Seafood_Platter|84813|0.60%|
+|Feisty_Fish_Sticks|84804|0.59%|
+|Revenge_Served_Cold|84800|0.59%|
+|Timely_Demise|84683|0.45%|
+|Seamoth_Surprise|84679|0.44%|
+|Filet_of_Fangs|84663|0.43%|
+|Roast_Duck_Delight|84576|0.32%|
+|Thrice_Spiced_Mammoth_Kabob|84467|0.19%|
+|Base|84304|0.00%|

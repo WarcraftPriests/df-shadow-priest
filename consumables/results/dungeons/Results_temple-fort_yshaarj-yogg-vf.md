@@ -1,18 +1,18 @@
 # temple-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|81971|0.74%|
-|Fated_Fortune_Cookie|81910|0.67%|
-|Aromatic_Seafood_Platter|81837|0.58%|
-|Great_Cerulean_Sea|81830|0.57%|
-|Feisty_Fish_Sticks|81809|0.54%|
-|Sizzling_Seafood_Medley|81806|0.54%|
-|Revenge_Served_Cold|81790|0.52%|
-|Thousandbone_Tongueslicer|81789|0.52%|
-|Seamoth_Surprise|81734|0.45%|
-|Timely_Demise|81727|0.44%|
-|Salt_Baked_Fishcake|81721|0.43%|
-|Filet_of_Fangs|81696|0.40%|
-|Roast_Duck_Delight|81589|0.27%|
-|Thrice_Spiced_Mammoth_Kabob|81490|0.15%|
-|Base|81368|0.00%|
+|Draconic_Augment_Rune|82078|0.80%|
+|Fated_Fortune_Cookie|82015|0.73%|
+|Sizzling_Seafood_Medley|81935|0.63%|
+|Aromatic_Seafood_Platter|81926|0.62%|
+|Feisty_Fish_Sticks|81919|0.61%|
+|Thousandbone_Tongueslicer|81898|0.58%|
+|Great_Cerulean_Sea|81894|0.58%|
+|Revenge_Served_Cold|81876|0.56%|
+|Timely_Demise|81843|0.51%|
+|Salt_Baked_Fishcake|81832|0.50%|
+|Seamoth_Surprise|81810|0.47%|
+|Filet_of_Fangs|81786|0.44%|
+|Roast_Duck_Delight|81730|0.38%|
+|Thrice_Spiced_Mammoth_Kabob|81628|0.25%|
+|Base|81424|0.00%|
