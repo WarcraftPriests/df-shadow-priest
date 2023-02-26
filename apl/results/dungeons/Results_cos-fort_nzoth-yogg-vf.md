@@ -1,5 +1,6 @@
 # cos-fort - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|74116|0.04%|
-|Base|74088|0.00%|
+|only_high_mfi_with_cthun|76936|0.01%|
+|Base|76926|0.00%|
+|dp_in_pl_torrent_nosear|76926|0.00%|

@@ -1,5 +1,6 @@
 # smbg-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|76089|0.00%|
-|void_torrent_over_mfi|76081|-0.01%|
+|dp_in_pl_torrent_nosear|81116|0.03%|
+|only_high_mfi_with_cthun|81102|0.02%|
+|Base|81088|0.00%|

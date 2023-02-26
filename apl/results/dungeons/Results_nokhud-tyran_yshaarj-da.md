@@ -1,5 +1,6 @@
 # nokhud-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|90787|0.00%|
-|void_torrent_over_mfi|90779|-0.01%|
+|only_high_mfi_with_cthun|94346|0.67%|
+|Base|93714|0.00%|
+|dp_in_pl_torrent_nosear|93647|-0.07%|

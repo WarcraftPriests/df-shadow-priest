@@ -1,5 +1,6 @@
 # temple-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|71452|0.02%|
-|Base|71438|0.00%|
+|only_high_mfi_with_cthun|75945|0.31%|
+|dp_in_pl_torrent_nosear|75831|0.16%|
+|Base|75710|0.00%|

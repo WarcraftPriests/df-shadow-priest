@@ -1,5 +1,6 @@
 # nokhud-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|94383|0.02%|
-|Base|94365|0.00%|
+|Base|99713|0.00%|
+|dp_in_pl_torrent_nosear|99688|-0.03%|
+|only_high_mfi_with_cthun|99678|-0.04%|

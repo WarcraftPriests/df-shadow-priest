@@ -1,5 +1,6 @@
 # 2T - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|da_up_voit_check|114057|0.00%|
-|Base|114053|0.00%|
+|dp_in_pl_torrent_nosear|114065|0.02%|
+|only_high_mfi_with_cthun|114047|0.01%|
+|Base|114039|0.00%|

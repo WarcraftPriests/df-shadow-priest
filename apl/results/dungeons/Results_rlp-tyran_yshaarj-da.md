@@ -1,5 +1,6 @@
 # rlp-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|82317|0.00%|
-|Base|82315|0.00%|
+|only_high_mfi_with_cthun|85845|0.62%|
+|Base|85320|0.00%|
+|dp_in_pl_torrent_nosear|85281|-0.05%|

@@ -1,5 +1,6 @@
 # rlp-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|84015|0.02%|
-|Base|84002|0.00%|
+|dp_in_pl_torrent_nosear|88295|0.03%|
+|Base|88265|0.00%|
+|only_high_mfi_with_cthun|88264|0.00%|

@@ -1,5 +1,6 @@
 # nokhud-fort - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|106052|0.00%|
-|void_torrent_over_mfi|105993|-0.06%|
+|dp_in_pl_torrent_nosear|111694|0.03%|
+|only_high_mfi_with_cthun|111680|0.02%|
+|Base|111663|0.00%|

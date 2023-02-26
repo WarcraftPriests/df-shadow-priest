@@ -1,5 +1,6 @@
 # azure-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|81897|0.00%|
-|void_torrent_over_mfi|81889|-0.01%|
+|only_high_mfi_with_cthun|85126|0.50%|
+|dp_in_pl_torrent_nosear|84816|0.13%|
+|Base|84706|0.00%|

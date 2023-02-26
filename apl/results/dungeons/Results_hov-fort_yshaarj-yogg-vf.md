@@ -1,5 +1,6 @@
 # hov-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|91404|0.00%|
-|void_torrent_over_mfi|91389|-0.02%|
+|dp_in_pl_torrent_nosear|94081|0.01%|
+|Base|94073|0.00%|
+|only_high_mfi_with_cthun|94062|-0.01%|

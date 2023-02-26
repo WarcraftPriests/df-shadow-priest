@@ -1,5 +1,6 @@
 # Dungeons - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|84331|0.01%|
-|Base|84326|0.00%|
+|only_high_mfi_with_cthun|87807|0.73%|
+|dp_in_pl_torrent_nosear|87264|0.11%|
+|Base|87173|0.00%|

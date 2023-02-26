@@ -1,5 +1,6 @@
 # rlp-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|91482|0.06%|
-|Base|91431|0.00%|
+|only_high_mfi_with_cthun|95821|0.01%|
+|Base|95809|0.00%|
+|dp_in_pl_torrent_nosear|95774|-0.04%|

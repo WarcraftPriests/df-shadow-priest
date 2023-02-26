@@ -1,5 +1,6 @@
 # temple-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|77670|0.01%|
-|Base|77664|0.00%|
+|Base|81604|0.00%|
+|only_high_mfi_with_cthun|81604|0.00%|
+|dp_in_pl_torrent_nosear|81572|-0.04%|

@@ -1,5 +1,6 @@
 # hov-fort - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|92685|0.00%|
-|Base|92683|0.00%|
+|only_high_mfi_with_cthun|96591|0.02%|
+|dp_in_pl_torrent_nosear|96585|0.01%|
+|Base|96576|0.00%|

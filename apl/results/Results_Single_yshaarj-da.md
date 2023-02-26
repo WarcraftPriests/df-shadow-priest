@@ -1,5 +1,6 @@
 # Single - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|da_up_voit_check|82963|0.04%|
-|Base|82933|0.00%|
+|Base|82968|0.00%|
+|dp_in_pl_torrent_nosear|82944|-0.03%|
+|only_high_mfi_with_cthun|82933|-0.04%|

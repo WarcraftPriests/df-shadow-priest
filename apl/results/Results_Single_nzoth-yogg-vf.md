@@ -1,5 +1,6 @@
 # Single - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|79996|0.00%|
-|da_up_voit_check|79941|-0.07%|
+|dp_in_pl_torrent_nosear|79965|0.03%|
+|only_high_mfi_with_cthun|79955|0.02%|
+|Base|79942|0.00%|

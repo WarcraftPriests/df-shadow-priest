@@ -1,5 +1,6 @@
 # azure-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|94008|0.00%|
-|void_torrent_over_mfi|93989|-0.02%|
+|dp_in_pl_torrent_nosear|97133|0.01%|
+|only_high_mfi_with_cthun|97129|0.01%|
+|Base|97124|0.00%|

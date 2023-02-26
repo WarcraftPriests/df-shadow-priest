@@ -1,5 +1,6 @@
 # rlp-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|84696|0.12%|
-|Base|84595|0.00%|
+|dp_in_pl_torrent_nosear|88884|0.01%|
+|Base|88873|0.00%|
+|only_high_mfi_with_cthun|88862|-0.01%|

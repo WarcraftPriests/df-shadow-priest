@@ -1,5 +1,6 @@
 # smbg-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|75180|0.00%|
-|void_torrent_over_mfi|75176|-0.01%|
+|only_high_mfi_with_cthun|77985|0.42%|
+|dp_in_pl_torrent_nosear|77853|0.25%|
+|Base|77659|0.00%|

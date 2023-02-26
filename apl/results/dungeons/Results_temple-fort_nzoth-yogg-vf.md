@@ -1,5 +1,6 @@
 # temple-fort - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|79220|0.02%|
-|Base|79206|0.00%|
+|Base|83137|0.00%|
+|dp_in_pl_torrent_nosear|83127|-0.01%|
+|only_high_mfi_with_cthun|83121|-0.02%|

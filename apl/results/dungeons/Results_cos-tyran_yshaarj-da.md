@@ -1,5 +1,6 @@
 # cos-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|67845|0.00%|
-|void_torrent_over_mfi|67829|-0.02%|
+|only_high_mfi_with_cthun|72966|0.24%|
+|dp_in_pl_torrent_nosear|72857|0.09%|
+|Base|72793|0.00%|

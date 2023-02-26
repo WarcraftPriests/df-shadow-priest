@@ -1,5 +1,6 @@
 # cos-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|void_torrent_over_mfi|67568|0.02%|
-|Base|67554|0.00%|
+|dp_in_pl_torrent_nosear|71501|0.01%|
+|Base|71496|0.00%|
+|only_high_mfi_with_cthun|71485|-0.02%|

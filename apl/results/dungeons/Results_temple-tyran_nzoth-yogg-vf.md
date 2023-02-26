@@ -1,5 +1,6 @@
 # temple-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|73100|0.00%|
-|void_torrent_over_mfi|73090|-0.01%|
+|dp_in_pl_torrent_nosear|77136|0.02%|
+|Base|77123|0.00%|
+|only_high_mfi_with_cthun|77104|-0.02%|
