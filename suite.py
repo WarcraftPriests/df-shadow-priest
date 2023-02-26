@@ -94,7 +94,7 @@ def main():
     for sim in config["sims"].keys():
         if sim in args.exclude:
             continue
-        sim_dir = (f"{sim}/")
+        sim_dir = f"{sim}/"
         if not args.dungeons:
             run_suite(sim_dir, "composite", output_file, sim, ptr)
         run_suite(sim_dir, "dungeons", output_file, sim, ptr)
