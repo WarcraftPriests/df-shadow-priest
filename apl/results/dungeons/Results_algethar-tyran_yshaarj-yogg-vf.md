@@ -1,6 +1,6 @@
 # algethar-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|101335|0.00%|
-|only_high_mfi_with_cthun|101335|0.00%|
-|dp_in_pl_torrent_nosear|101315|-0.02%|
+|dots_up_includes_scrash_in_flight|101351|0.02%|
+|Base|101334|0.00%|
+|mind_blast_opener_fix|101328|-0.01%|

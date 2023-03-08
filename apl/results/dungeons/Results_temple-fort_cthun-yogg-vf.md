@@ -1,6 +1,6 @@
 # temple-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|84087|0.02%|
-|Base|84069|0.00%|
-|dp_in_pl_torrent_nosear|84063|-0.01%|
+|dots_up_includes_scrash_in_flight|84087|0.03%|
+|mind_blast_opener_fix|84076|0.01%|
+|Base|84064|0.00%|

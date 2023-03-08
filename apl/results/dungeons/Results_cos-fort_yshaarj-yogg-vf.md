@@ -1,6 +1,6 @@
 # cos-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|76733|0.00%|
-|only_high_mfi_with_cthun|76719|-0.02%|
-|dp_in_pl_torrent_nosear|76718|-0.02%|
+|Base|76725|0.00%|
+|dots_up_includes_scrash_in_flight|76719|-0.01%|
+|mind_blast_opener_fix|76719|-0.01%|

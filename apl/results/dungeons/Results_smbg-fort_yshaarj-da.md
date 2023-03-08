@@ -1,6 +1,6 @@
 # smbg-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|82723|0.64%|
-|dp_in_pl_torrent_nosear|82337|0.17%|
-|Base|82194|0.00%|
+|mind_blast_opener_fix|84115|0.08%|
+|dots_up_includes_scrash_in_flight|84086|0.05%|
+|Base|84044|0.00%|

@@ -1,6 +1,6 @@
 # Single - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|83345|0.00%|
-|only_high_mfi_with_cthun|83344|0.00%|
-|dp_in_pl_torrent_nosear|83326|-0.02%|
+|Base|83372|0.00%|
+|mind_blast_opener_fix|83352|-0.02%|
+|dots_up_includes_scrash_in_flight|83340|-0.04%|

@@ -1,6 +1,6 @@
 # 4T - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|195421|0.06%|
-|dp_in_pl_torrent_nosear|195393|0.05%|
-|Base|195304|0.00%|
+|mind_blast_opener_fix|195381|0.00%|
+|dots_up_includes_scrash_in_flight|195376|0.00%|
+|Base|195374|0.00%|

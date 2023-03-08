@@ -1,6 +1,6 @@
 # smbg-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|87005|0.00%|
-|dp_in_pl_torrent_nosear|86986|-0.02%|
-|only_high_mfi_with_cthun|86980|-0.03%|
+|mind_blast_opener_fix|87017|0.05%|
+|dots_up_includes_scrash_in_flight|86980|0.01%|
+|Base|86971|0.00%|

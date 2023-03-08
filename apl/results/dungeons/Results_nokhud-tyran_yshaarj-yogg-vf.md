@@ -1,6 +1,6 @@
 # nokhud-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|97715|0.00%|
-|dp_in_pl_torrent_nosear|97699|-0.02%|
-|only_high_mfi_with_cthun|97692|-0.02%|
+|dots_up_includes_scrash_in_flight|97700|0.04%|
+|mind_blast_opener_fix|97697|0.04%|
+|Base|97661|0.00%|

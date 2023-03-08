@@ -1,6 +1,6 @@
 # cos-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|77833|0.02%|
-|Base|77818|0.00%|
-|dp_in_pl_torrent_nosear|77817|0.00%|
+|mind_blast_opener_fix|77827|0.01%|
+|Base|77819|0.00%|
+|dots_up_includes_scrash_in_flight|77811|-0.01%|

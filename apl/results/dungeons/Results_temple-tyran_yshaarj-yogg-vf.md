@@ -1,6 +1,6 @@
 # temple-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|75755|0.00%|
-|only_high_mfi_with_cthun|75753|0.00%|
-|dp_in_pl_torrent_nosear|75735|-0.03%|
+|dots_up_includes_scrash_in_flight|75744|0.01%|
+|Base|75739|0.00%|
+|mind_blast_opener_fix|75736|0.00%|

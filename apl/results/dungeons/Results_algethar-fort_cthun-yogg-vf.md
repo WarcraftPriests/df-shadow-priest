@@ -1,6 +1,6 @@
 # algethar-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|114475|0.00%|
-|dp_in_pl_torrent_nosear|114464|-0.01%|
-|only_high_mfi_with_cthun|114460|-0.01%|
+|mind_blast_opener_fix|114482|0.02%|
+|dots_up_includes_scrash_in_flight|114459|0.00%|
+|Base|114454|0.00%|

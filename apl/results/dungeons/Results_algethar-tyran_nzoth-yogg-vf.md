@@ -1,6 +1,6 @@
 # algethar-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|102456|0.00%|
-|dp_in_pl_torrent_nosear|102435|-0.02%|
-|only_high_mfi_with_cthun|102434|-0.02%|
+|Base|102434|0.00%|
+|mind_blast_opener_fix|102420|-0.01%|
+|dots_up_includes_scrash_in_flight|102407|-0.03%|

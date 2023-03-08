@@ -1,6 +1,6 @@
 # smbg-fort - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|85668|0.02%|
-|Base|85653|0.00%|
-|only_high_mfi_with_cthun|85646|-0.01%|
+|dots_up_includes_scrash_in_flight|85668|0.05%|
+|mind_blast_opener_fix|85654|0.03%|
+|Base|85629|0.00%|

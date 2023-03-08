@@ -1,6 +1,6 @@
 # algethar-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|104577|0.00%|
-|Base|104573|0.00%|
-|dp_in_pl_torrent_nosear|104571|0.00%|
+|dots_up_includes_scrash_in_flight|104602|0.03%|
+|Base|104571|0.00%|
+|mind_blast_opener_fix|104567|0.00%|

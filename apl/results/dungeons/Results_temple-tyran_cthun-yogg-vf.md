@@ -1,6 +1,6 @@
 # temple-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|77852|0.00%|
-|only_high_mfi_with_cthun|77836|-0.02%|
-|dp_in_pl_torrent_nosear|77833|-0.02%|
+|dots_up_includes_scrash_in_flight|77838|0.01%|
+|mind_blast_opener_fix|77833|0.00%|
+|Base|77832|0.00%|

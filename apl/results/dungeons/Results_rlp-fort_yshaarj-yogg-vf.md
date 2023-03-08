@@ -1,6 +1,6 @@
 # rlp-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|92633|0.04%|
-|Base|92592|0.00%|
-|only_high_mfi_with_cthun|92574|-0.02%|
+|dots_up_includes_scrash_in_flight|92607|0.05%|
+|mind_blast_opener_fix|92581|0.02%|
+|Base|92560|0.00%|

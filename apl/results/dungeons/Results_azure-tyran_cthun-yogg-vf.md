@@ -1,6 +1,6 @@
 # azure-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|89982|0.02%|
-|only_high_mfi_with_cthun|89979|0.01%|
-|Base|89966|0.00%|
+|mind_blast_opener_fix|89974|0.02%|
+|dots_up_includes_scrash_in_flight|89959|0.01%|
+|Base|89954|0.00%|

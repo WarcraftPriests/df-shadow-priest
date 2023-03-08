@@ -1,6 +1,6 @@
 # cos-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|71426|0.00%|
-|only_high_mfi_with_cthun|71420|-0.01%|
-|dp_in_pl_torrent_nosear|71402|-0.03%|
+|dots_up_includes_scrash_in_flight|71415|0.02%|
+|mind_blast_opener_fix|71414|0.02%|
+|Base|71402|0.00%|

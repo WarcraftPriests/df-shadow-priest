@@ -1,6 +1,6 @@
 # hov-tyran - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|88034|0.00%|
-|dp_in_pl_torrent_nosear|88016|-0.02%|
-|only_high_mfi_with_cthun|87999|-0.04%|
+|dots_up_includes_scrash_in_flight|88012|0.00%|
+|Base|88008|0.00%|
+|mind_blast_opener_fix|87994|-0.02%|

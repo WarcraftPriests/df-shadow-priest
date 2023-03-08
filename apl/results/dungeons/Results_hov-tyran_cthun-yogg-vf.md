@@ -1,6 +1,6 @@
 # hov-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|90109|0.03%|
-|Base|90084|0.00%|
-|only_high_mfi_with_cthun|90054|-0.03%|
+|dots_up_includes_scrash_in_flight|90124|0.05%|
+|mind_blast_opener_fix|90115|0.04%|
+|Base|90083|0.00%|

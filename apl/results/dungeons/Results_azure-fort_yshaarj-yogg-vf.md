@@ -1,6 +1,6 @@
 # azure-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|95463|0.00%|
-|only_high_mfi_with_cthun|95447|-0.02%|
-|dp_in_pl_torrent_nosear|95435|-0.03%|
+|dots_up_includes_scrash_in_flight|95466|0.02%|
+|mind_blast_opener_fix|95464|0.02%|
+|Base|95446|0.00%|

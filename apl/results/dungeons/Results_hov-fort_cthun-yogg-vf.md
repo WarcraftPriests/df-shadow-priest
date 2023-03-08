@@ -1,6 +1,6 @@
 # hov-fort - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|98247|0.03%|
-|dp_in_pl_torrent_nosear|98234|0.01%|
-|Base|98222|0.00%|
+|dots_up_includes_scrash_in_flight|98269|0.04%|
+|Base|98231|0.00%|
+|mind_blast_opener_fix|98202|-0.03%|

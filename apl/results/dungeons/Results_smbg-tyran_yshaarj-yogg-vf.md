@@ -1,6 +1,6 @@
 # smbg-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|80288|0.00%|
-|only_high_mfi_with_cthun|80286|0.00%|
-|dp_in_pl_torrent_nosear|80279|-0.01%|
+|Base|80299|0.00%|
+|dots_up_includes_scrash_in_flight|80291|-0.01%|
+|mind_blast_opener_fix|80250|-0.06%|

@@ -1,6 +1,6 @@
 # Dungeons - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|92106|0.00%|
-|Base|92105|0.00%|
-|only_high_mfi_with_cthun|92104|0.00%|
+|dots_up_includes_scrash_in_flight|92114|0.01%|
+|mind_blast_opener_fix|92109|0.01%|
+|Base|92103|0.00%|

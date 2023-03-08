@@ -1,6 +1,6 @@
 # algethar-fort - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|111532|0.00%|
-|dp_in_pl_torrent_nosear|111525|-0.01%|
-|only_high_mfi_with_cthun|111485|-0.04%|
+|dots_up_includes_scrash_in_flight|111527|0.03%|
+|Base|111498|0.00%|
+|mind_blast_opener_fix|111481|-0.02%|

@@ -1,6 +1,6 @@
 # 4T - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|210144|0.02%|
-|Base|210102|0.00%|
-|dp_in_pl_torrent_nosear|210063|-0.02%|
+|mind_blast_opener_fix|210143|0.01%|
+|Base|210118|0.00%|
+|dots_up_includes_scrash_in_flight|210087|-0.01%|

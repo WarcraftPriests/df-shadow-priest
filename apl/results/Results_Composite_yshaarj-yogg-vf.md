@@ -1,6 +1,6 @@
 # Composite - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|102584|0.03%|
-|dp_in_pl_torrent_nosear|102556|0.00%|
-|Base|102554|0.00%|
+|Base|102573|0.00%|
+|mind_blast_opener_fix|102572|0.00%|
+|dots_up_includes_scrash_in_flight|102571|0.00%|

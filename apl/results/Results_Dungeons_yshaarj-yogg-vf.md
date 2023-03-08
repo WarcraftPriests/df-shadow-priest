@@ -1,6 +1,6 @@
 # Dungeons - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|89590|0.00%|
-|dp_in_pl_torrent_nosear|89581|-0.01%|
-|only_high_mfi_with_cthun|89580|-0.01%|
+|dots_up_includes_scrash_in_flight|89586|0.01%|
+|mind_blast_opener_fix|89580|0.00%|
+|Base|89578|0.00%|

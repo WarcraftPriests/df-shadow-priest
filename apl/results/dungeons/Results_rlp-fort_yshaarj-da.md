@@ -1,6 +1,6 @@
 # rlp-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|91344|0.80%|
-|dp_in_pl_torrent_nosear|90736|0.13%|
-|Base|90615|0.00%|
+|Base|90246|0.00%|
+|dots_up_includes_scrash_in_flight|90232|-0.02%|
+|mind_blast_opener_fix|90231|-0.02%|

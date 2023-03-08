@@ -1,6 +1,6 @@
 # Dungeons - nzoth-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|91011|0.00%|
-|Base|91007|0.00%|
-|only_high_mfi_with_cthun|91001|-0.01%|
+|mind_blast_opener_fix|91008|0.01%|
+|Base|91003|0.00%|
+|dots_up_includes_scrash_in_flight|90999|0.00%|

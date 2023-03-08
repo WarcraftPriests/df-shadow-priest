@@ -1,6 +1,6 @@
 # cos-fort - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|77879|0.55%|
-|dp_in_pl_torrent_nosear|77622|0.21%|
-|Base|77456|0.00%|
+|mind_blast_opener_fix|76523|0.01%|
+|Base|76516|0.00%|
+|dots_up_includes_scrash_in_flight|76513|0.00%|

@@ -1,6 +1,6 @@
 # cos-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|73050|0.01%|
-|Base|73046|0.00%|
-|dp_in_pl_torrent_nosear|73046|0.00%|
+|dots_up_includes_scrash_in_flight|73067|0.03%|
+|Base|73048|0.00%|
+|mind_blast_opener_fix|73025|-0.03%|

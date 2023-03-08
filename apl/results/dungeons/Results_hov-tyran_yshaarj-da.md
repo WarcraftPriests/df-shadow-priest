@@ -1,6 +1,6 @@
 # hov-tyran - yshaarj-da
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|only_high_mfi_with_cthun|83684|1.32%|
-|dp_in_pl_torrent_nosear|82684|0.11%|
-|Base|82596|0.00%|
+|mind_blast_opener_fix|86433|0.01%|
+|dots_up_includes_scrash_in_flight|86426|0.00%|
+|Base|86423|0.00%|

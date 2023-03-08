@@ -1,6 +1,6 @@
 # rlp-tyran - yshaarj-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|dp_in_pl_torrent_nosear|87174|0.00%|
-|only_high_mfi_with_cthun|87173|0.00%|
-|Base|87171|0.00%|
+|Base|87173|0.00%|
+|mind_blast_opener_fix|87159|-0.02%|
+|dots_up_includes_scrash_in_flight|87158|-0.02%|

@@ -1,6 +1,6 @@
 # smbg-tyran - cthun-yogg-vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|82308|0.00%|
-|dp_in_pl_torrent_nosear|82282|-0.03%|
-|only_high_mfi_with_cthun|82272|-0.04%|
+|mind_blast_opener_fix|82279|0.02%|
+|dots_up_includes_scrash_in_flight|82273|0.01%|
+|Base|82266|0.00%|
