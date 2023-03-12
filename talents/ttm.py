@@ -1,7 +1,7 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-ST.simc", "DA-ST.simc", "VF-AoE.simc", "DA-AoE.simc"]
+    profiles = ["VF-Flay.simc", "DA-Flay.simc", "VF-Spike.simc", "DA-Spike.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
@@ -22,12 +22,14 @@ if __name__ == '__main__':
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
-                ' 2111122', "_" + profile.split('-')[1].split('.simc')[0])
+                ' 1112', "_" + profile.split('-')[1].split('.simc')[0])
 
             idols = ["yshaarj", "cthun", "yogg", "nzoth"]
             IDOLS_USED = ""
+            IDOLS_COUNT = 0
             for idol in idols:
                 if idol in line:
+                    IDOLS_COUNT = IDOLS_COUNT + 1
                     if len(IDOLS_USED) > 1:
                         IDOLS_USED += "_"
                     IDOLS_USED += idol
@@ -36,7 +38,9 @@ if __name__ == '__main__':
             line = line.replace(
                 f'profileset."{TALENT}', f'profileset."{TALENT}{IDOLS_USED}')
 
-            OUTPUT_FILE = OUTPUT_FILE + line
+            # ONLY ALLOW 2 IDOL BUILDS
+            if IDOLS_COUNT > 1:
+                OUTPUT_FILE = OUTPUT_FILE + line
 
         with open(profile, 'w', encoding="utf8") as file:
             file.writelines(OUTPUT_FILE)
