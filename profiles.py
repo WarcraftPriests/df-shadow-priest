@@ -147,7 +147,7 @@ def replace_gear(data):
     return data
 
 
-def build_profiles(talent_string):
+def build_profiles(talent_string, apl_string):
     # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
@@ -176,6 +176,8 @@ def build_profiles(talent_string):
         else:
             talents_expr = ''
         data = replace_gear(data)
+        # apl override
+        data = data.replace("${apl}", apl_string)
         # insert talents in here so copy= works correctly
         if talents_expr:
             data = data.replace("${talents}", str(talents_expr))
@@ -226,6 +228,13 @@ if __name__ == '__main__':
 
     talents = utils.get_talents(args)
 
+    APL = "default_actions=1"
+
+    if args.apl:
+        with open("internal/apl.simc", 'r', encoding="utf8") as file:
+            APL = file.read()
+            file.close()
+
     clear_out_folders(f'{args.dir}output/')
     clear_out_folders(f'{args.dir}profiles/')
 
@@ -237,7 +246,7 @@ if __name__ == '__main__':
             clear_out_folders(f'{args.dir}output/{talent}/')
             clear_out_folders(f'{args.dir}profiles/{talent}/')
             print(f"Building {talent} profiles...")
-            build_profiles(talent)
+            build_profiles(talent, APL)
     else:
         print("Building default profiles...")
-        build_profiles(None)
+        build_profiles(None, APL)

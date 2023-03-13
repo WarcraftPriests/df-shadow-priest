@@ -34,6 +34,8 @@ def generate_parser(description):
         '--talents', help='indicate talent build for output.', choices=config["builds"].keys())
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
+    parser.add_argument(
+        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
     return parser
 
 

@@ -1,7 +1,8 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-Flay.simc", "DA-Flay.simc", "VF-Spike.simc", "DA-Spike.simc"]
+    profiles = ["VF-Flay.simc", "DA-Flay.simc",
+                "VF-Spike.simc", "DA-Spike.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
@@ -24,7 +25,7 @@ if __name__ == '__main__':
             line = line.replace(
                 ' 1112', "_" + profile.split('-')[1].split('.simc')[0])
 
-            idols = ["yshaarj", "cthun", "yogg", "nzoth"]
+            idols = ["yshaarj", "nzoth", "yogg", "cthun"]
             IDOLS_USED = ""
             IDOLS_COUNT = 0
             for idol in idols:

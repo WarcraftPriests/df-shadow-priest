@@ -36,31 +36,32 @@ def check_state(sim_dir, sim_type, output_file, script):
     return True
 
 
-def generate_args(sim_dir, sim_type, script, ptr):
+def generate_args(sim_dir, sim_type, script, ptr, apl):
     """generates arguments for each script based on input"""
-    arguments = []
-    if sim_type == "composite":
-        if ptr:
-            arguments = ["python", script, sim_dir, ptr]
-        else:
-            arguments = ["python", script, sim_dir]
-    elif sim_type == "dungeons":
-        if ptr:
-            arguments = ["python", script, sim_dir, "--dungeons", ptr]
-        else:
-            arguments = ["python", script, sim_dir, "--dungeons"]
+    arguments = ["python", script, sim_dir]
+
+    if sim_type == "dungeons":
+        arguments.append("--dungeons")
+
+    if ptr:
+        arguments.append(ptr)
+
+    if apl:
+        arguments.append(apl)
+
     return arguments
 
 
-def run_suite(sim_dir, sim_type, output_file, sim, ptr):
+def run_suite(sim_dir, sim_type, output_file, sim, ptr, apl):
+    # pylint: disable=too-many-arguments
     """helper function to orchestrate other calls"""
     if check_state(sim_dir, sim_type, output_file, "profiles"):
-        call_process(generate_args(sim_dir, sim_type, "profiles.py", ptr))
+        call_process(generate_args(sim_dir, sim_type, "profiles.py", ptr, apl))
         update_state(sim_dir, sim_type, output_file, "profiles")
 
     if check_state(sim_dir, sim_type, output_file, "sim"):
         print(f"Running sim suite for {sim} - Composite")
-        call_process(generate_args(sim_dir, sim_type, "sim.py", ptr))
+        call_process(generate_args(sim_dir, sim_type, "sim.py", ptr, apl))
         update_state(sim_dir, sim_type, output_file, "sim")
 
 
@@ -79,6 +80,8 @@ def main():
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
     parser.add_argument(
         '--dungeons', help='only run the dungeon suite', action='store_true')
+    parser.add_argument(
+        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
     args = parser.parse_args()
 
     if args.fresh or not os.path.exists(output_file):
@@ -91,13 +94,18 @@ def main():
         print("Running sims with PTR data...")
         ptr = "--ptr"
 
+    apl = ""
+    if args.apl:
+        print("Running sims with custom APL...")
+        apl = "--apl"
+
     for sim in config["sims"].keys():
         if sim in args.exclude:
             continue
         sim_dir = f"{sim}/"
-        if not args.dungeons:
-            run_suite(sim_dir, "composite", output_file, sim, ptr)
-        run_suite(sim_dir, "dungeons", output_file, sim, ptr)
+
+        sim_type = "dungeons" if args.dungeons else "composite"
+        run_suite(sim_dir, sim_type, output_file, sim, ptr, apl)
 
 
 if __name__ == "__main__":
