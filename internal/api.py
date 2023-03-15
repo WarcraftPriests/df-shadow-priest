@@ -159,6 +159,7 @@ def poll_status(api_url_base, sim_id):
 
 
 def retrieve_data(api_url_base, sim_id, data_file):
+    # pylint: disable=inconsistent-return-statements
     """get final sim data from raidbots"""
 
     api_url = f'{api_url_base}/reports/{sim_id}/{data_file}'

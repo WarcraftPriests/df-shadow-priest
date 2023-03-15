@@ -54,9 +54,9 @@ def build_settings(profile_name_string, weights, dungeons):
     if weights:
         settings_string += fightExpressions['weights']
     if dungeons:
-        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as file:
-            data = file.read()
-            file.close()
+        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as route_file:
+            data = route_file.read()
+            route_file.close()
         settings_string += "\n" + data
     return settings_string
 
@@ -104,15 +104,15 @@ def build_stats_files():
 gear_haste_rating={int(stats_base)}
 gear_mastery_rating={int(stats_base)}
 gear_versatility_rating={int(stats_base)}\n\n"""
-    with open(base_file, 'r', encoding="utf8") as file:
-        data = file.read()
-        file.close()
-    with open(output_file, 'w+', encoding="utf8") as file:
-        file.writelines(data)
-        file.writelines(base_stats)
+    with open(base_file, 'r', encoding="utf8") as b_file:
+        data = b_file.read()
+        b_file.close()
+    with open(output_file, 'w+', encoding="utf8") as o_file:
+        o_file.writelines(data)
+        o_file.writelines(base_stats)
         for combo in rating_combinations:
             for stat in stats:
-                file.write(
+                o_file.write(
                     f'profileset."{combo.get("name")}"+={combo.get(stat)}\n')
 
 
@@ -154,9 +154,9 @@ def build_profiles(talent_string, apl_string):
     add_types = ["sa", "ba", "na"]
     targets = ["1", "2", "4"]
     overrides = ""
-    with open("internal/overrides.simc", 'r', encoding="utf8") as file:
-        overrides = file.read()
-        file.close()
+    with open("internal/overrides.simc", 'r', encoding="utf8") as overrides_file:
+        overrides = overrides_file.read()
+        overrides_file.close()
     combinations = [
         f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets
     ]
