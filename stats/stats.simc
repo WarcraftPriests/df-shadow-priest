@@ -5,8 +5,10 @@ position=back
 spec=shadow
 talents=${talents}
 
-set_bonus=tier29_2pc=1
-set_bonus=tier29_4pc=1
+set_bonus=tier29_2pc=0
+set_bonus=tier29_4pc=0
+
+${apl}
 
 head=${gear.head},gem_id=192948
 neck=${gear.neck},gem_id=192985/192948/192948
