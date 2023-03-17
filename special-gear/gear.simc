@@ -29,7 +29,6 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
-# TODO: Onyx Annulet
 ## *Desirous Blood Stone = 204027 (Shadow Damage Proc)
 ## *Flame Licked Stone = 204002 (Fire Damage Proc)
 ## Swirling Mojo Stone = 204015 (?)
@@ -45,141 +44,98 @@ ${gear.off_hand}
 ## Oozing Oil Stone = 204024 (?)
 ## Serendipitous Gold Stone = 204026 (?)
 ## Whimsical Mail Stone = 204028 (?)
+## *Obscure Pastel Stone = 204007 (Random proc)
 
-profileset."Onyx_Annulet_2_DBS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204027
-profileset."Onyx_Annulet_2_DBS2-FLS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204002
-profileset."Onyx_Annulet_2_DBS2-SIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204000
-profileset."Onyx_Annulet_2_DBS2-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204001
-profileset."Onyx_Annulet_2_DBS2-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204005
-profileset."Onyx_Annulet_2_DBS2-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204011
-profileset."Onyx_Annulet_2_DBS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204018
-profileset."Onyx_Annulet_2_DBS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204027/204022
-profileset."Onyx_Annulet_2_DBS1-FLS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204002
 profileset."Onyx_Annulet_2_DBS1-FLS1-SIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204000
 profileset."Onyx_Annulet_2_DBS1-FLS1-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204001
 profileset."Onyx_Annulet_2_DBS1-FLS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204005
 profileset."Onyx_Annulet_2_DBS1-FLS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204011
 profileset."Onyx_Annulet_2_DBS1-FLS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204018
 profileset."Onyx_Annulet_2_DBS1-FLS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204022
-profileset."Onyx_Annulet_2_DBS1-SIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204000
+profileset."Onyx_Annulet_2_DBS1-FLS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204002/204007
 profileset."Onyx_Annulet_2_DBS1-SIS1-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204001
 profileset."Onyx_Annulet_2_DBS1-SIS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204005
 profileset."Onyx_Annulet_2_DBS1-SIS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204011
 profileset."Onyx_Annulet_2_DBS1-SIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204018
 profileset."Onyx_Annulet_2_DBS1-SIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204022
-profileset."Onyx_Annulet_2_DBS1-ETS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204001
+profileset."Onyx_Annulet_2_DBS1-SIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204000/204007
 profileset."Onyx_Annulet_2_DBS1-ETS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204005
 profileset."Onyx_Annulet_2_DBS1-ETS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204011
 profileset."Onyx_Annulet_2_DBS1-ETS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204018
 profileset."Onyx_Annulet_2_DBS1-ETS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204022
-profileset."Onyx_Annulet_2_DBS1-EFS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204005/204005
+profileset."Onyx_Annulet_2_DBS1-ETS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204001/204007
 profileset."Onyx_Annulet_2_DBS1-EFS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204005/204011
 profileset."Onyx_Annulet_2_DBS1-EFS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204005/204018
 profileset."Onyx_Annulet_2_DBS1-EFS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204005/204022
-profileset."Onyx_Annulet_2_DBS1-FIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204011/204011
+profileset."Onyx_Annulet_2_DBS1-EFS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204005/204007
 profileset."Onyx_Annulet_2_DBS1-FIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204011/204018
 profileset."Onyx_Annulet_2_DBS1-FIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204011/204022
-profileset."Onyx_Annulet_2_DBS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204018/204018
+profileset."Onyx_Annulet_2_DBS1-FIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204011/204007
 profileset."Onyx_Annulet_2_DBS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204018/204022
-profileset."Onyx_Annulet_2_DBS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204022/204022
-profileset."Onyx_Annulet_2_FLS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204002
-profileset."Onyx_Annulet_2_FLS2-SIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204000
-profileset."Onyx_Annulet_2_FLS2-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204001
-profileset."Onyx_Annulet_2_FLS2-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204005
-profileset."Onyx_Annulet_2_FLS2-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204011
-profileset."Onyx_Annulet_2_FLS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204018
-profileset."Onyx_Annulet_2_FLS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204002/204022
-profileset."Onyx_Annulet_2_FLS1-SIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204000
+profileset."Onyx_Annulet_2_DBS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204018/204007
+profileset."Onyx_Annulet_2_DBS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204027/204022/204007
 profileset."Onyx_Annulet_2_FLS1-SIS1-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204001
 profileset."Onyx_Annulet_2_FLS1-SIS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204005
 profileset."Onyx_Annulet_2_FLS1-SIS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204011
 profileset."Onyx_Annulet_2_FLS1-SIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204018
 profileset."Onyx_Annulet_2_FLS1-SIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204022
-profileset."Onyx_Annulet_2_FLS1-ETS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204001
+profileset."Onyx_Annulet_2_FLS1-SIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204000/204007
 profileset."Onyx_Annulet_2_FLS1-ETS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204005
 profileset."Onyx_Annulet_2_FLS1-ETS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204011
 profileset."Onyx_Annulet_2_FLS1-ETS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204018
 profileset."Onyx_Annulet_2_FLS1-ETS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204022
-profileset."Onyx_Annulet_2_FLS1-EFS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204005/204005
+profileset."Onyx_Annulet_2_FLS1-ETS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204001/204007
 profileset."Onyx_Annulet_2_FLS1-EFS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204005/204011
 profileset."Onyx_Annulet_2_FLS1-EFS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204005/204018
 profileset."Onyx_Annulet_2_FLS1-EFS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204005/204022
-profileset."Onyx_Annulet_2_FLS1-FIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204011/204011
+profileset."Onyx_Annulet_2_FLS1-EFS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204005/204007
 profileset."Onyx_Annulet_2_FLS1-FIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204011/204018
 profileset."Onyx_Annulet_2_FLS1-FIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204011/204022
-profileset."Onyx_Annulet_2_FLS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204018/204018
+profileset."Onyx_Annulet_2_FLS1-FIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204011/204007
 profileset."Onyx_Annulet_2_FLS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204018/204022
-profileset."Onyx_Annulet_2_FLS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204022/204022
-profileset."Onyx_Annulet_2_SIS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204000
-profileset."Onyx_Annulet_2_SIS2-ETS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204001
-profileset."Onyx_Annulet_2_SIS2-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204005
-profileset."Onyx_Annulet_2_SIS2-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204011
-profileset."Onyx_Annulet_2_SIS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204018
-profileset."Onyx_Annulet_2_SIS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204000/204022
-profileset."Onyx_Annulet_2_SIS1-ETS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204001
+profileset."Onyx_Annulet_2_FLS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204018/204007
+profileset."Onyx_Annulet_2_FLS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204002/204022/204007
 profileset."Onyx_Annulet_2_SIS1-ETS1-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204005
 profileset."Onyx_Annulet_2_SIS1-ETS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204011
 profileset."Onyx_Annulet_2_SIS1-ETS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204018
 profileset."Onyx_Annulet_2_SIS1-ETS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204022
-profileset."Onyx_Annulet_2_SIS1-EFS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204005/204005
+profileset."Onyx_Annulet_2_SIS1-ETS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204001/204007
 profileset."Onyx_Annulet_2_SIS1-EFS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204005/204011
 profileset."Onyx_Annulet_2_SIS1-EFS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204005/204018
 profileset."Onyx_Annulet_2_SIS1-EFS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204005/204022
-profileset."Onyx_Annulet_2_SIS1-FIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204011/204011
+profileset."Onyx_Annulet_2_SIS1-EFS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204005/204007
 profileset."Onyx_Annulet_2_SIS1-FIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204011/204018
 profileset."Onyx_Annulet_2_SIS1-FIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204011/204022
-profileset."Onyx_Annulet_2_SIS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204018/204018
+profileset."Onyx_Annulet_2_SIS1-FIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204011/204007
 profileset."Onyx_Annulet_2_SIS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204018/204022
-profileset."Onyx_Annulet_2_SIS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204022/204022
-profileset."Onyx_Annulet_2_ETS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204001/204001
-profileset."Onyx_Annulet_2_ETS2-EFS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204001/204005
-profileset."Onyx_Annulet_2_ETS2-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204001/204011
-profileset."Onyx_Annulet_2_ETS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204001/204018
-profileset."Onyx_Annulet_2_ETS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204001/204022
-profileset."Onyx_Annulet_2_ETS1-EFS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204005/204005
+profileset."Onyx_Annulet_2_SIS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204018/204007
+profileset."Onyx_Annulet_2_SIS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204000/204022/204007
 profileset."Onyx_Annulet_2_ETS1-EFS1-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204005/204011
 profileset."Onyx_Annulet_2_ETS1-EFS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204005/204018
 profileset."Onyx_Annulet_2_ETS1-EFS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204005/204022
-profileset."Onyx_Annulet_2_ETS1-FIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204011/204011
+profileset."Onyx_Annulet_2_ETS1-EFS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204005/204007
 profileset."Onyx_Annulet_2_ETS1-FIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204011/204018
 profileset."Onyx_Annulet_2_ETS1-FIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204011/204022
-profileset."Onyx_Annulet_2_ETS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204018/204018
+profileset."Onyx_Annulet_2_ETS1-FIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204011/204007
 profileset."Onyx_Annulet_2_ETS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204018/204022
-profileset."Onyx_Annulet_2_ETS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204022/204022
-profileset."Onyx_Annulet_2_EFS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204005/204005
-profileset."Onyx_Annulet_2_EFS2-FIS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204005/204011
-profileset."Onyx_Annulet_2_EFS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204005/204018
-profileset."Onyx_Annulet_2_EFS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204005/204022
-profileset."Onyx_Annulet_2_EFS1-FIS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204011/204011
+profileset."Onyx_Annulet_2_ETS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204018/204007
+profileset."Onyx_Annulet_2_ETS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204001/204022/204007
 profileset."Onyx_Annulet_2_EFS1-FIS1-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204011/204018
 profileset."Onyx_Annulet_2_EFS1-FIS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204011/204022
-profileset."Onyx_Annulet_2_EFS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204018/204018
+profileset."Onyx_Annulet_2_EFS1-FIS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204011/204007
 profileset."Onyx_Annulet_2_EFS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204018/204022
-profileset."Onyx_Annulet_2_EFS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204022/204022
-profileset."Onyx_Annulet_2_FIS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204011/204011
-profileset."Onyx_Annulet_2_FIS2-HAS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204011/204018
-profileset."Onyx_Annulet_2_FIS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204011/204022
-profileset."Onyx_Annulet_2_FIS1-HAS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204018/204018
+profileset."Onyx_Annulet_2_EFS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204018/204007
+profileset."Onyx_Annulet_2_EFS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204005/204022/204007
 profileset."Onyx_Annulet_2_FIS1-HAS1-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204018/204022
-profileset."Onyx_Annulet_2_FIS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204022/204022
-profileset."Onyx_Annulet_2_HAS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204018/204018/204018
-profileset."Onyx_Annulet_2_HAS2-PPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204018/204018/204022
-profileset."Onyx_Annulet_2_HAS1-PPS2_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204018/204022/204022
-profileset."Onyx_Annulet_2_PPS3_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204022/204022/204022
+profileset."Onyx_Annulet_2_FIS1-HAS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204018/204007
+profileset."Onyx_Annulet_2_FIS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204011/204022/204007
+profileset."Onyx_Annulet_2_HAS1-PPS1-OPS1_424"+=finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id=204018/204022/204007
 
 ## Cold Frost Stone = 204012 (Absorb Shield)
 ## Shining Obsidian Stone = 204007 (Gaining absorb from a Stone erupts in melee)
 
 ## Each gem has ilevel, that ilevel increases the rings ilevel. Effects scale off the rings total item level
 ## https://www.wowhead.com/ptr/items/gems?filter=82;2;100007
-# profileset."Onyx_Annulet_1-ETS3_411"+=finger2=onyx_annulet,id=203460,enchant_id=6556,gem_id=204001/204001/204001
-
-# profileset."Onyx_Annulet_1-FLS3_411"+=finger2=onyx_annulet,id=203460,enchant_id=6556,gem_id=204002/204002/204002
-
-# profileset."Onyx_Annulet_1-FIS3_411"+=finger2=onyx_annulet,id=203460,enchant_id=6556,gem_id=204011/204011/204011
-
-# profileset."Onyx_Annulet_1-EFS2-FLS1_411"+=finger2=onyx_annulet,id=203460,enchant_id=6556,gem_id=204005/204005/204002
-# profileset."Onyx_Annulet_1-EFS1-FLS2_411"+=finger2=onyx_annulet,id=203460,enchant_id=6556,gem_id=204005/204002/204002
 
 # Primalist Set (up to 395)
 ## Head, Shoulders, Chest, Wrists, Gloves, Waist, Legs, Feet
