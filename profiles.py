@@ -54,9 +54,9 @@ def build_settings(profile_name_string, weights, dungeons):
     if weights:
         settings_string += fightExpressions['weights']
     if dungeons:
-        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as route_file:
-            data = route_file.read()
-            route_file.close()
+        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as r_file:
+            data = r_file.read()
+            r_file.close()
         settings_string += "\n" + data
     return settings_string
 
@@ -80,6 +80,7 @@ def generate_stat_string(stat_distribution, name):
 
 
 def build_stats_files():
+    # pylint: disable=too-many-locals
     """Build generated.simc stats file from stats.simc"""
     sim_file = 'stats.simc'
     base_file = f"{args.dir}{sim_file}"
@@ -163,9 +164,9 @@ def build_profiles(talent_string, apl_string):
     sim_files = config["sims"][args.dir[:-1]]["files"]
 
     for sim_file in sim_files:
-        with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as file:
-            data = file.read()
-            file.close()
+        with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as contents:
+            data = contents.read()
+            contents.close()
         if args.dungeons:
             combinations = utils.get_dungeon_combos()
         if talent_string:
