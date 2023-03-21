@@ -4,7 +4,7 @@ from itertools import combinations
 stones = {
     'DBS': 204027,  # Desirous Blood Stone
     'FLS': 204002,  # Flame Licked Stone
-    'SIS': 204000,  # Stone Infused Stone
+    'SIS': 204000,  # Storm Infused Stone
     'ETS': 204001,  # Echoing Thunder Stone
     'EFS': 204005,  # Entropic Fel Stone
     'FIS': 204011,  # Freezing Ice Stone
