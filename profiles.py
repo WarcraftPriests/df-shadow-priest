@@ -214,13 +214,13 @@ def build_profiles(talent_string, apl_string):
                     sim_data = replace_talents(talents_expr, sim_data)
 
             simc_file = build_simc_file(talent_string, profile_name)
-            with open(args.dir + simc_file, "w+", encoding="utf8") as file:
+            with open(args.dir + simc_file, "w+", encoding="utf8") as o_file:
                 if args.ptr:
-                    file.writelines(fightExpressions["ptr"])
-                file.writelines(sim_data)
-                file.writelines(settings)
-                file.writelines(overrides)
-                file.close()
+                    o_file.writelines(fightExpressions["ptr"])
+                o_file.writelines(sim_data)
+                o_file.writelines(settings)
+                o_file.writelines(overrides)
+                o_file.close()
 
 
 if __name__ == '__main__':

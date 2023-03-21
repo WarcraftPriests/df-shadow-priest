@@ -187,6 +187,7 @@ def retrieve_data(api_url_base, sim_id, data_file):
             return None
 
     print("Exceeded retries - exiting")
+    return None
 
 
 def raidbots(api_key, profile_location, simc_build, output_location, report_name, iterations):
