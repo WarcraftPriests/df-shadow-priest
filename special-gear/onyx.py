@@ -1,15 +1,17 @@
 """creates combinations of stones"""
-from itertools import combinations_with_replacement
+from itertools import combinations
 
 stones = {
     'DBS': 204027,  # Desirous Blood Stone
     'FLS': 204002,  # Flame Licked Stone
-    'SIS': 204000,  # Stone Infused Stone
+    'SIS': 204000,  # Storm Infused Stone
     'ETS': 204001,  # Echoing Thunder Stone
     'EFS': 204005,  # Entropic Fel Stone
     'FIS': 204011,  # Freezing Ice Stone
     'HAS': 204018,  # Humming Arcane Stone
-    'PPS': 204022  # Pestilent Plague Stone
+    'PPS': 204022,  # Pestilent Plague Stone
+    'OPS': 204007,  # Obscure Pastel Stone
+    'PTS': 204029  # Prophetic Twilight Stone
 }
 
 
@@ -37,12 +39,12 @@ def combine_name(combo_string):
     return new_combo
 
 
-combos = list(combinations_with_replacement(stones, 3))
+combos = list(combinations(stones, 3))
 profilesets = []
 
 for combo in combos:
     RING_COMBO = ""
-    SIMC_STRING = "finger1=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id="
+    SIMC_STRING = "finger2=onyx_annulet,id=203460,enchant_id=6556,ilevel=424,gem_id="
     for stone in combo:
         RING_COMBO = RING_COMBO + stone + "-"
         SIMC_STRING += str(stones[stone]) + "/"
@@ -50,7 +52,7 @@ for combo in combos:
     SIMC_STRING = SIMC_STRING[:-1]
 
     profilesets.append(
-        f"profileset.\"Onyx_Annulet_1_{RING_COMBO}_424\"+={SIMC_STRING}")
+        f"profileset.\"Onyx_Annulet_2_{RING_COMBO}_424\"+={SIMC_STRING}")
 
 for profileset in profilesets:
     print(profileset)
