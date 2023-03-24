@@ -14,7 +14,6 @@ stones = {
     'PTS': 204029  # Prophetic Twilight Stone
 }
 
-
 def combine_name(combo_string):
     """transforms FIS-FIS-HAS to FIS2-HAS1"""
     new_combo = ""
