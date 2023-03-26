@@ -1,34 +1,34 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  yshaarj-nzoth:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAAkkSSkIFikkkEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_nzoth_370844059285455_Spike
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAAkkSSkIFikkkEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_nzoth_370844059285455_Spike
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAkQSQAAAAAAAAAAAAAkkSSkIFikkERig0IJJRaEkgQKSLkEAC # DA_yshaarj_nzoth_370844612899791_Spike
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSQAAAAAAAAAAAAAkkSSkINikkERig0IJJRaEkgQKSLkEAC # VF_yshaarj_nzoth_370844612899791_Spike
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAAkkSSkIFikkkEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_nzoth_370844059285455_Spike
+  yshaarj-nzoth-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_57891552212943_Spike
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUiDIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_57891418011599_Spike
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAkQABAAAAAAAAAAAAIJpkEJJlISSSEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_nzoth_cthun_57893976757199_Flay
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQCcAAAAAAAAAAAAAgkokEJJtISSSEJCSjkkEpRQCCpItQSAIB # VF_yshaarj_nzoth_cthun_57893708067791_Spike
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_57891552212943_Spike
   yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIRKRkIFikkkEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_cthun_221173523396559_Spike
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEHAAAAAAAAAAAAAIhSEJShIJJJRig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_221172994652111_Spike
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkERAAAAAAAAAAAAASSKRkIFkkkERig0IJJRaEkgQKSLkEAyBA # DA_yshaarj_cthun_221173454420943_Spike
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEHAAAAAAAAAAAAAIhSEJShIJJJRig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_221172994652111_Spike
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASOgSEJShIJJJRig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_221172979972047_Spike
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASiSOQkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20576876345295_Spike
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASiSOQkkUiDIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_cthun_20576742143951_Spike
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkQEAAAAAAAAAAAAgkokDEJJl4ASSSEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20579166417871_Spike
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkQcAAAAAAAAAAAAAgkokEJSLikkERig0IJJRaEkgQKSLkEASA # VF_yshaarj_cthun_24968488776655_Spike
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkcAAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_22775899600847_Spike
 gear:
-  head: "draconic_hierophants_archcowl,id=200327,ilevel=424"
-  neck: "eye_of_the_vengeful_hurricane,id=195496,ilevel=421"
-  shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
-  back: "fireproof_drape,id=193763,ilevel=421"
-  chest: "draconic_hierophants_vestment,id=200324,ilevel=421"
-  wrists: "manawracker_bindings,id=134310,ilevel=421"
-  hands: "draconic_hierophants_grips,id=200326,ilevel=421"
-  waist: "sky_saddle_cord,id=193691,ilevel=421"
-  legs: "leggings_of_swirling_runes,id=133610,ilevel=421"
-  feet: "sandals_of_the_wild_sovereign,id=195532,ilevel=424"
-  finger1: "seal_of_filial_duty,id=195526,ilevel=431"
-  finger2: "jeweled_signet_of_melandrus,id=134542,ilevel=421"
-  trinket1: "whispering_incarnate_icon,id=194301,ilevel=421"
-  trinket2: "furious_ragefeather,id=193677,ilevel=421"
-  main_hand: "final_grade,id=193707,ilevel=421"
-  off_hand: ""
+  head: "tier,id=202542,ilevel=441"
+  neck: "black_dragon_labs_lava_hydra,id=204397,ilevel=441"
+  shoulders: "tier,id=202540,ilevel=441"
+  back: "shadow_of_perfect_bliss,id=133247,ilevel=447" # crit/haste
+  chest: "tier,id=202545,ilevel=441"
+  wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
+  hands: "tier,id=202543,ilevel=441"
+  waist: "lost_heros_waist_wrap,id=193816,ilevel=447"
+  legs: "riverrider_legwraps,id=134427,ilevel=447"
+  feet: "ancient_crosswrapped_sandals,id=193806,ilevel=447"
+  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447"
+  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447"
+  trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
+  trinket2: "black_dragon_labs_omni,id=203729,ilevel=441"
+  main_hand: "black_dragon_labs_lava_hydra,id=202570,ilevel=441"
+  off_hand: "black_dragon_labs_faceless_one,id=204324,ilevel=441"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
