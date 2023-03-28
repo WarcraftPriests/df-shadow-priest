@@ -39,6 +39,7 @@ profileset."Vessel_of_Searing_Shadow_428"+=trinket1=vessel_of_searing_shadow,id=
 profileset."Vessel_of_Searing_Shadow_437"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=437
 profileset."Vessel_of_Searing_Shadow_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 
+# NYI
 profileset."Black_Dragon_Labs_Omni_415"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=415
 profileset."Black_Dragon_Labs_Omni_428"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=428
 profileset."Black_Dragon_Labs_Omni_437"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=437
