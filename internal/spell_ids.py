@@ -134,6 +134,8 @@ special = {
     "Neck_Elemental_Lariat_1Earth-1Air-1Fire_418": 193001,
     "Finger1_Ring_Bound_Hourglass_418": 193000,
     "Finger2_Ring_Bound_Hourglass_418": 193000,
+    "Finger2_Ring_Bound_Hourglass_392": 193000,
+    "Finger2_Ring_Bound_Hourglass_405": 193000,
     "Legs_Vibrant_Wildercloth_Slacks_418": 193518,
     "Waist_Vibrant_Wildercloth_Girdle_418": 193516,
     "Hands_Vibrant_Wildercloth_Handwraps_418": 193504,

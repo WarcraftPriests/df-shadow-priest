@@ -10,9 +10,9 @@ stones = {
     'FIS': 204011,  # Freezing Ice Stone
     'HAS': 204018,  # Humming Arcane Stone
     'PPS': 204022,  # Pestilent Plague Stone
-    'OPS': 204007  # Obscure Pastel Stone
+    'OPS': 204007,  # Obscure Pastel Stone
+    'PTS': 204029  # Prophetic Twilight Stone
 }
-
 
 def combine_name(combo_string):
     """transforms FIS-FIS-HAS to FIS2-HAS1"""
