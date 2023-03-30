@@ -181,7 +181,7 @@ sims:
     description: Stat weight sims for current BiS gear setup..
     builds: true
     weights: true
-    chart: true
+    chart: false
     lookupType: none
     steps:
       - DPS
