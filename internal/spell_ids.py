@@ -56,6 +56,10 @@ enchants = {
     "Ring_Writ_of_Versatility": 200044,
     "Temp_Weapon_Howling_Rune": 194820,
     "Temp_Weapon_Buzzing_Rune": 194823,
+    "Temp_Weapon_Hissing_Rune": 204971,
+    "Legs_Lambent_Armor_Kit": 204702,
+    "Weapon_Shadowflame_Wreathe": 204623,
+    "Weapon_Spore_Tender": 204615,
 }
 
 gems = {
@@ -157,11 +161,16 @@ special = {
     "Wrists_Allied_Wristguards_of_Time_Dilation_418": 193530,
     "MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418": 194879,
     "MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418": 193496,
+    "Back_Voice_of_the_Silent_Star_441": 204465,
+    "MH_Spore_Keepers_Baton_447-OH_IDK_441": 204401,
 }
 
 tiersets = {
     "T29-2-set": 394961,
-    "T29-2_4-set": 394963
+    "T29-2_4-set": 394963,
+    "T30-2-set": 405557,
+    "T30-2_4-set": 405558,
+    "T29-2-set+T30-2-set": 405558,
 }
 
 

@@ -36,6 +36,10 @@ profileset."Temp_Weapon_Buzzing_Rune_1"+=temporary_enchant=main_hand:buzzing_run
 profileset."Temp_Weapon_Buzzing_Rune_2"+=temporary_enchant=main_hand:buzzing_rune_2
 profileset."Temp_Weapon_Buzzing_Rune_3"+=temporary_enchant=main_hand:buzzing_rune_3
 
+profileset."Temp_Weapon_Hissing_Rune_1"+=temporary_enchant=main_hand:hissing_rune_1
+profileset."Temp_Weapon_Hissing_Rune_2"+=temporary_enchant=main_hand:hissing_rune_2
+profileset."Temp_Weapon_Hissing_Rune_3"+=temporary_enchant=main_hand:hissing_rune_3
+
 # Legs
 profileset."Legs_Frozen_Spellthread_1"+=legs=${gear.legs},enchant=frozen_spellthread_1
 profileset."Legs_Frozen_Spellthread_2"+=legs=${gear.legs},enchant=frozen_spellthread_2
@@ -48,6 +52,10 @@ profileset."Legs_Temporal_Spellthread_3"+=legs=${gear.legs},enchant=temporal_spe
 profileset."Legs_Vibrant_Spellthread_1"+=legs=${gear.legs},enchant=vibrant_spellthread_1
 profileset."Legs_Vibrant_Spellthread_2"+=legs=${gear.legs},enchant=vibrant_spellthread_2
 profileset."Legs_Vibrant_Spellthread_3"+=legs=${gear.legs},enchant=vibrant_spellthread_3
+
+profileset."Legs_Lambent_Armor_Kit_1"+=legs=${gear.legs},enchant=lambent_armor_kit_1
+profileset."Legs_Lambent_Armor_Kit_2"+=legs=${gear.legs},enchant=lambent_armor_kit_2
+profileset."Legs_Lambent_Armor_Kit_3"+=legs=${gear.legs},enchant=lambent_armor_kit_3
 
 # Weapons
 profileset."Weapon_Burning_Writ_1"+=main_hand=${gear.main_hand},enchant=burning_writ_1
@@ -82,6 +90,15 @@ profileset."Weapon_Sophic_Devotion_3"+=main_hand=${gear.main_hand},enchant=sophi
 profileset."Weapon_Wafting_Devotion_1"+=main_hand=${gear.main_hand},enchant=wafting_devotion_1
 profileset."Weapon_Wafting_Devotion_2"+=main_hand=${gear.main_hand},enchant=wafting_devotion_2
 profileset."Weapon_Wafting_Devotion_3"+=main_hand=${gear.main_hand},enchant=wafting_devotion_3
+
+# TODO: Check what these actually do
+profileset."Weapon_Shadowflame_Wreathe_1"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_1
+profileset."Weapon_Shadowflame_Wreathe_2"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_2
+profileset."Weapon_Shadowflame_Wreathe_3"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_3
+
+profileset."Weapon_Spore_Tender_1"+=main_hand=${gear.main_hand},enchant=spore_tender_1
+profileset."Weapon_Spore_Tender_2"+=main_hand=${gear.main_hand},enchant=spore_tender_2
+profileset."Weapon_Spore_Tender_3"+=main_hand=${gear.main_hand},enchant=spore_tender_3
 
 # Chest
 profileset."Chest_Reserve_of_Intellect_1"+=chest=${gear.chest},enchant=reserve_of_intellect_1

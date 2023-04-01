@@ -1,8 +1,8 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-Flay.simc", "DA-Flay.simc",
-                "VF-Spike.simc", "DA-Spike.simc"]
+    profiles = ["VF-Flay.simc", "DA-Flay.simc", "VF-Spike.simc", "DA-Spike.simc",
+                "VF-Flay_SC.simc", "DA-Flay_SC.simc", "VF-Spike_SC.simc", "DA-Spike_SC.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
@@ -24,6 +24,10 @@ if __name__ == '__main__':
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
                 ' 111', "_" + profile.split('-')[1].split('.simc')[0])
+
+            # Don't add combos that waste points on TS without Yogg
+            if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
+                continue
 
             idols = ["yshaarj", "nzoth", "yogg", "cthun"]
             IDOLS_USED = ""

@@ -71,6 +71,7 @@ def find_weight(sim_type, profile_name, dungeons):
         return weight
     weight = find_weights(config[weight_type]).get(profile_name)
     if not weight:
+        print(f"weight not found for {sim_type}, {profile_name}, {dungeons}")
         return 0
     return weight
 
@@ -84,7 +85,7 @@ def build_results(data, weights, sim_type, directory, dungeons):
         if sim_type == "Dungeons":
             fight_style = "dungeons"
         elif dungeons:
-            fight_style = value[1].profile.split("_", 1)[1]
+            fight_style = value[1].profile.split("_")[-1]
         else:
             fight_style = re.search(
                 '((hm|lm|pw).*|dungeons$)', value[1].profile).group()

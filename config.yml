@@ -1,25 +1,31 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  yshaarj-nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_57891552212943_Spike
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUiDIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_57891418011599_Spike
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAkQABAAAAAAAAAAAAIJpkEJJlISSSEJCSjkkEpRQCCpItQSAIA # DA_yshaarj_nzoth_cthun_57893976757199_Flay
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQCcAAAAAAAAAAAAAgkokEJJtISSSEJCSjkkEpRQCCpItQSAIB # VF_yshaarj_nzoth_cthun_57893708067791_Spike
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_57891552212943_Spike
   yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASiSOQkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20576876345295_Spike
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASOgSOQkkUiIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_cthun_20576809252815_Spike
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkQEAAAAAAAAAAAAgkokDEJJl4ASSSEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20579166417871_Spike
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkQcAAAAAAAAAAAAAgkokEJSLikkERig0IJJRaEkgQKSLkEASA # VF_yshaarj_cthun_24968488776655_Spike
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkcAAAAAAAAAAAAAASiSSkkUISSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_22775899600847_Spike
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQIEAAAAAAAAAAAAgkkSSkENikkkEJCSjkkEpRQCCpItQSAIA # VF_yshaarj_nzoth_cthun_57893976709071_Flay_SC
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQiAAAAAAAAAAAAAgkokEJJFikkkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_57893699696591_Spike_SC
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkQOQAAAAAAAAAAAAASiSOQkkUCSSSEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20579163272143_Spike
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQCEAAAAAAAAAAAAgkokEJJt4ASSSEJCSjkkEpRQCCpItQSAIB # VF_yshaarj_nzoth_cthun_57893842285519_Spike
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQIEAAAAAAAAAAAAgkkSSkENikkkEJCSjkkEpRQCCpItQSAIA # VF_yshaarj_nzoth_cthun_57893976709071_Flay_SC
+  yogg-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAESIEAAAAAAAAAAAAgIpIRS0ISSSSkIINSSSkGBJIki0CJBQC # VF_nzoth_yogg_cthun_136765682390991_Flay_SC
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAESiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765543790543_Spike_SC
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAgkQSAAAAAAAAAAAAACp4ARSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_99450833826767_Spike
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAESCOQAAAAAAAAAAAAAioIRSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765544821711_Spike
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAESIEAAAAAAAAAAAAgIpIRS0ISSSSkIINSSSkGBJIki0CJBQC # VF_nzoth_yogg_cthun_136765682390991_Flay_SC
+  nzoth-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEEyBEAAAAAAAAAAAAgkkSSkENikkkEJCSjkkEpRQCCpItQSAIA # VF_nzoth_cthun_57412940371919_Flay_SC
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEkIBAAAAAAAAAAAAgIKSkkUiIJJJRig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_59593433020367_Spike_SC
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAEkQSAAAAAAAAAAAAACKSkkUiIJJRkIINSSSkGBJIki0CJBgE # DA_nzoth_cthun_59593675207631_Spike
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkQEAAAAAAAAAAAAgIKSkk0iIJJRkIINSSSkGBJIki0CJBgE # VF_nzoth_cthun_59593709810639_Spike
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAEEyBEAAAAAAAAAAAAgIpIRS0ISSSSkIINSSSkGBJIki0CJBQC # VF_nzoth_cthun_66465657690063_Flay_SC
 gear:
-  head: "tier,id=202542,ilevel=441"
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=441"
   neck: "black_dragon_labs_lava_hydra,id=204397,ilevel=441"
-  shoulders: "tier,id=202540,ilevel=441"
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=441"
   back: "shadow_of_perfect_bliss,id=133247,ilevel=447" # crit/haste
-  chest: "tier,id=202545,ilevel=441"
+  chest: "command_of_the_furnace_seraph,id=202545,ilevel=441"
   wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
-  hands: "tier,id=202543,ilevel=441"
+  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=441"
   waist: "lost_heros_waist_wrap,id=193816,ilevel=447"
   legs: "riverrider_legwraps,id=134427,ilevel=447"
   feet: "ancient_crosswrapped_sandals,id=193806,ilevel=447"
@@ -131,6 +137,10 @@ sims:
       - VF-Spike.simc
       - DA-Flay.simc
       - DA-Spike.simc
+      - VF-Flay_SC.simc
+      - VF-Spike_SC.simc
+      - DA-Flay_SC.simc
+      - DA-Spike_SC.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
     builds: true
@@ -199,8 +209,8 @@ simcBuild: nightly
 defaultIterations: 10000
 raidbots:
   apiUrlBase: https://www.raidbots.com
-  numOfRetries: 10
-  retryInterval: 2
+  numOfRetries: 100
+  retryInterval: 10
 analyze:
   markdown: true
   csv: true

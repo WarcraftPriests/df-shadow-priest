@@ -29,6 +29,13 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# 10.1 Items TODO - CHECK ILVL
+profileset."Back_Voice_of_the_Silent_Star_441"+=back=voice_of_the_silent_star,id=204465,ilevel=441
+
+# Crafted Gear ilvls = 424/437/447
+profileset."MH_Spore_Keepers_Baton_447-OH_IDK_441"+=main_hand=spore_keepers_baton,id=204401,ilevel=447,enchant_id=6643
+profileset."MH_Spore_Keepers_Baton_447-OH_IDK_441"+=off_hand=10.1_raid__black_dragon_labs__boss_08__faceless_one__holdable__offhand,id=204324,ilevel=441
+
 ## *Desirous Blood Stone = 204027 (Shadow Damage Proc)
 ## *Flame Licked Stone = 204002 (Fire Damage Proc)
 ## Swirling Mojo Stone = 204015 (?)
@@ -176,33 +183,33 @@ profileset."Onyx_Annulet_2_PPS1-OPS1-PTS1_424"+=finger2=onyx_annulet,id=203460,e
 # Primalist Set (up to 395)
 ## Head, Shoulders, Chest, Wrists, Gloves, Waist, Legs, Feet
 ## TODO: consider adding a second set where you swap out gems?
-profileset."Primalist_Wrists-Feet_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
-profileset."Primalist_Wrists-Feet_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
+# profileset."Primalist_Wrists-Feet_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
+# profileset."Primalist_Wrists-Feet_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
 
-profileset."Primalist_Wrists-Waist_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
-profileset."Primalist_Wrists-Waist_395"+=waist=cord_of_raging_tempests,id=199422,ilevel=395,gem_id=192948
+# profileset."Primalist_Wrists-Waist_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
+# profileset."Primalist_Wrists-Waist_395"+=waist=cord_of_raging_tempests,id=199422,ilevel=395,gem_id=192948
 
-profileset."Primalist_Wrists-Legs_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
-profileset."Primalist_Wrists-Legs_395"+=legs=leggings_of_raging_tempests,id=199421,ilevel=395,enchant_id=6541
+# profileset."Primalist_Wrists-Legs_395"+=wrists=cuffs_of_raging_tempests,id=199423,ilevel=395,gem_id=192948
+# profileset."Primalist_Wrists-Legs_395"+=legs=leggings_of_raging_tempests,id=199421,ilevel=395,enchant_id=6541
 
-profileset."Primalist_Feet-Waist_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
-profileset."Primalist_Feet-Waist_395"+=waist=cord_of_raging_tempests,id=199422,ilevel=395,gem_id=192948
+# profileset."Primalist_Feet-Waist_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
+# profileset."Primalist_Feet-Waist_395"+=waist=cord_of_raging_tempests,id=199422,ilevel=395,gem_id=192948
 
-profileset."Primalist_Feet-Legs_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
-profileset."Primalist_Feet-Legs_395"+=legs=leggings_of_raging_tempests,id=199421,ilevel=395,enchant_id=6541
+# profileset."Primalist_Feet-Legs_395"+=feet=boots_of_raging_tempests,id=199418,ilevel=395
+# profileset."Primalist_Feet-Legs_395"+=legs=leggings_of_raging_tempests,id=199421,ilevel=395,enchant_id=6541
 
 # Raid Items
-profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
-profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+# profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+# profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
 
-profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
-profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
+# profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=finger1=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+# profileset."Seal_of_Diurnas_Chosen_1-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
 
-profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
-profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
+# profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+# profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_1"+=trinket1=eye_of_skovald,id=133641,ilevel=421
 
-profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
-profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
+# profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=finger2=seal_of_diurnas_chosen,id=195480,ilevel=421,gem_id=192948,enchant_id=6556
+# profileset."Seal_of_Diurnas_Chosen_2-Eye_of_Skovald_421_2"+=trinket2=eye_of_skovald,id=133641,ilevel=421
 
 # Embellishments
 ## Blue Silken Lining - 8932
@@ -216,77 +223,77 @@ profileset."Embellishment_Bronzed_Grip_Wrappings"+=main_hand=${gear.main_hand},e
 # https://www.raidbots.com/static/data/live/bonuses.json
 
 ## Jewelcrafting
-profileset."Neck_Elemental_Lariat_3Earth_418"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=418,gem_id=192948/192948/192948
-profileset."Neck_Elemental_Lariat_2Earth-1Air_418"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=418,gem_id=192948/192948/192953
-profileset."Neck_Elemental_Lariat_1Earth-1Air-1Frost_418"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=418,gem_id=192948/192953/192952
-profileset."Neck_Elemental_Lariat_1Earth-1Air-1Fire_418"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=418,gem_id=192948/192953/192945
+profileset."Neck_Elemental_Lariat_3Earth_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192948/192948
+profileset."Neck_Elemental_Lariat_2Earth-1Air_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192948/192953
+profileset."Neck_Elemental_Lariat_1Earth-1Air-1Frost_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192953/192952
+profileset."Neck_Elemental_Lariat_1Earth-1Air-1Fire_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192953/192945
 
-profileset."Finger1_Ring_Bound_Hourglass_418"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=418,enchant_id=6556,gem_id=192948
-profileset."Finger2_Ring_Bound_Hourglass_418"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=418,enchant_id=6556,gem_id=192948
+profileset."Finger1_Ring_Bound_Hourglass_447"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=447,enchant_id=6556,gem_id=192948
+profileset."Finger2_Ring_Bound_Hourglass_447"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=447,enchant_id=6556,gem_id=192948
 
-profileset."Finger2_Ring_Bound_Hourglass_392"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=392,enchant_id=6556,gem_id=192948
-profileset."Finger2_Ring_Bound_Hourglass_405"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=405,enchant_id=6556,gem_id=192948
+# profileset."Finger2_Ring_Bound_Hourglass_392"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=392,enchant_id=6556,gem_id=192948
+# profileset."Finger2_Ring_Bound_Hourglass_405"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=405,enchant_id=6556,gem_id=192948
 
 ## Tailoring
-# add legs whenever replacing tier slot legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+# add legs whenever replacing tier slot legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 ### Blue Silken Lining = 8932
 ### Potion Absorption Inhibitor = 8175
-profileset."Legs_Vibrant_Wildercloth_Slacks_418"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=418,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_447"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6541
 
-profileset."Waist_Vibrant_Wildercloth_Girdle_418"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
+profileset."Waist_Vibrant_Wildercloth_Girdle_447"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
 
-profileset."Hands_Vibrant_Wildercloth_Handwraps_418"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=418
-profileset."Hands_Vibrant_Wildercloth_Handwraps_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=447
+profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Head_Vibrant_Wildercloth_Headcover_418"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
-profileset."Head_Vibrant_Wildercloth_Headcover_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Head_Vibrant_Wildercloth_Headcover_447"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
+profileset."Head_Vibrant_Wildercloth_Headcover_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Back_Vibrant_Wildercloth_Shawl_418"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Back_Vibrant_Wildercloth_Shawl_447"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=447
 
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_418"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=418
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=447
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Feet_Vibrant_Wildercloth_Slippers_418"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=418
+profileset."Feet_Vibrant_Wildercloth_Slippers_447"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=447
 
-profileset."Chest_Vibrant_Wildercloth_Vestments_418"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=418,enchant_id=6625
-profileset."Chest_Vibrant_Wildercloth_Vestments_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6625
+profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Wrists_Vibrant_Wildercloth_Wristwraps_418"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=418,gem_id=192948
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_447"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
 
 ### Azureweave
-profileset."Azureweave_Mantle_Slippers_418"+=shoulder=azureweave_mantle,id=193520,ilevel=418
-profileset."Azureweave_Mantle_Slippers_418"+=feet=azureweave_slippers,id=193525,ilevel=418
-profileset."Azureweave_Mantle_Slippers_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Azureweave_Mantle_Slippers_447"+=shoulder=azureweave_mantle,id=193520,ilevel=447
+profileset."Azureweave_Mantle_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
+profileset."Azureweave_Mantle_Slippers_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Azureweave_Robe_Slippers_418"+=chest=azureweave_robe,id=193536,ilevel=418,enchant_id=6625
-profileset."Azureweave_Robe_Slippers_418"+=feet=azureweave_slippers,id=193525,ilevel=418
-profileset."Azureweave_Robe_Slippers_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Azureweave_Robe_Slippers_447"+=chest=azureweave_robe,id=193536,ilevel=447,enchant_id=6625
+profileset."Azureweave_Robe_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
+profileset."Azureweave_Robe_Slippers_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Feet_Blue_Dragon_Soles_418"+=feet=blue_dragon_soles,id=193532,ilevel=418
-profileset."Shoulders_Amice_of_the_Blue_418"+=shoulder=amice_of_the_blue,id=193526,ilevel=418
-profileset."Shoulders_Amice_of_the_Blue_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Feet_Blue_Dragon_Soles_447"+=feet=blue_dragon_soles,id=193532,ilevel=447
+profileset."Shoulders_Amice_of_the_Blue_447"+=shoulder=amice_of_the_blue,id=193526,ilevel=447
+profileset."Shoulders_Amice_of_the_Blue_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
 ### Chronocloth
-profileset."Chronocloth_Gloves_Sash_418"+=hands=chronocloth_gloves,id=193527,ilevel=418
-profileset."Chronocloth_Gloves_Sash_418"+=waist=chronocloth_sash,id=193512,ilevel=418,gem_id=192948
-profileset."Chronocloth_Gloves_Sash_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Chronocloth_Gloves_Sash_447"+=hands=chronocloth_gloves,id=193527,ilevel=447
+profileset."Chronocloth_Gloves_Sash_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
+profileset."Chronocloth_Gloves_Sash_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Chronocloth_Sash_Leggings_418"+=legs=chronocloth_leggings,id=193537,ilevel=418,enchant_id=6541
-profileset."Chronocloth_Sash_Leggings_418"+=waist=chronocloth_sash,id=193512,ilevel=418,gem_id=192948
+profileset."Chronocloth_Sash_Leggings_447"+=legs=chronocloth_leggings,id=193537,ilevel=447,enchant_id=6541
+profileset."Chronocloth_Sash_Leggings_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
 
-profileset."Head_Hood_of_Surging_Time_418"+=head=hood_of_surging_time,id=193521,ilevel=418,gem_id=192948
-profileset."Head_Hood_of_Surging_Time_418"+=legs=draconic_hierophants_britches,id=200328,ilevel=415,enchant_id=6541
+profileset."Head_Hood_of_Surging_Time_447"+=head=hood_of_surging_time,id=193521,ilevel=447,gem_id=192948
+profileset."Head_Hood_of_Surging_Time_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=441,enchant_id=6541
 
-profileset."Wrists_Allied_Wristguards_of_Time_Dilation_418"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=418,gem_id=192948
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_447"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=447,gem_id=192948
 
 ## Inscription
-profileset."2h_Illuminating_Pillar_of_the_Isles_418"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=418,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=447,enchant_id=6643
 
-profileset."2h_Weathered_Explorers_Stave_418"+=main_hand=weathered_explorers_stave,id=194894,ilevel=418,enchant_id=6643
+profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant_id=6643
 
-profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
-profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_418"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=418,crafted_stats=49/36
+profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
+profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
 ## Leatherworking
-profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
-profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418"+=off_hand=witherrot_tome,id=193496,ilevel=418,crafted_stats=49/36
+profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_447"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
+profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_447"+=off_hand=witherrot_tome,id=193496,ilevel=447,crafted_stats=49/36

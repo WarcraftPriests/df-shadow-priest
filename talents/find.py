@@ -15,9 +15,14 @@ if __name__ == '__main__':
     with open(f"results/Results_{args.sim_type}.csv", 'r', encoding="utf8") as file:
         reader = csv.reader(file, delimiter=",")
         for row in reader:
+            # DA_yshaarj_cthun_20576876345295_Spike
             profile_name = row[1]
-            results.append([row[1], profile_name.split("_")[
-                           0], profile_name.split("_")[-1]])
+            if profile_name[-2:] == "SC":
+                results.append([row[1], profile_name.split(
+                    "_")[0], profile_name.split("_")[-2] + "_SC"])
+            else:
+                results.append([row[1], profile_name.split("_")[
+                               0], profile_name.split("_")[-1]])
         file.close()
 
         for result in results:
@@ -26,7 +31,7 @@ if __name__ == '__main__':
             spike_or_flay = result[2]
             MATCH = False
 
-            if da_or_vf in ["VF", "DA"] and spike_or_flay in ["Spike", "Flay"]:
+            if da_or_vf in ["VF", "DA"] and spike_or_flay in ["Spike", "Flay", "Spike_SC", "Flay_SC"]:
                 with open(f"{da_or_vf}-{spike_or_flay}.simc", 'r', encoding="utf8") as sim_file:
                     for line in sim_file:
                         if profile_name in line and args.match in line:
