@@ -218,6 +218,7 @@ profileset."Onyx_Annulet_2_PPS1-OPS1-PTS1_424"+=finger2=onyx_annulet,id=203460,e
 profileset."Embellishment_Blue_Silken_Lining"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
 profileset."Embellishment_Potion_Absorption_Inhibitor"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
 profileset."Embellishment_Bronzed_Grip_Wrappings"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
+profileset."Embellishment_Shadowflame_Tempered_Armor_Patch"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
 
 # Prof Gear 418 ilvl?
 # https://www.raidbots.com/static/data/live/bonuses.json

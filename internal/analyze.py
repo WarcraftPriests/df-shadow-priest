@@ -71,7 +71,6 @@ def find_weight(sim_type, profile_name, dungeons):
         return weight
     weight = find_weights(config[weight_type]).get(profile_name)
     if not weight:
-        print(f"weight not found for {sim_type}, {profile_name}, {dungeons}")
         return 0
     return weight
 

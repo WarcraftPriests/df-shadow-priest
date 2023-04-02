@@ -163,6 +163,7 @@ special = {
     "MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418": 193496,
     "Back_Voice_of_the_Silent_Star_441": 204465,
     "MH_Spore_Keepers_Baton_447-OH_IDK_441": 204401,
+    "Embellishment_Shadowflame_Tempered_Armor_Patch": 204710,
 }
 
 tiersets = {
