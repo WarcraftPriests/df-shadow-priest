@@ -29,9 +29,10 @@ if __name__ == '__main__':
             profile_name = result[0]
             da_or_vf = result[1]
             spike_or_flay = result[2]
+            filler_types = ["Spike", "Flay", "Spike_SC", "Flay_SC"]
             MATCH = False
 
-            if da_or_vf in ["VF", "DA"] and spike_or_flay in ["Spike", "Flay", "Spike_SC", "Flay_SC"]:
+            if da_or_vf in ["VF", "DA"] and spike_or_flay in filler_types:
                 with open(f"{da_or_vf}-{spike_or_flay}.simc", 'r', encoding="utf8") as sim_file:
                     for line in sim_file:
                         if profile_name in line and args.match in line:

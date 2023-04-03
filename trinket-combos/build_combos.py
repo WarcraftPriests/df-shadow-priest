@@ -16,24 +16,24 @@ combos = {
     "Erupting_Spear_Fragment_447": "erupting_spear_fragment,id=193769,ilevel=447",
     "Spoils_of_Neltharus_441": "spoils_of_neltharus,id=193773,ilevel=441",
     "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
-    "Time_Breaching_Talon_441": "time_breaching_talon,id=193791,ilevel=441",
+    # "Time_Breaching_Talon_441": "time_breaching_talon,id=193791,ilevel=441", # underperformed
     "Time_Breaching_Talon_447": "time_breaching_talon,id=193791,ilevel=447",
-    "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441",
-    "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447",
+    # "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441", # underperformed
+    # "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447", # underperformed
     "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
     "Rotcrusted_Voodoo_Doll_447": "rotcrusted_voodoo_doll,id=159624,ilevel=447",
     # aberrus the shadowed crucible
     "Seething_Black_Dragonscale_437": "seething_black_dragonscale,id=202612,ilevel=437",
     "Seething_Black_Dragonscale_441": "seething_black_dragonscale,id=202612,ilevel=441",
-    "Vessel_of_Searing_Shadow_437": "vessel_of_searing_shadow,id=202615,ilevel=437",
+    # "Vessel_of_Searing_Shadow_437": "vessel_of_searing_shadow,id=202615,ilevel=437", # underperformed
     "Vessel_of_Searing_Shadow_441": "vessel_of_searing_shadow,id=202615,ilevel=441",
-    "Black_Dragon_Labs_Omni_437": "black_dragon_labs_omni,id=203729,ilevel=437",
+    # "Black_Dragon_Labs_Omni_437": "black_dragon_labs_omni,id=203729,ilevel=437", # underperformed
     "Black_Dragon_Labs_Omni_441": "black_dragon_labs_omni,id=203729,ilevel=441",
-    "Igneous_Flowstone_437": "igneous_flowstone,id=203996,ilevel=437",
-    "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441",
+    # "Igneous_Flowstone_437": "igneous_flowstone,id=203996,ilevel=437", # NYI?
+    # "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441", # NYI?
     "Idol_of_Debilitating_Arrogance_437": "idol_of_debilitating_arrogance,id=204211,ilevel=437",
     "Idol_of_Debilitating_Arrogance_441": "idol_of_debilitating_arrogance,id=204211,ilevel=441",
-    "Beacon_to_the_Beyond_437": "beacon_to_the_beyond,id=203963,ilevel=437",
+    # "Beacon_to_the_Beyond_437": "beacon_to_the_beyond,id=203963,ilevel=437", # underperformed
     "Beacon_to_the_Beyond_441": "beacon_to_the_beyond,id=203963,ilevel=441",
     # s1 dungeons (415/421)
     "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
