@@ -1,0 +1,34 @@
+# smbg-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|99158|4.18%|
+|Phial_of_Charged_Isolation_3|98990|4.00%|
+|Phial_of_Static_Empowerment_2|98624|3.62%|
+|Phial_of_Charged_Isolation_2|98511|3.50%|
+|Phial_of_Static_Empowerment_1|98193|3.17%|
+|Phial_of_Charged_Isolation_1|98075|3.04%|
+|Iced_Phial_of_Corrupting_Rage_3|97861|2.82%|
+|Phial_of_Tepid_Versatility_3|97732|2.68%|
+|Iced_Phial_of_Corrupting_Rage_2|97678|2.62%|
+|Phial_of_Tepid_Versatility_2|97572|2.51%|
+|Phial_of_Elemental_Chaos_3|97494|2.43%|
+|Iced_Phial_of_Corrupting_Rage_1|97481|2.42%|
+|Phial_of_Tepid_Versatility_1|97410|2.34%|
+|Phial_of_Elemental_Chaos_2|97358|2.29%|
+|Phial_of_Elemental_Chaos_1|97220|2.14%|
+|Phial_of_Glacial_Fury_3|96640|1.53%|
+|Phial_of_Glacial_Fury_2|96394|1.28%|
+|Phial_of_Glacial_Fury_1|96234|1.11%|
+|Elemental_Potion_of_Ultimate_Power_3|95727|0.57%|
+|Elemental_Potion_of_Ultimate_Power_2|95683|0.53%|
+|Elemental_Potion_of_Ultimate_Power_1|95679|0.52%|
+|Elemental_Potion_of_Power_2|95608|0.45%|
+|Elemental_Potion_of_Power_3|95607|0.45%|
+|Potion_of_Shocking_Disclosure_3|95605|0.45%|
+|Bottled_Putrescence_3|95588|0.43%|
+|Bottled_Putrescence_2|95552|0.39%|
+|Potion_of_Shocking_Disclosure_2|95525|0.36%|
+|Elemental_Potion_of_Power_1|95511|0.35%|
+|Bottled_Putrescence_1|95482|0.32%|
+|Potion_of_Shocking_Disclosure_1|95447|0.28%|
+|Base|95180|0.00%|

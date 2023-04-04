@@ -1,0 +1,34 @@
+# smbg-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|104350|4.30%|
+|Phial_of_Charged_Isolation_3|104197|4.15%|
+|Phial_of_Static_Empowerment_2|103784|3.74%|
+|Phial_of_Charged_Isolation_2|103655|3.61%|
+|Phial_of_Static_Empowerment_1|103387|3.34%|
+|Phial_of_Charged_Isolation_1|103284|3.24%|
+|Iced_Phial_of_Corrupting_Rage_3|103026|2.98%|
+|Phial_of_Tepid_Versatility_3|102928|2.88%|
+|Iced_Phial_of_Corrupting_Rage_2|102829|2.78%|
+|Phial_of_Tepid_Versatility_2|102750|2.70%|
+|Phial_of_Elemental_Chaos_3|102668|2.62%|
+|Iced_Phial_of_Corrupting_Rage_1|102607|2.56%|
+|Phial_of_Tepid_Versatility_1|102499|2.45%|
+|Phial_of_Elemental_Chaos_2|102457|2.41%|
+|Phial_of_Elemental_Chaos_1|102321|2.27%|
+|Phial_of_Glacial_Fury_3|101648|1.60%|
+|Phial_of_Glacial_Fury_2|101437|1.39%|
+|Phial_of_Glacial_Fury_1|101232|1.19%|
+|Elemental_Potion_of_Ultimate_Power_3|100531|0.49%|
+|Elemental_Potion_of_Ultimate_Power_2|100494|0.45%|
+|Elemental_Potion_of_Power_3|100471|0.43%|
+|Bottled_Putrescence_3|100453|0.41%|
+|Potion_of_Shocking_Disclosure_3|100432|0.39%|
+|Bottled_Putrescence_2|100413|0.37%|
+|Elemental_Potion_of_Ultimate_Power_1|100399|0.35%|
+|Elemental_Potion_of_Power_2|100397|0.35%|
+|Bottled_Putrescence_1|100383|0.34%|
+|Potion_of_Shocking_Disclosure_2|100379|0.33%|
+|Elemental_Potion_of_Power_1|100365|0.32%|
+|Potion_of_Shocking_Disclosure_1|100352|0.31%|
+|Base|100045|0.00%|

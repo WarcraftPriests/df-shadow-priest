@@ -1,0 +1,34 @@
+# azure-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|122746|4.37%|
+|Phial_of_Charged_Isolation_3|122467|4.14%|
+|Phial_of_Static_Empowerment_2|121962|3.71%|
+|Phial_of_Charged_Isolation_2|121845|3.61%|
+|Phial_of_Static_Empowerment_1|121339|3.18%|
+|Phial_of_Charged_Isolation_1|121162|3.03%|
+|Iced_Phial_of_Corrupting_Rage_3|120765|2.69%|
+|Phial_of_Tepid_Versatility_3|120749|2.67%|
+|Iced_Phial_of_Corrupting_Rage_2|120470|2.44%|
+|Phial_of_Tepid_Versatility_2|120460|2.43%|
+|Phial_of_Elemental_Chaos_3|120358|2.34%|
+|Iced_Phial_of_Corrupting_Rage_1|120271|2.27%|
+|Phial_of_Tepid_Versatility_1|120203|2.21%|
+|Phial_of_Elemental_Chaos_2|120177|2.19%|
+|Phial_of_Elemental_Chaos_1|119942|1.99%|
+|Phial_of_Glacial_Fury_3|119132|1.30%|
+|Phial_of_Glacial_Fury_2|118893|1.10%|
+|Phial_of_Glacial_Fury_1|118707|0.94%|
+|Elemental_Potion_of_Ultimate_Power_3|118074|0.40%|
+|Elemental_Potion_of_Ultimate_Power_2|118000|0.34%|
+|Elemental_Potion_of_Power_3|117991|0.33%|
+|Bottled_Putrescence_3|117939|0.28%|
+|Elemental_Potion_of_Ultimate_Power_1|117931|0.28%|
+|Elemental_Potion_of_Power_2|117925|0.27%|
+|Potion_of_Shocking_Disclosure_3|117923|0.27%|
+|Potion_of_Shocking_Disclosure_2|117879|0.23%|
+|Potion_of_Shocking_Disclosure_1|117852|0.21%|
+|Bottled_Putrescence_2|117838|0.20%|
+|Elemental_Potion_of_Power_1|117823|0.19%|
+|Bottled_Putrescence_1|117809|0.17%|
+|Base|117604|0.00%|

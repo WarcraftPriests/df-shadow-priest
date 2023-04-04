@@ -1,0 +1,34 @@
+# Dungeons - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|115293|3.99%|
+|Phial_of_Charged_Isolation_3|115107|3.82%|
+|Phial_of_Static_Empowerment_2|114699|3.46%|
+|Phial_of_Charged_Isolation_2|114545|3.32%|
+|Phial_of_Static_Empowerment_1|114205|3.01%|
+|Phial_of_Charged_Isolation_1|114074|2.89%|
+|Iced_Phial_of_Corrupting_Rage_3|113700|2.55%|
+|Phial_of_Tepid_Versatility_3|113690|2.54%|
+|Phial_of_Tepid_Versatility_2|113477|2.35%|
+|Iced_Phial_of_Corrupting_Rage_2|113476|2.35%|
+|Phial_of_Elemental_Chaos_3|113373|2.26%|
+|Iced_Phial_of_Corrupting_Rage_1|113275|2.17%|
+|Phial_of_Tepid_Versatility_1|113264|2.16%|
+|Phial_of_Elemental_Chaos_2|113200|2.10%|
+|Phial_of_Elemental_Chaos_1|113027|1.95%|
+|Phial_of_Glacial_Fury_3|112280|1.27%|
+|Phial_of_Glacial_Fury_2|112088|1.10%|
+|Phial_of_Glacial_Fury_1|111901|0.93%|
+|Elemental_Potion_of_Ultimate_Power_3|111537|0.60%|
+|Elemental_Potion_of_Ultimate_Power_2|111450|0.52%|
+|Elemental_Potion_of_Ultimate_Power_1|111376|0.46%|
+|Elemental_Potion_of_Power_3|111374|0.46%|
+|Elemental_Potion_of_Power_2|111303|0.39%|
+|Bottled_Putrescence_3|111290|0.38%|
+|Potion_of_Shocking_Disclosure_3|111264|0.36%|
+|Elemental_Potion_of_Power_1|111255|0.35%|
+|Bottled_Putrescence_2|111217|0.32%|
+|Potion_of_Shocking_Disclosure_2|111211|0.31%|
+|Potion_of_Shocking_Disclosure_1|111172|0.27%|
+|Bottled_Putrescence_1|111169|0.27%|
+|Base|110868|0.00%|

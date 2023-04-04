@@ -1,0 +1,34 @@
+# azure-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|111918|4.22%|
+|Phial_of_Charged_Isolation_3|111768|4.08%|
+|Phial_of_Static_Empowerment_2|111234|3.58%|
+|Phial_of_Charged_Isolation_2|111090|3.45%|
+|Phial_of_Static_Empowerment_1|110730|3.11%|
+|Phial_of_Charged_Isolation_1|110517|2.91%|
+|Iced_Phial_of_Corrupting_Rage_3|110189|2.61%|
+|Phial_of_Tepid_Versatility_3|110112|2.54%|
+|Iced_Phial_of_Corrupting_Rage_2|109929|2.37%|
+|Phial_of_Tepid_Versatility_2|109910|2.35%|
+|Phial_of_Elemental_Chaos_3|109740|2.19%|
+|Iced_Phial_of_Corrupting_Rage_1|109688|2.14%|
+|Phial_of_Tepid_Versatility_1|109659|2.11%|
+|Phial_of_Elemental_Chaos_2|109636|2.09%|
+|Phial_of_Elemental_Chaos_1|109429|1.90%|
+|Phial_of_Glacial_Fury_3|108700|1.22%|
+|Phial_of_Glacial_Fury_2|108514|1.05%|
+|Phial_of_Glacial_Fury_1|108343|0.89%|
+|Elemental_Potion_of_Ultimate_Power_3|107821|0.40%|
+|Elemental_Potion_of_Ultimate_Power_2|107756|0.34%|
+|Potion_of_Shocking_Disclosure_3|107713|0.30%|
+|Elemental_Potion_of_Power_3|107690|0.28%|
+|Potion_of_Shocking_Disclosure_2|107671|0.26%|
+|Elemental_Potion_of_Power_2|107651|0.24%|
+|Elemental_Potion_of_Ultimate_Power_1|107646|0.24%|
+|Potion_of_Shocking_Disclosure_1|107594|0.19%|
+|Elemental_Potion_of_Power_1|107586|0.18%|
+|Bottled_Putrescence_3|107559|0.16%|
+|Bottled_Putrescence_1|107545|0.15%|
+|Bottled_Putrescence_2|107525|0.13%|
+|Base|107388|0.00%|

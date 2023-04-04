@@ -1,0 +1,34 @@
+# rlp-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|117097|2.07%|
+|Phial_of_Charged_Isolation_3|116986|1.97%|
+|Phial_of_Static_Empowerment_2|116871|1.87%|
+|Phial_of_Charged_Isolation_2|116823|1.83%|
+|Phial_of_Static_Empowerment_1|116650|1.68%|
+|Phial_of_Charged_Isolation_1|116640|1.67%|
+|Iced_Phial_of_Corrupting_Rage_3|116471|1.52%|
+|Phial_of_Tepid_Versatility_3|116422|1.48%|
+|Phial_of_Tepid_Versatility_2|116363|1.43%|
+|Iced_Phial_of_Corrupting_Rage_2|116350|1.42%|
+|Phial_of_Elemental_Chaos_3|116311|1.39%|
+|Iced_Phial_of_Corrupting_Rage_1|116252|1.33%|
+|Phial_of_Tepid_Versatility_1|116250|1.33%|
+|Phial_of_Elemental_Chaos_2|116193|1.28%|
+|Phial_of_Elemental_Chaos_1|116112|1.21%|
+|Phial_of_Glacial_Fury_3|115662|0.82%|
+|Phial_of_Glacial_Fury_2|115563|0.73%|
+|Phial_of_Glacial_Fury_1|115451|0.64%|
+|Elemental_Potion_of_Ultimate_Power_3|115285|0.49%|
+|Elemental_Potion_of_Ultimate_Power_2|115260|0.47%|
+|Elemental_Potion_of_Power_3|115233|0.45%|
+|Elemental_Potion_of_Ultimate_Power_1|115167|0.39%|
+|Elemental_Potion_of_Power_2|115158|0.38%|
+|Elemental_Potion_of_Power_1|115074|0.31%|
+|Potion_of_Shocking_Disclosure_2|115049|0.29%|
+|Bottled_Putrescence_3|115037|0.27%|
+|Bottled_Putrescence_2|114985|0.23%|
+|Potion_of_Shocking_Disclosure_1|114970|0.22%|
+|Potion_of_Shocking_Disclosure_3|114966|0.21%|
+|Bottled_Putrescence_1|114948|0.20%|
+|Base|114722|0.00%|

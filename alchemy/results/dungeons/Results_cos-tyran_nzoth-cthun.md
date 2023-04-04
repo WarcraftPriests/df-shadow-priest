@@ -1,0 +1,34 @@
+# cos-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|92339|4.54%|
+|Phial_of_Charged_Isolation_3|92202|4.38%|
+|Phial_of_Static_Empowerment_2|91841|3.97%|
+|Phial_of_Charged_Isolation_2|91635|3.74%|
+|Phial_of_Static_Empowerment_1|91340|3.41%|
+|Phial_of_Charged_Isolation_1|91202|3.25%|
+|Phial_of_Tepid_Versatility_3|90850|2.85%|
+|Iced_Phial_of_Corrupting_Rage_3|90790|2.79%|
+|Phial_of_Tepid_Versatility_2|90638|2.61%|
+|Phial_of_Elemental_Chaos_3|90637|2.61%|
+|Iced_Phial_of_Corrupting_Rage_2|90629|2.60%|
+|Phial_of_Elemental_Chaos_2|90442|2.39%|
+|Phial_of_Tepid_Versatility_1|90433|2.38%|
+|Iced_Phial_of_Corrupting_Rage_1|90415|2.36%|
+|Phial_of_Elemental_Chaos_1|90243|2.17%|
+|Phial_of_Glacial_Fury_3|89606|1.44%|
+|Phial_of_Glacial_Fury_2|89424|1.24%|
+|Phial_of_Glacial_Fury_1|89187|0.97%|
+|Elemental_Potion_of_Ultimate_Power_3|89087|0.86%|
+|Elemental_Potion_of_Ultimate_Power_2|88979|0.73%|
+|Elemental_Potion_of_Power_3|88873|0.61%|
+|Elemental_Potion_of_Ultimate_Power_1|88871|0.61%|
+|Elemental_Potion_of_Power_2|88822|0.56%|
+|Elemental_Potion_of_Power_1|88742|0.47%|
+|Potion_of_Shocking_Disclosure_3|88655|0.37%|
+|Bottled_Putrescence_2|88620|0.33%|
+|Bottled_Putrescence_3|88599|0.30%|
+|Potion_of_Shocking_Disclosure_1|88588|0.29%|
+|Potion_of_Shocking_Disclosure_2|88585|0.29%|
+|Bottled_Putrescence_1|88556|0.26%|
+|Base|88330|0.00%|

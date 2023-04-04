@@ -1,0 +1,34 @@
+# nokhud-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|141572|2.35%|
+|Phial_of_Charged_Isolation_3|141506|2.30%|
+|Phial_of_Static_Empowerment_2|141180|2.07%|
+|Phial_of_Charged_Isolation_2|141001|1.94%|
+|Phial_of_Static_Empowerment_1|140798|1.79%|
+|Phial_of_Charged_Isolation_1|140642|1.68%|
+|Iced_Phial_of_Corrupting_Rage_3|140468|1.55%|
+|Phial_of_Tepid_Versatility_3|140318|1.44%|
+|Iced_Phial_of_Corrupting_Rage_2|140289|1.42%|
+|Iced_Phial_of_Corrupting_Rage_1|140209|1.37%|
+|Phial_of_Tepid_Versatility_2|140197|1.36%|
+|Phial_of_Elemental_Chaos_3|140107|1.29%|
+|Phial_of_Elemental_Chaos_2|140035|1.24%|
+|Phial_of_Tepid_Versatility_1|139997|1.21%|
+|Phial_of_Elemental_Chaos_1|139912|1.15%|
+|Phial_of_Glacial_Fury_2|139256|0.68%|
+|Phial_of_Glacial_Fury_3|139248|0.67%|
+|Phial_of_Glacial_Fury_1|139082|0.55%|
+|Elemental_Potion_of_Ultimate_Power_3|138948|0.45%|
+|Elemental_Potion_of_Ultimate_Power_2|138894|0.41%|
+|Elemental_Potion_of_Power_2|138855|0.39%|
+|Elemental_Potion_of_Ultimate_Power_1|138824|0.36%|
+|Elemental_Potion_of_Power_3|138816|0.36%|
+|Bottled_Putrescence_3|138720|0.29%|
+|Elemental_Potion_of_Power_1|138712|0.28%|
+|Bottled_Putrescence_1|138692|0.27%|
+|Potion_of_Shocking_Disclosure_3|138691|0.27%|
+|Bottled_Putrescence_2|138659|0.25%|
+|Potion_of_Shocking_Disclosure_2|138591|0.20%|
+|Potion_of_Shocking_Disclosure_1|138567|0.18%|
+|Base|138320|0.00%|

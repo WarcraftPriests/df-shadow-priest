@@ -1,0 +1,34 @@
+# algethar-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|138857|4.00%|
+|Phial_of_Charged_Isolation_3|138682|3.87%|
+|Phial_of_Static_Empowerment_2|138222|3.53%|
+|Phial_of_Charged_Isolation_2|138063|3.41%|
+|Phial_of_Static_Empowerment_1|137647|3.10%|
+|Phial_of_Charged_Isolation_1|137474|2.97%|
+|Iced_Phial_of_Corrupting_Rage_3|137049|2.65%|
+|Phial_of_Tepid_Versatility_3|137005|2.61%|
+|Iced_Phial_of_Corrupting_Rage_2|136770|2.44%|
+|Phial_of_Tepid_Versatility_2|136700|2.39%|
+|Iced_Phial_of_Corrupting_Rage_1|136490|2.23%|
+|Phial_of_Tepid_Versatility_1|136477|2.22%|
+|Phial_of_Elemental_Chaos_3|136467|2.21%|
+|Phial_of_Elemental_Chaos_2|136277|2.07%|
+|Phial_of_Elemental_Chaos_1|136010|1.87%|
+|Phial_of_Glacial_Fury_3|135137|1.22%|
+|Phial_of_Glacial_Fury_2|134897|1.04%|
+|Phial_of_Glacial_Fury_1|134621|0.83%|
+|Elemental_Potion_of_Ultimate_Power_3|134316|0.60%|
+|Elemental_Potion_of_Ultimate_Power_2|134258|0.56%|
+|Elemental_Potion_of_Power_3|134196|0.51%|
+|Elemental_Potion_of_Ultimate_Power_1|134158|0.48%|
+|Elemental_Potion_of_Power_2|134062|0.41%|
+|Bottled_Putrescence_3|134027|0.38%|
+|Elemental_Potion_of_Power_1|134026|0.38%|
+|Potion_of_Shocking_Disclosure_3|134009|0.37%|
+|Bottled_Putrescence_2|133996|0.36%|
+|Potion_of_Shocking_Disclosure_2|133944|0.32%|
+|Bottled_Putrescence_1|133921|0.30%|
+|Potion_of_Shocking_Disclosure_1|133858|0.26%|
+|Base|133514|0.00%|

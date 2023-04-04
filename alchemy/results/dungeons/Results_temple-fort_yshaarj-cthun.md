@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|104819|4.50%|
+|Phial_of_Charged_Isolation_3|104687|4.37%|
+|Phial_of_Static_Empowerment_2|104303|3.99%|
+|Phial_of_Charged_Isolation_2|104110|3.79%|
+|Phial_of_Static_Empowerment_1|103818|3.50%|
+|Phial_of_Charged_Isolation_1|103698|3.38%|
+|Iced_Phial_of_Corrupting_Rage_3|103360|3.05%|
+|Phial_of_Tepid_Versatility_3|103307|2.99%|
+|Phial_of_Tepid_Versatility_2|103105|2.79%|
+|Iced_Phial_of_Corrupting_Rage_2|103101|2.79%|
+|Phial_of_Elemental_Chaos_3|102931|2.62%|
+|Phial_of_Tepid_Versatility_1|102869|2.56%|
+|Iced_Phial_of_Corrupting_Rage_1|102843|2.53%|
+|Phial_of_Elemental_Chaos_2|102729|2.42%|
+|Phial_of_Elemental_Chaos_1|102450|2.14%|
+|Phial_of_Glacial_Fury_3|101811|1.50%|
+|Phial_of_Glacial_Fury_2|101606|1.30%|
+|Phial_of_Glacial_Fury_1|101413|1.11%|
+|Elemental_Potion_of_Ultimate_Power_3|100947|0.64%|
+|Elemental_Potion_of_Ultimate_Power_2|100880|0.57%|
+|Elemental_Potion_of_Power_3|100812|0.51%|
+|Elemental_Potion_of_Power_2|100794|0.49%|
+|Bottled_Putrescence_3|100714|0.41%|
+|Elemental_Potion_of_Ultimate_Power_1|100708|0.40%|
+|Bottled_Putrescence_2|100666|0.36%|
+|Elemental_Potion_of_Power_1|100656|0.35%|
+|Potion_of_Shocking_Disclosure_3|100641|0.34%|
+|Bottled_Putrescence_1|100612|0.31%|
+|Potion_of_Shocking_Disclosure_2|100556|0.25%|
+|Potion_of_Shocking_Disclosure_1|100545|0.24%|
+|Base|100304|0.00%|

@@ -284,8 +284,10 @@ profileset."Wrists_Allied_Wristguards_of_Time_Dilation_447"+=wrists=allied_wrist
 
 ## Inscription
 profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=447,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=off_hand=disabled
 
 profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant_id=6643
+profileset."2h_Weathered_Explorers_Stave_447"+=off_hand=disabled
 
 profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
 profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36

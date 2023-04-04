@@ -1,0 +1,34 @@
+# azure-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|120961|4.43%|
+|Phial_of_Charged_Isolation_3|120702|4.21%|
+|Phial_of_Static_Empowerment_2|120224|3.79%|
+|Phial_of_Charged_Isolation_2|120056|3.65%|
+|Phial_of_Static_Empowerment_1|119605|3.26%|
+|Phial_of_Charged_Isolation_1|119459|3.13%|
+|Iced_Phial_of_Corrupting_Rage_3|119017|2.75%|
+|Phial_of_Tepid_Versatility_3|118971|2.71%|
+|Phial_of_Tepid_Versatility_2|118734|2.51%|
+|Iced_Phial_of_Corrupting_Rage_2|118719|2.49%|
+|Phial_of_Elemental_Chaos_3|118480|2.29%|
+|Iced_Phial_of_Corrupting_Rage_1|118474|2.28%|
+|Phial_of_Tepid_Versatility_1|118405|2.22%|
+|Phial_of_Elemental_Chaos_2|118283|2.12%|
+|Phial_of_Elemental_Chaos_1|118077|1.94%|
+|Phial_of_Glacial_Fury_3|117326|1.29%|
+|Phial_of_Glacial_Fury_2|117129|1.12%|
+|Phial_of_Glacial_Fury_1|116902|0.92%|
+|Elemental_Potion_of_Ultimate_Power_3|116341|0.44%|
+|Elemental_Potion_of_Ultimate_Power_1|116193|0.31%|
+|Elemental_Potion_of_Ultimate_Power_2|116175|0.30%|
+|Elemental_Potion_of_Power_3|116174|0.30%|
+|Potion_of_Shocking_Disclosure_3|116127|0.26%|
+|Elemental_Potion_of_Power_2|116111|0.24%|
+|Elemental_Potion_of_Power_1|116108|0.24%|
+|Bottled_Putrescence_3|116098|0.23%|
+|Bottled_Putrescence_2|116043|0.18%|
+|Bottled_Putrescence_1|115991|0.14%|
+|Potion_of_Shocking_Disclosure_1|115983|0.13%|
+|Potion_of_Shocking_Disclosure_2|115962|0.11%|
+|Base|115831|0.00%|

@@ -1,0 +1,34 @@
+# cos-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|96094|4.16%|
+|Phial_of_Charged_Isolation_3|95945|4.00%|
+|Phial_of_Static_Empowerment_2|95619|3.65%|
+|Phial_of_Charged_Isolation_2|95417|3.43%|
+|Phial_of_Static_Empowerment_1|95203|3.19%|
+|Phial_of_Charged_Isolation_1|95029|3.01%|
+|Iced_Phial_of_Corrupting_Rage_3|94759|2.71%|
+|Phial_of_Tepid_Versatility_3|94736|2.69%|
+|Iced_Phial_of_Corrupting_Rage_2|94590|2.53%|
+|Phial_of_Tepid_Versatility_2|94554|2.49%|
+|Phial_of_Elemental_Chaos_3|94468|2.40%|
+|Iced_Phial_of_Corrupting_Rage_1|94385|2.31%|
+|Phial_of_Tepid_Versatility_1|94345|2.26%|
+|Phial_of_Elemental_Chaos_2|94256|2.17%|
+|Phial_of_Elemental_Chaos_1|94151|2.05%|
+|Phial_of_Glacial_Fury_3|93545|1.40%|
+|Phial_of_Glacial_Fury_2|93333|1.17%|
+|Phial_of_Glacial_Fury_1|93233|1.06%|
+|Elemental_Potion_of_Ultimate_Power_3|92813|0.60%|
+|Elemental_Potion_of_Ultimate_Power_2|92763|0.55%|
+|Elemental_Potion_of_Ultimate_Power_1|92695|0.48%|
+|Elemental_Potion_of_Power_3|92660|0.44%|
+|Elemental_Potion_of_Power_2|92656|0.43%|
+|Elemental_Potion_of_Power_1|92594|0.37%|
+|Bottled_Putrescence_3|92500|0.26%|
+|Bottled_Putrescence_2|92474|0.24%|
+|Bottled_Putrescence_1|92422|0.18%|
+|Potion_of_Shocking_Disclosure_2|92410|0.17%|
+|Potion_of_Shocking_Disclosure_3|92410|0.17%|
+|Potion_of_Shocking_Disclosure_1|92363|0.12%|
+|Base|92256|0.00%|

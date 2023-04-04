@@ -60,7 +60,7 @@ def run_suite(sim_dir, sim_type, output_file, sim, ptr, apl):
         update_state(sim_dir, sim_type, output_file, "profiles")
 
     if check_state(sim_dir, sim_type, output_file, "sim"):
-        print(f"Running sim suite for {sim} - Composite")
+        print(f"Running sim suite for {sim} - {sim_type}")
         call_process(generate_args(sim_dir, sim_type, "sim.py", ptr, apl))
         update_state(sim_dir, sim_type, output_file, "sim")
 
@@ -104,8 +104,11 @@ def main():
             continue
         sim_dir = f"{sim}/"
 
-        sim_type = "dungeons" if args.dungeons else "composite"
-        run_suite(sim_dir, sim_type, output_file, sim, ptr, apl)
+        # By default run Composite and Dungeons suite
+        # Can pass in --dungeons to ONLY run the Dungeons suite
+        if not args.dungeons:
+            run_suite(sim_dir, "composite", output_file, sim, ptr, apl)
+        run_suite(sim_dir, "dungeons", output_file, sim, ptr, apl)
 
 
 if __name__ == "__main__":

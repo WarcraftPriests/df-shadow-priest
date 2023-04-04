@@ -1,0 +1,34 @@
+# smbg-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|106277|3.52%|
+|Phial_of_Charged_Isolation_3|106163|3.41%|
+|Phial_of_Static_Empowerment_2|105835|3.09%|
+|Phial_of_Charged_Isolation_2|105663|2.92%|
+|Phial_of_Static_Empowerment_1|105479|2.74%|
+|Phial_of_Charged_Isolation_1|105372|2.64%|
+|Phial_of_Tepid_Versatility_3|105106|2.38%|
+|Iced_Phial_of_Corrupting_Rage_3|105088|2.36%|
+|Iced_Phial_of_Corrupting_Rage_2|104921|2.20%|
+|Phial_of_Tepid_Versatility_2|104919|2.20%|
+|Phial_of_Elemental_Chaos_3|104871|2.15%|
+|Iced_Phial_of_Corrupting_Rage_1|104776|2.06%|
+|Phial_of_Tepid_Versatility_1|104721|2.00%|
+|Phial_of_Elemental_Chaos_2|104710|1.99%|
+|Phial_of_Elemental_Chaos_1|104604|1.89%|
+|Phial_of_Glacial_Fury_3|104020|1.32%|
+|Phial_of_Glacial_Fury_2|103867|1.17%|
+|Phial_of_Glacial_Fury_1|103674|0.98%|
+|Elemental_Potion_of_Ultimate_Power_3|103394|0.71%|
+|Bottled_Putrescence_3|103357|0.68%|
+|Elemental_Potion_of_Ultimate_Power_2|103342|0.66%|
+|Elemental_Potion_of_Ultimate_Power_1|103298|0.62%|
+|Elemental_Potion_of_Power_3|103264|0.58%|
+|Bottled_Putrescence_2|103243|0.56%|
+|Potion_of_Shocking_Disclosure_3|103225|0.55%|
+|Elemental_Potion_of_Power_2|103167|0.49%|
+|Bottled_Putrescence_1|103158|0.48%|
+|Potion_of_Shocking_Disclosure_2|103143|0.47%|
+|Elemental_Potion_of_Power_1|103134|0.46%|
+|Potion_of_Shocking_Disclosure_1|103064|0.39%|
+|Base|102664|0.00%|

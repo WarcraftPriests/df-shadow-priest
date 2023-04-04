@@ -1,0 +1,34 @@
+# cos-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|89717|3.63%|
+|Phial_of_Charged_Isolation_3|89572|3.46%|
+|Phial_of_Static_Empowerment_2|89364|3.22%|
+|Phial_of_Charged_Isolation_2|89302|3.15%|
+|Phial_of_Static_Empowerment_1|89066|2.88%|
+|Phial_of_Charged_Isolation_1|89009|2.81%|
+|Iced_Phial_of_Corrupting_Rage_3|88817|2.59%|
+|Phial_of_Tepid_Versatility_3|88754|2.52%|
+|Iced_Phial_of_Corrupting_Rage_2|88662|2.41%|
+|Phial_of_Tepid_Versatility_2|88648|2.39%|
+|Phial_of_Elemental_Chaos_3|88601|2.34%|
+|Phial_of_Tepid_Versatility_1|88539|2.27%|
+|Iced_Phial_of_Corrupting_Rage_1|88519|2.24%|
+|Phial_of_Elemental_Chaos_2|88445|2.16%|
+|Phial_of_Elemental_Chaos_1|88343|2.04%|
+|Phial_of_Glacial_Fury_3|87787|1.40%|
+|Phial_of_Glacial_Fury_2|87628|1.22%|
+|Phial_of_Glacial_Fury_1|87470|1.03%|
+|Elemental_Potion_of_Ultimate_Power_3|87285|0.82%|
+|Elemental_Potion_of_Ultimate_Power_2|87195|0.71%|
+|Elemental_Potion_of_Power_3|87126|0.64%|
+|Elemental_Potion_of_Ultimate_Power_1|87114|0.62%|
+|Elemental_Potion_of_Power_2|87047|0.54%|
+|Elemental_Potion_of_Power_1|86964|0.45%|
+|Potion_of_Shocking_Disclosure_3|86892|0.36%|
+|Bottled_Putrescence_3|86828|0.29%|
+|Potion_of_Shocking_Disclosure_2|86814|0.27%|
+|Potion_of_Shocking_Disclosure_1|86776|0.23%|
+|Bottled_Putrescence_2|86734|0.18%|
+|Bottled_Putrescence_1|86703|0.15%|
+|Base|86576|0.00%|

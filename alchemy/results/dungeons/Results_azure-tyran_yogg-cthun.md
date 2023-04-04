@@ -1,0 +1,34 @@
+# azure-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|110974|4.54%|
+|Phial_of_Charged_Isolation_3|110762|4.34%|
+|Phial_of_Static_Empowerment_2|110320|3.92%|
+|Phial_of_Charged_Isolation_2|110187|3.80%|
+|Phial_of_Static_Empowerment_1|109828|3.46%|
+|Phial_of_Charged_Isolation_1|109578|3.23%|
+|Iced_Phial_of_Corrupting_Rage_3|109306|2.97%|
+|Phial_of_Tepid_Versatility_3|109186|2.86%|
+|Iced_Phial_of_Corrupting_Rage_2|109053|2.73%|
+|Phial_of_Tepid_Versatility_2|108974|2.66%|
+|Phial_of_Elemental_Chaos_3|108849|2.54%|
+|Iced_Phial_of_Corrupting_Rage_1|108801|2.49%|
+|Phial_of_Tepid_Versatility_1|108694|2.39%|
+|Phial_of_Elemental_Chaos_2|108661|2.36%|
+|Phial_of_Elemental_Chaos_1|108359|2.08%|
+|Phial_of_Glacial_Fury_3|107689|1.45%|
+|Phial_of_Glacial_Fury_2|107484|1.25%|
+|Phial_of_Glacial_Fury_1|107227|1.01%|
+|Elemental_Potion_of_Ultimate_Power_3|107011|0.81%|
+|Bottled_Putrescence_3|106960|0.76%|
+|Elemental_Potion_of_Ultimate_Power_2|106915|0.72%|
+|Bottled_Putrescence_2|106835|0.64%|
+|Elemental_Potion_of_Ultimate_Power_1|106766|0.58%|
+|Elemental_Potion_of_Power_3|106741|0.55%|
+|Bottled_Putrescence_1|106729|0.54%|
+|Potion_of_Shocking_Disclosure_2|106695|0.51%|
+|Potion_of_Shocking_Disclosure_3|106691|0.51%|
+|Elemental_Potion_of_Power_2|106682|0.50%|
+|Potion_of_Shocking_Disclosure_1|106604|0.42%|
+|Elemental_Potion_of_Power_1|106577|0.40%|
+|Base|106154|0.00%|

@@ -1,0 +1,34 @@
+# temple-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|94144|3.93%|
+|Phial_of_Charged_Isolation_3|94010|3.78%|
+|Phial_of_Static_Empowerment_2|93716|3.46%|
+|Phial_of_Charged_Isolation_2|93610|3.34%|
+|Phial_of_Static_Empowerment_1|93351|3.06%|
+|Phial_of_Charged_Isolation_1|93251|2.95%|
+|Iced_Phial_of_Corrupting_Rage_3|93054|2.73%|
+|Phial_of_Tepid_Versatility_3|92942|2.60%|
+|Iced_Phial_of_Corrupting_Rage_2|92853|2.51%|
+|Phial_of_Tepid_Versatility_2|92772|2.42%|
+|Phial_of_Elemental_Chaos_3|92750|2.39%|
+|Iced_Phial_of_Corrupting_Rage_1|92660|2.29%|
+|Phial_of_Elemental_Chaos_2|92621|2.25%|
+|Phial_of_Tepid_Versatility_1|92593|2.22%|
+|Phial_of_Elemental_Chaos_1|92415|2.02%|
+|Phial_of_Glacial_Fury_3|91805|1.35%|
+|Phial_of_Glacial_Fury_2|91700|1.23%|
+|Phial_of_Glacial_Fury_1|91572|1.09%|
+|Elemental_Potion_of_Ultimate_Power_3|91300|0.79%|
+|Elemental_Potion_of_Ultimate_Power_2|91266|0.75%|
+|Elemental_Potion_of_Power_3|91168|0.65%|
+|Elemental_Potion_of_Ultimate_Power_1|91162|0.64%|
+|Elemental_Potion_of_Power_2|91090|0.56%|
+|Bottled_Putrescence_3|91088|0.56%|
+|Elemental_Potion_of_Power_1|91002|0.46%|
+|Bottled_Putrescence_2|90967|0.42%|
+|Potion_of_Shocking_Disclosure_3|90944|0.40%|
+|Bottled_Putrescence_1|90895|0.34%|
+|Potion_of_Shocking_Disclosure_2|90866|0.31%|
+|Potion_of_Shocking_Disclosure_1|90800|0.24%|
+|Base|90583|0.00%|

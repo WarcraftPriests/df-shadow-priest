@@ -1,0 +1,34 @@
+# azure-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Static_Empowerment_3|120660|4.60%|
+|Phial_of_Charged_Isolation_3|120526|4.48%|
+|Phial_of_Static_Empowerment_2|120113|4.12%|
+|Phial_of_Charged_Isolation_2|120008|4.03%|
+|Phial_of_Static_Empowerment_1|119671|3.74%|
+|Phial_of_Charged_Isolation_1|119607|3.68%|
+|Iced_Phial_of_Corrupting_Rage_3|119224|3.35%|
+|Phial_of_Tepid_Versatility_3|119128|3.27%|
+|Iced_Phial_of_Corrupting_Rage_2|119062|3.21%|
+|Phial_of_Tepid_Versatility_2|118964|3.13%|
+|Iced_Phial_of_Corrupting_Rage_1|118828|3.01%|
+|Phial_of_Elemental_Chaos_3|118794|2.98%|
+|Phial_of_Elemental_Chaos_2|118677|2.88%|
+|Phial_of_Tepid_Versatility_1|118637|2.84%|
+|Phial_of_Elemental_Chaos_1|118484|2.71%|
+|Phial_of_Glacial_Fury_3|117588|1.93%|
+|Phial_of_Glacial_Fury_2|117244|1.63%|
+|Phial_of_Glacial_Fury_1|117033|1.45%|
+|Elemental_Potion_of_Ultimate_Power_3|115825|0.40%|
+|Potion_of_Shocking_Disclosure_3|115741|0.33%|
+|Elemental_Potion_of_Ultimate_Power_2|115735|0.33%|
+|Potion_of_Shocking_Disclosure_2|115711|0.31%|
+|Elemental_Potion_of_Power_3|115681|0.28%|
+|Elemental_Potion_of_Ultimate_Power_1|115674|0.27%|
+|Potion_of_Shocking_Disclosure_1|115618|0.22%|
+|Bottled_Putrescence_2|115611|0.22%|
+|Bottled_Putrescence_3|115611|0.22%|
+|Elemental_Potion_of_Power_2|115609|0.22%|
+|Bottled_Putrescence_1|115597|0.21%|
+|Elemental_Potion_of_Power_1|115586|0.20%|
+|Base|115359|0.00%|
