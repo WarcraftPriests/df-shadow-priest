@@ -90,14 +90,15 @@ profileset."Weapon_Wafting_Devotion_1"+=main_hand=${gear.main_hand},enchant=waft
 profileset."Weapon_Wafting_Devotion_2"+=main_hand=${gear.main_hand},enchant=wafting_devotion_2
 profileset."Weapon_Wafting_Devotion_3"+=main_hand=${gear.main_hand},enchant=wafting_devotion_3
 
-# TODO: Check what these actually do
-profileset."Weapon_Shadowflame_Wreathe_1"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_1
-profileset."Weapon_Shadowflame_Wreathe_2"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_2
-profileset."Weapon_Shadowflame_Wreathe_3"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_3
+# TODO: NYI
+# profileset."Weapon_Shadowflame_Wreathe_1"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_1
+# profileset."Weapon_Shadowflame_Wreathe_2"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_2
+# profileset."Weapon_Shadowflame_Wreathe_3"+=main_hand=${gear.main_hand},enchant=shadowflame_wreathe_3
 
-profileset."Weapon_Spore_Tender_1"+=main_hand=${gear.main_hand},enchant=spore_tender_1
-profileset."Weapon_Spore_Tender_2"+=main_hand=${gear.main_hand},enchant=spore_tender_2
-profileset."Weapon_Spore_Tender_3"+=main_hand=${gear.main_hand},enchant=spore_tender_3
+# TODO: NYI
+# profileset."Weapon_Spore_Tender_1"+=main_hand=${gear.main_hand},enchant=spore_tender_1
+# profileset."Weapon_Spore_Tender_2"+=main_hand=${gear.main_hand},enchant=spore_tender_2
+# profileset."Weapon_Spore_Tender_3"+=main_hand=${gear.main_hand},enchant=spore_tender_3
 
 # Chest
 profileset."Chest_Reserve_of_Intellect_1"+=chest=${gear.chest},enchant=reserve_of_intellect_1

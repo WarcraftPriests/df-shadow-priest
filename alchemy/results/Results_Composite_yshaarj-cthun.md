@@ -1,0 +1,34 @@
+# Composite - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Charged_Isolation_3|138140|5.36%|
+|Phial_of_Static_Empowerment_3|137840|5.13%|
+|Phial_of_Charged_Isolation_2|137230|4.66%|
+|Phial_of_Static_Empowerment_2|136922|4.43%|
+|Phial_of_Charged_Isolation_1|136410|4.04%|
+|Phial_of_Static_Empowerment_1|136199|3.88%|
+|Iced_Phial_of_Corrupting_Rage_3|136016|3.74%|
+|Phial_of_Tepid_Versatility_3|135645|3.46%|
+|Iced_Phial_of_Corrupting_Rage_2|135636|3.45%|
+|Phial_of_Tepid_Versatility_2|135308|3.20%|
+|Phial_of_Elemental_Chaos_3|135307|3.20%|
+|Iced_Phial_of_Corrupting_Rage_1|135251|3.16%|
+|Phial_of_Elemental_Chaos_2|134992|2.96%|
+|Phial_of_Tepid_Versatility_1|134958|2.93%|
+|Phial_of_Elemental_Chaos_1|134689|2.73%|
+|Elemental_Potion_of_Ultimate_Power_3|133070|1.49%|
+|Elemental_Potion_of_Ultimate_Power_2|132797|1.28%|
+|Phial_of_Glacial_Fury_3|132673|1.19%|
+|Elemental_Potion_of_Ultimate_Power_1|132601|1.13%|
+|Elemental_Potion_of_Power_3|132575|1.11%|
+|Phial_of_Glacial_Fury_2|132470|1.03%|
+|Elemental_Potion_of_Power_2|132382|0.97%|
+|Phial_of_Glacial_Fury_1|132240|0.86%|
+|Elemental_Potion_of_Power_1|132230|0.85%|
+|Bottled_Putrescence_3|131796|0.52%|
+|Bottled_Putrescence_2|131706|0.45%|
+|Potion_of_Shocking_Disclosure_3|131683|0.43%|
+|Potion_of_Shocking_Disclosure_2|131605|0.37%|
+|Bottled_Putrescence_1|131605|0.37%|
+|Potion_of_Shocking_Disclosure_1|131531|0.32%|
+|Base|131114|0.00%|

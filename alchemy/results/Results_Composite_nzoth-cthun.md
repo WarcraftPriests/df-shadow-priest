@@ -1,0 +1,34 @@
+# Composite - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Phial_of_Charged_Isolation_3|138201|5.39%|
+|Phial_of_Static_Empowerment_3|137856|5.13%|
+|Phial_of_Charged_Isolation_2|137283|4.69%|
+|Phial_of_Static_Empowerment_2|136990|4.47%|
+|Phial_of_Charged_Isolation_1|136468|4.07%|
+|Phial_of_Static_Empowerment_1|136238|3.90%|
+|Iced_Phial_of_Corrupting_Rage_3|136060|3.76%|
+|Phial_of_Tepid_Versatility_3|135688|3.48%|
+|Iced_Phial_of_Corrupting_Rage_2|135668|3.46%|
+|Phial_of_Tepid_Versatility_2|135381|3.24%|
+|Phial_of_Elemental_Chaos_3|135359|3.22%|
+|Iced_Phial_of_Corrupting_Rage_1|135330|3.20%|
+|Phial_of_Elemental_Chaos_2|135088|3.02%|
+|Phial_of_Tepid_Versatility_1|135023|2.97%|
+|Phial_of_Elemental_Chaos_1|134727|2.74%|
+|Elemental_Potion_of_Ultimate_Power_3|133003|1.43%|
+|Elemental_Potion_of_Ultimate_Power_2|132766|1.25%|
+|Phial_of_Glacial_Fury_3|132719|1.21%|
+|Elemental_Potion_of_Ultimate_Power_1|132537|1.07%|
+|Elemental_Potion_of_Power_3|132528|1.07%|
+|Phial_of_Glacial_Fury_2|132501|1.05%|
+|Elemental_Potion_of_Power_2|132353|0.93%|
+|Phial_of_Glacial_Fury_1|132335|0.92%|
+|Elemental_Potion_of_Power_1|132216|0.83%|
+|Bottled_Putrescence_3|131838|0.54%|
+|Bottled_Putrescence_2|131731|0.46%|
+|Potion_of_Shocking_Disclosure_3|131728|0.46%|
+|Potion_of_Shocking_Disclosure_2|131636|0.39%|
+|Bottled_Putrescence_1|131633|0.38%|
+|Potion_of_Shocking_Disclosure_1|131559|0.33%|
+|Base|131130|0.00%|
