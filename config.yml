@@ -137,10 +137,14 @@ sims:
       - VF-Spike.simc
       - DA-Flay.simc
       - DA-Spike.simc
-      - VF-Flay_SC.simc
-      - VF-Spike_SC.simc
-      - DA-Flay_SC.simc
-      - DA-Spike_SC.simc
+      - VF-Flay_DR.simc
+      - VF-Spike_DR.simc
+      - DA-Flay_DR.simc
+      - DA-Spike_DR.simc
+      - VF-Spike_AS.simc
+      - DA-Spike_AS.simc
+      - VF-Spike_DR_AS.simc
+      - DA-Spike_DR_AS.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
     builds: true

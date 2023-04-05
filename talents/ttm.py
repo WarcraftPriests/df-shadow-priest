@@ -2,7 +2,9 @@
 
 if __name__ == '__main__':
     profiles = ["VF-Flay.simc", "DA-Flay.simc", "VF-Spike.simc", "DA-Spike.simc",
-                "VF-Flay_SC.simc", "DA-Flay_SC.simc", "VF-Spike_SC.simc", "DA-Spike_SC.simc"]
+                "VF-Flay_DR.simc", "DA-Flay_DR.simc", "VF-Spike_DR.simc", "DA-Spike_DR.simc",
+                "DA-Spike_AS.simc", "DA-Spike_DR_AS.simc", "VF-Spike_DR_AS.simc", 
+                "VF-Spike_AS.simc"]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
