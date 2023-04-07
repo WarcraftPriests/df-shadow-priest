@@ -133,18 +133,22 @@ sims:
     steps:
       - DPS
     files:
-      - VF-Flay.simc
-      - VF-Spike.simc
-      - DA-Flay.simc
       - DA-Spike.simc
-      - VF-Flay_DR.simc
-      - VF-Spike_DR.simc
-      - DA-Flay_DR.simc
+      - DA-Flay.simc
       - DA-Spike_DR.simc
-      - VF-Spike_AS.simc
-      - DA-Spike_AS.simc
-      - VF-Spike_DR_AS.simc
-      - DA-Spike_DR_AS.simc
+      - DA-Flay_DR.simc
+      - DA-Spike_TS.simc
+      - DA-Flay_TS.simc
+      - DA-Spike_DR_TS.simc
+      - DA-Flay_DR_TS.simc
+      - VF-Spike.simc
+      - VF-Flay.simc
+      - VF-Spike_DR.simc
+      - VF-Flay_DR.simc
+      - VF-Spike_TS.simc
+      - VF-Flay_TS.simc
+      - VF-Spike_DR_TS.simc
+      - VF-Flay_DR_TS.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
     builds: true

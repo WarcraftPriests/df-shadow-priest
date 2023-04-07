@@ -29,7 +29,8 @@ if __name__ == '__main__':
             profile_name = result[0]
             da_or_vf = result[1]
             spike_or_flay = result[2]
-            filler_types = ["Spike", "Flay", "Spike_SC", "Flay_SC"]
+            filler_types = ["Spike", "Flay", "Spike_TS", "Flay_TS",
+                            "Spike_DR", "Flay_DR", "Spike_DR_TS", "Flay_DR_TS"]
             MATCH = False
 
             if da_or_vf in ["VF", "DA"] and spike_or_flay in filler_types:

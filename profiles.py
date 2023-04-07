@@ -186,7 +186,14 @@ def build_profiles(talent_string, apl_string):
         for profile in combinations:
             # Don't build the profile if it has no weight
             weight = find_weights(config["compositeWeights"]).get(profile)
-            if weight == 0:
+            st_weight = find_weights(
+                config["singleTargetWeights"]).get(profile)
+            two_target_weight = find_weights(
+                config["twoTargetWeights"]).get(profile)
+            four_target_weight = find_weights(
+                config["fourTargetWeights"]).get(profile)
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0:
+                print(f"Skipping profile {profile} weights are all 0.")
                 continue
 
             sim_data = data

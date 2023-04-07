@@ -1,10 +1,24 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-Flay.simc", "DA-Flay.simc", "VF-Spike.simc", "DA-Spike.simc",
-                "VF-Flay_DR.simc", "DA-Flay_DR.simc", "VF-Spike_DR.simc", "DA-Spike_DR.simc",
-                "DA-Spike_AS.simc", "DA-Spike_DR_AS.simc", "VF-Spike_DR_AS.simc", 
-                "VF-Spike_AS.simc"]
+    profiles = [
+        "DA-Spike.simc",
+        "DA-Flay.simc",
+        "DA-Spike_DR.simc",
+        "DA-Flay_DR.simc",
+        "DA-Spike_TS.simc",
+        "DA-Flay_TS.simc",
+        "DA-Spike_DR_TS.simc",
+        "DA-Flay_DR_TS.simc",
+        "VF-Spike.simc",
+        "VF-Flay.simc",
+        "VF-Spike_DR.simc",
+        "VF-Flay_DR.simc",
+        "VF-Spike_TS.simc",
+        "VF-Flay_TS.simc",
+        "VF-Spike_DR_TS.simc",
+        "VF-Flay_DR_TS.simc",
+    ]
     for profile in profiles:
         OUTPUT_FILE = ""
         with open(profile, 'r', encoding="utf8") as file:
