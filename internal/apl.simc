@@ -66,7 +66,7 @@ actions.main+=/void_bolt,if=variable.dots_up
 # Use Mind Devourer Procs on Mind Sear when facing 2 or more targets
 actions.main+=/mind_sear,target_if=active_enemies>1&buff.mind_devourer.up
 #actions.main+=/psychic_horror,if=(dot.devouring_plague.refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2))&buff.weakening_reality.stack=7&(target.health.pct>80|!pet.fiend.active)
-actions.main+=/devouring_plague,if=refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2)
+actions.main+=/devouring_plague,target_if=refreshable|!talent.distorted_reality,if=refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2)
 actions.main+=/shadow_crash,if=!variable.holding_crash&dot.vampiric_touch.refreshable
 actions.main+=/vampiric_touch,target_if=min:remains,if=refreshable&target.time_to_die>=12&(cooldown.shadow_crash.remains>=dot.vampiric_touch.remains&!action.shadow_crash.in_flight|variable.holding_crash|!talent.whispering_shadows)
 actions.main+=/shadow_word_death,target_if=target.health.pct<20&(cooldown.fiend.remains>=10|!talent.inescapable_torment)|pet.fiend.active>1&talent.inescapable_torment|buff.deathspeaker.up
@@ -90,7 +90,7 @@ actions.aoe+=/mindbender,if=(dot.shadow_word_pain.ticking&variable.vts_applied|a
 # Use Mind Blast when capped on charges and talented into Mind Devourer to fish for the buff. Only use when facing 3-7 targets.
 actions.aoe+=/mind_blast,if=(cooldown.mind_blast.full_recharge_time<=gcd.max+cast_time|pet.fiend.remains<=cast_time+gcd.max)&pet.fiend.active&talent.inescapable_torment&pet.fiend.remains>cast_time&active_enemies<=7&!buff.mind_devourer.up
 actions.aoe+=/void_bolt
-actions.aoe+=/devouring_plague,if=refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2)
+actions.aoe+=/devouring_plague,target_if=refreshable|!talent.distorted_reality,if=refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2)
 actions.aoe+=/vampiric_touch,target_if=refreshable&target.time_to_die>=18&(dot.vampiric_touch.ticking|!variable.vts_applied),if=variable.max_vts>0&(cooldown.shadow_crash.remains>=dot.vampiric_touch.remains|variable.holding_crash)&!action.shadow_crash.in_flight|!talent.whispering_shadows
 # TODO: Check Yshaarj Gains for pressing this during Inescapable Torment.
 actions.aoe+=/shadow_word_death,target_if=target.health.pct<20&(cooldown.fiend.remains>=10|!talent.inescapable_torment)|pet.fiend.active>1&talent.inescapable_torment|buff.deathspeaker.up
