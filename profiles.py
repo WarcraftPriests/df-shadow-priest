@@ -192,7 +192,7 @@ def build_profiles(talent_string, apl_string):
                 config["twoTargetWeights"]).get(profile) or 0
             four_target_weight = find_weights(
                 config["fourTargetWeights"]).get(profile) or 0
-            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0:
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:
                 # print(f"Skipping profile {profile} weights are all 0.")
                 continue
 
