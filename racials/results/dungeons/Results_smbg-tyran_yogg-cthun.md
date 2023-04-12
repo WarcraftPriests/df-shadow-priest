@@ -1,0 +1,34 @@
+# smbg-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|99139|1.16%|
+|Human|98990|1.01%|
+|Goblin|98865|0.88%|
+|Orc|98854|0.87%|
+|Gnome|98832|0.85%|
+|Night_Elf_Haste|98816|0.83%|
+|Draenei|98754|0.77%|
+|Highmountain_Tauren|98727|0.74%|
+|Zandalari_Troll_Paku|98710|0.72%|
+|Kul_Tiran|98707|0.72%|
+|Void_Elf|98706|0.72%|
+|Blood_Elf|98693|0.71%|
+|Night_Elf_Crit|98638|0.65%|
+|Worgen|98618|0.63%|
+|Dark_Iron_Dwarf|98607|0.62%|
+|Nightborne|98604|0.62%|
+|Dwarf|98512|0.52%|
+|Troll|98496|0.51%|
+|Panda_Fortune_Cookie|98491|0.50%|
+|Tauren|98453|0.46%|
+|Maghar_Orc|98419|0.43%|
+|Panda_Crit|98242|0.25%|
+|Panda_Mastery|98216|0.22%|
+|Panda_Vers|98212|0.22%|
+|Zandalari_Troll_Bwonsamdi|98200|0.20%|
+|Zandalari_Troll_Kimbul|98170|0.17%|
+|Panda_Haste|98157|0.16%|
+|Undead|98155|0.16%|
+|Base|98000|0.00%|
+|Vulpera|97965|-0.04%|
+|Lightforged_Draenei|97936|-0.07%|

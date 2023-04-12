@@ -1,0 +1,34 @@
+# azure-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|123926|1.29%|
+|Human|123593|1.02%|
+|Gnome|123454|0.91%|
+|Goblin|123443|0.90%|
+|Night_Elf_Haste|123420|0.88%|
+|Nightborne|123341|0.82%|
+|Void_Elf|123323|0.80%|
+|Draenei|123278|0.77%|
+|Zandalari_Troll_Paku|123261|0.75%|
+|Highmountain_Tauren|123249|0.74%|
+|Kul_Tiran|123245|0.74%|
+|Blood_Elf|123232|0.73%|
+|Night_Elf_Crit|123165|0.67%|
+|Worgen|123154|0.66%|
+|Orc|123060|0.59%|
+|Troll|123051|0.58%|
+|Dwarf|122960|0.51%|
+|Panda_Fortune_Cookie|122934|0.48%|
+|Tauren|122934|0.48%|
+|Dark_Iron_Dwarf|122916|0.47%|
+|Panda_Mastery|122709|0.30%|
+|Maghar_Orc|122672|0.27%|
+|Panda_Crit|122649|0.25%|
+|Panda_Vers|122628|0.23%|
+|Panda_Haste|122610|0.22%|
+|Undead|122555|0.17%|
+|Zandalari_Troll_Kimbul|122539|0.16%|
+|Zandalari_Troll_Bwonsamdi|122516|0.14%|
+|Vulpera|122361|0.02%|
+|Base|122342|0.00%|
+|Lightforged_Draenei|122334|-0.01%|

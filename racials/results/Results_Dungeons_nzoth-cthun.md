@@ -1,0 +1,34 @@
+# Dungeons - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|116687|1.22%|
+|Human|116390|0.97%|
+|Goblin|116224|0.82%|
+|Gnome|116213|0.81%|
+|Night_Elf_Haste|116202|0.80%|
+|Void_Elf|116182|0.79%|
+|Draenei|116147|0.76%|
+|Nightborne|116118|0.73%|
+|Kul_Tiran|116096|0.71%|
+|Highmountain_Tauren|116087|0.70%|
+|Zandalari_Troll_Paku|116030|0.65%|
+|Blood_Elf|116024|0.65%|
+|Night_Elf_Crit|115998|0.63%|
+|Orc|115997|0.63%|
+|Worgen|115980|0.61%|
+|Dark_Iron_Dwarf|115901|0.54%|
+|Panda_Fortune_Cookie|115862|0.51%|
+|Dwarf|115843|0.49%|
+|Tauren|115830|0.48%|
+|Troll|115816|0.47%|
+|Maghar_Orc|115620|0.30%|
+|Panda_Mastery|115577|0.26%|
+|Panda_Crit|115542|0.23%|
+|Panda_Vers|115538|0.23%|
+|Zandalari_Troll_Bwonsamdi|115445|0.15%|
+|Panda_Haste|115436|0.14%|
+|Undead|115430|0.13%|
+|Zandalari_Troll_Kimbul|115423|0.13%|
+|Vulpera|115294|0.02%|
+|Base|115276|0.00%|
+|Lightforged_Draenei|115246|-0.03%|

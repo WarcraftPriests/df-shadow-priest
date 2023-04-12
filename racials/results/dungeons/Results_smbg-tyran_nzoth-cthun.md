@@ -1,0 +1,34 @@
+# smbg-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|101438|1.00%|
+|Human|101279|0.84%|
+|Goblin|101262|0.82%|
+|Gnome|101242|0.80%|
+|Night_Elf_Haste|101199|0.76%|
+|Void_Elf|101079|0.64%|
+|Orc|101070|0.63%|
+|Draenei|101051|0.61%|
+|Nightborne|101048|0.61%|
+|Highmountain_Tauren|100998|0.56%|
+|Kul_Tiran|100995|0.55%|
+|Dark_Iron_Dwarf|100979|0.54%|
+|Zandalari_Troll_Paku|100970|0.53%|
+|Night_Elf_Crit|100966|0.53%|
+|Blood_Elf|100926|0.49%|
+|Worgen|100920|0.48%|
+|Troll|100899|0.46%|
+|Panda_Fortune_Cookie|100880|0.44%|
+|Tauren|100854|0.41%|
+|Dwarf|100844|0.40%|
+|Maghar_Orc|100660|0.22%|
+|Panda_Haste|100648|0.21%|
+|Panda_Mastery|100619|0.18%|
+|Panda_Vers|100602|0.16%|
+|Panda_Crit|100585|0.15%|
+|Zandalari_Troll_Kimbul|100584|0.15%|
+|Zandalari_Troll_Bwonsamdi|100575|0.14%|
+|Undead|100556|0.12%|
+|Base|100438|0.00%|
+|Vulpera|100431|-0.01%|
+|Lightforged_Draenei|100387|-0.05%|

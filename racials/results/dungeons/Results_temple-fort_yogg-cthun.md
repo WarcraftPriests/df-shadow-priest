@@ -1,0 +1,34 @@
+# temple-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|101451|0.81%|
+|Human|101260|0.62%|
+|Troll|101254|0.61%|
+|Goblin|101243|0.60%|
+|Gnome|101237|0.59%|
+|Night_Elf_Haste|101152|0.51%|
+|Orc|101148|0.50%|
+|Draenei|101147|0.50%|
+|Kul_Tiran|101130|0.49%|
+|Void_Elf|101097|0.45%|
+|Night_Elf_Crit|101086|0.44%|
+|Highmountain_Tauren|101084|0.44%|
+|Blood_Elf|101082|0.44%|
+|Zandalari_Troll_Paku|101074|0.43%|
+|Dark_Iron_Dwarf|101068|0.43%|
+|Nightborne|101052|0.41%|
+|Worgen|101042|0.40%|
+|Panda_Fortune_Cookie|100960|0.32%|
+|Tauren|100939|0.30%|
+|Dwarf|100894|0.25%|
+|Maghar_Orc|100858|0.22%|
+|Panda_Crit|100843|0.20%|
+|Panda_Mastery|100819|0.18%|
+|Panda_Haste|100739|0.10%|
+|Panda_Vers|100701|0.06%|
+|Zandalari_Troll_Kimbul|100699|0.06%|
+|Undead|100677|0.04%|
+|Zandalari_Troll_Bwonsamdi|100672|0.03%|
+|Lightforged_Draenei|100642|0.00%|
+|Base|100640|0.00%|
+|Vulpera|100617|-0.02%|

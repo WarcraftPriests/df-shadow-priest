@@ -1,0 +1,34 @@
+# algethar-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|140887|1.19%|
+|Human|140440|0.87%|
+|Goblin|140294|0.77%|
+|Gnome|140264|0.74%|
+|Night_Elf_Haste|140238|0.73%|
+|Draenei|140220|0.71%|
+|Kul_Tiran|140157|0.67%|
+|Nightborne|140150|0.66%|
+|Void_Elf|140126|0.64%|
+|Orc|140076|0.61%|
+|Zandalari_Troll_Paku|140073|0.61%|
+|Highmountain_Tauren|140049|0.59%|
+|Night_Elf_Crit|140020|0.57%|
+|Blood_Elf|139997|0.55%|
+|Worgen|139977|0.54%|
+|Dark_Iron_Dwarf|139929|0.50%|
+|Panda_Fortune_Cookie|139897|0.48%|
+|Dwarf|139872|0.46%|
+|Tauren|139835|0.44%|
+|Troll|139780|0.40%|
+|Panda_Mastery|139609|0.27%|
+|Maghar_Orc|139558|0.24%|
+|Panda_Crit|139505|0.20%|
+|Panda_Vers|139435|0.15%|
+|Panda_Haste|139380|0.11%|
+|Zandalari_Troll_Bwonsamdi|139369|0.10%|
+|Undead|139356|0.09%|
+|Zandalari_Troll_Kimbul|139270|0.03%|
+|Lightforged_Draenei|139248|0.01%|
+|Vulpera|139238|0.01%|
+|Base|139228|0.00%|

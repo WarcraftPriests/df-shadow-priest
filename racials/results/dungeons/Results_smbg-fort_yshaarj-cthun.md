@@ -1,0 +1,34 @@
+# smbg-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|107701|1.17%|
+|Human|107354|0.85%|
+|Goblin|107323|0.82%|
+|Night_Elf_Haste|107304|0.80%|
+|Gnome|107297|0.79%|
+|Draenei|107204|0.71%|
+|Kul_Tiran|107179|0.68%|
+|Orc|107172|0.68%|
+|Nightborne|107167|0.67%|
+|Void_Elf|107149|0.66%|
+|Highmountain_Tauren|107094|0.60%|
+|Dark_Iron_Dwarf|107086|0.60%|
+|Worgen|107086|0.60%|
+|Zandalari_Troll_Paku|107081|0.59%|
+|Night_Elf_Crit|107068|0.58%|
+|Blood_Elf|107054|0.57%|
+|Dwarf|107026|0.54%|
+|Tauren|106957|0.48%|
+|Panda_Fortune_Cookie|106934|0.45%|
+|Troll|106818|0.34%|
+|Maghar_Orc|106776|0.31%|
+|Panda_Mastery|106719|0.25%|
+|Panda_Vers|106712|0.25%|
+|Panda_Haste|106691|0.23%|
+|Panda_Crit|106676|0.21%|
+|Undead|106641|0.18%|
+|Zandalari_Troll_Kimbul|106622|0.16%|
+|Zandalari_Troll_Bwonsamdi|106571|0.11%|
+|Vulpera|106462|0.01%|
+|Lightforged_Draenei|106453|0.00%|
+|Base|106451|0.00%|

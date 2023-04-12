@@ -1,0 +1,34 @@
+# smbg-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|107720|1.33%|
+|Human|107405|1.03%|
+|Void_Elf|107247|0.88%|
+|Goblin|107238|0.87%|
+|Night_Elf_Haste|107200|0.84%|
+|Gnome|107178|0.82%|
+|Draenei|107161|0.80%|
+|Nightborne|107120|0.76%|
+|Kul_Tiran|107114|0.76%|
+|Orc|107113|0.75%|
+|Highmountain_Tauren|107060|0.70%|
+|Zandalari_Troll_Paku|107038|0.68%|
+|Blood_Elf|107034|0.68%|
+|Night_Elf_Crit|107002|0.65%|
+|Worgen|107000|0.65%|
+|Dark_Iron_Dwarf|106989|0.64%|
+|Tauren|106952|0.60%|
+|Panda_Fortune_Cookie|106946|0.60%|
+|Dwarf|106875|0.53%|
+|Troll|106840|0.50%|
+|Maghar_Orc|106730|0.39%|
+|Panda_Vers|106637|0.31%|
+|Panda_Mastery|106582|0.25%|
+|Panda_Crit|106581|0.25%|
+|Zandalari_Troll_Bwonsamdi|106561|0.24%|
+|Undead|106516|0.19%|
+|Zandalari_Troll_Kimbul|106474|0.15%|
+|Panda_Haste|106433|0.11%|
+|Lightforged_Draenei|106352|0.04%|
+|Vulpera|106339|0.03%|
+|Base|106311|0.00%|

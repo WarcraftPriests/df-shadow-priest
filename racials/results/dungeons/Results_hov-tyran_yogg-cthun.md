@@ -1,0 +1,34 @@
+# hov-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|108143|0.80%|
+|Human|108008|0.67%|
+|Gnome|107936|0.61%|
+|Goblin|107857|0.53%|
+|Kul_Tiran|107832|0.51%|
+|Night_Elf_Haste|107831|0.51%|
+|Nightborne|107824|0.50%|
+|Orc|107824|0.50%|
+|Void_Elf|107822|0.50%|
+|Highmountain_Tauren|107798|0.48%|
+|Draenei|107793|0.47%|
+|Troll|107793|0.47%|
+|Blood_Elf|107788|0.47%|
+|Night_Elf_Crit|107782|0.46%|
+|Zandalari_Troll_Paku|107773|0.45%|
+|Worgen|107737|0.42%|
+|Dark_Iron_Dwarf|107708|0.39%|
+|Panda_Fortune_Cookie|107659|0.35%|
+|Dwarf|107641|0.33%|
+|Tauren|107614|0.31%|
+|Maghar_Orc|107547|0.24%|
+|Panda_Crit|107534|0.23%|
+|Panda_Vers|107455|0.16%|
+|Panda_Mastery|107435|0.14%|
+|Zandalari_Troll_Kimbul|107410|0.12%|
+|Panda_Haste|107388|0.10%|
+|Zandalari_Troll_Bwonsamdi|107380|0.09%|
+|Vulpera|107373|0.08%|
+|Undead|107370|0.08%|
+|Base|107286|0.00%|
+|Lightforged_Draenei|107262|-0.02%|

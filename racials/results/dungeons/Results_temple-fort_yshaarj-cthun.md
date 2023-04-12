@@ -1,0 +1,34 @@
+# temple-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|107391|1.23%|
+|Human|107132|0.98%|
+|Goblin|106994|0.85%|
+|Gnome|106955|0.81%|
+|Night_Elf_Haste|106938|0.80%|
+|Highmountain_Tauren|106925|0.79%|
+|Kul_Tiran|106907|0.77%|
+|Draenei|106901|0.76%|
+|Void_Elf|106872|0.74%|
+|Night_Elf_Crit|106849|0.71%|
+|Zandalari_Troll_Paku|106839|0.71%|
+|Nightborne|106835|0.70%|
+|Blood_Elf|106801|0.67%|
+|Orc|106780|0.65%|
+|Worgen|106774|0.64%|
+|Dark_Iron_Dwarf|106717|0.59%|
+|Dwarf|106662|0.54%|
+|Panda_Fortune_Cookie|106650|0.53%|
+|Tauren|106582|0.46%|
+|Troll|106436|0.33%|
+|Panda_Mastery|106373|0.27%|
+|Maghar_Orc|106360|0.25%|
+|Panda_Crit|106340|0.23%|
+|Panda_Vers|106321|0.22%|
+|Zandalari_Troll_Bwonsamdi|106300|0.20%|
+|Panda_Haste|106184|0.09%|
+|Undead|106181|0.08%|
+|Zandalari_Troll_Kimbul|106180|0.08%|
+|Vulpera|106107|0.02%|
+|Base|106091|0.00%|
+|Lightforged_Draenei|106062|-0.03%|

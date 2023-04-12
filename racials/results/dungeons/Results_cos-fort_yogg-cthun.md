@@ -1,0 +1,34 @@
+# cos-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|96347|1.41%|
+|Human|96147|1.20%|
+|Gnome|96044|1.10%|
+|Troll|96034|1.09%|
+|Goblin|96009|1.06%|
+|Night_Elf_Haste|95995|1.04%|
+|Draenei|95870|0.91%|
+|Highmountain_Tauren|95824|0.86%|
+|Blood_Elf|95809|0.85%|
+|Orc|95806|0.85%|
+|Kul_Tiran|95762|0.80%|
+|Zandalari_Troll_Paku|95761|0.80%|
+|Void_Elf|95755|0.79%|
+|Nightborne|95754|0.79%|
+|Dark_Iron_Dwarf|95725|0.76%|
+|Night_Elf_Crit|95717|0.75%|
+|Worgen|95688|0.72%|
+|Panda_Fortune_Cookie|95629|0.66%|
+|Dwarf|95567|0.59%|
+|Tauren|95508|0.53%|
+|Maghar_Orc|95446|0.47%|
+|Panda_Vers|95310|0.32%|
+|Panda_Mastery|95273|0.28%|
+|Undead|95269|0.28%|
+|Zandalari_Troll_Bwonsamdi|95268|0.28%|
+|Panda_Haste|95262|0.27%|
+|Panda_Crit|95249|0.26%|
+|Zandalari_Troll_Kimbul|95232|0.24%|
+|Base|95003|0.00%|
+|Vulpera|94990|-0.01%|
+|Lightforged_Draenei|94914|-0.09%|

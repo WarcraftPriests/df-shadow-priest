@@ -1,0 +1,34 @@
+# rlp-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|120614|0.90%|
+|Human|120273|0.62%|
+|Void_Elf|120223|0.58%|
+|Draenei|120158|0.52%|
+|Nightborne|120155|0.52%|
+|Kul_Tiran|120128|0.50%|
+|Highmountain_Tauren|120110|0.48%|
+|Goblin|120098|0.47%|
+|Night_Elf_Haste|120081|0.46%|
+|Zandalari_Troll_Paku|120080|0.46%|
+|Night_Elf_Crit|120075|0.45%|
+|Blood_Elf|120069|0.45%|
+|Worgen|120055|0.44%|
+|Gnome|120042|0.42%|
+|Panda_Fortune_Cookie|120012|0.40%|
+|Orc|119999|0.39%|
+|Dwarf|119966|0.36%|
+|Tauren|119940|0.34%|
+|Dark_Iron_Dwarf|119933|0.33%|
+|Troll|119806|0.23%|
+|Panda_Mastery|119768|0.19%|
+|Panda_Crit|119759|0.19%|
+|Panda_Vers|119711|0.15%|
+|Maghar_Orc|119695|0.13%|
+|Undead|119618|0.07%|
+|Zandalari_Troll_Kimbul|119609|0.06%|
+|Zandalari_Troll_Bwonsamdi|119592|0.05%|
+|Base|119535|0.00%|
+|Vulpera|119512|-0.02%|
+|Panda_Haste|119494|-0.03%|
+|Lightforged_Draenei|119473|-0.05%|

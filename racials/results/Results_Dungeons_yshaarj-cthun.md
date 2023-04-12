@@ -1,0 +1,34 @@
+# Dungeons - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|115928|1.20%|
+|Human|115618|0.93%|
+|Goblin|115506|0.83%|
+|Gnome|115482|0.81%|
+|Night_Elf_Haste|115476|0.80%|
+|Draenei|115405|0.74%|
+|Kul_Tiran|115352|0.69%|
+|Orc|115340|0.68%|
+|Highmountain_Tauren|115336|0.68%|
+|Void_Elf|115335|0.68%|
+|Nightborne|115319|0.67%|
+|Zandalari_Troll_Paku|115292|0.64%|
+|Blood_Elf|115271|0.62%|
+|Night_Elf_Crit|115254|0.61%|
+|Worgen|115230|0.59%|
+|Dark_Iron_Dwarf|115208|0.57%|
+|Dwarf|115141|0.51%|
+|Panda_Fortune_Cookie|115137|0.51%|
+|Tauren|115120|0.49%|
+|Troll|115120|0.49%|
+|Maghar_Orc|114906|0.30%|
+|Panda_Mastery|114873|0.28%|
+|Panda_Crit|114818|0.23%|
+|Panda_Vers|114796|0.21%|
+|Panda_Haste|114734|0.15%|
+|Zandalari_Troll_Bwonsamdi|114730|0.15%|
+|Zandalari_Troll_Kimbul|114692|0.12%|
+|Undead|114692|0.12%|
+|Lightforged_Draenei|114569|0.01%|
+|Vulpera|114565|0.01%|
+|Base|114557|0.00%|

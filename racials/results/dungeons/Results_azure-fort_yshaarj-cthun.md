@@ -1,0 +1,34 @@
+# azure-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|122745|1.41%|
+|Human|122396|1.12%|
+|Goblin|122281|1.03%|
+|Night_Elf_Haste|122193|0.95%|
+|Gnome|122181|0.94%|
+|Draenei|122064|0.85%|
+|Kul_Tiran|122041|0.83%|
+|Void_Elf|122031|0.82%|
+|Highmountain_Tauren|122024|0.81%|
+|Nightborne|121990|0.79%|
+|Blood_Elf|121978|0.78%|
+|Zandalari_Troll_Paku|121966|0.77%|
+|Night_Elf_Crit|121934|0.74%|
+|Worgen|121900|0.71%|
+|Orc|121896|0.71%|
+|Dwarf|121819|0.64%|
+|Panda_Fortune_Cookie|121777|0.61%|
+|Tauren|121756|0.59%|
+|Troll|121705|0.55%|
+|Dark_Iron_Dwarf|121672|0.52%|
+|Panda_Mastery|121467|0.35%|
+|Maghar_Orc|121455|0.34%|
+|Panda_Crit|121399|0.30%|
+|Panda_Vers|121337|0.25%|
+|Panda_Haste|121306|0.22%|
+|Zandalari_Troll_Bwonsamdi|121252|0.18%|
+|Undead|121224|0.15%|
+|Zandalari_Troll_Kimbul|121191|0.13%|
+|Vulpera|121085|0.04%|
+|Base|121039|0.00%|
+|Lightforged_Draenei|121039|0.00%|

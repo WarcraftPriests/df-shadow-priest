@@ -1,18 +1,18 @@
 # azure-fort - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|118907|0.58%|
-|Fated_Fortune_Cookie|118817|0.50%|
-|Great_Cerulean_Sea|118811|0.50%|
-|Thousandbone_Tongueslicer|118805|0.49%|
-|Revenge_Served_Cold|118791|0.48%|
-|Sizzling_Seafood_Medley|118772|0.46%|
-|Aromatic_Seafood_Platter|118769|0.46%|
-|Feisty_Fish_Sticks|118758|0.45%|
-|Filet_of_Fangs|118668|0.38%|
-|Salt_Baked_Fishcake|118654|0.36%|
-|Seamoth_Surprise|118615|0.33%|
-|Timely_Demise|118555|0.28%|
-|Roast_Duck_Delight|118459|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|118353|0.11%|
-|Base|118223|0.00%|
+|Draconic_Augment_Rune|120558|0.63%|
+|Fated_Fortune_Cookie|120492|0.57%|
+|Great_Cerulean_Sea|120416|0.51%|
+|Revenge_Served_Cold|120400|0.49%|
+|Thousandbone_Tongueslicer|120380|0.48%|
+|Sizzling_Seafood_Medley|120375|0.47%|
+|Feisty_Fish_Sticks|120374|0.47%|
+|Salt_Baked_Fishcake|120344|0.45%|
+|Aromatic_Seafood_Platter|120325|0.43%|
+|Filet_of_Fangs|120283|0.40%|
+|Seamoth_Surprise|120277|0.39%|
+|Timely_Demise|120210|0.34%|
+|Roast_Duck_Delight|120095|0.24%|
+|Thrice_Spiced_Mammoth_Kabob|119981|0.14%|
+|Base|119808|0.00%|

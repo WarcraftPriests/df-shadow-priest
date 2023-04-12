@@ -1,0 +1,34 @@
+# cos-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|99510|0.79%|
+|Human|99416|0.70%|
+|Gnome|99293|0.57%|
+|Night_Elf_Haste|99285|0.56%|
+|Goblin|99284|0.56%|
+|Kul_Tiran|99271|0.55%|
+|Draenei|99269|0.55%|
+|Void_Elf|99257|0.54%|
+|Nightborne|99242|0.52%|
+|Highmountain_Tauren|99223|0.50%|
+|Orc|99212|0.49%|
+|Troll|99178|0.46%|
+|Blood_Elf|99177|0.45%|
+|Zandalari_Troll_Paku|99167|0.44%|
+|Dark_Iron_Dwarf|99164|0.44%|
+|Worgen|99157|0.43%|
+|Night_Elf_Crit|99134|0.41%|
+|Dwarf|99118|0.40%|
+|Panda_Fortune_Cookie|99105|0.38%|
+|Tauren|99094|0.37%|
+|Maghar_Orc|98968|0.24%|
+|Panda_Mastery|98928|0.20%|
+|Panda_Vers|98903|0.18%|
+|Panda_Crit|98881|0.15%|
+|Undead|98873|0.15%|
+|Zandalari_Troll_Kimbul|98871|0.14%|
+|Panda_Haste|98845|0.12%|
+|Zandalari_Troll_Bwonsamdi|98823|0.10%|
+|Vulpera|98730|0.00%|
+|Base|98728|0.00%|
+|Lightforged_Draenei|98648|-0.08%|

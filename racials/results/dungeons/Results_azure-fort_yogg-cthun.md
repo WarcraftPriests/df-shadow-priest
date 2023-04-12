@@ -1,0 +1,34 @@
+# azure-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|120764|1.26%|
+|Human|120412|0.97%|
+|Gnome|120299|0.87%|
+|Goblin|120284|0.86%|
+|Night_Elf_Haste|120221|0.81%|
+|Draenei|120156|0.75%|
+|Void_Elf|120150|0.75%|
+|Nightborne|120128|0.73%|
+|Night_Elf_Crit|120122|0.73%|
+|Highmountain_Tauren|120120|0.72%|
+|Orc|120106|0.71%|
+|Blood_Elf|120096|0.70%|
+|Kul_Tiran|120075|0.69%|
+|Zandalari_Troll_Paku|120049|0.66%|
+|Dark_Iron_Dwarf|120028|0.65%|
+|Worgen|120015|0.64%|
+|Troll|120013|0.63%|
+|Panda_Fortune_Cookie|119915|0.55%|
+|Tauren|119837|0.49%|
+|Dwarf|119804|0.46%|
+|Maghar_Orc|119664|0.34%|
+|Panda_Crit|119602|0.29%|
+|Panda_Vers|119563|0.26%|
+|Panda_Mastery|119519|0.22%|
+|Undead|119470|0.18%|
+|Zandalari_Troll_Bwonsamdi|119468|0.18%|
+|Panda_Haste|119450|0.16%|
+|Zandalari_Troll_Kimbul|119358|0.09%|
+|Lightforged_Draenei|119275|0.02%|
+|Base|119256|0.00%|
+|Vulpera|119242|-0.01%|

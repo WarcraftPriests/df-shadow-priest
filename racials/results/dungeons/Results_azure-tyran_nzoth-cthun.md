@@ -1,0 +1,34 @@
+# azure-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|114438|1.29%|
+|Human|114159|1.04%|
+|Gnome|114060|0.96%|
+|Goblin|114028|0.93%|
+|Night_Elf_Haste|114013|0.92%|
+|Void_Elf|113926|0.84%|
+|Draenei|113903|0.82%|
+|Nightborne|113835|0.76%|
+|Highmountain_Tauren|113804|0.73%|
+|Kul_Tiran|113803|0.73%|
+|Orc|113790|0.72%|
+|Blood_Elf|113748|0.68%|
+|Zandalari_Troll_Paku|113744|0.68%|
+|Troll|113724|0.66%|
+|Night_Elf_Crit|113723|0.66%|
+|Worgen|113721|0.66%|
+|Dark_Iron_Dwarf|113618|0.57%|
+|Dwarf|113549|0.50%|
+|Panda_Fortune_Cookie|113543|0.50%|
+|Tauren|113491|0.45%|
+|Maghar_Orc|113389|0.36%|
+|Panda_Crit|113282|0.27%|
+|Panda_Mastery|113243|0.23%|
+|Panda_Vers|113192|0.19%|
+|Panda_Haste|113188|0.18%|
+|Zandalari_Troll_Bwonsamdi|113131|0.13%|
+|Undead|113097|0.10%|
+|Zandalari_Troll_Kimbul|113036|0.05%|
+|Lightforged_Draenei|113010|0.03%|
+|Base|112979|0.00%|
+|Vulpera|112969|-0.01%|

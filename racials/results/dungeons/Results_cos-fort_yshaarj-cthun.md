@@ -1,0 +1,34 @@
+# cos-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|99990|1.14%|
+|Human|99774|0.92%|
+|Goblin|99761|0.91%|
+|Gnome|99716|0.87%|
+|Night_Elf_Haste|99711|0.86%|
+|Draenei|99645|0.79%|
+|Orc|99588|0.74%|
+|Kul_Tiran|99579|0.73%|
+|Highmountain_Tauren|99554|0.70%|
+|Troll|99511|0.66%|
+|Nightborne|99484|0.63%|
+|Night_Elf_Crit|99469|0.62%|
+|Dark_Iron_Dwarf|99467|0.61%|
+|Void_Elf|99464|0.61%|
+|Zandalari_Troll_Paku|99462|0.61%|
+|Blood_Elf|99444|0.59%|
+|Worgen|99414|0.56%|
+|Dwarf|99387|0.53%|
+|Tauren|99367|0.51%|
+|Panda_Fortune_Cookie|99347|0.49%|
+|Panda_Mastery|99241|0.39%|
+|Maghar_Orc|99204|0.35%|
+|Panda_Crit|99127|0.27%|
+|Zandalari_Troll_Bwonsamdi|99061|0.20%|
+|Panda_Haste|99058|0.20%|
+|Undead|99051|0.19%|
+|Panda_Vers|99045|0.19%|
+|Zandalari_Troll_Kimbul|99001|0.14%|
+|Base|98860|0.00%|
+|Vulpera|98834|-0.03%|
+|Lightforged_Draenei|98718|-0.14%|

@@ -1,0 +1,34 @@
+# temple-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|100333|1.31%|
+|Human|100095|1.07%|
+|Goblin|100005|0.97%|
+|Gnome|99992|0.96%|
+|Night_Elf_Haste|99943|0.91%|
+|Orc|99886|0.85%|
+|Void_Elf|99842|0.81%|
+|Draenei|99820|0.79%|
+|Kul_Tiran|99820|0.79%|
+|Nightborne|99800|0.77%|
+|Blood_Elf|99754|0.72%|
+|Zandalari_Troll_Paku|99750|0.72%|
+|Highmountain_Tauren|99746|0.71%|
+|Dark_Iron_Dwarf|99734|0.70%|
+|Night_Elf_Crit|99718|0.68%|
+|Worgen|99705|0.67%|
+|Dwarf|99655|0.62%|
+|Panda_Fortune_Cookie|99591|0.56%|
+|Tauren|99562|0.53%|
+|Maghar_Orc|99477|0.44%|
+|Troll|99380|0.34%|
+|Panda_Mastery|99348|0.31%|
+|Panda_Vers|99328|0.29%|
+|Panda_Haste|99311|0.27%|
+|Panda_Crit|99306|0.27%|
+|Zandalari_Troll_Bwonsamdi|99290|0.25%|
+|Undead|99226|0.19%|
+|Zandalari_Troll_Kimbul|99216|0.18%|
+|Vulpera|99081|0.04%|
+|Lightforged_Draenei|99045|0.01%|
+|Base|99040|0.00%|

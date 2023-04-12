@@ -1,0 +1,34 @@
+# hov-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|122531|1.11%|
+|Human|122131|0.78%|
+|Goblin|121973|0.65%|
+|Gnome|121966|0.64%|
+|Night_Elf_Haste|121964|0.64%|
+|Draenei|121960|0.64%|
+|Kul_Tiran|121903|0.59%|
+|Highmountain_Tauren|121894|0.58%|
+|Orc|121874|0.57%|
+|Zandalari_Troll_Paku|121867|0.56%|
+|Blood_Elf|121850|0.55%|
+|Nightborne|121834|0.53%|
+|Night_Elf_Crit|121829|0.53%|
+|Void_Elf|121808|0.51%|
+|Dark_Iron_Dwarf|121793|0.50%|
+|Worgen|121792|0.50%|
+|Dwarf|121718|0.44%|
+|Tauren|121716|0.44%|
+|Panda_Fortune_Cookie|121700|0.42%|
+|Troll|121680|0.41%|
+|Panda_Mastery|121433|0.20%|
+|Maghar_Orc|121432|0.20%|
+|Panda_Vers|121400|0.18%|
+|Panda_Crit|121394|0.17%|
+|Panda_Haste|121333|0.12%|
+|Zandalari_Troll_Bwonsamdi|121321|0.11%|
+|Zandalari_Troll_Kimbul|121288|0.08%|
+|Undead|121282|0.08%|
+|Vulpera|121210|0.02%|
+|Base|121187|0.00%|
+|Lightforged_Draenei|121136|-0.04%|

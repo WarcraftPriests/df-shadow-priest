@@ -1,0 +1,34 @@
+# cos-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|93276|1.30%|
+|Human|93146|1.15%|
+|Goblin|93013|1.01%|
+|Gnome|92968|0.96%|
+|Night_Elf_Haste|92952|0.94%|
+|Troll|92893|0.88%|
+|Orc|92891|0.88%|
+|Draenei|92832|0.81%|
+|Dark_Iron_Dwarf|92794|0.77%|
+|Kul_Tiran|92779|0.76%|
+|Highmountain_Tauren|92768|0.74%|
+|Nightborne|92767|0.74%|
+|Void_Elf|92757|0.73%|
+|Blood_Elf|92751|0.73%|
+|Zandalari_Troll_Paku|92731|0.70%|
+|Night_Elf_Crit|92690|0.66%|
+|Worgen|92674|0.64%|
+|Dwarf|92600|0.56%|
+|Tauren|92595|0.56%|
+|Panda_Fortune_Cookie|92579|0.54%|
+|Maghar_Orc|92437|0.38%|
+|Panda_Mastery|92397|0.34%|
+|Panda_Crit|92289|0.22%|
+|Panda_Haste|92275|0.21%|
+|Panda_Vers|92275|0.21%|
+|Zandalari_Troll_Bwonsamdi|92251|0.18%|
+|Zandalari_Troll_Kimbul|92242|0.17%|
+|Undead|92194|0.12%|
+|Base|92083|0.00%|
+|Vulpera|92046|-0.04%|
+|Lightforged_Draenei|92035|-0.05%|

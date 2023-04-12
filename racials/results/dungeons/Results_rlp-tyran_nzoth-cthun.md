@@ -1,0 +1,34 @@
+# rlp-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|110963|1.12%|
+|Human|110738|0.92%|
+|Goblin|110669|0.85%|
+|Gnome|110630|0.82%|
+|Night_Elf_Haste|110592|0.78%|
+|Kul_Tiran|110474|0.68%|
+|Nightborne|110456|0.66%|
+|Draenei|110432|0.64%|
+|Blood_Elf|110400|0.61%|
+|Highmountain_Tauren|110379|0.59%|
+|Zandalari_Troll_Paku|110377|0.59%|
+|Void_Elf|110357|0.57%|
+|Worgen|110337|0.55%|
+|Night_Elf_Crit|110312|0.53%|
+|Panda_Fortune_Cookie|110220|0.45%|
+|Tauren|110190|0.42%|
+|Dwarf|110159|0.39%|
+|Orc|110152|0.38%|
+|Dark_Iron_Dwarf|110089|0.33%|
+|Panda_Crit|109981|0.23%|
+|Panda_Vers|109956|0.21%|
+|Panda_Mastery|109954|0.20%|
+|Panda_Haste|109938|0.19%|
+|Maghar_Orc|109922|0.17%|
+|Troll|109886|0.14%|
+|Zandalari_Troll_Kimbul|109877|0.13%|
+|Zandalari_Troll_Bwonsamdi|109865|0.12%|
+|Undead|109851|0.11%|
+|Vulpera|109762|0.03%|
+|Base|109731|0.00%|
+|Lightforged_Draenei|109686|-0.04%|

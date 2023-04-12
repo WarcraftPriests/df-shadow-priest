@@ -1,0 +1,34 @@
+# nokhud-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|142232|1.40%|
+|Human|141717|1.03%|
+|Draenei|141552|0.91%|
+|Goblin|141542|0.91%|
+|Night_Elf_Haste|141510|0.88%|
+|Gnome|141508|0.88%|
+|Void_Elf|141461|0.85%|
+|Highmountain_Tauren|141428|0.82%|
+|Kul_Tiran|141412|0.81%|
+|Orc|141403|0.81%|
+|Nightborne|141402|0.81%|
+|Zandalari_Troll_Paku|141361|0.78%|
+|Night_Elf_Crit|141329|0.75%|
+|Blood_Elf|141300|0.73%|
+|Worgen|141277|0.72%|
+|Panda_Fortune_Cookie|141191|0.66%|
+|Dark_Iron_Dwarf|141168|0.64%|
+|Troll|141168|0.64%|
+|Dwarf|141105|0.59%|
+|Tauren|141103|0.59%|
+|Maghar_Orc|140795|0.37%|
+|Panda_Mastery|140693|0.30%|
+|Panda_Vers|140665|0.28%|
+|Panda_Crit|140644|0.27%|
+|Lightforged_Draenei|140553|0.20%|
+|Zandalari_Troll_Bwonsamdi|140513|0.17%|
+|Undead|140478|0.15%|
+|Panda_Haste|140398|0.09%|
+|Zandalari_Troll_Kimbul|140397|0.09%|
+|Vulpera|140386|0.08%|
+|Base|140272|0.00%|

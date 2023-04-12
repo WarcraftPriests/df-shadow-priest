@@ -1,0 +1,34 @@
+# nokhud-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|146022|1.53%|
+|Human|145352|1.06%|
+|Void_Elf|145271|1.01%|
+|Draenei|145160|0.93%|
+|Kul_Tiran|145122|0.90%|
+|Highmountain_Tauren|145109|0.89%|
+|Nightborne|145107|0.89%|
+|Zandalari_Troll_Paku|144997|0.82%|
+|Blood_Elf|144992|0.81%|
+|Night_Elf_Crit|144954|0.79%|
+|Worgen|144947|0.78%|
+|Night_Elf_Haste|144910|0.76%|
+|Gnome|144892|0.74%|
+|Goblin|144876|0.73%|
+|Orc|144849|0.71%|
+|Dwarf|144776|0.66%|
+|Panda_Fortune_Cookie|144728|0.63%|
+|Troll|144726|0.63%|
+|Dark_Iron_Dwarf|144682|0.60%|
+|Tauren|144665|0.59%|
+|Maghar_Orc|144328|0.35%|
+|Panda_Crit|144289|0.32%|
+|Panda_Vers|144237|0.29%|
+|Panda_Mastery|144198|0.26%|
+|Undead|144044|0.15%|
+|Zandalari_Troll_Bwonsamdi|144039|0.15%|
+|Zandalari_Troll_Kimbul|143977|0.11%|
+|Vulpera|143916|0.07%|
+|Lightforged_Draenei|143901|0.05%|
+|Base|143822|0.00%|
+|Panda_Haste|143759|-0.04%|

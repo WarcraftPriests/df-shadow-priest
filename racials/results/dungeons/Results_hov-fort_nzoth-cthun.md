@@ -1,0 +1,34 @@
+# hov-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|124295|1.50%|
+|Human|123787|1.08%|
+|Void_Elf|123699|1.01%|
+|Draenei|123622|0.95%|
+|Goblin|123545|0.89%|
+|Kul_Tiran|123521|0.87%|
+|Nightborne|123507|0.85%|
+|Gnome|123489|0.84%|
+|Highmountain_Tauren|123466|0.82%|
+|Night_Elf_Haste|123457|0.81%|
+|Blood_Elf|123450|0.81%|
+|Zandalari_Troll_Paku|123416|0.78%|
+|Orc|123389|0.76%|
+|Night_Elf_Crit|123369|0.74%|
+|Worgen|123369|0.74%|
+|Dark_Iron_Dwarf|123291|0.68%|
+|Panda_Fortune_Cookie|123221|0.62%|
+|Dwarf|123188|0.59%|
+|Tauren|123156|0.57%|
+|Troll|123020|0.46%|
+|Maghar_Orc|122900|0.36%|
+|Panda_Mastery|122854|0.32%|
+|Panda_Vers|122835|0.31%|
+|Panda_Crit|122815|0.29%|
+|Zandalari_Troll_Bwonsamdi|122668|0.17%|
+|Zandalari_Troll_Kimbul|122651|0.16%|
+|Undead|122628|0.14%|
+|Panda_Haste|122527|0.05%|
+|Base|122461|0.00%|
+|Vulpera|122454|-0.01%|
+|Lightforged_Draenei|122433|-0.02%|

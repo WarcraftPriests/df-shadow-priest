@@ -1,0 +1,34 @@
+# azure-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|111512|1.33%|
+|Human|111230|1.07%|
+|Gnome|111128|0.98%|
+|Goblin|111111|0.96%|
+|Troll|111103|0.95%|
+|Night_Elf_Haste|111084|0.94%|
+|Orc|111062|0.92%|
+|Void_Elf|111037|0.89%|
+|Draenei|111003|0.86%|
+|Kul_Tiran|110982|0.84%|
+|Nightborne|110945|0.81%|
+|Highmountain_Tauren|110935|0.80%|
+|Blood_Elf|110917|0.79%|
+|Worgen|110895|0.77%|
+|Zandalari_Troll_Paku|110892|0.76%|
+|Night_Elf_Crit|110856|0.73%|
+|Dark_Iron_Dwarf|110805|0.68%|
+|Panda_Fortune_Cookie|110748|0.63%|
+|Dwarf|110679|0.57%|
+|Tauren|110592|0.49%|
+|Maghar_Orc|110531|0.43%|
+|Panda_Crit|110424|0.34%|
+|Panda_Mastery|110375|0.29%|
+|Panda_Vers|110340|0.26%|
+|Zandalari_Troll_Kimbul|110280|0.21%|
+|Panda_Haste|110254|0.18%|
+|Undead|110240|0.17%|
+|Zandalari_Troll_Bwonsamdi|110221|0.15%|
+|Lightforged_Draenei|110091|0.03%|
+|Vulpera|110076|0.02%|
+|Base|110053|0.00%|

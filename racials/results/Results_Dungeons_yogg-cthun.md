@@ -1,0 +1,34 @@
+# Dungeons - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|113575|0.96%|
+|Human|113379|0.79%|
+|Goblin|113270|0.69%|
+|Gnome|113270|0.69%|
+|Night_Elf_Haste|113242|0.67%|
+|Orc|113209|0.64%|
+|Draenei|113188|0.62%|
+|Troll|113168|0.60%|
+|Void_Elf|113157|0.59%|
+|Highmountain_Tauren|113142|0.58%|
+|Kul_Tiran|113137|0.58%|
+|Nightborne|113126|0.56%|
+|Zandalari_Troll_Paku|113124|0.56%|
+|Blood_Elf|113121|0.56%|
+|Night_Elf_Crit|113084|0.53%|
+|Worgen|113076|0.52%|
+|Dark_Iron_Dwarf|113063|0.51%|
+|Panda_Fortune_Cookie|112977|0.43%|
+|Tauren|112913|0.38%|
+|Dwarf|112908|0.37%|
+|Maghar_Orc|112838|0.31%|
+|Panda_Crit|112729|0.21%|
+|Panda_Mastery|112714|0.20%|
+|Panda_Vers|112702|0.19%|
+|Zandalari_Troll_Bwonsamdi|112636|0.13%|
+|Panda_Haste|112634|0.13%|
+|Undead|112633|0.13%|
+|Zandalari_Troll_Kimbul|112626|0.12%|
+|Base|112490|0.00%|
+|Vulpera|112490|0.00%|
+|Lightforged_Draenei|112475|-0.01%|

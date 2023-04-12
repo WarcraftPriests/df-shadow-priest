@@ -1,0 +1,34 @@
+# temple-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|108198|0.96%|
+|Human|107998|0.77%|
+|Goblin|107832|0.61%|
+|Draenei|107819|0.60%|
+|Gnome|107814|0.60%|
+|Nightborne|107814|0.60%|
+|Void_Elf|107814|0.60%|
+|Night_Elf_Haste|107802|0.59%|
+|Kul_Tiran|107775|0.56%|
+|Orc|107761|0.55%|
+|Highmountain_Tauren|107754|0.54%|
+|Zandalari_Troll_Paku|107736|0.53%|
+|Dark_Iron_Dwarf|107733|0.52%|
+|Blood_Elf|107706|0.50%|
+|Night_Elf_Crit|107699|0.49%|
+|Worgen|107692|0.48%|
+|Troll|107638|0.43%|
+|Dwarf|107595|0.39%|
+|Tauren|107578|0.38%|
+|Panda_Fortune_Cookie|107560|0.36%|
+|Maghar_Orc|107424|0.23%|
+|Panda_Mastery|107415|0.23%|
+|Panda_Crit|107356|0.17%|
+|Panda_Vers|107320|0.14%|
+|Zandalari_Troll_Bwonsamdi|107310|0.13%|
+|Panda_Haste|107287|0.11%|
+|Zandalari_Troll_Kimbul|107258|0.08%|
+|Undead|107249|0.07%|
+|Vulpera|107182|0.01%|
+|Base|107173|0.00%|
+|Lightforged_Draenei|107125|-0.04%|
