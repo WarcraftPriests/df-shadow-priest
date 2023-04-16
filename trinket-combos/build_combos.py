@@ -23,18 +23,18 @@ combos = {
     "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
     "Rotcrusted_Voodoo_Doll_447": "rotcrusted_voodoo_doll,id=159624,ilevel=447",
     # aberrus the shadowed crucible
-    "Seething_Black_Dragonscale_437": "seething_black_dragonscale,id=202612,ilevel=437",
-    "Seething_Black_Dragonscale_441": "seething_black_dragonscale,id=202612,ilevel=441",
+    "Screaming_Black_Dragonscale_437": "screaming_black_dragonscale,id=202612,ilevel=437",
+    "Screaming_Black_Dragonscale_441": "screaming_black_dragonscale,id=202612,ilevel=441",
     # "Vessel_of_Searing_Shadow_437": "vessel_of_searing_shadow,id=202615,ilevel=437", # underperformed
     "Vessel_of_Searing_Shadow_441": "vessel_of_searing_shadow,id=202615,ilevel=441",
-    # "Black_Dragon_Labs_Omni_437": "black_dragon_labs_omni,id=203729,ilevel=437", # underperformed
-    "Black_Dragon_Labs_Omni_441": "black_dragon_labs_omni,id=203729,ilevel=441",
+    # "Ominous_Chromatic_Essence_437": "ominous_chromatic_essence,id=203729,ilevel=437", # underperformed
+    "Ominous_Chromatic_Essence_441": "ominous_chromatic_essence,id=203729,ilevel=444",
     # "Igneous_Flowstone_437": "igneous_flowstone,id=203996,ilevel=437", # NYI?
-    # "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441", # NYI?
-    "Idol_of_Debilitating_Arrogance_437": "idol_of_debilitating_arrogance,id=204211,ilevel=437",
-    "Idol_of_Debilitating_Arrogance_441": "idol_of_debilitating_arrogance,id=204211,ilevel=441",
+    "Igneous_Flowstone_447": "igneous_flowstone,id=203996,ilevel=447", # NYI?
+    "Neltharions_Call_to_Suffering_444": "neltharions_call_to_suffering,id=204211,ilevel=444",
+    "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",
     # "Beacon_to_the_Beyond_437": "beacon_to_the_beyond,id=203963,ilevel=437", # underperformed
-    "Beacon_to_the_Beyond_441": "beacon_to_the_beyond,id=203963,ilevel=441",
+    "Beacon_to_the_Beyond_450": "beacon_to_the_beyond,id=203963,ilevel=450",
     # s1 dungeons (415/421)
     "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
     "Furious_Ragefeather_421": "furious_ragefeather,id=193677,ilevel=421",

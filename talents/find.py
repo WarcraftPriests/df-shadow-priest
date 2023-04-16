@@ -17,12 +17,12 @@ if __name__ == '__main__':
         for row in reader:
             # DA_yshaarj_cthun_20576876345295_Spike
             profile_name = row[1]
-            if profile_name[-2:] == "SC":
-                results.append([row[1], profile_name.split(
-                    "_")[0], profile_name.split("_")[-2] + "_SC"])
-            else:
-                results.append([row[1], profile_name.split("_")[
-                               0], profile_name.split("_")[-1]])
+            filler_types = ["Flay_DR_TS", "Spike_DR_TS", "Spike_DR",
+                            "Spike_TS", "Flay_TS", "Flay_DR", "Spike", "Flay"]
+            for f_type in filler_types:
+                if f_type in profile_name:
+                    results.append(
+                        [row[1], profile_name.split("_")[0], f_type])
         file.close()
 
         for result in results:

@@ -1,40 +1,40 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEHAAAAAAAAAAAAAI5AK5ARSShIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_cthun_20576817625039_Spike
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAISiIBAAAAAAAAAAAAIhSEJJNIJJJRig0IJJRaEkgQKSLkEAJB # VF_yshaarj_yogg_cthun_97613661059023_Spike_TS
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASOgSOQkkUiIJRSkIINSSSkGBJIki0CJBgE # DA_yshaarj_cthun_20576809252815_Spike
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkQOQAAAAAAAAAAAAASiSOQkkUCSSSEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20579163272143_Spike
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIhWEJJFikkkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_20443939977167_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQISAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_57893805856719_Flay_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAISCOQAAAAAAAAAAAAASiSEJJtgkkERig0IJJRaEkgQKSLkEAJB # VF_yshaarj_yogg_cthun_97613696693199_Spike_TS
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAISi4ABAAAAAAAAAAAAIRaRkk0gkkkEJCSjkkEpRQCCpItQSAkE # VF_yshaarj_yogg_cthun_97613628028879_Spike_DR_TS
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAISiIBAAAAAAAAAAAAIhWEJJNIJJJRig0IJJRaEkgQKSLkEAJB # VF_yshaarj_yogg_cthun_97613661059023_Spike_DR_TS
   yogg-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAESIEAAAAAAAAAAAAgIpIRS0ISSSSkIINSSSkGBJIki0CJBQC # VF_nzoth_yogg_cthun_136765682390991_Flay_TS
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAESi4ABAAAAAAAAAAAAIOgiEJJNIJJJRig0IJJRaEkgQKSLkEAJB # VF_nzoth_yogg_cthun_136765477730255_Spike_TS
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAESiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765543790543_Spike_TS
     single: BIQAAAAAAAAAAAAAAAAAAAAAAgkQSAAAAAAAAAAAAACp4ARSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_99450833826767_Spike_TS
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAESCSAAAAAAAAAAAAAiDoJRSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765511267279_Spike_DR_TS
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAESISAAAAAAAAAAAAAiDkmEJJNIJJJRig0IJJRaEkgQKSLkEAJA # VF_nzoth_yogg_cthun_136765511538639_Flay_DR_TS
   nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEEyBEAAAAAAAAAAAAgkkSSkENikkkEJCSjkkEpRQCCpItQSAIA # VF_nzoth_cthun_57412940371919_Flay
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEEJH4AAAAAAAAAAAAAASSKJRSShIJRSkIINSSSkGBJIki0CJBgA # DA_nzoth_cthun_57410517178319_Flay
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEkkEAAAAAAAAAAAAAioIRSSJikEJRig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_59591285536719_Spike
     single: BIQAAAAAAAAAAAAAAAAAAAAAAEkwBOQAAAAAAAAAAAAASiSSkkUCSSSEJCSjkkEpRQCCpItQSAIB # DA_nzoth_cthun_57412802802639_Spike
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkQSAAAAAAAAAAAAAioJRSSLIJJRkIINSSSkGBJIki0CJBgE # VF_nzoth_cthun_59593606001615_Spike_DR
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAEEJSAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_nzoth_cthun_57346197526479_Flay_DR
 gear:
-  head: "mask_of_the_furnace_seraph,id=202542,ilevel=441"
-  neck: "black_dragon_labs_lava_hydra,id=204397,ilevel=441"
-  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=441"
-  back: "shadow_of_perfect_bliss,id=133247,ilevel=447" # crit/haste
-  chest: "command_of_the_furnace_seraph,id=202545,ilevel=441"
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # mastery/haste
+  neck: "magmoraxs_fourth_collar,id=204397,ilevel=447" # mastery/haste
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/crit
+  back: "drape_of_the_dracthyr_trials,id=204467,ilevel=447" # haste/vers
+  chest: "command_of_the_furnace_seraph,id=202545,ilevel=447" # crit/mastery
   wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
-  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=441"
-  waist: "lost_heros_waist_wrap,id=193816,ilevel=447"
-  legs: "riverrider_legwraps,id=134427,ilevel=447"
-  feet: "ancient_crosswrapped_sandals,id=193806,ilevel=447"
-  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447"
-  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447"
+  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=444" # mastery/haste
+  waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
+  legs: "riverrider_legwraps,id=134427,ilevel=447" # mastery/haste
+  feet: "treads_of_fractured_realities,id=204392,ilevel=450" # crit/mastery
+  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
+  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
   trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
-  trinket2: "black_dragon_labs_omni,id=203729,ilevel=441"
-  main_hand: "black_dragon_labs_lava_hydra,id=202570,ilevel=441"
-  off_hand: "black_dragon_labs_faceless_one,id=204324,ilevel=441"
+  trinket2: "neltharions_call_to_suffering,id=204211,ilevel=457"
+  main_hand: "lavaflow_control_rod,id=202570,ilevel=447" # haste/vers
+  off_hand: "echos_maddening_volume,id=204324,ilevel=450" # mastery/haste
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
@@ -50,7 +50,7 @@ sims:
       - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only."
-    builds: true
+    builds: false
     weights: false
     chart: false
     lookupType: none
@@ -128,7 +128,7 @@ sims:
     iterations: smart
     builds: false
     weights: false
-    chart: true
+    chart: false
     lookupType: none
     steps:
       - DPS
@@ -149,6 +149,16 @@ sims:
       - VF-Flay_TS.simc
       - VF-Spike_DR_TS.simc
       - VF-Flay_DR_TS.simc
+  talents-top:
+    description: "Shows top talents."
+    builds: false
+    weights: false
+    chart: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - talents.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
     builds: true
@@ -191,6 +201,7 @@ sims:
       - 441
       - 444
       - 447
+      - 450
     files:
       - raid.simc
       - dungeons.simc

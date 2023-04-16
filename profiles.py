@@ -148,6 +148,21 @@ def replace_gear(data):
     return data
 
 
+def create_talent_builds():
+    """creates profiles from talents.yml"""
+    profiles = ""
+
+    with open("internal/talents.yml", "r", encoding="utf8") as talent_file:
+        talent_builds = yaml.load(talent_file, Loader=yaml.FullLoader)
+        talent_file.close()
+    for build in talent_builds["builds"]:
+        talent_name = build
+        talent_string = talent_builds["builds"][build]
+        profiles = profiles + f'profileset."{talent_name}"+=talents={talent_string}\n'
+
+    return profiles
+
+
 def build_profiles(talent_string, apl_string):
     # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
@@ -179,6 +194,8 @@ def build_profiles(talent_string, apl_string):
         data = replace_gear(data)
         # apl override
         data = data.replace("${apl}", apl_string)
+        # builds override
+        data = data.replace("${builds}", create_talent_builds())
         # insert talents in here so copy= works correctly
         if talents_expr:
             data = data.replace("${talents}", str(talents_expr))

@@ -24,36 +24,35 @@ ${gear.off_hand}
 
 # Aberrus, the Shadowed Crucible
 ## (402)/415/428/437/441
-profileset."Seething_Black_Dragonscale_415"+=trinket1=seething_black_dragonscale,id=202612,ilevel=415
-profileset."Seething_Black_Dragonscale_428"+=trinket1=seething_black_dragonscale,id=202612,ilevel=428
-profileset."Seething_Black_Dragonscale_437"+=trinket1=seething_black_dragonscale,id=202612,ilevel=437
-profileset."Seething_Black_Dragonscale_441"+=trinket1=seething_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_415"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=415
+profileset."Screaming_Black_Dragonscale_428"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=428
+profileset."Screaming_Black_Dragonscale_437"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=437
+profileset."Screaming_Black_Dragonscale_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 
 profileset."Vessel_of_Searing_Shadow_415"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=415
 profileset."Vessel_of_Searing_Shadow_428"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=428
 profileset."Vessel_of_Searing_Shadow_437"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=437
 profileset."Vessel_of_Searing_Shadow_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 
-# NYI
-profileset."Black_Dragon_Labs_Omni_415"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=415
-profileset."Black_Dragon_Labs_Omni_428"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=428
-profileset."Black_Dragon_Labs_Omni_437"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=437
-profileset."Black_Dragon_Labs_Omni_441"+=trinket1=black_dragon_labs_omni,id=203729,ilevel=441
+profileset."Ominous_Chromatic_Essence_418"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=418
+profileset."Ominous_Chromatic_Essence_431"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=431
+profileset."Ominous_Chromatic_Essence_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
+profileset."Ominous_Chromatic_Essence_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
 
-profileset."Igneous_Flowstone_415"+=trinket1=igneous_flowstone,id=203996,ilevel=415
-profileset."Igneous_Flowstone_428"+=trinket1=igneous_flowstone,id=203996,ilevel=428
-profileset."Igneous_Flowstone_437"+=trinket1=igneous_flowstone,id=203996,ilevel=437
+profileset."Igneous_Flowstone_421"+=trinket1=igneous_flowstone,id=203996,ilevel=421
+profileset."Igneous_Flowstone_434"+=trinket1=igneous_flowstone,id=203996,ilevel=434
 profileset."Igneous_Flowstone_441"+=trinket1=igneous_flowstone,id=203996,ilevel=441
+profileset."Igneous_Flowstone_447"+=trinket1=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Idol_of_Debilitating_Arrogance_415"+=trinket1=idol_of_debilitating_arrogance,id=204211,ilevel=415
-profileset."Idol_of_Debilitating_Arrogance_428"+=trinket1=idol_of_debilitating_arrogance,id=204211,ilevel=428
-profileset."Idol_of_Debilitating_Arrogance_437"+=trinket1=idol_of_debilitating_arrogance,id=204211,ilevel=437
-profileset."Idol_of_Debilitating_Arrogance_441"+=trinket1=idol_of_debilitating_arrogance,id=204211,ilevel=441
+profileset."Neltharions_Call_to_Suffering_424"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=424
+profileset."Neltharions_Call_to_Suffering_437"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=437
+profileset."Neltharions_Call_to_Suffering_441"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=441
+profileset."Neltharions_Call_to_Suffering_450"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=450
 
-profileset."Beacon_to_the_Beyond_415"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=415
-profileset."Beacon_to_the_Beyond_428"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=428
-profileset."Beacon_to_the_Beyond_437"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=437
+profileset."Beacon_to_the_Beyond_431"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=431
 profileset."Beacon_to_the_Beyond_441"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=441
+profileset."Beacon_to_the_Beyond_444"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=444
+profileset."Beacon_to_the_Beyond_457"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=457
 
 # Vault of the Incarnates
 ## 376/389/402/415
