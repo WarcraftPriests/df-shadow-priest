@@ -1,18 +1,18 @@
 # Dungeons - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|114870|0.55%|
-|Fated_Fortune_Cookie|114779|0.48%|
-|Thousandbone_Tongueslicer|114745|0.45%|
-|Great_Cerulean_Sea|114738|0.44%|
-|Revenge_Served_Cold|114728|0.43%|
-|Sizzling_Seafood_Medley|114676|0.39%|
-|Aromatic_Seafood_Platter|114658|0.37%|
-|Feisty_Fish_Sticks|114653|0.36%|
-|Salt_Baked_Fishcake|114643|0.36%|
-|Filet_of_Fangs|114636|0.35%|
-|Seamoth_Surprise|114629|0.34%|
-|Timely_Demise|114546|0.27%|
-|Roast_Duck_Delight|114461|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|114403|0.15%|
-|Base|114236|0.00%|
+|Draconic_Augment_Rune|121214|0.54%|
+|Sizzling_Seafood_Medley|121144|0.48%|
+|Feisty_Fish_Sticks|121139|0.47%|
+|Aromatic_Seafood_Platter|121138|0.47%|
+|Fated_Fortune_Cookie|121127|0.46%|
+|Thousandbone_Tongueslicer|121127|0.46%|
+|Great_Cerulean_Sea|121120|0.46%|
+|Revenge_Served_Cold|121101|0.44%|
+|Timely_Demise|121021|0.38%|
+|Salt_Baked_Fishcake|121011|0.37%|
+|Filet_of_Fangs|120990|0.35%|
+|Seamoth_Surprise|120968|0.33%|
+|Roast_Duck_Delight|120794|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|120710|0.12%|
+|Base|120568|0.00%|

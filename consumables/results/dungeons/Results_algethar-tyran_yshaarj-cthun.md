@@ -1,18 +1,18 @@
 # algethar-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Fated_Fortune_Cookie|129029|0.54%|
-|Draconic_Augment_Rune|129019|0.54%|
-|Great_Cerulean_Sea|128940|0.47%|
-|Thousandbone_Tongueslicer|128926|0.46%|
-|Revenge_Served_Cold|128879|0.43%|
-|Sizzling_Seafood_Medley|128830|0.39%|
-|Feisty_Fish_Sticks|128821|0.38%|
-|Aromatic_Seafood_Platter|128812|0.37%|
-|Salt_Baked_Fishcake|128791|0.36%|
-|Seamoth_Surprise|128759|0.33%|
-|Filet_of_Fangs|128753|0.33%|
-|Timely_Demise|128662|0.26%|
-|Roast_Duck_Delight|128589|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|128477|0.11%|
-|Base|128332|0.00%|
+|Draconic_Augment_Rune|138584|0.72%|
+|Feisty_Fish_Sticks|138520|0.67%|
+|Sizzling_Seafood_Medley|138471|0.63%|
+|Aromatic_Seafood_Platter|138455|0.62%|
+|Great_Cerulean_Sea|138436|0.61%|
+|Fated_Fortune_Cookie|138415|0.59%|
+|Revenge_Served_Cold|138414|0.59%|
+|Thousandbone_Tongueslicer|138355|0.55%|
+|Timely_Demise|138303|0.51%|
+|Filet_of_Fangs|138268|0.49%|
+|Seamoth_Surprise|138264|0.48%|
+|Salt_Baked_Fishcake|138193|0.43%|
+|Roast_Duck_Delight|137958|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|137823|0.16%|
+|Base|137599|0.00%|

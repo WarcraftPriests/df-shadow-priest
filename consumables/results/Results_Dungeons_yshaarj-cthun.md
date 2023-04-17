@@ -1,18 +1,18 @@
 # Dungeons - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|114161|0.57%|
-|Fated_Fortune_Cookie|114084|0.50%|
-|Great_Cerulean_Sea|114056|0.48%|
-|Thousandbone_Tongueslicer|114052|0.47%|
-|Revenge_Served_Cold|114032|0.46%|
-|Sizzling_Seafood_Medley|113984|0.41%|
-|Feisty_Fish_Sticks|113977|0.41%|
-|Aromatic_Seafood_Platter|113960|0.39%|
-|Salt_Baked_Fishcake|113943|0.38%|
-|Filet_of_Fangs|113936|0.37%|
-|Seamoth_Surprise|113903|0.34%|
-|Timely_Demise|113862|0.31%|
-|Roast_Duck_Delight|113761|0.22%|
-|Thrice_Spiced_Mammoth_Kabob|113684|0.15%|
-|Base|113515|0.00%|
+|Draconic_Augment_Rune|120405|0.54%|
+|Sizzling_Seafood_Medley|120358|0.50%|
+|Feisty_Fish_Sticks|120346|0.49%|
+|Fated_Fortune_Cookie|120332|0.48%|
+|Great_Cerulean_Sea|120325|0.48%|
+|Aromatic_Seafood_Platter|120322|0.47%|
+|Thousandbone_Tongueslicer|120319|0.47%|
+|Revenge_Served_Cold|120311|0.46%|
+|Salt_Baked_Fishcake|120227|0.39%|
+|Timely_Demise|120219|0.39%|
+|Filet_of_Fangs|120186|0.36%|
+|Seamoth_Surprise|120184|0.36%|
+|Roast_Duck_Delight|119993|0.20%|
+|Thrice_Spiced_Mammoth_Kabob|119925|0.14%|
+|Base|119756|0.00%|

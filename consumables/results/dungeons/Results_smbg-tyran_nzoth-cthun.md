@@ -1,18 +1,18 @@
 # smbg-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|100163|0.36%|
-|Revenge_Served_Cold|100117|0.32%|
-|Thousandbone_Tongueslicer|100091|0.29%|
-|Sizzling_Seafood_Medley|100081|0.28%|
-|Fated_Fortune_Cookie|100075|0.28%|
-|Filet_of_Fangs|100071|0.27%|
-|Aromatic_Seafood_Platter|100066|0.27%|
-|Seamoth_Surprise|100060|0.26%|
-|Salt_Baked_Fishcake|100059|0.26%|
-|Great_Cerulean_Sea|100054|0.25%|
-|Feisty_Fish_Sticks|100047|0.25%|
-|Timely_Demise|99971|0.17%|
-|Roast_Duck_Delight|99943|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|99899|0.10%|
-|Base|99800|0.00%|
+|Draconic_Augment_Rune|106026|0.65%|
+|Feisty_Fish_Sticks|106004|0.63%|
+|Fated_Fortune_Cookie|105982|0.61%|
+|Sizzling_Seafood_Medley|105973|0.60%|
+|Thousandbone_Tongueslicer|105962|0.59%|
+|Great_Cerulean_Sea|105937|0.56%|
+|Revenge_Served_Cold|105933|0.56%|
+|Aromatic_Seafood_Platter|105928|0.55%|
+|Timely_Demise|105888|0.52%|
+|Salt_Baked_Fishcake|105819|0.45%|
+|Filet_of_Fangs|105807|0.44%|
+|Seamoth_Surprise|105761|0.40%|
+|Roast_Duck_Delight|105624|0.27%|
+|Thrice_Spiced_Mammoth_Kabob|105496|0.14%|
+|Base|105344|0.00%|

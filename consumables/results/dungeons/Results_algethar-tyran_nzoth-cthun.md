@@ -1,18 +1,18 @@
 # algethar-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|130047|0.61%|
-|Fated_Fortune_Cookie|129863|0.47%|
-|Great_Cerulean_Sea|129858|0.46%|
-|Thousandbone_Tongueslicer|129839|0.45%|
-|Sizzling_Seafood_Medley|129817|0.43%|
-|Aromatic_Seafood_Platter|129802|0.42%|
-|Feisty_Fish_Sticks|129764|0.39%|
-|Revenge_Served_Cold|129762|0.39%|
-|Seamoth_Surprise|129750|0.38%|
-|Filet_of_Fangs|129737|0.37%|
-|Salt_Baked_Fishcake|129720|0.36%|
-|Timely_Demise|129704|0.35%|
-|Roast_Duck_Delight|129491|0.18%|
-|Thrice_Spiced_Mammoth_Kabob|129416|0.12%|
-|Base|129257|0.00%|
+|Draconic_Augment_Rune|137866|0.62%|
+|Aromatic_Seafood_Platter|137848|0.61%|
+|Sizzling_Seafood_Medley|137818|0.59%|
+|Feisty_Fish_Sticks|137754|0.54%|
+|Great_Cerulean_Sea|137745|0.53%|
+|Revenge_Served_Cold|137737|0.53%|
+|Fated_Fortune_Cookie|137729|0.52%|
+|Thousandbone_Tongueslicer|137715|0.51%|
+|Timely_Demise|137649|0.46%|
+|Filet_of_Fangs|137612|0.44%|
+|Seamoth_Surprise|137605|0.43%|
+|Salt_Baked_Fishcake|137602|0.43%|
+|Roast_Duck_Delight|137344|0.24%|
+|Thrice_Spiced_Mammoth_Kabob|137265|0.18%|
+|Base|137013|0.00%|

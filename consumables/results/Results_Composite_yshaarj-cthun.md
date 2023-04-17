@@ -1,18 +1,18 @@
 # Composite - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|139363|0.77%|
-|Thousandbone_Tongueslicer|139214|0.66%|
-|Great_Cerulean_Sea|139206|0.66%|
-|Fated_Fortune_Cookie|139206|0.66%|
-|Revenge_Served_Cold|139164|0.63%|
-|Salt_Baked_Fishcake|139066|0.56%|
-|Sizzling_Seafood_Medley|139034|0.53%|
-|Filet_of_Fangs|139000|0.51%|
-|Seamoth_Surprise|138965|0.48%|
-|Aromatic_Seafood_Platter|138962|0.48%|
-|Feisty_Fish_Sticks|138957|0.48%|
-|Timely_Demise|138722|0.31%|
-|Roast_Duck_Delight|138690|0.28%|
-|Thrice_Spiced_Mammoth_Kabob|138599|0.22%|
-|Base|138297|0.00%|
+|Sizzling_Seafood_Medley|151443|0.73%|
+|Draconic_Augment_Rune|151417|0.71%|
+|Feisty_Fish_Sticks|151370|0.68%|
+|Great_Cerulean_Sea|151335|0.65%|
+|Aromatic_Seafood_Platter|151328|0.65%|
+|Thousandbone_Tongueslicer|151324|0.65%|
+|Fated_Fortune_Cookie|151313|0.64%|
+|Revenge_Served_Cold|151265|0.61%|
+|Salt_Baked_Fishcake|151177|0.55%|
+|Timely_Demise|151144|0.53%|
+|Filet_of_Fangs|151125|0.51%|
+|Seamoth_Surprise|151027|0.45%|
+|Roast_Duck_Delight|150748|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|150631|0.19%|
+|Base|150352|0.00%|

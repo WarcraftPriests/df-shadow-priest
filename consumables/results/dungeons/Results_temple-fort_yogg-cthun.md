@@ -1,18 +1,18 @@
 # temple-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Fated_Fortune_Cookie|100400|0.31%|
-|Draconic_Augment_Rune|100363|0.27%|
-|Thousandbone_Tongueslicer|100361|0.27%|
-|Revenge_Served_Cold|100336|0.24%|
-|Great_Cerulean_Sea|100311|0.22%|
-|Aromatic_Seafood_Platter|100309|0.21%|
-|Seamoth_Surprise|100298|0.20%|
-|Filet_of_Fangs|100288|0.19%|
-|Salt_Baked_Fishcake|100284|0.19%|
-|Sizzling_Seafood_Medley|100273|0.18%|
-|Feisty_Fish_Sticks|100248|0.15%|
-|Timely_Demise|100197|0.10%|
-|Roast_Duck_Delight|100182|0.09%|
-|Base|100094|0.00%|
-|Thrice_Spiced_Mammoth_Kabob|100091|0.00%|
+|Draconic_Augment_Rune|108971|0.79%|
+|Feisty_Fish_Sticks|108970|0.79%|
+|Sizzling_Seafood_Medley|108955|0.78%|
+|Aromatic_Seafood_Platter|108917|0.74%|
+|Great_Cerulean_Sea|108911|0.74%|
+|Thousandbone_Tongueslicer|108893|0.72%|
+|Fated_Fortune_Cookie|108834|0.66%|
+|Revenge_Served_Cold|108831|0.66%|
+|Timely_Demise|108768|0.60%|
+|Salt_Baked_Fishcake|108708|0.55%|
+|Seamoth_Surprise|108702|0.54%|
+|Filet_of_Fangs|108699|0.54%|
+|Roast_Duck_Delight|108426|0.29%|
+|Thrice_Spiced_Mammoth_Kabob|108380|0.24%|
+|Base|108116|0.00%|
