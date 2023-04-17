@@ -292,9 +292,9 @@ profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=off_hand=disabled
 profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant_id=6643
 profileset."2h_Weathered_Explorers_Stave_447"+=off_hand=disabled
 
-profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
-profileset."MH_Stormlashs_Last_Resort_424-OH_Crackling_Codex_of_the_Isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
+profileset."MH_Lavaflow_Control_Rod_447-OH_Crackling_Codex_of_the_Isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_447-OH_Crackling_Codex_of_the_Isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
 ## Leatherworking
-profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_447"+=main_hand=stormlashs_last_resort,id=195529,ilevel=424,enchant_id=6643
-profileset."MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_447"+=off_hand=witherrot_tome,id=193496,ilevel=447,crafted_stats=49/36
+profileset."MH_Lavaflow_Control_Rod_447-OH_Witherrot_Tome_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_447-OH_Witherrot_Tome_447"+=off_hand=witherrot_tome,id=193496,ilevel=447,crafted_stats=49/36
