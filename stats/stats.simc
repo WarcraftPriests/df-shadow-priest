@@ -22,4 +22,4 @@ finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
-gear_intellect=4800
+gear_intellect=8500
