@@ -1,4 +1,4 @@
 # temple-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|97942|1.00|0.51|0.55|0.57|0.54|0.16|
+|Base|103290|1.00|0.59|0.58|0.58|0.56|0.19|

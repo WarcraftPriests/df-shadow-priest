@@ -1,4 +1,4 @@
 # algethar-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|130444|1.00|0.48|0.50|0.52|0.50|0.11|
+|Base|139024|1.00|0.64|0.60|0.59|0.57|0.14|

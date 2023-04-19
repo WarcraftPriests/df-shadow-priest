@@ -1,4 +1,4 @@
 # azure-tyran - yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|112343|1.00|0.45|0.49|0.51|0.50|0.13|
+|Base|119706|1.00|0.58|0.57|0.58|0.55|0.13|

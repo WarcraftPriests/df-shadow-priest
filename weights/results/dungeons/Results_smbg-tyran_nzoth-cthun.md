@@ -1,4 +1,4 @@
 # smbg-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|100459|1.00|0.45|0.44|0.46|0.44|0.14|
+|Base|107057|1.00|0.61|0.57|0.56|0.55|0.14|

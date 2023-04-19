@@ -1,4 +1,4 @@
 # rlp-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|109757|1.00|0.41|0.45|0.46|0.44|0.11|
+|Base|118030|1.00|0.59|0.57|0.57|0.55|0.11|

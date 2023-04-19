@@ -1,4 +1,4 @@
 # nokhud-fort - yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|140302|1.00|0.43|0.52|0.52|0.52|0.09|
+|Base|149417|1.00|0.53|0.56|0.52|0.53|0.10|
