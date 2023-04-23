@@ -1,14 +1,14 @@
 # 10.1 Builds
 Very early sim results.
 
-_Last Updated_: 4/15/2023 - Updated Raid Builds for recent Yogg changes.
+_Last Updated_: 4/23/2023 - Updated Dungeon builds from recent Psychic Link and Mastermind changes.
 
 # Single Target
 Generally speaking Void Eruption builds outperform Dark Ascension builds by up to 2%.
 
 ## Void Eruption
 With the build below you have some options that are within margin of error of the top build. All of these combinations are performing better than Dark Ascension.
-- If you want Deathspeaker you can either drop Screams of the Void
+- If you want Deathspeaker you can drop Screams of the Void for a 2% damage loss to get a bit more movement.
 - If you want to pick up an extra utility point in the top section drop any point selected White.
 
 <details>
@@ -30,7 +30,7 @@ If you are looking to take Shadow Crash here is the highest simming single targe
 ```
 BIQAAAAAAAAAAAAAAAAAAAAAAgkIJBAAAAAAAAAAAAIo4ARSSDSSSSkIINSSSkGBJIki0CJBQSA
 ```
-This build is 3.16% behind in single target damage compared to the top build.
+This build is 2.88% behind in single target damage compared to the top build.
 
 ## Dark Ascension
 Generally speaking Dark Ascension builds are at least 2% behind Void Eruption versions.
@@ -65,11 +65,11 @@ Flex Points:
 ## Single Target Breakdown
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|VF_yogg_cthun_99450833826767_Spike_TS (Top Raid ST)|125996|12.91%|
-|VF_yogg_cthun_99450833319887_Spike_TS (Highest ST with Crash)|122305|9.60%|
-|VF_nzoth_yogg_cthun_136765543790543_Spike_TS|118288|6.00%|
-|DA_yshaarj_cthun_20576809252815_Spike|117215|5.04%|
-|DA_nzoth_cthun_59591285536719_Spike|111593|0.00%|
+|VF_yogg_cthun_99450833826767_Spike_TS (Top Raid ST)|124566|17.09%|
+|VF_yogg_cthun_99450833319887_Spike_TS (Highest ST with Crash)|121078|13.81%|
+|VF_nzoth_yogg_cthun_136765543790543_Spike_TS|117199|10.17%|
+|DA_nzoth_cthun_56327043282895_Spike_DR (Mind's Eye)|113325|6.52%|
+|DA_nzoth_cthun_56327043282895_Spike_DR|106384|0.00%|
 
 ## N'Zoth + Yogg-Saron + C'Thun
 
@@ -79,15 +79,9 @@ BIQAAAAAAAAAAAAAAAAAAAAAAESiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA
 ```
 
 ## N'Zoth + C'Thun
+Note that if you want more single target just drop Distorted Reality for Mind's Eye.
 
-[DA_nzoth_cthun_59591285536719_Spike](https://www.wowhead.com/ptr/talent-calc/priest/shadow/DAREEAFUEERUVEKFSKEQCFQNVRFUVVGgREIkRBA)
+[DA_nzoth_cthun_56327043282895_Spike_DR]()
 ```
-BIQAAAAAAAAAAAAAAAAAAAAAAEkkEAAAAAAAAAAAAAioIRSSJikEJRig0IJJRaEkgQKSLkEASA
-```
-
-## Y'Shaarj + C'Thun
-
-[DA_yshaarj_cthun_20576809252815_Spike](https://www.wowhead.com/ptr/talent-calc/priest/shadow/DAREEAFUEERUVEKFSKEQCFQNVRFUVVFgVFElBBA)
-```
-BIQAAAAAAAAAAAAAAAAAAAAAAIkkEAAAAAAAAAAAAASOgSOQkkUiIJRSkIINSSSkGBJIki0CJBgE
+BIQAAAAAAAAAAAAAAAAAAAAAAEkkEAAAAAAAAAAAAAiDo5ARSSJikEJJJCSjkkEpRQCCpItQSAIB
 ```

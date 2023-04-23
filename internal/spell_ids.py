@@ -1,6 +1,8 @@
 """spell ids to be used in json result files"""
 alchemy = {
-    "Iced_Phial_of_Corrupting_Rage": 191329,
+    "Iced_Phial_of_Corrupting_Rage_70": 191329,
+    "Iced_Phial_of_Corrupting_Rage_85": 191329,
+    "Iced_Phial_of_Corrupting_Rage_95": 191329,
     "Phial_of_Charged_Isolation": 191332,
     "Phial_of_Elemental_Chaos": 191359,
     "Phial_of_Glacial_Fury": 191335,
