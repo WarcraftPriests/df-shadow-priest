@@ -2,7 +2,7 @@
 
 weights_vault_of_the_incarnates = {
     'pw_ba_1': 0.050,
-    'pw_sa_1': 0.125,
+    'pw_sa_1': 0.0833,
     'pw_na_1': 0.250,
     'lm_ba_1': 0.100,
     'lm_sa_1': 0.163,
@@ -90,8 +90,43 @@ weights_four_targets = {
     'hm_na_4': 0.000,
 }
 
+weights_season_one = {
+    "algethar-fort": 0.0625,
+    "algethar-tyran": 0.0625,
+    "azure-fort": 0.0625,
+    "azure-tyran": 0.0625,
+    "cos-fort": 0.0625,
+    "cos-tyran": 0.0625,
+    "hov-fort": 0.0625,
+    "hov-tyran": 0.0625,
+    "nokhud-fort": 0.0625,
+    "nokhud-tyran": 0.0625,
+    "rlp-fort": 0.0625,
+    "rlp-tyran": 0.0625,
+    "smbg-fort": 0.0625,
+    "smbg-tyran": 0.0625,
+    "temple-fort": 0.0625,
+    "temple-tyran": 0.0625,
+}
+
+weights_season_two = {
+    "bhh-fort": 0.0833,
+    "bhh-tyran": 0.0833,
+    "freehold-fort": 0.0833,
+    "freehold-tyran": 0.0833,
+    "hoi-fort": 0.0833,
+    "hoi-tyran": 0.0833,
+    "neltharus-fort": 0.0833,
+    "neltharus-tyran": 0.0833,
+    "ulda-fort": 0.0833,
+    "ulda-tyran": 0.0833,
+    "ur-fort": 0.0833,
+    "ur-tyran": 0.0833,
+}
+
 
 def find_weights(key):
+    # pylint: disable=too-many-return-statements
     """return the matching dict"""
     if key == 'weightsSingle':
         return weights_single
@@ -103,4 +138,8 @@ def find_weights(key):
         return weights_vault_of_the_incarnates
     if key == 'weightsAberrusTheShadowedCrucible':
         return weights_aberrus_the_shadowed_crucible
+    if key == 'weightsSeasonOne':
+        return weights_season_one
+    if key == 'weightsSeasonTwo':
+        return weights_season_two
     return None

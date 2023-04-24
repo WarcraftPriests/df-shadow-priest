@@ -1,0 +1,34 @@
+# !Tv1spUjmq4)o9iyZlFTzV0EGgj6zlLeStPLfQiMSB7V(Ap(1m0vkkaJNhFFFZyBzP87YHBRZRBNVmRmg1xw0RoBx2nRNC2NwUl)8bFgFx2xjnYbJ6D7)VO0x2NTV864Klw9Ms9J15XVUoTOgLxLdxv33NMDPQVmVU7dBuVPu)s2ZKd7tJYH)owD6tNlE(Cc55Pn1BdQz1nJnFw088Y8UcG((2MAXCEFE2MTYKHH9RZQNQzOE)2U6dR39LO)GABRA8d7R2FwtC86v01Do4Lcl20CLwB9xe9PWUAoNEJvqG14AHmLQfNumyT6WxcWDBYTE7DmIax9fkecA8UciN3rYnVLWKwpu5P2VNpCLBPm)ZGYBRLuDHJ)rKcfaRo6RUSv2aM7lBdpfHNfHNXu71(4QmcJ6aUxdsxl4xj4NX5GR2CFyzs2DqMsqXTkpbO8xcI8y1mqTzyOYJqfApvvbRcK2ycYhRqIhIsnwFR3cei7(PcpvCZw5qW9eOdZtfXRhqP8D4ipqJvLDirfldU51ev5OzErgHqQfKu3KMzYPMtGPW3SRWkeJStkv2AFfavTNvHB)P4feC73NLAFW(Sm4eey1b0PdtNmq6aEabKhv4b8usWJpWAmdomHFPenwfbuekrchbtKCM0mUZc0Y5TFOIEG0neo3r4CfrF9JinuDOGiVnsspp2rWNgepBH1GKGuoy0ttyufLE(dGvw3)fWXZDkJInKnbbQhbrnbPW5q9mbUzLYMFkpmwhLZGJS4MDhcZsv6q0JhMXO71oCWkluJ2dYOlsEbHbM0fvVSVCxTUaxPArN9gv1RU7jTxA(aUWBADbRRdBtAZ306hkt6kTa6n(tec5F96pTr)ammmoP1t3S3r)hyO2iL)7d
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=0
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2700
+enemy="Freehold 25 Tyrannical"
+enemy_health=999999
+keystone_level=25
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=006,mark_duration=0,enemies="Irontide_Enforcer_1":2566281:Humanoid|"Irontide_Mastiff_1":1603925:Beast|"Irontide_Mastiff_2":1603925:Beast|"Irontide_Crackshot_1":1443534:Humanoid|"Irontide_Corsair_1":1603925:Humanoid|"Irontide_Corsair_2":1603925:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=005,mark_duration=0,enemies="Irontide_Enforcer_1":2566281:Humanoid|"Irontide_Enforcer_2":2566281:Humanoid|"Irontide_Mastiff_1":1603925:Beast|"Irontide_Mastiff_2":1603925:Beast|"Irontide_Crackshot_1":1443534:Humanoid|"Irontide_Corsair_1":1603925:Humanoid|"Irontide_Bonesaw_1":1283138:Humanoid|"Irontide_Bonesaw_2":1283138:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=011,mark_duration=0,enemies="BOSS_Skycap'n_Kragg":14626211:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=014,mark_duration=0,enemies="Irontide_Enforcer_1":2566281:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=005,mark_duration=0,enemies="Vermin_Trapper_1":2566281:Humanoid|"Soggy_Shiprat_1":160393:Beast|"Soggy_Shiprat_2":160393:Beast|"Soggy_Shiprat_3":160393:Beast|"Soggy_Shiprat_4":160393:Beast
+raid_events+=/pull,pull=06,bloodlust=0,delay=009,mark_duration=0,enemies="Bilge_Rat_Buccaneer_1":1603925:Humanoid|"Bilge_Rat_Brinescale_1":1026510:Humanoid|"Cutwater_Knife_Juggler_1":1443534:Humanoid|"Bilge_Rat_Swabby_1":1603923:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=009,mark_duration=0,enemies="BOSS_Captain_Eudora":18387257:Humanoid|"Freehold_Deckhand_1":38504:Humanoid|"Freehold_Deckhand_2":38504:Humanoid|"Freehold_Deckhand_3":38504:Humanoid|"BOSS_Captain_Jolly":18387257:Humanoid|"Freehold_Shipmate_1":521276:Humanoid|"Freehold_Shipmate_2":521276:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=010,mark_duration=0,enemies="Bilge_Rat_Brinescale_1":1026510:Humanoid|"Bilge_Rat_Brinescale_2":1026510:Humanoid|"Blacktooth_Knuckleduster_1":1764319:Humanoid|"Cutwater_Knife_Juggler_1":1443534:Humanoid|"Cutwater_Knife_Juggler_2":1443534:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=012,mark_duration=0,enemies="Bilge_Rat_Brinescale_1":1026510:Humanoid|"Bilge_Rat_Brinescale_2":1026510:Humanoid|"Blacktooth_Knuckleduster_1":1764319:Humanoid|"Blacktooth_Scrapper_1":1924711:Humanoid|"Cutwater_Harpooner_1":1603925:Humanoid|"Cutwater_Knife_Juggler_1":1443534:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=007,mark_duration=0,enemies="Irontide_Crusher_1":3207851:Giant|"Blacktooth_Scrapper_1":1924711:Humanoid|"Bilge_Rat_Buccaneer_1":1603925:Humanoid|"Bilge_Rat_Brinescale_1":1026510:Humanoid|"Blacktooth_Knuckleduster_1":1764319:Humanoid|"Cutwater_Harpooner_1":1603925:Humanoid|"Cutwater_Harpooner_2":1603925:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=008,mark_duration=0,enemies="Irontide_Crusher_1":3207851:Giant|"Ludwig_Von_Tortollan_1":6415703:Beast
+raid_events+=/pull,pull=12,bloodlust=0,delay=008,mark_duration=0,enemies="Bilge_Rat_Buccaneer_1":1603925:Humanoid|"Bilge_Rat_Brinescale_1":1026510:Humanoid|"Blacktooth_Knuckleduster_1":1764319:Humanoid|"Cutwater_Knife_Juggler_1":1443534:Humanoid|"Cutwater_Knife_Juggler_2":1443534:Humanoid|"Blacktooth_Scrapper_1":1924711:Humanoid
+raid_events+=/pull,pull=13,bloodlust=0,delay=010,mark_duration=0,enemies="BOSS_Trothak":15044103:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=015,mark_duration=0,enemies="Irontide_Stormcaller_1":1283138:Humanoid|"Irontide_Stormcaller_2":1283138:Humanoid|"Irontide_Ravager_1":1603925:Humanoid|"Irontide_Ravager_2":1603925:Humanoid|"Irontide_Buccaneer_1":1603925:Humanoid|"Irontide_Oarsman_1":2566281:Humanoid|"Shiprat_1":12:Critter
+raid_events+=/pull,pull=15,bloodlust=0,delay=007,mark_duration=0,enemies="Irontide_Officer_1":2566281:Humanoid|"Irontide_Buccaneer_1":1603925:Humanoid|"Irontide_Buccaneer_2":1603925:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=012,mark_duration=0,enemies="Irontide_Enforcer_1":2566281:Humanoid|"Irontide_Enforcer_2":2566281:Humanoid|"Irontide_Mastiff_1":1603925:Beast|"Irontide_Mastiff_2":1603925:Beast|"Irontide_Stormcaller_1":1283138:Humanoid|"Irontide_Stormcaller_2":1283138:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=011,mark_duration=0,enemies="BOSS_Harlan_Sweete":20894610:Humanoid

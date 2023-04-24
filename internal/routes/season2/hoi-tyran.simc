@@ -1,0 +1,36 @@
+# !TvvWoYjmm0FPjqiax3UQsThyxjAVShI0WGZu2YcvZe2oZFFJDcGtMkbesI9Zp)SHOf6FOBpnpoF51JJG1cFBYmJRDCXo)fC9HPZ6NsSP)MUrQT6wlCZ98zWCCz09Yh9dOVMla8R5X(Vppmb96oDBhCEzyeHQrSVpoX51YqVU9NV)2tYxUF)2HVQB)la)w3KPB)844cquC5YfyY(6Y4OUrTnVDPBe(egjy)JBZRoJBeShn5iqBVyXh(nYORC6c5HBK7HK9cTTmSnnr5M4geIW4b)ynn4flxEAYbJHfZaaconu8q7WHfjff)kIiLerQzOJyxdmVdq4ZlropiLrbjyHiHQ5al4btLEtl8QKYRgLCORIGwYcUCpFPfp4bj3dswuQuheQIT(rKtMohNO1wf(G07FSvejbTCZmEP1ImC3FU4Hy7lybV5IHtz3r8aRJOYtFfYlukWQunvFev0Uf0CrWpv41SWDqbk9AfDxq32vQYPOtuik6tkwUKhss7AxxAR4EUu3TMOOJYG0y31qj7dHapiq8qU1YhwlvhxBXfcg3pk8YRilU2fMNhHBrsH7HpGqzI7Gkb08evdRDBXGKnrzeavja4HVmQNkpIB5r(LYrkvL)h3vpS2kOjT(nI6eoP0p(LGyVKXtkAw2HOwdzaMYeTjcMIiykIGPGGrfGHY8SO(HnlRillPixNOm(FqrjxAFDwCVHD7N6pVmDgMN8NYuJhYaFGhD4oh5kmcNSdZtbxr61EzWyFXyUc2T)(B9)FYU)bUZU5U3DoFLwOTFWygo5o16UZumZ1)l
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=0
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2700
+enemy="Halls of Infusion 25 Tyrannical"
+enemy_health=999999
+keystone_level=25
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=007,enemies="Refti_Defender_1":1492276:Humanoid|"Refti_Defender_2":1492276:Humanoid|"Refti_Defender_3":1492276:Humanoid|"Primalist_Ravager_1":1492276:Humanoid|"Primalist_Ravager_2":1492276:Humanoid|"Primalist_Ravager_3":1492276:Humanoid|"Primalist_Geomancer_1":1492276:Humanoid|"Primalist_Geomancer_2":1492276:Humanoid|"Primalist_Geomancer_3":1492276:Humanoid|"Primalist_Geomancer_4":1492276:Humanoid|"Containment_Apparatus_1":1492276:Mechanical
+raid_events+=/pull,pull=02,bloodlust=0,delay=010,enemies="Refti_Defender_1":1492276:Humanoid|"Primalist_Ravager_1":1492276:Humanoid|"Primalist_Geomancer_1":1492276:Humanoid|"Containment_Apparatus_1":1492276:Mechanical|"Containment_Apparatus_2":1492276:Mechanical|"Containment_Apparatus_3":1492276:Mechanical|"Containment_Apparatus_4":1492276:Mechanical
+raid_events+=/pull,pull=03,bloodlust=0,delay=014,enemies="Refti_Defender_1":1492276:Humanoid|"Refti_Defender_2":1492276:Humanoid|"Primalist_Ravager_1":1492276:Humanoid|"Primalist_Geomancer_1":1492276:Humanoid|"Primalist_Geomancer_2":1492276:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=013,enemies="Refti_Defender_1":1492276:Humanoid|"Refti_Defender_2":1492276:Humanoid|"Refti_Defender_3":1492276:Humanoid|"Refti_Defender_4":1492276:Humanoid|"Primalist_Ravager_1":1492276:Humanoid|"Primalist_Geomancer_1":1492276:Humanoid|"Primalist_Geomancer_2":1492276:Humanoid|"Containment_Apparatus_1":1492276:Mechanical|"Containment_Apparatus_2":1492276:Mechanical|"Containment_Apparatus_3":1492276:Mechanical|"Containment_Apparatus_4":1492276:Mechanical
+raid_events+=/pull,pull=05,bloodlust=0,delay=014,enemies="BOSS_Watcher_Irideus":42798204:Giant
+raid_events+=/pull,pull=06,bloodlust=0,delay=010,enemies="Primalist_Shocktrooper_1":1492276:Humanoid|"Primalist_Shocktrooper_2":1492276:Humanoid|"Curious_Swoglet_1":447735:Dragonkin|"Curious_Swoglet_2":447735:Dragonkin|"Curious_Swoglet_3":447735:Dragonkin|"Dazzling_Dragonfly_1":1192212:Beast
+raid_events+=/pull,pull=07,bloodlust=0,delay=008,enemies="Curious_Swoglet_1":447735:Dragonkin|"Curious_Swoglet_2":447735:Dragonkin|"Curious_Swoglet_3":447735:Dragonkin|"Curious_Swoglet_4":447735:Dragonkin|"Curious_Swoglet_5":447735:Dragonkin|"Curious_Swoglet_6":447735:Dragonkin|"Curious_Swoglet_7":447735:Dragonkin|"Curious_Swoglet_8":447735:Dragonkin|"Curious_Swoglet_9":447735:Dragonkin|"Curious_Swoglet_10":447735:Dragonkin|"Curious_Swoglet_11":447735:Dragonkin|"Curious_Swoglet_12":447735:Dragonkin|"Curious_Swoglet_13":447735:Dragonkin|"Curious_Swoglet_14":447735:Dragonkin|"Curious_Swoglet_15":447735:Dragonkin
+raid_events+=/pull,pull=08,bloodlust=0,delay=010,enemies="Skulking_Zealot_1":1492276:Humanoid|"Dazzling_Dragonfly_1":1192212:Beast|"Dazzling_Dragonfly_2":1192212:Beast
+raid_events+=/pull,pull=09,bloodlust=0,delay=009,enemies="Skulking_Zealot_1":1492276:Humanoid|"Skulking_Zealot_2":1492276:Humanoid|"Primalist_Shocktrooper_1":1492276:Humanoid|"Primalist_Shocktrooper_2":1492276:Humanoid|"Primalist_Shocktrooper_3":1492276:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,enemies="Squallbringer_Cyraz_1":3701978:Humanoid|"Flamecaller_Aymi_1":3701978:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=015,enemies="BOSS_Gulping_Goliath":10324345:Dragonkin
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,enemies="Gusting_Proto-Dragon_1":2417688:Dragonkin|"Primalist_Earthshaker_1":1342957:Humanoid|"Primalist_Earthshaker_2":1342957:Humanoid|"Primalist_Galesinger_1":1342957:Humanoid|"Primalist_Icecaller_1":1342957:Humanoid
+raid_events+=/pull,pull=13,bloodlust=0,delay=007,enemies="Gusting_Proto-Dragon_1":2417688:Dragonkin|"Glacial_Proto-Dragon_1":2417688:Dragonkin|"Subterranean_Proto-Dragon_1":2417688:Dragonkin
+raid_events+=/pull,pull=14,bloodlust=0,delay=012,enemies="Glacial_Proto-Dragon_1":2417688:Dragonkin|"Glacial_Proto-Dragon_2":2417688:Dragonkin|"Primalist_Earthshaker_1":1342957:Humanoid|"Subterranean_Proto-Dragon_1":2417688:Dragonkin|"Primalist_Galesinger_1":1342957:Humanoid|"Primalist_Galesinger_2":1342957:Humanoid|"Primalist_Icecaller_1":1342957:Humanoid|"Primalist_Icecaller_2":1342957:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=015,enemies="BOSS_Khajin_the_Unyielding":10090762:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=014,enemies="Primalist_Icecaller_1":1342957:Humanoid|"Glacial_Proto-Dragon_1":2417688:Dragonkin|"Aqua_Rager_1":741227:Elemental|"Aqua_Rager_2":741227:Elemental
+raid_events+=/pull,pull=17,bloodlust=0,delay=010,enemies="Primalist_Icecaller_1":1342957:Humanoid|"Glacial_Proto-Dragon_1":2417688:Dragonkin|"Aqua_Rager_1":741227:Elemental|"Aqua_Rager_2":741227:Elemental
+raid_events+=/pull,pull=18,bloodlust=0,delay=006,enemies="Infuser_Sariya_1":3519132:Humanoid|"Aqua_Rager_1":741227:Elemental|"Aqua_Rager_2":741227:Elemental|"Aqua_Rager_3":741227:Elemental
+raid_events+=/pull,pull=19,bloodlust=0,delay=007,enemies="BOSS_Primal_Tsunami":11211957:Elemental

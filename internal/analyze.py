@@ -61,8 +61,7 @@ def find_weight(sim_type, profile_name, dungeons):
     elif sim_type == "4T":
         weight_type = "fourTargetWeights"
     elif sim_type == "Dungeons":
-        # in the future dont hardcode this
-        return 1 / 16
+        weight_type = "dungeonWeights"
     elif dungeons:
         if sim_type == profile_name:
             weight = 1

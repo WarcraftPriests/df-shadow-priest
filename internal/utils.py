@@ -41,8 +41,12 @@ def generate_parser(description):
 
 def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
-    keys = ["algethar", "azure", "cos", "hov",
-            "nokhud", "rlp", "smbg", "temple"]
+    season = config["dungeonSeason"]
+    if season == 2:
+        keys = ["bhh", "hoi", "neltharus", "ulda"]
+    else:
+        keys = ["algethar", "azure", "cos", "hov",
+                "nokhud", "rlp", "smbg", "temple"]
     affixes = ["fort", "tyran"]
     combos = [
         f"{key}-{affix}" for key in keys for affix in affixes]

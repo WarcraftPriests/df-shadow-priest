@@ -1,0 +1,35 @@
+# !vwvtponmq0)s1XoojxHLdGeHvkCGtwQDZ4sGSjRADww(3JNXo2JdCbPO04pEV553mJRry(Qz4P151BpEEgCo4Jl2vCUZBU13JZpTC18Ud7z8ntVY4mdo4n)7ha75Tz)hppoHyT3a47RZJFADAbgnxmdxGRBtZiv9I864apQFbWpn9vMHTPr)O7ttF7dWND9VygE988gqsC72nyX9428ShLonXW2Lz4vyM49omdp5Mwx8i8JX95s78HTLRW6cP9Qku6WZOG8Q72K19fR9o4UJi78VCOGWF8e8IpO3duMF1lXDK)qrp14Jl6w(dQvcwBGksqeVNIJ6iG4(9CK3qm059jofdLlh9a2wk646(yRPW3Wcpg8oaxCNDeufbsISvZ1LOR8Kvf0ImvHeopsiFEisujjXyugaRyGLqhzgAEq3bxtXuZPOoqrDr8TxW4lQl9lnpX4Z6K(BcMJGmhb509cj5tcfAuin88HGuuBCufl)k55OWcDCRNqYDDsKDf2Uki1Md2jMF2dPkYSludMm1Md5pxsNTLLi1KO0CmQycNX5XseFszF1D(Ajun8JDlNIwdViVdtkosf80DO2FhVotzdldNOuhowcbJJZIOvQlZ3IqbOGxjjs9qvjTWnT984XEZCAkMHceLRkKf01S3Tlj7wfe(Xoob3OYcn2viuLrqXot7TFHdbVm4ytyI1yJIO283nBIMdoN28pANuh2utH9QkmG2)7Y)tMIUSMyqc1AQuqsxgMrwEFPqFWf6aIk)KRx(H)MF8sA)GXjRD6j)Fi9BpyKrZF(d
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=0
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2700
+enemy="The Underrot 25 Tyrannical"
+enemy_health=999999
+keystone_level=25
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=006,mark_duration=0,enemies="Underrot_Tick_1":320785:Beast|"Underrot_Tick_2":320785:Beast|"Underrot_Tick_3":320785:Beast|"Underrot_Tick_4":320785:Beast|"Underrot_Tick_5":320785:Beast|"Chosen_Blood_Matron_1":2566281:Humanoid|"Fetid_Maggot_1":1603925:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=007,mark_duration=0,enemies="Underrot_Tick_1":320785:Beast|"Underrot_Tick_2":320785:Beast|"Underrot_Tick_3":320785:Beast|"Underrot_Tick_4":320785:Beast|"Underrot_Tick_5":320785:Beast|"Fanatical_Headhunter_1":1603925:Humanoid|"Fanatical_Headhunter_2":1603925:Humanoid|"Fanatical_Headhunter_3":1603925:Humanoid|"Devout_Blood_Priest_1":1603925:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,mark_duration=0,enemies="Chosen_Blood_Matron_1":2566281:Humanoid|"Fanatical_Headhunter_1":1603925:Humanoid|"Devout_Blood_Priest_1":1603925:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=006,mark_duration=0,enemies="Befouled_Spirit_1":1603925:Aberration|"Fanatical_Headhunter_1":1603925:Humanoid|"Fanatical_Headhunter_2":1603925:Humanoid|"Devout_Blood_Priest_1":1603925:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=014,mark_duration=0,enemies="BOSS_Elder_Leaxa":10029396:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=007,mark_duration=0,enemies="Underrot_Tick_1":320785:Beast|"Underrot_Tick_2":320785:Beast|"Underrot_Tick_3":320785:Beast|"Underrot_Tick_4":320785:Beast|"Underrot_Tick_5":320785:Beast|"Underrot_Tick_6":320785:Beast|"Underrot_Tick_7":320785:Beast|"Living_Rot_1":1603925:Aberration|"Living_Rot_2":1603925:Aberration|"Living_Rot_3":1603925:Aberration|"Fetid_Maggot_1":1603925:Beast
+raid_events+=/pull,pull=07,bloodlust=0,delay=007,mark_duration=0,enemies="Living_Rot_1":1603925:Aberration|"Living_Rot_2":1603925:Aberration|"Diseased_Lasher_1":1603925:Elemental|"Feral_Bloodswarmer_1":1603925:Beast|"Feral_Bloodswarmer_2":1603925:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=005,mark_duration=0,enemies="Living_Rot_1":1603925:Aberration|"Living_Rot_2":1603925:Aberration|"Living_Rot_3":1603925:Aberration|"Feral_Bloodswarmer_1":1603925:Beast|"Feral_Bloodswarmer_2":1603925:Beast|"Diseased_Lasher_1":1603925:Elemental
+raid_events+=/pull,pull=09,bloodlust=0,delay=006,mark_duration=0,enemies="Living_Rot_1":1603925:Aberration|"Living_Rot_2":1603925:Aberration|"Fetid_Maggot_1":1603925:Beast|"Diseased_Lasher_1":1603925:Elemental
+raid_events+=/pull,pull=10,bloodlust=0,delay=012,mark_duration=0,enemies="Fetid_Maggot_1":1603925:Beast|"Fetid_Maggot_2":1603925:Beast|"Feral_Bloodswarmer_1":1603925:Beast|"Diseased_Lasher_1":1603925:Elemental
+raid_events+=/pull,pull=11,bloodlust=0,delay=007,mark_duration=0,enemies="BOSS_Cragmaw_the_Infested":14626227:Beast
+raid_events+=/pull,pull=12,bloodlust=0,delay=015,mark_duration=0,enemies="Fallen_Deathspeaker_1":1603925:Undead|"Grotesque_Horror_1":1603925:Aberration|"Reanimated_Guardian_1":1603925:Undead|"Reanimated_Guardian_2":1603925:Undead|"Reanimated_Guardian_3":1603925:Undead
+raid_events+=/pull,pull=13,bloodlust=0,delay=006,mark_duration=0,enemies="Reanimated_Guardian_1":1603925:Undead|"Reanimated_Guardian_2":1603925:Undead|"Reanimated_Guardian_3":1603925:Undead|"Reanimated_Guardian_4":1603925:Undead|"Fallen_Deathspeaker_1":1603925:Undead
+raid_events+=/pull,pull=14,bloodlust=0,delay=013,mark_duration=0,enemies="Bloodsworn_Defiler_1":1603925:Undead|"Bloodsworn_Defiler_2":1603925:Undead
+raid_events+=/pull,pull=15,bloodlust=0,delay=014,mark_duration=0,enemies="BOSS_Sporecaller_Zancha":14626227:Undead
+raid_events+=/pull,pull=16,bloodlust=0,delay=007,mark_duration=0,enemies="Faceless_Corruptor_1":2566281:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=014,mark_duration=0,enemies="Fallen_Deathspeaker_1":1603925:Undead|"Reanimated_Guardian_1":1603925:Undead|"Reanimated_Guardian_2":1603925:Undead|"Reanimated_Guardian_3":1603925:Undead|"Reanimated_Guardian_4":1603925:Undead
+raid_events+=/pull,pull=18,bloodlust=0,delay=011,mark_duration=0,enemies="Faceless_Corruptor_1":2566281:Humanoid|"Faceless_Corruptor_2":2566281:Humanoid

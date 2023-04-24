@@ -96,7 +96,8 @@ def run_sims(args, iterations, talent):
                 '((hm|lm|pw).+?(?=.simc)|dungeons.simc)', profile).group()
         count = count + 1
         if not args.dungeons:
-            weight = find_weights(config["compositeWeights"]).get(profile_name) or 0
+            weight = find_weights(
+                config["compositeWeights"]).get(profile_name) or 0
             weight += find_weights(config["singleTargetWeights"]
                                    ).get(profile_name) or 0
             weight += find_weights(config["twoTargetWeights"]
@@ -104,7 +105,7 @@ def run_sims(args, iterations, talent):
             weight += find_weights(config["fourTargetWeights"]
                                    ).get(profile_name) or 0
         elif args.dungeons:
-            weight = 1 / len(profiles)
+            weight = find_weights(config["dungeonWeights"]).get(profile_name)
         else:
             weight = 1
         print(f"Simming {count} out of {len(profiles)}.")

@@ -54,7 +54,9 @@ def build_settings(profile_name_string, weights, dungeons):
     if weights:
         settings_string += fightExpressions['weights']
     if dungeons:
-        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as r_file:
+        season = config["dungeonSeason"]
+        r_file_location = f"internal/routes/season{season}/{profile_name_string}.simc"
+        with open(r_file_location, 'r', encoding="utf8") as r_file:
             data = r_file.read()
             r_file.close()
         settings_string += "\n" + data
@@ -158,7 +160,8 @@ def create_talent_builds():
     for build in talent_builds["builds"]:
         talent_name = build
         talent_string = talent_builds["builds"][build]
-        profiles = profiles + f'profileset."{talent_name}"+=talents={talent_string}\n'
+        profiles = profiles + \
+            f'profileset."{talent_name}"+=talents={talent_string}\n'
 
     return profiles
 

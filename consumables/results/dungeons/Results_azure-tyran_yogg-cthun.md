@@ -1,18 +1,18 @@
 # azure-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|119833|0.76%|
-|Feisty_Fish_Sticks|119821|0.75%|
-|Aromatic_Seafood_Platter|119814|0.75%|
-|Sizzling_Seafood_Medley|119799|0.73%|
-|Thousandbone_Tongueslicer|119782|0.72%|
-|Great_Cerulean_Sea|119758|0.70%|
-|Revenge_Served_Cold|119715|0.66%|
-|Timely_Demise|119666|0.62%|
-|Fated_Fortune_Cookie|119662|0.62%|
-|Salt_Baked_Fishcake|119577|0.55%|
-|Filet_of_Fangs|119550|0.52%|
-|Seamoth_Surprise|119535|0.51%|
-|Roast_Duck_Delight|119257|0.28%|
-|Thrice_Spiced_Mammoth_Kabob|119155|0.19%|
-|Base|118927|0.00%|
+|Draconic_Augment_Rune|116166|0.72%|
+|Feisty_Fish_Sticks|116138|0.70%|
+|Sizzling_Seafood_Medley|116099|0.66%|
+|Revenge_Served_Cold|116087|0.65%|
+|Aromatic_Seafood_Platter|116079|0.65%|
+|Thousandbone_Tongueslicer|116051|0.62%|
+|Fated_Fortune_Cookie|115984|0.56%|
+|Great_Cerulean_Sea|115968|0.55%|
+|Timely_Demise|115941|0.53%|
+|Filet_of_Fangs|115900|0.49%|
+|Salt_Baked_Fishcake|115871|0.47%|
+|Seamoth_Surprise|115850|0.45%|
+|Roast_Duck_Delight|115653|0.28%|
+|Thrice_Spiced_Mammoth_Kabob|115589|0.22%|
+|Base|115333|0.00%|
