@@ -15,8 +15,7 @@ actions.precombat+=/snapshot_stats
 actions.precombat+=/shadowform,if=!buff.shadowform.up
 actions.precombat+=/arcane_torrent
 actions.precombat+=/shadow_crash,if=raid_event.adds.in>=25&spell_targets.shadow_crash<=8&!fight_style.dungeonslice&(spell_targets.shadow_crash>1|talent.mental_decay)
-actions.precombat+=/mind_blast,if=talent.damnation.enabled&(!talent.shadow_crash.enabled|raid_event.adds.in>=25&spell_targets.shadow_crash<=8|fight_style.dungeonslice)
-actions.precombat+=/vampiric_touch,if=!talent.damnation.enabled&(!talent.shadow_crash.enabled|raid_event.adds.in<25|spell_targets.shadow_crash>8|spell_targets.shadow_crash=1&!talent.mental_decay|fight_style.dungeonslice)
+actions.precombat+=/vampiric_touch,if=!talent.shadow_crash.enabled|raid_event.adds.in<25|spell_targets.shadow_crash>8|spell_targets.shadow_crash=1&!talent.mental_decay|fight_style.dungeonslice
 
 # Executed every time the actor is available.
 actions+=/variable,name=holding_crash,op=set,value=raid_event.adds.in<15
@@ -70,11 +69,8 @@ actions.main+=/shadow_word_death,target_if=target.health.pct<20&(cooldown.fiend.
 actions.main+=/mind_spike_insanity,if=variable.dots_up&cooldown.mind_blast.full_recharge_time>=gcd*3&talent.idol_of_cthun&(!cooldown.void_torrent.up|!talent.void_torrent)
 actions.main+=/mind_flay,if=buff.mind_flay_insanity.up&variable.dots_up&(!pet.fiend.active)&cooldown.mind_blast.full_recharge_time>=gcd*3&talent.idol_of_cthun&(!cooldown.void_torrent.up|!talent.void_torrent)
 actions.main+=/mind_blast,if=variable.dots_up&(!buff.mind_devourer.up|cooldown.void_eruption.up&talent.void_eruption)
-# TODO: Dont use if add events are coming soon when talented into PL
 actions.main+=/void_torrent,if=!variable.holding_crash,target_if=variable.all_dots_up&dot.devouring_plague.remains>=2
 actions.main+=/mindgames,target_if=variable.all_dots_up&dot.devouring_plague.remains>=cast_time
-actions.main+=/dark_void,if=raid_event.adds.in>20
-# TODO: Dont use if add events are coming soon when talented into PL
 actions.main+=/call_action_list,name=filler
 
 actions.aoe=call_action_list,name=aoe_variables

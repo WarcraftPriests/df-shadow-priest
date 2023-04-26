@@ -105,7 +105,8 @@ def run_sims(args, iterations, talent):
             weight += find_weights(config["fourTargetWeights"]
                                    ).get(profile_name) or 0
         elif args.dungeons:
-            weight = find_weights(config["dungeonWeights"]).get(profile_name)
+            # could look this up in the future, need to fix profile_name
+            weight = 1
         else:
             weight = 1
         print(f"Simming {count} out of {len(profiles)}.")

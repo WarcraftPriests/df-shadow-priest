@@ -80,9 +80,7 @@ def build_results(data, weights, sim_type, directory, dungeons):
     results = {}
     for value in data.iterrows():
         actor = value[1].actor
-        if sim_type == "Dungeons":
-            fight_style = "dungeons"
-        elif dungeons:
+        if sim_type == "Dungeons" or dungeons:
             fight_style = value[1].profile.split("_")[-1]
         else:
             fight_style = re.search(

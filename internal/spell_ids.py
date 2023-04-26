@@ -131,9 +131,12 @@ racials = {
 }
 
 special = {
-    "Embellishment_Blue_Silken_Lining": 193946,
-    "Embellishment_Potion_Absorption_Inhibitor": 191534,
-    "Embellishment_Bronzed_Grip_Wrappings": 193943,
+    "Embellishment_Blue_Silken_Lining_1": 193946,
+    "Embellishment_Blue_Silken_Lining_2": 193946,
+    "Embellishment_Potion_Absorption_Inhibitor_1": 191534,
+    "Embellishment_Potion_Absorption_Inhibitor_2": 191534,
+    "Embellishment_Bronzed_Grip_Wrappings_1": 193943,
+    "Embellishment_Bronzed_Grip_Wrappings_2": 193943,
     "Neck_Elemental_Lariat_3Earth_418": 193001,
     "Neck_Elemental_Lariat_2Earth-1Air_418": 193001,
     "Neck_Elemental_Lariat_1Earth-1Air-1Frost_418": 193001,
@@ -165,7 +168,10 @@ special = {
     "MH_Stormlashs_Last_Resort_424-OH_Witherrot_Tome_418": 193496,
     "Back_Voice_of_the_Silent_Star_441": 204465,
     "MH_Spore_Keepers_Baton_447-OH_IDK_441": 204401,
-    "Embellishment_Shadowflame_Tempered_Armor_Patch": 204710,
+    "Embellishment_Shadowflame_Tempered_Armor_Patch_1": 204710,
+    "Embellishment_Shadowflame_Tempered_Armor_Patch_2": 204710,
+    "Back_Undulating_Sporecloak": 205025,
+    "Neck_Torc_of_Passed_Time": 201759,
 }
 
 tiersets = {

@@ -14,21 +14,21 @@ builds:
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAEEJSAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_nzoth_cthun_57346197526479_Flay_DR
 gear:
   head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # mastery/haste
-  neck: "magmoraxs_fourth_collar,id=204397,ilevel=447" # mastery/haste
+  neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
   shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/crit
-  back: "drape_of_the_dracthyr_trials,id=204467,ilevel=447" # haste/vers
+  back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
   chest: "command_of_the_furnace_seraph,id=202545,ilevel=447" # crit/mastery
   wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
   hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=444" # mastery/haste
   waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
   legs: "riverrider_legwraps,id=134427,ilevel=447" # mastery/haste
-  feet: "treads_of_fractured_realities,id=204392,ilevel=450" # crit/mastery
+  feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
   finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
   finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
-  trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
+  trinket1: "igneous_flowstone,id=203996,ilevel=447"
   trinket2: "neltharions_call_to_suffering,id=204211,ilevel=457"
-  main_hand: "lavaflow_control_rod,id=202570,ilevel=447" # haste/vers
-  off_hand: "echos_maddening_volume,id=204324,ilevel=450" # mastery/haste
+  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/vers
+  off_hand: ""
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
