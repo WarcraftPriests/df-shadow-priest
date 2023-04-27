@@ -1,4 +1,4 @@
 # smbg-fort - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|113664|1.00|0.58|0.58|0.56|0.55|0.15|
+|Base|110093|1.00|0.59|0.63|0.64|0.58|0.15|

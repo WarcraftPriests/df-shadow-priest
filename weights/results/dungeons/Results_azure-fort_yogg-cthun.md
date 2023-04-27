@@ -1,4 +1,4 @@
 # azure-fort - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|130383|1.00|0.59|0.59|0.55|0.53|0.11|
+|Base|124348|1.00|0.51|0.54|0.57|0.47|0.11|

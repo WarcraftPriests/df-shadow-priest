@@ -1,4 +1,4 @@
 # Composite - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|158607|1.00|0.59|0.60|0.59|0.52|0.09|
+|Base|132919|1.00|0.54|0.59|0.66|0.54|0.09|
