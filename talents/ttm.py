@@ -21,7 +21,6 @@ if __name__ == '__main__':
     ]
     for profile in profiles:
         OUTPUT_FILE = ""
-        lines_seen = set()
         with open(profile, 'r', encoding="utf8") as file:
             data = file.readlines()
             file.close()
@@ -35,9 +34,7 @@ if __name__ == '__main__':
 
         for line in data:
             if 'Solved loadout ' not in line:
-                if line not in lines_seen:
-                    lines_seen.add(line)
-                    OUTPUT_FILE = OUTPUT_FILE + line
+                OUTPUT_FILE = OUTPUT_FILE + line
                 continue
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
@@ -63,8 +60,7 @@ if __name__ == '__main__':
                 f'profileset."{TALENT}', f'profileset."{TALENT}{IDOLS_USED}')
 
             # ONLY ALLOW 2 IDOL BUILDS
-            if IDOLS_COUNT > 1 and line not in lines_seen:
-                lines_seen.add(line)
+            if IDOLS_COUNT > 1:
                 OUTPUT_FILE = OUTPUT_FILE + line
 
         with open(profile, 'w', encoding="utf8") as file:
