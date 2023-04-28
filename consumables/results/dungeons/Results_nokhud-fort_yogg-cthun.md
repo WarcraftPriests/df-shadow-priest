@@ -1,18 +1,18 @@
 # nokhud-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|145509|0.59%|
-|Feisty_Fish_Sticks|145466|0.56%|
-|Sizzling_Seafood_Medley|145446|0.55%|
-|Thousandbone_Tongueslicer|145414|0.52%|
-|Aromatic_Seafood_Platter|145405|0.52%|
-|Fated_Fortune_Cookie|145386|0.50%|
-|Great_Cerulean_Sea|145360|0.49%|
-|Revenge_Served_Cold|145360|0.49%|
-|Filet_of_Fangs|145286|0.43%|
-|Salt_Baked_Fishcake|145244|0.41%|
-|Timely_Demise|145209|0.38%|
-|Seamoth_Surprise|145156|0.34%|
-|Roast_Duck_Delight|145027|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|144868|0.15%|
-|Base|144657|0.00%|
+|Sizzling_Seafood_Medley|143610|0.56%|
+|Feisty_Fish_Sticks|143609|0.55%|
+|Draconic_Augment_Rune|143537|0.50%|
+|Aromatic_Seafood_Platter|143536|0.50%|
+|Great_Cerulean_Sea|143519|0.49%|
+|Revenge_Served_Cold|143516|0.49%|
+|Thousandbone_Tongueslicer|143508|0.48%|
+|Fated_Fortune_Cookie|143490|0.47%|
+|Filet_of_Fangs|143384|0.40%|
+|Salt_Baked_Fishcake|143339|0.37%|
+|Timely_Demise|143332|0.36%|
+|Seamoth_Surprise|143326|0.36%|
+|Roast_Duck_Delight|143110|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|143056|0.17%|
+|Base|142817|0.00%|

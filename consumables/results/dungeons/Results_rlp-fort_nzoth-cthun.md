@@ -1,18 +1,18 @@
 # rlp-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|121196|0.46%|
-|Feisty_Fish_Sticks|121161|0.43%|
-|Aromatic_Seafood_Platter|121158|0.43%|
-|Thousandbone_Tongueslicer|121136|0.41%|
-|Revenge_Served_Cold|121128|0.41%|
-|Great_Cerulean_Sea|121119|0.40%|
-|Sizzling_Seafood_Medley|121111|0.39%|
-|Fated_Fortune_Cookie|121072|0.36%|
-|Salt_Baked_Fishcake|121037|0.33%|
-|Timely_Demise|121031|0.33%|
-|Filet_of_Fangs|121005|0.30%|
-|Seamoth_Surprise|120979|0.28%|
-|Roast_Duck_Delight|120887|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|120756|0.10%|
-|Base|120638|0.00%|
+|Draconic_Augment_Rune|122619|0.63%|
+|Thousandbone_Tongueslicer|122512|0.54%|
+|Fated_Fortune_Cookie|122499|0.53%|
+|Great_Cerulean_Sea|122475|0.51%|
+|Feisty_Fish_Sticks|122473|0.51%|
+|Revenge_Served_Cold|122466|0.51%|
+|Sizzling_Seafood_Medley|122430|0.48%|
+|Aromatic_Seafood_Platter|122424|0.47%|
+|Timely_Demise|122331|0.40%|
+|Salt_Baked_Fishcake|122323|0.39%|
+|Filet_of_Fangs|122315|0.38%|
+|Seamoth_Surprise|122283|0.36%|
+|Roast_Duck_Delight|122164|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|122003|0.13%|
+|Base|121848|0.00%|

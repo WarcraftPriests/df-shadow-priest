@@ -1,18 +1,18 @@
 # temple-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|109794|0.53%|
-|Sizzling_Seafood_Medley|109750|0.49%|
-|Fated_Fortune_Cookie|109742|0.49%|
-|Aromatic_Seafood_Platter|109738|0.48%|
-|Feisty_Fish_Sticks|109730|0.47%|
-|Thousandbone_Tongueslicer|109723|0.47%|
-|Great_Cerulean_Sea|109714|0.46%|
-|Revenge_Served_Cold|109705|0.45%|
-|Salt_Baked_Fishcake|109634|0.39%|
-|Filet_of_Fangs|109631|0.38%|
-|Seamoth_Surprise|109617|0.37%|
-|Timely_Demise|109614|0.37%|
-|Roast_Duck_Delight|109419|0.19%|
-|Thrice_Spiced_Mammoth_Kabob|109365|0.14%|
-|Base|109212|0.00%|
+|Draconic_Augment_Rune|108460|0.55%|
+|Great_Cerulean_Sea|108460|0.55%|
+|Sizzling_Seafood_Medley|108411|0.50%|
+|Thousandbone_Tongueslicer|108391|0.48%|
+|Revenge_Served_Cold|108382|0.48%|
+|Fated_Fortune_Cookie|108381|0.47%|
+|Feisty_Fish_Sticks|108372|0.47%|
+|Aromatic_Seafood_Platter|108366|0.46%|
+|Salt_Baked_Fishcake|108322|0.42%|
+|Filet_of_Fangs|108312|0.41%|
+|Seamoth_Surprise|108267|0.37%|
+|Timely_Demise|108151|0.26%|
+|Roast_Duck_Delight|108074|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|108032|0.15%|
+|Base|107869|0.00%|
