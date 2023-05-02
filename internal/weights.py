@@ -110,18 +110,22 @@ weights_season_one = {
 }
 
 weights_season_two = {
-    "bhh-fort": 0.0833,
-    "bhh-tyran": 0.0833,
-    "freehold-fort": 0.0833,
-    "freehold-tyran": 0.0833,
-    "hoi-fort": 0.0833,
-    "hoi-tyran": 0.0833,
-    "neltharus-fort": 0.0833,
-    "neltharus-tyran": 0.0833,
-    "ulda-fort": 0.0833,
-    "ulda-tyran": 0.0833,
-    "ur-fort": 0.0833,
-    "ur-tyran": 0.0833,
+    "bhh-fort": 0.0625,
+    "bhh-tyran": 0.0625,
+    "freehold-fort": 0.0625,
+    "freehold-tyran": 0.0625,
+    "hoi-fort": 0.0625,
+    "hoi-tyran": 0.0625,
+    "neltharus-fort": 0.0625,
+    "neltharus-tyran": 0.0625,
+    "nelths-fort": 0.0625,
+    "nelths-tyran": 0.0625,
+    "ulda-fort": 0.0625,
+    "ulda-tyran": 0.0625,
+    "ur-fort": 0.0625,
+    "ur-tyran": 0.0625,
+    "vtp-fort": 0.0625,
+    "vtp-tyran": 0.0625,
 }
 
 

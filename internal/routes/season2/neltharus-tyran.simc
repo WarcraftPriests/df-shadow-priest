@@ -1,8 +1,8 @@
-# !9zv3UTnpm0xjljlBRB3kgW(WwAbsUwaXnsD(Bo2djYDDV9tK6htzhmGIMAAXdp8WJyJMPpPp(6848TxopACoZxNSZqSZlU5pdXhMEt)PnN5Yh6d1AN(OZ8H)3pzSNxg9)X1ldqU2BgZpMhV8FZdtMl6E9XEZBldJauhyRVhEWN1VnMFQpW1hxgU4HK3)83U(LV3F1x13ppUyqkUC7MzY9YY4O)OICGJl9JM3nJy(3nJMxDdZt(m8qdNZLp5tltVzMNqUlRaQBUceYZUBdw3Zw7DJ7EiZt(88aIFOWp848lFTZVp9l)PGFW(aLiF3zfgRnHqkketz8NSAxIyjGqPOq5oiijdqkOjxJNeAVdmEbGDySe76WyQaI1yW0Re4RQXJNGvIXAXx2uaUG0GcJk2GYceLfzeOOK2FIcvY27BjhuikiEUqz0Adqfsqlu56qRASvB3iEOYlYYmEMUnthFlTIdRqglgmQcSvqxCGVFOki8l3rPGnrXbe6wuR6Whv4RcAaNkRGst1GKflqXCNfgGS6vDnYgzUWROCMHkzw(YO0gqPHYIgkkYS3zVPpiZnzbHGrlvxyQqv62mBHrv9JOEBuiR17VySo(Z3bsmqqXOlIHSy2J2z0ZqShSMI6ylMZ4eYHs1PDoZMDQuUP5vbpclC)Jt5w06Y6O6xXmGvyS4HByCXMXaiGY1mqrorxvcBkQ8cuddFEWBYB2mDaHk4fDy3CkoqYtlwBXtYSpiCXiSzbm8Tf0wfxgWzfckAQcJciz6Ap5(rEU2XBQC6c4OBpKywNxN38TlCXkNfY4nRgSd85cCHfTK8A9dw0RiKzLAK1ISvHuQFWY(gIXGOKnPbu6YqWRfaQrV3yZu)d5JhMmjhzvOXIErE5E04DGQnc32fPfKVRSAep7k5JRi5k9d2Axx4GeHJkQ07xElEGxlDEME)s7sda()4N7)F)3G4ooxoEzWAhE1)fB(tuU1)9d
+# !vw1YUXniu0FNUjQdpnSnnQszJBK8OUenVWjtJRDRhCA6M5BVWLhgyYMk5y5H7LZ5W5abfsTv1nD4h6JMl2pBHFFY)1xPnssdLiK2)iyPq1FhLQAXQVEhNZiIgmvs4nCgIgkrCZRLQUx1YuDDVmpTC66UpFD3JJVD(IYO6gT1momY4PHl4BiejDJqkfeugpmzdts2Gyyggzl)FYJ9JLZNSDqF4tV)6yZ83)TL2Z99NpUmy(RLJnQU32pSOD654Y8SE080YWGTcknq3YHb9B6bhPD)YwnzvXxTiStVTiIJYJtdtZQU(EIUVhQ5Bk0JB9JstmmSj5kHz7MRudqw35kIGl1sGXO3WIXvABwjcusaTtkgZ7Ps4drbfmOEduNxT6iAxRE0rjjLJoAtbyYmbqtJzYw0sNLzC0UnJQ(deNvWswbS44UFYZgZkZTfO5ezuGfoiRWaRSbg8WHNg4rapsVyd8amh)ozuEeACfePaP01KzsINlge3RMgpjW8fPyYSoRmBmYUOAD7DrzHlkbxuwAI2eA7kmYCH7nhwbY(T00I4nQF7HjWGd2zytTFNHpzaOxHBpQkGkYgCJhoMhoEaoCXAkCeRyxaQj58RPlhwpqWGQTaI6do3jZIVvifaKGnHk9jsamAL(GDU8umM2cI3uPcwHkK(fM8MSyvlirC)c8pezqxiylfgLPEtsaI8yojQsuX8OTBQpbU2wQzCmYZjLQU9qyALK5GysLkfvENliW4poB9B2qYcMJHqGS4exn9mSU94smsUXYXz6S68uK96JiOY41KUn5HLXN1tJpE6Dl42RFmA9ppp(S6GQ7IEWEr85PXiDGmNp3B(wF)f96v0bjfp(giWOF3(UvpyEz)8YLR7U76UBUB0RZN2pOng9JJ9toTVFXm9f34oHCFvpoHcj6F06x9EG6F
 fight_style=DungeonRoute
 override.windfury_totem=0
 override.arcane_intellect=0
-override.power_word_fortitude=0
+override.power_word_fortitude=1
 override.battle_shout=0
 override.mark_of_the_wild=0
 override.mystic_touch=0
@@ -10,39 +10,29 @@ override.chaos_brand=0
 override.bleeding=0
 single_actor_batch=1
 max_time=2700
-enemy="Neltharus 25 Tyrannical"
+enemy="Neltharus 20 Tyrannical"
 enemy_health=999999
-keystone_level=25
+keystone_level=20
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=010,enemies="Qalashi_Warden_1":2687141:Giant|"Qalashi_Warden_2":2687141:Giant
-raid_events+=/pull,pull=02,bloodlust=0,delay=014,enemies="Ore_Elemental_1":1194731:Elemental|"Ore_Elemental_2":1194731:Elemental|"Qalashi_Spinecrusher_1":2090779:Giant|"Qalashi_Spinecrusher_2":2090779:Giant
-raid_events+=/pull,pull=03,bloodlust=0,delay=014,enemies="Ore_Elemental_1":1194731:Elemental|"Ore_Elemental_2":1194731:Elemental|"Qalashi_Thaumaturge_1":1433674:Giant|"Qalashi_Thaumaturge_2":1433674:Giant|"Qalashi_Plunderer_1":1941439:Giant|"Qalashi_Plunderer_2":1941439:Giant
-raid_events+=/pull,pull=04,bloodlust=0,delay=014,enemies="Qalashi_Plunderer_1":1941439:Giant|"Qalashi_Plunderer_2":1941439:Giant|"Ore_Elemental_1":1194731:Elemental|"Ore_Elemental_2":1194731:Elemental|"Ore_Elemental_3":1194731:Elemental|"Qalashi_Thaumaturge_1":1433674:Giant
-raid_events+=/pull,pull=05,bloodlust=0,delay=011,enemies="Qalashi_Plunderer_1":1941439:Giant|"Qalashi_Thaumaturge_1":1433674:Giant|"Qalashi_Thaumaturge_2":1433674:Giant|"Qalashi_Spinecrusher_1":2090779:Giant
-raid_events+=/pull,pull=06,bloodlust=0,delay=010,enemies="Qalashi_Plunderer_1":1941439:Giant|"Ore_Elemental_1":1194731:Elemental|"Ore_Elemental_2":1194731:Elemental|"Qalashi_Spinecrusher_1":2090779:Giant|"Qalashi_Thaumaturge_1":1433674:Giant
-raid_events+=/pull,pull=07,bloodlust=0,delay=012,enemies="BOSS_Magmatusk":13618467:Beast
-raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Qalashi_Thaumaturge_1":1433674:Giant|"Qalashi_Plunderer_1":1941439:Giant|"Qalashi_Plunderer_2":1941439:Giant
-raid_events+=/pull,pull=09,bloodlust=0,delay=014,enemies="Qalashi_Hunter_1":1792096:Giant|"Qalashi_Hunter_2":1792096:Giant|"Tamed_Phoenix_1":597365:Elemental
-raid_events+=/pull,pull=10,bloodlust=0,delay=015,enemies="Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Tamed_Phoenix_3":597365:Elemental|"Tamed_Phoenix_4":597365:Elemental|"Tamed_Phoenix_5":597365:Elemental|"Tamed_Phoenix_6":597365:Elemental|"Qalashi_Hunter_1":1792096:Giant
-raid_events+=/pull,pull=11,bloodlust=0,delay=013,enemies="Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Qalashi_Bonetender_1":1792096:Giant|"Qalashi_Trainee_1":1493414:Giant
-raid_events+=/pull,pull=12,bloodlust=0,delay=006,enemies="Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Qalashi_Hunter_1":1792096:Giant|"Qalashi_Trainee_1":1493414:Giant|"Qalashi_Trainee_2":1493414:Giant
-raid_events+=/pull,pull=13,bloodlust=0,delay=008,enemies="Qalashi_Bonetender_1":1792096:Giant|"Qalashi_Hunter_1":1792096:Giant|"Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Overseer_Lahar_1":3584191:Giant|"Qalashi_Trainee_1":1493414:Giant
-raid_events+=/pull,pull=14,bloodlust=0,delay=006,enemies="Qalashi_Hunter_1":1792096:Giant|"Qalashi_Hunter_2":1792096:Giant|"Qalashi_Bonetender_1":1792096:Giant|"Qalashi_Trainee_1":1493414:Giant
-raid_events+=/pull,pull=15,bloodlust=0,delay=011,enemies="BOSS_Chargath_Bane_of_Scales":15563962:Giant
-raid_events+=/pull,pull=16,bloodlust=0,delay=013,enemies="Qalashi_Hunter_1":1792096:Giant
-raid_events+=/pull,pull=17,bloodlust=0,delay=008,enemies="Qalashi_Bonetender_1":1792096:Giant|"Qalashi_Bonetender_2":1792096:Giant|"Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Tamed_Phoenix_3":597365:Elemental|"Qalashi_Trainee_1":1493414:Giant
-raid_events+=/pull,pull=18,bloodlust=0,delay=015,enemies="Qalashi_Bonetender_1":1792096:Giant|"Qalashi_Hunter_1":1792096:Giant|"Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Qalashi_Trainee_1":1493414:Giant|"Qalashi_Trainee_2":1493414:Giant
-raid_events+=/pull,pull=19,bloodlust=0,delay=007,enemies="Qalashi_Hunter_1":1792096:Giant|"Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Tamed_Phoenix_3":597365:Elemental
-raid_events+=/pull,pull=20,bloodlust=0,delay=009,enemies="Qalashi_Lavabearer_1":2688145:Giant|"Qalashi_Irontorch_1":2090779:Giant|"Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Lava_Flare_3":1194731:Elemental|"Lava_Flare_4":1194731:Elemental
-raid_events+=/pull,pull=21,bloodlust=0,delay=011,enemies="Qalashi_Bonesplitter_1":1941439:Giant|"Qalashi_Bonesplitter_2":1941439:Giant|"Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Qalashi_Irontorch_1":2090779:Giant
-raid_events+=/pull,pull=22,bloodlust=0,delay=009,enemies="Irontorch_Commander_1":3882876:Giant
-raid_events+=/pull,pull=23,bloodlust=0,delay=015,enemies="Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Lava_Flare_3":1194731:Elemental|"Lava_Flare_4":1194731:Elemental
-raid_events+=/pull,pull=24,bloodlust=0,delay=008,enemies="Qalashi_Blacksmith_1":2090779:Giant|"Qalashi_Irontorch_1":2090779:Giant|"Qalashi_Irontorch_2":2090779:Giant
-raid_events+=/pull,pull=25,bloodlust=0,delay=011,enemies="Qalashi_Bonesplitter_1":1941439:Giant|"Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Qalashi_Lavabearer_1":2688145:Giant
-raid_events+=/pull,pull=26,bloodlust=0,delay=006,enemies="Qalashi_Blacksmith_1":2090779:Giant|"Qalashi_Blacksmith_2":2090779:Giant|"Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Lava_Flare_3":1194731:Elemental|"Lava_Flare_4":1194731:Elemental
-raid_events+=/pull,pull=27,bloodlust=0,delay=013,enemies="BOSS_Forgemaster_Gorek":11348723:Giant
-raid_events+=/pull,pull=28,bloodlust=0,delay=008,enemies="Qalashi_Bonesplitter_1":1941439:Giant|"Lava_Flare_1":1194731:Elemental|"Lava_Flare_2":1194731:Elemental|"Qalashi_Lavabearer_1":2688145:Giant
-raid_events+=/pull,pull=29,bloodlust=0,delay=009,enemies="Qalashi_Lavabearer_1":2688145:Giant|"Qalashi_Lavabearer_2":2688145:Giant
-raid_events+=/pull,pull=30,bloodlust=0,delay=009,enemies="Tamed_Phoenix_1":597365:Elemental|"Tamed_Phoenix_2":597365:Elemental|"Tamed_Phoenix_3":597365:Elemental
-raid_events+=/pull,pull=31,bloodlust=0,delay=013,enemies="BOSS_Warlord_Sargha":15563962:Humanoid
+raid_events+=/pull,pull=01,bloodlust=0,delay=010,mark_duration=0,enemies="Qalashi_Warden_1":1668600:Giant|"Qalashi_Warden_2":1668600:Giant|"Ore_Elemental_1":741877:Elemental|"Ore_Elemental_2":741877:Elemental|"Qalashi_Spinecrusher_1":1298284:Giant|"Qalashi_Spinecrusher_2":1298284:Giant
+raid_events+=/pull,pull=02,bloodlust=0,delay=006,mark_duration=0,enemies="Qalashi_Plunderer_1":1205550:Giant|"Qalashi_Plunderer_2":1205550:Giant|"Ore_Elemental_1":741877:Elemental|"Ore_Elemental_2":741877:Elemental|"Qalashi_Thaumaturge_1":890251:Giant|"Qalashi_Thaumaturge_2":890251:Giant
+raid_events+=/pull,pull=03,bloodlust=0,delay=005,mark_duration=0,enemies="Qalashi_Thaumaturge_1":890251:Giant|"Qalashi_Thaumaturge_2":890251:Giant|"Qalashi_Plunderer_1":1205550:Giant|"Qalashi_Plunderer_2":1205550:Giant|"Qalashi_Plunderer_3":1205550:Giant|"Qalashi_Plunderer_4":1205550:Giant|"Ore_Elemental_1":741877:Elemental|"Ore_Elemental_2":741877:Elemental|"Ore_Elemental_3":741877:Elemental
+raid_events+=/pull,pull=04,bloodlust=0,delay=007,mark_duration=0,enemies="Qalashi_Spinecrusher_1":1298284:Giant|"Qalashi_Plunderer_1":1205550:Giant|"Ore_Elemental_1":741877:Elemental|"Ore_Elemental_2":741877:Elemental|"Qalashi_Thaumaturge_1":890251:Giant
+raid_events+=/pull,pull=05,bloodlust=0,delay=005,mark_duration=0,enemies="BOSS_Magmatusk":8452375:Beast
+raid_events+=/pull,pull=06,bloodlust=0,delay=008,mark_duration=0,enemies="Overseer_Lahar_1":2225629:Giant|"Qalashi_Hunter_1":1112815:Giant|"Qalashi_Hunter_2":1112815:Giant|"Tamed_Phoenix_1":370938:Elemental|"Tamed_Phoenix_2":370938:Elemental|"Tamed_Phoenix_3":370938:Elemental|"Tamed_Phoenix_4":370938:Elemental|"Tamed_Phoenix_5":370938:Elemental|"Tamed_Phoenix_6":370938:Elemental|"Tamed_Phoenix_7":370938:Elemental|"Tamed_Phoenix_8":370938:Elemental|"Tamed_Phoenix_9":370938:Elemental
+raid_events+=/pull,pull=07,bloodlust=0,delay=010,mark_duration=0,enemies="Qalashi_Trainee_1":927346:Giant|"Qalashi_Trainee_2":927346:Giant|"Qalashi_Trainee_3":927346:Giant|"Qalashi_Bonetender_1":1112815:Giant|"Qalashi_Hunter_1":1112815:Giant|"Tamed_Phoenix_1":370938:Elemental|"Tamed_Phoenix_2":370938:Elemental
+raid_events+=/pull,pull=08,bloodlust=0,delay=013,mark_duration=0,enemies="Qalashi_Bonetender_1":1112815:Giant|"Qalashi_Hunter_1":1112815:Giant|"Qalashi_Hunter_2":1112815:Giant|"Qalashi_Trainee_1":927346:Giant
+raid_events+=/pull,pull=09,bloodlust=0,delay=007,mark_duration=0,enemies="BOSS_Chargath_Bane_of_Scales":9659857:Giant
+raid_events+=/pull,pull=10,bloodlust=0,delay=014,mark_duration=0,enemies="Qalashi_Trainee_1":927346:Giant|"Qalashi_Bonetender_1":1112815:Giant|"Qalashi_Bonetender_2":1112815:Giant|"Qalashi_Hunter_1":1112815:Giant|"Tamed_Phoenix_1":370938:Elemental|"Tamed_Phoenix_2":370938:Elemental|"Tamed_Phoenix_3":370938:Elemental
+raid_events+=/pull,pull=11,bloodlust=0,delay=006,mark_duration=0,enemies="Qalashi_Hunter_1":1112815:Giant|"Tamed_Phoenix_1":370938:Elemental|"Tamed_Phoenix_2":370938:Elemental|"Tamed_Phoenix_3":370938:Elemental
+raid_events+=/pull,pull=12,bloodlust=0,delay=012,mark_duration=0,enemies="Qalashi_Lavabearer_1":1669223:Giant|"Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental|"Lava_Flare_3":741877:Elemental|"Lava_Flare_4":741877:Elemental|"Qalashi_Irontorch_1":1298284:Giant
+raid_events+=/pull,pull=13,bloodlust=0,delay=007,mark_duration=0,enemies="Qalashi_Irontorch_1":1298284:Giant|"Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental|"Qalashi_Bonesplitter_1":1205550:Giant|"Qalashi_Bonesplitter_2":1205550:Giant
+raid_events+=/pull,pull=14,bloodlust=0,delay=005,mark_duration=0,enemies="Qalashi_Lavabearer_1":1669223:Giant|"Qalashi_Lavabearer_2":1669223:Giant|"Irontorch_Commander_1":2411100:Giant
+raid_events+=/pull,pull=15,bloodlust=0,delay=010,mark_duration=0,enemies="Qalashi_Irontorch_1":1298284:Giant|"Qalashi_Irontorch_2":1298284:Giant|"Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental|"Lava_Flare_3":741877:Elemental|"Lava_Flare_4":741877:Elemental|"Qalashi_Blacksmith_1":1298284:Giant
+raid_events+=/pull,pull=16,bloodlust=0,delay=006,mark_duration=0,enemies="Qalashi_Bonesplitter_1":1205550:Giant|"Qalashi_Lavabearer_1":1669223:Giant|"Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental
+raid_events+=/pull,pull=17,bloodlust=0,delay=007,mark_duration=0,enemies="Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental|"Qalashi_Blacksmith_1":1298284:Giant|"Qalashi_Irontorch_1":1298284:Giant|"Qalashi_Irontorch_2":1298284:Giant|"Forgewrought_Monstrosity_1":1483754:Elemental
+raid_events+=/pull,pull=18,bloodlust=0,delay=006,mark_duration=0,enemies="BOSS_Forgemaster_Gorek":7043646:Giant|"Lava_Flare_1":741877:Elemental|"Lava_Flare_2":741877:Elemental|"Qalashi_Blacksmith_1":1298284:Giant
+raid_events+=/pull,pull=19,bloodlust=0,delay=015,mark_duration=0,enemies="Qalashi_Warden_1":1668600:Giant|"Qalashi_Warden_2":1668600:Giant|"Apex_Blazewing_1":1474833:Beast
+raid_events+=/pull,pull=20,bloodlust=0,delay=010,mark_duration=0,enemies="Qalashi_Warden_1":1668600:Giant|"Qalashi_Warden_2":1668600:Giant|"Apex_Blazewing_1":1474833:Beast
+raid_events+=/pull,pull=21,bloodlust=0,delay=014,mark_duration=0,enemies="BOSS_Warlord_Sargha":9659857:Humanoid

@@ -220,7 +220,7 @@ singleTargetProfiles:
   - lm_na_1
   - hm_na_1
 dungeonSeason: 1
-dungeonWeights: weightsSeasonOne
+dungeonWeights: weightsSeasonTwo
 simcBuild: nightly
 defaultIterations: 10000
 raidbots:

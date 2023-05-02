@@ -1,8 +1,8 @@
-# !Tv12YXjmm0FP1x42RT5L0hOjdzM(MNbc2BjHaD21Sn9VVwYRTfMmddzTS0rhDKuqXuVO6EDDE9Yt9ZARv)4IzfS1Vzx)oyFA5S6Bz(m(PQvQSQoR(t37h0M(Tz3p(yCcI1CrR)9684pwNw0JQbv3G(820mavllDpCWf1F163r7BtJUxp(MOF7xplV9SQ7w)8MgP42Ll6f7tBZZQwUmAOBBywFtdgvDx1Z6xTtRlUiC4b(zJE(W2Yz96cY9cgqD9haHCS7YKX(tJ5Q2E1h5lU4ABW)4a4pUKgVi8cXhFeGwapcmBGo5krJqBmamCAqvye1yqfyqLeFq5WDf5GKCiGnGCJo4knJcDcRa5iGe5RW3(cxjI3t4IeDUGgFz0uIkn3lZIDuXmauPKwjv0dfKd2OJEBnywyNqAY4itymk188Oktse6yAcowt1t5rbPocK7NhBR5nuVOxtQuiVU6hNvi1J)y(KIfRQCBPe0m4lb0PugWbjVrlbvSqycLFi1BpeupdLdq92Xl8C2iQhJVQ0tSvsgCsJTH8NnxMaSadtIos74jGP7dn3H03CeXEnn6mr8KFuHL1NWsxUtNkv0vGGCuSJ9nE5O848cRkl8GefGoFYNvNj8vz6KGQtnHYaN4pHb081vm)oE1znsu3JEj8ak9aI7W8t7AaYyrAJPlFOoYbrSpgakBOn5QVLxUlhbBaovOUwFhkCwMZo0BA50b3SvH418DRcCorXYweGRZ)FLqfgJjvHEhBpSoa0Ukn9dZSvyNRgn2exj4s1XvcUC38a(zL1H3CFTc(WI7W4KXm9Q7JO)Z5m0Wu)p
+# !Tv12UXniq0VOOAaBS9JnTns7d1ns0Q(2O9gK6uh7QDXBs6d73EGbJnWAPvRGH5YzoZbmqGFcIH9plpOpBw2G7p6w9qfLvsRy0scnJWzuqDxEb0qHhUROKrZy18mszzgpVYEuo0WSX1Kd3dnfGq8NtdJhVU9tx3UP)s7zqdIEZzA7IX2JG4B)(1VRE(9)319ztzBvQ2dJD63n1idex21nkT45W4PtYE9JJDDM8ZNnig33jVi7Sqs8pZPZTG)pdumNzxWWfoiA6HsOHdnv4IcCb3akJlUWi2nSWn5bBehg6gobcLIjvkFCERwB1YLCrXFSWK4nz)LJ0HRy0iuxeccAy84qarCiuysVplqP2cqJNbDsz4MIGnlBD2QDCxMBS6ypcjKM4OhLHqRA20c0u7nqZCIVuH9pwwEc9XcOVQqwiFMlNAKW(3s61X9JRMKKkRXUk1wiaCt16OOXjiHUQoOEVJ8X0UKiuE0qIesZvoQxWQ4dChXrbZU6i1A0XKj2eGyZtKqFsA1m3aDfjCdjpOl1tjmvrt4qO(LmPFD3QSbvUY5(eMNmTWgSkPzkGBfVK6i6Z3PLynQMcKhLDNGBoqAuGl0GfE1XueDkFLWTkYfVCpMqMEWdVNsZIqz(8q2LVk4wT6m(Ivc1jLoIdkIY(Y7aEeKijxcKhfye5rrfoDLBj01u7tY65JPrxqO0qsNYIqAzGIPcnwJpIWXJce6yUsUo4txQ0LsxJgP5WkpjNhP30ZFj5RJ9pjh63C8ndQiGqlLV02)eSheNLDMpo2o07dfF29uRs)dL6SC5ZMED0uM1Y3m))RUJ7Ezx)1T3DD7nFo0bVh31j1A5ME1GfY7g1dFXA3w)7t8XIpRKs8Qu(xxBaFm
 fight_style=DungeonRoute
 override.windfury_totem=0
 override.arcane_intellect=0
-override.power_word_fortitude=0
+override.power_word_fortitude=1
 override.battle_shout=0
 override.mark_of_the_wild=0
 override.mystic_touch=0
@@ -10,32 +10,32 @@ override.chaos_brand=0
 override.bleeding=0
 single_actor_batch=1
 max_time=2700
-enemy="Uldaman: Legacy of Tyr 25 Fortified"
+enemy="Uldaman: Legacy of Tyr 20 Fortified"
 enemy_health=999999
-keystone_level=25
+keystone_level=20
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=015,enemies="Scavenging_Leaper_1":716335:Humanoid|"Scavenging_Leaper_2":716335:Humanoid|"Scavenging_Leaper_3":716335:Humanoid|"Scavenging_Leaper_4":716335:Humanoid
-raid_events+=/pull,pull=02,bloodlust=0,delay=014,enemies="Scavenging_Leaper_1":716335:Humanoid|"Scavenging_Leaper_2":716335:Humanoid|"Scavenging_Leaper_3":716335:Humanoid|"Scavenging_Leaper_4":716335:Humanoid|"Stonevault_Geomancer_1":1612428:Humanoid|"Hulking_Berserker_1":2685639:Humanoid|"Vicious_Basilisk_1":1433017:Beast
-raid_events+=/pull,pull=03,bloodlust=0,delay=006,enemies="Stonevault_Geomancer_1":1612428:Humanoid|"Stonevault_Geomancer_2":1612428:Humanoid|"Vicious_Basilisk_1":1433017:Beast|"Vicious_Basilisk_2":1433017:Beast|"Vicious_Basilisk_3":1433017:Beast
-raid_events+=/pull,pull=04,bloodlust=0,delay=005,enemies="Hulking_Berserker_1":2685639:Humanoid|"Stonevault_Geomancer_1":1612428:Humanoid|"Stonevault_Geomancer_2":1612428:Humanoid|"Vicious_Basilisk_1":1433017:Beast|"Vicious_Basilisk_2":1433017:Beast
-raid_events+=/pull,pull=05,bloodlust=0,delay=008,enemies="BOSS_Olaf":3982157:Humanoid|"BOSS_Eric_`The_Swift`":3730555:Humanoid|"BOSS_Baelog":3730555:Humanoid
-raid_events+=/pull,pull=06,bloodlust=0,delay=015,enemies="Scavenging_Leaper_1":716335:Humanoid|"Scavenging_Leaper_2":716335:Humanoid|"Scavenging_Leaper_3":716335:Humanoid|"Scavenging_Leaper_4":716335:Humanoid|"Stonevault_Geomancer_1":1612428:Humanoid|"Stonevault_Geomancer_2":1612428:Humanoid
-raid_events+=/pull,pull=07,bloodlust=0,delay=012,enemies="Stonevault_Geomancer_1":1612428:Humanoid|"Hulking_Berserker_1":2685639:Humanoid|"Hulking_Berserker_2":2685639:Humanoid|"Vicious_Basilisk_1":1433017:Beast|"Vicious_Basilisk_2":1433017:Beast|"Burly_Rock-Thrower_1":1789693:Humanoid|"Burly_Rock-Thrower_2":1789693:Humanoid|"Burly_Rock-Thrower_3":1789693:Humanoid
-raid_events+=/pull,pull=08,bloodlust=0,delay=010,enemies="BOSS_Bromach":7457034:Humanoid
-raid_events+=/pull,pull=09,bloodlust=0,delay=011,enemies="Refti_Custodian_1":3220746:Elemental|"Refti_Custodian_2":3220746:Elemental|"Earthen_Custodian_1":1789693:Humanoid|"Earthen_Custodian_2":1789693:Humanoid
-raid_events+=/pull,pull=10,bloodlust=0,delay=008,enemies="Refti_Custodian_1":3220746:Elemental
-raid_events+=/pull,pull=11,bloodlust=0,delay=009,enemies="BOSS_Sentinel_Talondras":9376787:Giant
-raid_events+=/pull,pull=12,bloodlust=0,delay=012,enemies="Earthen_Weaver_1":1612428:Humanoid|"Earthen_Weaver_2":1612428:Humanoid|"Earthen_Weaver_3":1612428:Humanoid|"Earthen_Custodian_1":1789693:Humanoid|"Earthen_Custodian_2":1789693:Humanoid|"Earthen_Custodian_3":1789693:Humanoid|"Earthen_Custodian_4":1789693:Humanoid
-raid_events+=/pull,pull=13,bloodlust=0,delay=011,enemies="Earthen_Weaver_1":1612428:Humanoid|"Earthen_Weaver_2":1612428:Humanoid|"Runic_Protector_1":2871206:Elemental|"Earthen_Custodian_1":1789693:Humanoid|"Earthen_Custodian_2":1789693:Humanoid|"Earthen_Custodian_3":1789693:Humanoid
-raid_events+=/pull,pull=14,bloodlust=0,delay=013,enemies="Earthen_Weaver_1":1612428:Humanoid|"Runic_Protector_1":2871206:Elemental|"Earthen_Custodian_1":1789693:Humanoid|"Earthen_Custodian_2":1789693:Humanoid|"Earthen_Warder_1":1612428:Humanoid|"Skittering_Crawler_1":1433017:Beast|"Skittering_Crawler_2":1433017:Beast
-raid_events+=/pull,pull=15,bloodlust=0,delay=005,enemies="Skittering_Crawler_1":1433017:Beast|"Skittering_Crawler_2":1433017:Beast|"Cavern_Seeker_1":1433283:Beast|"Cavern_Seeker_2":1433283:Beast|"Cavern_Seeker_3":1433283:Beast
-raid_events+=/pull,pull=16,bloodlust=0,delay=010,enemies="BOSS_Emberon":6222530:Giant
-raid_events+=/pull,pull=17,bloodlust=0,delay=010,enemies="Earthen_Weaver_1":1612428:Humanoid|"Earthen_Weaver_2":1612428:Humanoid|"Earthen_Weaver_3":1612428:Humanoid|"Ebonstone_Golem_1":3225071:Elemental|"Earthen_Custodian_1":1789693:Humanoid
-raid_events+=/pull,pull=18,bloodlust=0,delay=012,enemies="Earthen_Custodian_1":1789693:Humanoid|"Earthen_Custodian_2":1789693:Humanoid|"Earthen_Custodian_3":1789693:Humanoid|"Earthen_Guardian_1":2866608:Humanoid|"Earthen_Warder_1":1612428:Humanoid
-raid_events+=/pull,pull=19,bloodlust=0,delay=011,enemies="Ebonstone_Golem_1":3225071:Elemental|"Ebonstone_Golem_2":3225071:Elemental
-raid_events+=/pull,pull=20,bloodlust=0,delay=015,enemies="Ebonstone_Golem_1":3225071:Elemental|"Ebonstone_Golem_2":3225071:Elemental|"Earthen_Warder_1":1612428:Humanoid|"Earthen_Warder_2":1612428:Humanoid|"Earthen_Warder_3":1612428:Humanoid|"Earthen_Warder_4":1612428:Humanoid
-raid_events+=/pull,pull=21,bloodlust=0,delay=009,enemies="Infinite_Agent_1":2149120:Dragonkin|"Infinite_Agent_2":2149120:Dragonkin|"Infinite_Timereaver_1":2866250:Dragonkin
-raid_events+=/pull,pull=22,bloodlust=0,delay=015,enemies="Infinite_Agent_1":2149120:Dragonkin|"Infinite_Timereaver_1":2866250:Dragonkin
-raid_events+=/pull,pull=23,bloodlust=0,delay=006,enemies="Infinite_Timereaver_1":2866250:Dragonkin|"Infinite_Timereaver_2":2866250:Dragonkin|"Infinite_Whelp_1":357436:Dragonkin|"Infinite_Whelp_2":357436:Dragonkin|"Infinite_Whelp_3":357436:Dragonkin|"Infinite_Whelp_4":357436:Dragonkin|"Infinite_Whelp_5":357436:Dragonkin|"Infinite_Whelp_6":357436:Dragonkin|"Infinite_Whelp_7":357436:Dragonkin|"Infinite_Whelp_8":357436:Dragonkin|"Infinite_Whelp_9":357436:Dragonkin
-raid_events+=/pull,pull=24,bloodlust=0,delay=006,enemies="BOSS_Chrono-Lord_Deios":13689347:Dragonkin
+raid_events+=/pull,pull=01,bloodlust=0,delay=006,mark_duration=0,enemies="Scavenging_Leaper_1":445101:Humanoid|"Scavenging_Leaper_2":445101:Humanoid|"Scavenging_Leaper_3":445101:Humanoid|"Scavenging_Leaper_4":445101:Humanoid|"Scavenging_Leaper_5":445101:Humanoid|"Scavenging_Leaper_6":445101:Humanoid|"Scavenging_Leaper_7":445101:Humanoid|"Scavenging_Leaper_8":445101:Humanoid|"Stonevault_Geomancer_1":1001897:Humanoid|"Hulking_Berserker_1":1668746:Humanoid|"Vicious_Basilisk_1":890418:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=006,mark_duration=0,enemies="Stonevault_Geomancer_1":1001897:Humanoid|"Stonevault_Geomancer_2":1001897:Humanoid|"Vicious_Basilisk_1":890418:Beast|"Vicious_Basilisk_2":890418:Beast|"Vicious_Basilisk_3":890418:Beast
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,mark_duration=0,enemies="Stonevault_Geomancer_1":1001897:Humanoid|"Stonevault_Geomancer_2":1001897:Humanoid|"Hulking_Berserker_1":1668746:Humanoid|"Vicious_Basilisk_1":890418:Beast|"Vicious_Basilisk_2":890418:Beast
+raid_events+=/pull,pull=04,bloodlust=0,delay=013,mark_duration=0,enemies="BOSS_Olaf":2472749:Humanoid|"BOSS_Eric_`The_Swift`":2316515:Humanoid|"BOSS_Baelog":2316515:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=007,mark_duration=0,enemies="Scavenging_Leaper_1":445101:Humanoid|"Scavenging_Leaper_2":445101:Humanoid|"Scavenging_Leaper_3":445101:Humanoid|"Scavenging_Leaper_4":445101:Humanoid|"Stonevault_Geomancer_1":1001897:Humanoid|"Stonevault_Geomancer_2":1001897:Humanoid|"Vicious_Basilisk_1":890418:Beast|"Vicious_Basilisk_2":890418:Beast|"Burly_Rock-Thrower_1":1112042:Humanoid|"Burly_Rock-Thrower_2":1112042:Humanoid|"Burly_Rock-Thrower_3":1112042:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=013,mark_duration=0,enemies="Stonevault_Geomancer_1":1001897:Humanoid|"Hulking_Berserker_1":1668746:Humanoid|"Hulking_Berserker_2":1668746:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=011,mark_duration=0,enemies="BOSS_Bromach":4630500:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=008,mark_duration=0,enemies="Refti_Custodian_1":2001240:Elemental|"Refti_Custodian_2":2001240:Elemental|"Earthen_Custodian_1":1112042:Humanoid|"Earthen_Custodian_2":1112042:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=008,mark_duration=0,enemies="Refti_Custodian_1":2001240:Elemental|"BOSS_Sentinel_Talondras":5822584:Giant
+raid_events+=/pull,pull=10,bloodlust=0,delay=009,mark_duration=0,enemies="Earthen_Weaver_1":1001897:Humanoid|"Earthen_Custodian_1":1112042:Humanoid|"Earthen_Custodian_2":1112042:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=007,mark_duration=0,enemies="Earthen_Custodian_1":1112042:Humanoid|"Earthen_Custodian_2":1112042:Humanoid|"Runic_Protector_1":1784050:Elemental
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,mark_duration=0,enemies="Earthen_Weaver_1":1001897:Humanoid|"Runic_Protector_1":1784050:Elemental|"Earthen_Custodian_1":1112042:Humanoid|"Earthen_Custodian_2":1112042:Humanoid|"Earthen_Warder_1":1001897:Humanoid
+raid_events+=/pull,pull=13,bloodlust=0,delay=007,mark_duration=0,enemies="Skittering_Crawler_1":890418:Beast|"Skittering_Crawler_2":890418:Beast|"Skittering_Crawler_3":890418:Beast|"Skittering_Crawler_4":890418:Beast|"Cavern_Seeker_1":890583:Beast|"Cavern_Seeker_2":890583:Beast|"Cavern_Seeker_3":890583:Beast
+raid_events+=/pull,pull=14,bloodlust=0,delay=008,mark_duration=0,enemies="BOSS_Emberon":3863925:Giant
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,mark_duration=0,enemies="Ebonstone_Golem_1":2003928:Elemental|"Earthen_Weaver_1":1001897:Humanoid|"Earthen_Weaver_2":1001897:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,mark_duration=0,enemies="Ebonstone_Golem_1":2003928:Elemental|"Earthen_Weaver_1":1001897:Humanoid|"Earthen_Weaver_2":1001897:Humanoid|"Earthen_Weaver_3":1001897:Humanoid|"Earthen_Custodian_1":1112042:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=014,mark_duration=0,enemies="Earthen_Custodian_1":1112042:Humanoid|"Earthen_Custodian_2":1112042:Humanoid|"Earthen_Custodian_3":1112042:Humanoid|"Earthen_Guardian_1":1781193:Humanoid|"Earthen_Warder_1":1001897:Humanoid
+raid_events+=/pull,pull=18,bloodlust=0,delay=005,mark_duration=0,enemies="Ebonstone_Golem_1":2003928:Elemental|"Ebonstone_Golem_2":2003928:Elemental
+raid_events+=/pull,pull=19,bloodlust=0,delay=010,mark_duration=0,enemies="Ebonstone_Golem_1":2003928:Elemental|"Earthen_Warder_1":1001897:Humanoid|"Earthen_Warder_2":1001897:Humanoid
+raid_events+=/pull,pull=20,bloodlust=0,delay=011,mark_duration=0,enemies="Ebonstone_Golem_1":2003928:Elemental|"Earthen_Warder_1":1001897:Humanoid|"Earthen_Warder_2":1001897:Humanoid
+raid_events+=/pull,pull=21,bloodlust=0,delay=015,mark_duration=0,enemies="Infinite_Agent_1":1335375:Dragonkin|"Infinite_Agent_2":1335375:Dragonkin|"Infinite_Timereaver_1":1780971:Dragonkin
+raid_events+=/pull,pull=22,bloodlust=0,delay=009,mark_duration=0,enemies="Infinite_Agent_1":1335375:Dragonkin|"Infinite_Timereaver_1":1780971:Dragonkin|"Infinite_Whelp_1":222096:Dragonkin|"Infinite_Whelp_2":222096:Dragonkin|"Infinite_Whelp_3":222096:Dragonkin|"Infinite_Whelp_4":222096:Dragonkin|"Infinite_Whelp_5":222096:Dragonkin|"Infinite_Whelp_6":222096:Dragonkin|"Infinite_Whelp_7":222096:Dragonkin|"Infinite_Whelp_8":222096:Dragonkin|"Infinite_Whelp_9":222096:Dragonkin
+raid_events+=/pull,pull=23,bloodlust=0,delay=007,mark_duration=0,enemies="Infinite_Timereaver_1":1780971:Dragonkin|"Infinite_Timereaver_2":1780971:Dragonkin
+raid_events+=/pull,pull=24,bloodlust=0,delay=010,mark_duration=0,enemies="BOSS_Chrono-Lord_Deios":8500500:Dragonkin
