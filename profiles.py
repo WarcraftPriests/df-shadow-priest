@@ -54,9 +54,11 @@ def build_settings(profile_name_string, weights, dungeons):
     if weights:
         settings_string += fightExpressions['weights']
     if dungeons:
-        with open(f"internal/routes/{profile_name_string}.simc", 'r', encoding="utf8") as route_file:
-            data = route_file.read()
-            route_file.close()
+        season = config["dungeonSeason"]
+        r_file_location = f"internal/routes/season{season}/{profile_name_string}.simc"
+        with open(r_file_location, 'r', encoding="utf8") as r_file:
+            data = r_file.read()
+            r_file.close()
         settings_string += "\n" + data
     return settings_string
 
@@ -80,6 +82,7 @@ def generate_stat_string(stat_distribution, name):
 
 
 def build_stats_files():
+    # pylint: disable=too-many-locals
     """Build generated.simc stats file from stats.simc"""
     sim_file = 'stats.simc'
     base_file = f"{args.dir}{sim_file}"
@@ -147,7 +150,23 @@ def replace_gear(data):
     return data
 
 
-def build_profiles(talent_string):
+def create_talent_builds():
+    """creates profiles from talents.yml"""
+    profiles = ""
+
+    with open("internal/talents.yml", "r", encoding="utf8") as talent_file:
+        talent_builds = yaml.load(talent_file, Loader=yaml.FullLoader)
+        talent_file.close()
+    for build in talent_builds["builds"]:
+        talent_name = build
+        talent_string = talent_builds["builds"][build]
+        profiles = profiles + \
+            f'profileset."{talent_name}"+=talents={talent_string}\n'
+
+    return profiles
+
+
+def build_profiles(talent_string, apl_string):
     # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
@@ -163,9 +182,9 @@ def build_profiles(talent_string):
     sim_files = config["sims"][args.dir[:-1]]["files"]
 
     for sim_file in sim_files:
-        with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as file:
-            data = file.read()
-            file.close()
+        with open(f"{args.dir}{sim_file}", 'r', encoding="utf8") as contents:
+            data = contents.read()
+            contents.close()
         if args.dungeons:
             combinations = utils.get_dungeon_combos()
         if talent_string:
@@ -176,14 +195,25 @@ def build_profiles(talent_string):
         else:
             talents_expr = ''
         data = replace_gear(data)
+        # apl override
+        data = data.replace("${apl}", apl_string)
+        # builds override
+        data = data.replace("${builds}", create_talent_builds())
         # insert talents in here so copy= works correctly
         if talents_expr:
             data = data.replace("${talents}", str(talents_expr))
 
         for profile in combinations:
             # Don't build the profile if it has no weight
-            weight = find_weights(config["compositeWeights"]).get(profile)
-            if weight == 0:
+            weight = find_weights(config["compositeWeights"]).get(profile) or 0
+            st_weight = find_weights(
+                config["singleTargetWeights"]).get(profile) or 0
+            two_target_weight = find_weights(
+                config["twoTargetWeights"]).get(profile) or 0
+            four_target_weight = find_weights(
+                config["fourTargetWeights"]).get(profile) or 0
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:
+                # print(f"Skipping profile {profile} weights are all 0.")
                 continue
 
             sim_data = data
@@ -211,13 +241,13 @@ def build_profiles(talent_string):
                     sim_data = replace_talents(talents_expr, sim_data)
 
             simc_file = build_simc_file(talent_string, profile_name)
-            with open(args.dir + simc_file, "w+", encoding="utf8") as file:
+            with open(args.dir + simc_file, "w+", encoding="utf8") as o_file:
                 if args.ptr:
-                    file.writelines(fightExpressions["ptr"])
-                file.writelines(sim_data)
-                file.writelines(settings)
-                file.writelines(overrides)
-                file.close()
+                    o_file.writelines(fightExpressions["ptr"])
+                o_file.writelines(sim_data)
+                o_file.writelines(settings)
+                o_file.writelines(overrides)
+                o_file.close()
 
 
 if __name__ == '__main__':
@@ -225,6 +255,13 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     talents = utils.get_talents(args)
+
+    APL = "default_actions=1"
+
+    if args.apl:
+        with open("internal/apl.simc", 'r', encoding="utf8") as file:
+            APL = file.read()
+            file.close()
 
     clear_out_folders(f'{args.dir}output/')
     clear_out_folders(f'{args.dir}profiles/')
@@ -237,7 +274,7 @@ if __name__ == '__main__':
             clear_out_folders(f'{args.dir}output/{talent}/')
             clear_out_folders(f'{args.dir}profiles/{talent}/')
             print(f"Building {talent} profiles...")
-            build_profiles(talent)
+            build_profiles(talent, APL)
     else:
         print("Building default profiles...")
-        build_profiles(None)
+        build_profiles(None, APL)

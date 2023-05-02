@@ -1,0 +1,34 @@
+# nokhud-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|134121|1.29%|
+|Human|134000|1.20%|
+|Goblin|133851|1.08%|
+|Night_Elf_Haste|133797|1.04%|
+|Gnome|133784|1.03%|
+|Void_Elf|133510|0.83%|
+|Zandalari_Troll_Paku|133450|0.78%|
+|Kul_Tiran|133449|0.78%|
+|Nightborne|133448|0.78%|
+|Blood_Elf|133418|0.76%|
+|Draenei|133406|0.75%|
+|Worgen|133371|0.72%|
+|Night_Elf_Crit|133357|0.71%|
+|Highmountain_Tauren|133324|0.69%|
+|Dwarf|133285|0.66%|
+|Orc|133278|0.65%|
+|Tauren|133256|0.63%|
+|Troll|133223|0.61%|
+|Dark_Iron_Dwarf|133089|0.51%|
+|Panda_Fortune_Cookie|133073|0.50%|
+|Panda_Mastery|132901|0.37%|
+|Panda_Haste|132852|0.33%|
+|Maghar_Orc|132837|0.32%|
+|Panda_Crit|132803|0.29%|
+|Panda_Vers|132716|0.23%|
+|Zandalari_Troll_Bwonsamdi|132647|0.17%|
+|Undead|132598|0.14%|
+|Zandalari_Troll_Kimbul|132540|0.09%|
+|Lightforged_Draenei|132501|0.06%|
+|Base|132416|0.00%|
+|Vulpera|132409|-0.01%|

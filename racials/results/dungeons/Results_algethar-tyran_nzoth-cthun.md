@@ -1,0 +1,34 @@
+# algethar-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|137790|1.33%|
+|Human|137684|1.25%|
+|Gnome|137513|1.13%|
+|Night_Elf_Haste|137488|1.11%|
+|Goblin|137459|1.09%|
+|Void_Elf|137337|1.00%|
+|Nightborne|137186|0.89%|
+|Orc|137134|0.85%|
+|Zandalari_Troll_Paku|137130|0.85%|
+|Draenei|137121|0.84%|
+|Kul_Tiran|137096|0.82%|
+|Worgen|137071|0.80%|
+|Blood_Elf|137067|0.80%|
+|Night_Elf_Crit|137061|0.80%|
+|Highmountain_Tauren|137058|0.79%|
+|Tauren|137015|0.76%|
+|Dwarf|136953|0.72%|
+|Dark_Iron_Dwarf|136900|0.68%|
+|Panda_Fortune_Cookie|136776|0.59%|
+|Troll|136753|0.57%|
+|Maghar_Orc|136526|0.40%|
+|Panda_Crit|136475|0.37%|
+|Panda_Mastery|136452|0.35%|
+|Panda_Haste|136399|0.31%|
+|Panda_Vers|136333|0.26%|
+|Zandalari_Troll_Bwonsamdi|136274|0.22%|
+|Zandalari_Troll_Kimbul|136233|0.19%|
+|Undead|136210|0.17%|
+|Lightforged_Draenei|136025|0.03%|
+|Base|135978|0.00%|
+|Vulpera|135929|-0.04%|

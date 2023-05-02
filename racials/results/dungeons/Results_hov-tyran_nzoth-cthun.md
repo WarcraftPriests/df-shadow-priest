@@ -1,0 +1,34 @@
+# hov-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|116044|1.22%|
+|Human|115949|1.13%|
+|Gnome|115802|1.01%|
+|Goblin|115796|1.00%|
+|Night_Elf_Haste|115719|0.93%|
+|Void_Elf|115587|0.82%|
+|Nightborne|115579|0.81%|
+|Zandalari_Troll_Paku|115527|0.77%|
+|Kul_Tiran|115495|0.74%|
+|Blood_Elf|115491|0.73%|
+|Highmountain_Tauren|115487|0.73%|
+|Draenei|115486|0.73%|
+|Dwarf|115438|0.69%|
+|Night_Elf_Crit|115433|0.68%|
+|Worgen|115427|0.68%|
+|Tauren|115424|0.68%|
+|Orc|115381|0.64%|
+|Troll|115329|0.59%|
+|Dark_Iron_Dwarf|115271|0.54%|
+|Panda_Fortune_Cookie|115254|0.53%|
+|Maghar_Orc|115056|0.35%|
+|Panda_Mastery|115055|0.35%|
+|Panda_Crit|114994|0.30%|
+|Panda_Vers|114983|0.29%|
+|Panda_Haste|114975|0.28%|
+|Zandalari_Troll_Bwonsamdi|114853|0.18%|
+|Zandalari_Troll_Kimbul|114840|0.17%|
+|Undead|114836|0.16%|
+|Lightforged_Draenei|114706|0.05%|
+|Vulpera|114680|0.03%|
+|Base|114649|0.00%|

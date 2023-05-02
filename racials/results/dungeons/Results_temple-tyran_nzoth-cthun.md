@@ -1,0 +1,34 @@
+# temple-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|103194|1.05%|
+|Human|103118|0.97%|
+|Gnome|102916|0.78%|
+|Goblin|102913|0.77%|
+|Void_Elf|102889|0.75%|
+|Night_Elf_Haste|102888|0.75%|
+|Zandalari_Troll_Paku|102824|0.69%|
+|Orc|102818|0.68%|
+|Nightborne|102815|0.68%|
+|Highmountain_Tauren|102809|0.67%|
+|Worgen|102797|0.66%|
+|Kul_Tiran|102786|0.65%|
+|Dwarf|102782|0.65%|
+|Tauren|102768|0.63%|
+|Night_Elf_Crit|102760|0.62%|
+|Draenei|102759|0.62%|
+|Blood_Elf|102737|0.60%|
+|Dark_Iron_Dwarf|102684|0.55%|
+|Panda_Fortune_Cookie|102600|0.47%|
+|Maghar_Orc|102522|0.39%|
+|Panda_Mastery|102489|0.36%|
+|Panda_Crit|102427|0.30%|
+|Panda_Vers|102416|0.29%|
+|Troll|102394|0.27%|
+|Panda_Haste|102372|0.24%|
+|Zandalari_Troll_Bwonsamdi|102324|0.20%|
+|Zandalari_Troll_Kimbul|102314|0.19%|
+|Undead|102291|0.16%|
+|Lightforged_Draenei|102205|0.08%|
+|Vulpera|102195|0.07%|
+|Base|102123|0.00%|

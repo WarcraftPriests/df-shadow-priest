@@ -5,8 +5,7 @@ position=back
 spec=shadow
 talents=${talents}
 
-set_bonus=tier29_2pc=1
-set_bonus=tier29_4pc=1
+${apl}
 
 head=${gear.head},gem_id=192948
 neck=${gear.neck},gem_id=192985/192948/192948
@@ -29,9 +28,26 @@ potion=disabled
 flask=disabled
 
 # Flasks/Phials
-profileset."Iced_Phial_of_Corrupting_Rage_1"+=flask=iced_phial_of_corrupting_rage_1
-profileset."Iced_Phial_of_Corrupting_Rage_2"+=flask=iced_phial_of_corrupting_rage_2
-profileset."Iced_Phial_of_Corrupting_Rage_3"+=flask=iced_phial_of_corrupting_rage_3
+profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=flask=iced_phial_of_corrupting_rage_1
+profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=dragonflight.corrupting_rage_uptime=0.7
+profileset."Iced_Phial_of_Corrupting_Rage_70_2"+=flask=iced_phial_of_corrupting_rage_2
+profileset."Iced_Phial_of_Corrupting_Rage_70_2"+=dragonflight.corrupting_rage_uptime=0.7
+profileset."Iced_Phial_of_Corrupting_Rage_70_3"+=flask=iced_phial_of_corrupting_rage_3
+profileset."Iced_Phial_of_Corrupting_Rage_70_3"+=dragonflight.corrupting_rage_uptime=0.7
+
+profileset."Iced_Phial_of_Corrupting_Rage_85_1"+=flask=iced_phial_of_corrupting_rage_1
+profileset."Iced_Phial_of_Corrupting_Rage_85_1"+=dragonflight.corrupting_rage_uptime=0.85
+profileset."Iced_Phial_of_Corrupting_Rage_85_2"+=flask=iced_phial_of_corrupting_rage_2
+profileset."Iced_Phial_of_Corrupting_Rage_85_2"+=dragonflight.corrupting_rage_uptime=0.85
+profileset."Iced_Phial_of_Corrupting_Rage_85_3"+=flask=iced_phial_of_corrupting_rage_3
+profileset."Iced_Phial_of_Corrupting_Rage_85_3"+=dragonflight.corrupting_rage_uptime=0.85
+
+profileset."Iced_Phial_of_Corrupting_Rage_95_1"+=flask=iced_phial_of_corrupting_rage_1
+profileset."Iced_Phial_of_Corrupting_Rage_95_1"+=dragonflight.corrupting_rage_uptime=0.95
+profileset."Iced_Phial_of_Corrupting_Rage_95_2"+=flask=iced_phial_of_corrupting_rage_2
+profileset."Iced_Phial_of_Corrupting_Rage_95_2"+=dragonflight.corrupting_rage_uptime=0.95
+profileset."Iced_Phial_of_Corrupting_Rage_95_3"+=flask=iced_phial_of_corrupting_rage_3
+profileset."Iced_Phial_of_Corrupting_Rage_95_3"+=dragonflight.corrupting_rage_uptime=0.95
 
 profileset."Phial_of_Charged_Isolation_1"+=flask=phial_of_charged_isolation_1
 profileset."Phial_of_Charged_Isolation_2"+=flask=phial_of_charged_isolation_2

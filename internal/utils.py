@@ -34,13 +34,19 @@ def generate_parser(description):
         '--talents', help='indicate talent build for output.', choices=config["builds"].keys())
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
+    parser.add_argument(
+        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
     return parser
 
 
 def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
-    keys = ["algethar", "azure", "cos", "hov",
-            "nokhud", "rlp", "smbg", "temple"]
+    season = config["dungeonSeason"]
+    if season == 2:
+        keys = ["bhh", "hoi", "neltharus", "ulda"]
+    else:
+        keys = ["algethar", "azure", "cos", "hov",
+                "nokhud", "rlp", "smbg", "temple"]
     affixes = ["fort", "tyran"]
     combos = [
         f"{key}-{affix}" for key in keys for affix in affixes]

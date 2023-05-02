@@ -1,0 +1,34 @@
+# cos-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|97391|0.97%|
+|Human|97258|0.83%|
+|Goblin|97180|0.75%|
+|Night_Elf_Haste|97140|0.71%|
+|Gnome|97135|0.70%|
+|Draenei|97065|0.63%|
+|Kul_Tiran|97021|0.58%|
+|Nightborne|97014|0.58%|
+|Void_Elf|97012|0.57%|
+|Zandalari_Troll_Paku|96997|0.56%|
+|Night_Elf_Crit|96981|0.54%|
+|Blood_Elf|96980|0.54%|
+|Highmountain_Tauren|96979|0.54%|
+|Dwarf|96976|0.54%|
+|Orc|96968|0.53%|
+|Tauren|96968|0.53%|
+|Worgen|96966|0.53%|
+|Troll|96917|0.48%|
+|Dark_Iron_Dwarf|96894|0.45%|
+|Panda_Fortune_Cookie|96869|0.43%|
+|Maghar_Orc|96739|0.29%|
+|Panda_Mastery|96738|0.29%|
+|Panda_Crit|96678|0.23%|
+|Panda_Vers|96668|0.22%|
+|Panda_Haste|96640|0.19%|
+|Zandalari_Troll_Bwonsamdi|96624|0.17%|
+|Zandalari_Troll_Kimbul|96593|0.14%|
+|Undead|96565|0.11%|
+|Base|96458|0.00%|
+|Lightforged_Draenei|96440|-0.02%|
+|Vulpera|96437|-0.02%|

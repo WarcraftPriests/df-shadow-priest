@@ -1,9 +1,27 @@
 """Updates profile names from TTM to be more readable"""
 
 if __name__ == '__main__':
-    profiles = ["VF-ST.simc", "DA-ST.simc", "VF-AoE.simc", "DA-AoE.simc"]
+    profiles = [
+        "DA-Spike.simc",
+        "DA-Flay.simc",
+        "DA-Spike_DR.simc",
+        "DA-Flay_DR.simc",
+        "DA-Spike_TS.simc",
+        "DA-Flay_TS.simc",
+        "DA-Spike_DR_TS.simc",
+        "DA-Flay_DR_TS.simc",
+        "VF-Spike.simc",
+        "VF-Flay.simc",
+        "VF-Spike_DR.simc",
+        "VF-Flay_DR.simc",
+        "VF-Spike_TS.simc",
+        "VF-Flay_TS.simc",
+        "VF-Spike_DR_TS.simc",
+        "VF-Flay_DR_TS.simc",
+    ]
     for profile in profiles:
         OUTPUT_FILE = ""
+        lines_seen = set()
         with open(profile, 'r', encoding="utf8") as file:
             data = file.readlines()
             file.close()
@@ -17,17 +35,25 @@ if __name__ == '__main__':
 
         for line in data:
             if 'Solved loadout ' not in line:
-                OUTPUT_FILE = OUTPUT_FILE + line
+                if line not in lines_seen or line.isspace():
+                    lines_seen.add(line)
+                    OUTPUT_FILE = OUTPUT_FILE + line
                 continue
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
-                ' 2111122', "_" + profile.split('-')[1].split('.simc')[0])
+                ' 111', "_" + profile.split('-')[1].split('.simc')[0])
 
-            idols = ["yshaarj", "cthun", "yogg", "nzoth"]
+            # Don't add combos that waste points on TS without Yogg
+            if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
+                continue
+
+            idols = ["yshaarj", "nzoth", "yogg", "cthun"]
             IDOLS_USED = ""
+            IDOLS_COUNT = 0
             for idol in idols:
                 if idol in line:
+                    IDOLS_COUNT = IDOLS_COUNT + 1
                     if len(IDOLS_USED) > 1:
                         IDOLS_USED += "_"
                     IDOLS_USED += idol
@@ -36,7 +62,10 @@ if __name__ == '__main__':
             line = line.replace(
                 f'profileset."{TALENT}', f'profileset."{TALENT}{IDOLS_USED}')
 
-            OUTPUT_FILE = OUTPUT_FILE + line
+            # ONLY ALLOW 2 IDOL BUILDS
+            if IDOLS_COUNT > 1 and line not in lines_seen:
+                lines_seen.add(line)
+                OUTPUT_FILE = OUTPUT_FILE + line
 
         with open(profile, 'w', encoding="utf8") as file:
             file.writelines(OUTPUT_FILE)

@@ -1,45 +1,33 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  yshaarj-da:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAISSLSAAAAAAAAAAAAAISiSkmUgkkUSiEBpRSSi0IIBhUkWIJAA # DA_yshaarj_yogg_370844223133615_AoE
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAISSjEAAAAAAAAAAAAAikoEhU4AJJJlkIRQakkkINCSQIFpFSCA # DA_yshaarj_yogg_370842091904943_AoE
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIk0CBAAAAAAAAAAAAQikkSkmU0iEJlESEkGJJJSjgEESRahkAA # DA_yshaarj_cthun_216706118047423_ST
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSLRAAAAAAAAAAAAAISiSkmU0IRSJJSEkGJJJSjgEESRahkAA # DA_yshaarj_nzoth_670186263795391_nosear_AoE
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAISiIBAAAAAAAAAAAAgIJKRaSBJJJlkIRQakkkINCSQIFpFSCA # DA_yshaarj_yogg_370839928168367_AoE
-  yshaarj-yogg-vf:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAISSLSAAAAAAAAAAAAAISiSkm0gkkUSiEBpRSSi0IIBhUkWIJAA # VF_yshaarj_yogg_370844223133615_AoE
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAISSjEAAAAAAAAAAAAAikoEh04AJJJlkIRQakkkINCSQIFpFSCA # VF_yshaarj_yogg_370842091904943_AoE
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAISSLSAAAAAAAAAAAAAISiSkm00iEJlESEkGJJJSjgEESRahkAA # VF_yshaarj_yogg_370843904366271_ST
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAISSLSAAAAAAAAAAAAAISiSkm0gkkUSiEBpRSSi0IIBhUkWIJAA # VF_yshaarj_yogg_370844223133615_AoE
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAISSjEAAAAAAAAAAAAAikoEh04AJJJlkIRQakkkINCSQIFpFSCA # VF_yshaarj_yogg_370906509563823_AoE
-  cthun-yogg-vf:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAgk0iEAAAAAAAAAAAAAhQKRaSjIJJlkIRQakkkINCSQIFpFSCA # VF_cthun_yogg_444562253240239_AoE
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgk0iEAAAAAAAAAAAAABkSkm0IJJJlkIRQakkkINCSQIFpFSCA # VF_cthun_yogg_444562253241263_AoE
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAgk0IBAAAAAAAAAAAAQOgkkSESTLJRSJhEBpRSSi0IIBhUkWIJAA # VF_cthun_yogg_444577754898111_ST
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAgk0yBSAAAAAAAAAAAAAEQKRaSjIJJlkIRQakkkINCSQIFpFSCA # VF_cthun_yogg_445112009053103_AoE
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAgkgEAAAAAAAAAAAAAJhkSESjDIJJlkIRQakkkINCSQIFpFSCA # VF_cthun_yogg_445673316504495_AoE
-  nzoth-yogg-vf:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAESSLSAAAAAAAAAAAAAAcgSkWSjIJJlkIRQakkkINCSQIFpFSCA # VF_yogg_nzoth_864610054788015_AoE
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAESSLJBAAAAAAAAAAAAAgSkm0IJJJlkIRQakkkINCSQIFpFSCA # VF_yogg_nzoth_898042080222127_AoE
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAESSLJBAAAAAAAAAAAAASiSkm00iEJlESEkGJJJSjgEESRahkAA # VF_yogg_nzoth_898042550015679_ST
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAESSLJBAAAAAAAAAAAAACKRaSjIJJlkIRQakkkINCSQIFpFSCA # VF_yogg_nzoth_898042080221103_AoE
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAESiIBAAAAAAAAAAAAACKRaJNSSSSJJSEkGJJJSjgEESRahkAA # VF_yogg_nzoth_864537040347055_AoE
+  yogg-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAgkQSAAAAAAAAAAAAACKOQkk0iDIJJRkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_99450837496783_Spike_TS
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAESiQAAAAAAAAAAAAAioIRSSDSSSSkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765543790543_Spike_TS
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAgkQSAAAAAAAAAAAAACp4ARSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_99450833826767_Spike_TS
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAESCSAAAAAAAAAAAAAiDoJRSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_136765511267279_Spike_DR_TS
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAESISAAAAAAAAAAAAAiDkmEJJNIJJJRig0IJJRaEkgQKSLkEAJA # VF_nzoth_yogg_cthun_136765511538639_Flay_DR_TS
+  nzoth-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEkwBOQAAAAAAAAAAAAASiSSkkUCSSSEJCSjkkEpRQCCpItQSAIB # DA_nzoth_cthun_57412802802639_Spike
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEkkEAAAAAAAAAAAAAiDo5ARSSJikEJJJCSjkkEpRQCCpItQSAIB # DA_nzoth_cthun_56327043282895_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAEkwBOQAAAAAAAAAAAAASiSSkkUCSSSEJCSjkkEpRQCCpItQSAIB # DA_nzoth_cthun_57412802802639_Spike
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkQSAAAAAAAAAAAAAioJRSSLIJJRkIINSSSkGBJIki0CJBgE # VF_nzoth_cthun_59593606001615_Spike_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAEEJSAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_nzoth_cthun_57346197526479_Flay_DR
 gear:
-  head: "draconic_hierophants_archcowl,id=200327,ilevel=424"
-  neck: "eye_of_the_vengeful_hurricane,id=195496,ilevel=421"
-  shoulders: "draconic_hierophants_wisdom,id=200329,ilevel=424"
-  back: "fireproof_drape,id=193763,ilevel=421"
-  chest: "draconic_hierophants_vestment,id=200324,ilevel=421"
-  wrists: "manawracker_bindings,id=134310,ilevel=421"
-  hands: "draconic_hierophants_grips,id=200326,ilevel=421"
-  waist: "sky_saddle_cord,id=193691,ilevel=421"
-  legs: "leggings_of_swirling_runes,id=133610,ilevel=421"
-  feet: "sandals_of_the_wild_sovereign,id=195532,ilevel=424"
-  finger1: "seal_of_filial_duty,id=195526,ilevel=431"
-  finger2: "jeweled_signet_of_melandrus,id=134542,ilevel=421"
-  trinket1: "whispering_incarnate_icon,id=194301,ilevel=421"
-  trinket2: "furious_ragefeather,id=193677,ilevel=421"
-  main_hand: "final_grade,id=193707,ilevel=421"
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # haste/crit
+  neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/mastery
+  back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
+  chest: "reanimators_wicked_cassock,id=202600,ilevel=441" # mastery/haste
+  wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
+  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=447" # vers/haste
+  waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
+  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=450" # mastery/crit
+  feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
+  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
+  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
+  trinket1: "igneous_flowstone,id=203996,ilevel=447"
+  trinket2: "neltharions_call_to_suffering,id=204211,ilevel=457"
+  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/vers
   off_hand: ""
 sims:
   alchemy:
@@ -56,7 +44,7 @@ sims:
       - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only."
-    builds: true
+    builds: false
     weights: false
     chart: false
     lookupType: none
@@ -134,15 +122,37 @@ sims:
     iterations: smart
     builds: false
     weights: false
+    chart: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - DA-Spike.simc
+      - DA-Flay.simc
+      - DA-Spike_DR.simc
+      - DA-Flay_DR.simc
+      - DA-Spike_TS.simc
+      - DA-Flay_TS.simc
+      - DA-Spike_DR_TS.simc
+      - DA-Flay_DR_TS.simc
+      - VF-Spike.simc
+      - VF-Flay.simc
+      - VF-Spike_DR.simc
+      - VF-Flay_DR.simc
+      - VF-Spike_TS.simc
+      - VF-Flay_TS.simc
+      - VF-Spike_DR_TS.simc
+      - VF-Flay_DR_TS.simc
+  talents-top:
+    description: "Shows top talents."
+    builds: false
+    weights: false
     chart: true
     lookupType: none
     steps:
       - DPS
     files:
-      - VF-ST.simc
-      - VF-AoE.simc
-      - DA-ST.simc
-      - DA-AoE.simc
+      - talents.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
     builds: true
@@ -170,17 +180,6 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 350
-      - 366
-      - 372
-      - 376
-      - 379
-      - 382
-      - 385
-      - 389
-      - 392
-      - 395
-      - 398
       - 402
       - 405
       - 408
@@ -189,6 +188,15 @@ sims:
       - 418
       - 421
       - 424
+      - 428
+      - 431
+      - 434
+      - 437
+      - 441
+      - 444
+      - 447
+      - 450
+      - 457
     files:
       - raid.simc
       - dungeons.simc
@@ -197,13 +205,13 @@ sims:
     description: Stat weight sims for current BiS gear setup..
     builds: true
     weights: true
-    chart: true
+    chart: false
     lookupType: none
     steps:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsVaultOfTheIncarnates
+compositeWeights: weightsAberrusTheShadowedCrucible
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 fourTargetWeights: weightsFourTargets
@@ -211,20 +219,22 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
+dungeonSeason: 1
+dungeonWeights: weightsSeasonOne
 simcBuild: nightly
 defaultIterations: 10000
 raidbots:
   apiUrlBase: https://www.raidbots.com
-  numOfRetries: 10
-  retryInterval: 2
+  numOfRetries: 100
+  retryInterval: 10
 analyze:
   markdown: true
   csv: true
   json: true
 stats:
   base: 1600
-  steps: 700
-  total: 10000
+  steps: 1000
+  total: 12600
   include:
     - mastery
     - haste

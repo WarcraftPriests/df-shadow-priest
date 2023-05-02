@@ -1,0 +1,34 @@
+# 2T - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|169509|1.48%|
+|Mechagnome|169449|1.44%|
+|Gnome|169158|1.27%|
+|Night_Elf_Haste|169157|1.27%|
+|Goblin|169126|1.25%|
+|Void_Elf|169035|1.19%|
+|Blood_Elf|168996|1.17%|
+|Orc|168941|1.14%|
+|Zandalari_Troll_Paku|168745|1.02%|
+|Troll|168744|1.02%|
+|Draenei|168684|0.98%|
+|Nightborne|168643|0.96%|
+|Highmountain_Tauren|168619|0.94%|
+|Worgen|168573|0.92%|
+|Night_Elf_Crit|168549|0.90%|
+|Dark_Iron_Dwarf|168539|0.90%|
+|Kul_Tiran|168491|0.87%|
+|Maghar_Orc|168184|0.68%|
+|Panda_Fortune_Cookie|168132|0.65%|
+|Tauren|168055|0.61%|
+|Dwarf|167991|0.57%|
+|Panda_Mastery|167855|0.49%|
+|Panda_Haste|167781|0.44%|
+|Panda_Vers|167628|0.35%|
+|Panda_Crit|167627|0.35%|
+|Zandalari_Troll_Bwonsamdi|167426|0.23%|
+|Undead|167409|0.22%|
+|Zandalari_Troll_Kimbul|167336|0.18%|
+|Vulpera|167095|0.03%|
+|Base|167043|0.00%|
+|Lightforged_Draenei|166910|-0.08%|

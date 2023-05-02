@@ -1,0 +1,34 @@
+# 4T - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|294368|1.47%|
+|Troll|294238|1.42%|
+|Mechagnome|293826|1.28%|
+|Night_Elf_Haste|293561|1.19%|
+|Gnome|293458|1.16%|
+|Orc|293421|1.14%|
+|Blood_Elf|293380|1.13%|
+|Goblin|293361|1.12%|
+|Void_Elf|293255|1.09%|
+|Zandalari_Troll_Paku|292919|0.97%|
+|Nightborne|292877|0.96%|
+|Highmountain_Tauren|292774|0.92%|
+|Draenei|292749|0.91%|
+|Night_Elf_Crit|292627|0.87%|
+|Kul_Tiran|292540|0.84%|
+|Worgen|292390|0.79%|
+|Dark_Iron_Dwarf|292380|0.78%|
+|Panda_Fortune_Cookie|291903|0.62%|
+|Maghar_Orc|291824|0.59%|
+|Tauren|291597|0.51%|
+|Dwarf|291473|0.47%|
+|Panda_Mastery|291339|0.43%|
+|Panda_Crit|291303|0.41%|
+|Panda_Haste|291272|0.40%|
+|Panda_Vers|290606|0.17%|
+|Lightforged_Draenei|290602|0.17%|
+|Zandalari_Troll_Bwonsamdi|290233|0.04%|
+|Undead|290209|0.04%|
+|Zandalari_Troll_Kimbul|290209|0.04%|
+|Base|290105|0.00%|
+|Vulpera|289995|-0.04%|

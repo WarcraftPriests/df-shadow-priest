@@ -1,0 +1,34 @@
+# algethar-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|149772|0.81%|
+|Mechagnome|149748|0.80%|
+|Gnome|149727|0.78%|
+|Night_Elf_Haste|149686|0.76%|
+|Goblin|149680|0.75%|
+|Zandalari_Troll_Paku|149347|0.53%|
+|Highmountain_Tauren|149330|0.52%|
+|Night_Elf_Crit|149313|0.50%|
+|Blood_Elf|149308|0.50%|
+|Nightborne|149302|0.50%|
+|Worgen|149272|0.48%|
+|Kul_Tiran|149263|0.47%|
+|Void_Elf|149247|0.46%|
+|Orc|149246|0.46%|
+|Draenei|149242|0.46%|
+|Troll|149126|0.38%|
+|Dark_Iron_Dwarf|149109|0.37%|
+|Panda_Fortune_Cookie|149034|0.32%|
+|Maghar_Orc|148990|0.29%|
+|Dwarf|148957|0.27%|
+|Tauren|148949|0.26%|
+|Panda_Haste|148921|0.24%|
+|Panda_Crit|148859|0.20%|
+|Panda_Mastery|148819|0.17%|
+|Panda_Vers|148755|0.13%|
+|Zandalari_Troll_Kimbul|148668|0.07%|
+|Undead|148665|0.07%|
+|Zandalari_Troll_Bwonsamdi|148608|0.03%|
+|Vulpera|148575|0.01%|
+|Base|148563|0.00%|
+|Lightforged_Draenei|148474|-0.06%|
