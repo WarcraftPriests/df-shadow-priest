@@ -44,7 +44,7 @@ sims:
       - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only."
-    builds: false
+    builds: true
     weights: false
     chart: false
     lookupType: none
@@ -219,7 +219,7 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 1
+dungeonSeason: 2
 dungeonWeights: weightsSeasonTwo
 simcBuild: nightly
 defaultIterations: 10000

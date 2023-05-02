@@ -131,8 +131,10 @@ racials = {
 }
 
 special = {
-    "Embellishment_Blue_Silken_Lining_1": 193946,
-    "Embellishment_Blue_Silken_Lining_2": 193946,
+    "Embellishment_Blue_Silken_Lining_70%_1": 193946,
+    "Embellishment_Blue_Silken_Lining_90%_1": 193946,
+    "Embellishment_Blue_Silken_Lining_70%_2": 193946,
+    "Embellishment_Blue_Silken_Lining_90%_2": 193946,
     "Embellishment_Potion_Absorption_Inhibitor_1": 191534,
     "Embellishment_Potion_Absorption_Inhibitor_2": 191534,
     "Embellishment_Bronzed_Grip_Wrappings_1": 193943,

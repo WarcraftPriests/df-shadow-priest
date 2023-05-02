@@ -38,13 +38,20 @@ profileset."MH_Spore_Keepers_Baton_447-OH_Echos_Maddening_Volume_450"+=off_hand=
 ## Blue Silken Lining - 8932
 ## Potion Absorption Inhibitor - 8175
 ## Bronzed Grip Wrappings - 8937
-profileset."Embellishment_Blue_Silken_Lining_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_1"+=dragonflight.blue_silken_lining_uptime=0.7
+profileset."Embellishment_Blue_Silken_Lining_90%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_1"+=dragonflight.blue_silken_lining_uptime=0.9
 profileset."Embellishment_Potion_Absorption_Inhibitor_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
 profileset."Embellishment_Bronzed_Grip_Wrappings_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
 
-profileset."Embellishment_Blue_Silken_Lining_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_Blue_Silken_Lining_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_2"+=dragonflight.blue_silken_lining_uptime=0.7
+profileset."Embellishment_Blue_Silken_Lining_90%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_2"+=dragonflight.blue_silken_lining_uptime=0.9
 profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
 profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8175
 profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
@@ -52,8 +59,13 @@ profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=finger1=${gear.finger1},enc
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
 
-profileset."Embellishment_BSL1_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_BSL1_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_70%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_BSL1_70%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_70%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.7
+
+profileset."Embellishment_BSL1_90%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_BSL1_90%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_90%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.9
 
 ## Jewelcrafting
 profileset."Neck_Elemental_Lariat_7Earth_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192948/192948

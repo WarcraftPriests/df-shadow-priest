@@ -1,0 +1,1 @@
+{"name": "Composite - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 127152}, "removed": {"DPS": 127130}, "Base": {"DPS": 126952}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}

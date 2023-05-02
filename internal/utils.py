@@ -43,7 +43,8 @@ def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
     season = config["dungeonSeason"]
     if season == 2:
-        keys = ["bhh", "hoi", "neltharus", "ulda"]
+        keys = ["bhh", "freehold", "hoi", "neltharus",
+                "nelths", "ulda", "ur", "vtp"]
     else:
         keys = ["algethar", "azure", "cos", "hov",
                 "nokhud", "rlp", "smbg", "temple"]
