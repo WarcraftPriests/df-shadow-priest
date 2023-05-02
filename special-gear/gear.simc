@@ -70,26 +70,26 @@ profileset."Finger1_Ring_Bound_Hourglass_447"+=finger1=,id=193000,bonus_id=8836/
 profileset."Finger2_Ring_Bound_Hourglass_447"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=447,enchant_id=6556,gem_id=192948
 
 ## Tailoring
-# add legs whenever replacing tier slot legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+# add chest whenever replacing tier slot chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 profileset."Legs_Vibrant_Wildercloth_Slacks_447"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Waist_Vibrant_Wildercloth_Girdle_447"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
 
 profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=447
-profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Head_Vibrant_Wildercloth_Headcover_447"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
-profileset."Head_Vibrant_Wildercloth_Headcover_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Head_Vibrant_Wildercloth_Headcover_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Back_Vibrant_Wildercloth_Shawl_447"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=447
 
 profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=447
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Feet_Vibrant_Wildercloth_Slippers_447"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=447
 
 profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6625
-profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
 
 profileset."Wrists_Vibrant_Wildercloth_Wristwraps_447"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
 
@@ -98,26 +98,25 @@ profileset."Back_Undulating_Sporecloak_447"+=back=undulating_sporecloak,id=20502
 ### Azureweave
 profileset."Azureweave_Mantle_Slippers_447"+=shoulder=azureweave_mantle,id=193520,ilevel=447
 profileset."Azureweave_Mantle_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
-profileset."Azureweave_Mantle_Slippers_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Azureweave_Mantle_Slippers_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Azureweave_Robe_Slippers_447"+=chest=azureweave_robe,id=193536,ilevel=447,enchant_id=6625
 profileset."Azureweave_Robe_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
-profileset."Azureweave_Robe_Slippers_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
 
 profileset."Feet_Blue_Dragon_Soles_447"+=feet=blue_dragon_soles,id=193532,ilevel=447
 profileset."Shoulders_Amice_of_the_Blue_447"+=shoulder=amice_of_the_blue,id=193526,ilevel=447
-profileset."Shoulders_Amice_of_the_Blue_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Shoulders_Amice_of_the_Blue_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 ### Chronocloth
 profileset."Chronocloth_Gloves_Sash_447"+=hands=chronocloth_gloves,id=193527,ilevel=447
 profileset."Chronocloth_Gloves_Sash_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
-profileset."Chronocloth_Gloves_Sash_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Chronocloth_Gloves_Sash_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Chronocloth_Sash_Leggings_447"+=legs=chronocloth_leggings,id=193537,ilevel=447,enchant_id=6541
 profileset."Chronocloth_Sash_Leggings_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
 
 profileset."Head_Hood_of_Surging_Time_447"+=head=hood_of_surging_time,id=193521,ilevel=447,gem_id=192948
-profileset."Head_Hood_of_Surging_Time_447"+=legs=breeches_of_the_furnace_seraph,id=202541,ilevel=444,enchant_id=6541
+profileset."Head_Hood_of_Surging_Time_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
 
 profileset."Wrists_Allied_Wristguards_of_Time_Dilation_447"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=447,gem_id=192948
 

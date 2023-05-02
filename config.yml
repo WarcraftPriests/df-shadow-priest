@@ -13,15 +13,15 @@ builds:
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkQSAAAAAAAAAAAAAioJRSSLIJJRkIINSSSkGBJIki0CJBgE # VF_nzoth_cthun_59593606001615_Spike_DR
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAEEJSAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_nzoth_cthun_57346197526479_Flay_DR
 gear:
-  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # mastery/haste
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # haste/crit
   neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
-  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/crit
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/mastery
   back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
-  chest: "command_of_the_furnace_seraph,id=202545,ilevel=447" # crit/mastery
+  chest: "reanimators_wicked_cassock,id=202600,ilevel=441" # mastery/haste
   wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
-  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=444" # mastery/haste
+  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=447" # vers/haste
   waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
-  legs: "riverrider_legwraps,id=134427,ilevel=447" # mastery/haste
+  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=450" # mastery/crit
   feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
   finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
   finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
