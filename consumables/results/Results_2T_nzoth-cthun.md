@@ -1,18 +1,18 @@
 # 2T - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|165905|0.76%|
-|Great_Cerulean_Sea|165862|0.73%|
-|Thousandbone_Tongueslicer|165718|0.64%|
-|Fated_Fortune_Cookie|165685|0.62%|
-|Salt_Baked_Fishcake|165639|0.59%|
-|Revenge_Served_Cold|165620|0.58%|
-|Sizzling_Seafood_Medley|165602|0.57%|
-|Feisty_Fish_Sticks|165478|0.50%|
-|Filet_of_Fangs|165467|0.49%|
-|Seamoth_Surprise|165449|0.48%|
-|Aromatic_Seafood_Platter|165334|0.41%|
-|Roast_Duck_Delight|165126|0.28%|
-|Timely_Demise|164973|0.19%|
-|Thrice_Spiced_Mammoth_Kabob|164966|0.19%|
-|Base|164660|0.00%|
+|Draconic_Augment_Rune|166493|0.75%|
+|Thousandbone_Tongueslicer|166311|0.64%|
+|Revenge_Served_Cold|166263|0.61%|
+|Great_Cerulean_Sea|166259|0.61%|
+|Fated_Fortune_Cookie|166188|0.56%|
+|Sizzling_Seafood_Medley|166161|0.55%|
+|Salt_Baked_Fishcake|166146|0.54%|
+|Feisty_Fish_Sticks|166127|0.53%|
+|Seamoth_Surprise|165978|0.44%|
+|Filet_of_Fangs|165952|0.42%|
+|Aromatic_Seafood_Platter|165947|0.42%|
+|Timely_Demise|165842|0.35%|
+|Roast_Duck_Delight|165659|0.24%|
+|Thrice_Spiced_Mammoth_Kabob|165488|0.14%|
+|Base|165257|0.00%|

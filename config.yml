@@ -17,7 +17,7 @@ gear:
   neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
   shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/mastery
   back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
-  chest: "reanimators_wicked_cassock,id=202600,ilevel=441" # mastery/haste
+  chest: "vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447" # haste=mastery
   wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
   hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=447" # vers/haste
   waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
@@ -224,7 +224,7 @@ dungeonWeights: weightsSeasonOne
 simcBuild: nightly
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 100
   retryInterval: 10
 analyze:

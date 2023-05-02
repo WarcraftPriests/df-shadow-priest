@@ -89,7 +89,8 @@ profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=chest=command_of_
 
 profileset."Feet_Vibrant_Wildercloth_Slippers_447"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=447
 
-profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6625
+# currently using this in the base profile since we have like no good chests
+# profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6625
 
 profileset."Wrists_Vibrant_Wildercloth_Wristwraps_447"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
 

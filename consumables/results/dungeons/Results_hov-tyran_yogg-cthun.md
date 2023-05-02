@@ -1,18 +1,18 @@
 # hov-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sizzling_Seafood_Medley|113834|0.71%|
-|Draconic_Augment_Rune|113796|0.67%|
-|Thousandbone_Tongueslicer|113764|0.65%|
-|Feisty_Fish_Sticks|113752|0.64%|
-|Revenge_Served_Cold|113743|0.63%|
-|Great_Cerulean_Sea|113723|0.61%|
-|Aromatic_Seafood_Platter|113717|0.60%|
-|Fated_Fortune_Cookie|113675|0.57%|
-|Salt_Baked_Fishcake|113617|0.52%|
-|Filet_of_Fangs|113581|0.48%|
-|Timely_Demise|113575|0.48%|
-|Seamoth_Surprise|113563|0.47%|
-|Roast_Duck_Delight|113295|0.23%|
-|Thrice_Spiced_Mammoth_Kabob|113150|0.10%|
-|Base|113034|0.00%|
+|Draconic_Augment_Rune|117215|0.54%|
+|Great_Cerulean_Sea|117177|0.51%|
+|Thousandbone_Tongueslicer|117149|0.48%|
+|Fated_Fortune_Cookie|117147|0.48%|
+|Revenge_Served_Cold|117144|0.48%|
+|Sizzling_Seafood_Medley|117114|0.45%|
+|Feisty_Fish_Sticks|117109|0.45%|
+|Aromatic_Seafood_Platter|117094|0.44%|
+|Salt_Baked_Fishcake|117063|0.41%|
+|Timely_Demise|117005|0.36%|
+|Seamoth_Surprise|116986|0.34%|
+|Filet_of_Fangs|116967|0.33%|
+|Roast_Duck_Delight|116847|0.22%|
+|Thrice_Spiced_Mammoth_Kabob|116814|0.20%|
+|Base|116586|0.00%|
