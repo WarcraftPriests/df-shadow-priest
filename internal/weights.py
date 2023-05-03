@@ -109,23 +109,24 @@ weights_season_one = {
     "temple-tyran": 0.0625,
 }
 
+# bring down overperforming keys to get a better composite
 weights_season_two = {
-    "bhh-fort": 0.0625,
-    "bhh-tyran": 0.0625,
-    "freehold-fort": 0.0625,
-    "freehold-tyran": 0.0625,
-    "hoi-fort": 0.0625,
-    "hoi-tyran": 0.0625,
-    "neltharus-fort": 0.0625,
-    "neltharus-tyran": 0.0625,
-    "nelths-fort": 0.0625,
-    "nelths-tyran": 0.0625,
-    "ulda-fort": 0.0625,
-    "ulda-tyran": 0.0625,
-    "ur-fort": 0.0625,
-    "ur-tyran": 0.0625,
-    "vtp-fort": 0.0625,
-    "vtp-tyran": 0.0625,
+    "bhh-fort": 0.0600,
+    "bhh-tyran": 0.0600,
+    "freehold-fort": 0.0575,
+    "freehold-tyran": 0.0575,
+    "hoi-fort": 0.0750,
+    "hoi-tyran": 0.0750,
+    "neltharus-fort": 0.0575,
+    "neltharus-tyran": 0.0575,
+    "nelths-fort": 0.0500,
+    "nelths-tyran": 0.0500,
+    "ulda-fort": 0.0650,
+    "ulda-tyran": 0.0650,
+    "ur-fort": 0.0675,
+    "ur-tyran": 0.0675,
+    "vtp-fort": 0.0675,
+    "vtp-tyran": 0.0675,
 }
 
 
