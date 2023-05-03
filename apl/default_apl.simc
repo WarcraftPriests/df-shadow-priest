@@ -98,12 +98,10 @@ actions.aoe+=/void_bolt
 # Use Devouring Plague to maximize uptime. Short circuit if you are capping on Insanity within 20 or to get out an extra Void Bolt by extending Voidform. With Distorted Reality can maintain more than one at a time in multi-target.
 actions.aoe+=/devouring_plague,target_if=refreshable|!talent.distorted_reality,if=refreshable&!variable.pool_for_cds|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<(buff.voidform.remains+2)
 actions.aoe+=/vampiric_touch,target_if=refreshable&target.time_to_die>=18&(dot.vampiric_touch.ticking|!variable.vts_applied),if=variable.max_vts>0&(cooldown.shadow_crash.remains>=dot.vampiric_touch.remains|variable.holding_crash)&!action.shadow_crash.in_flight|!talent.whispering_shadows
-# High priority Shadow Word: Death action during execute, while Mindbender is active with Inescapable Torment, or Deathspeaker is active
-actions.aoe+=/shadow_word_death,target_if=target.health.pct<20&(cooldown.fiend.remains>=10|!talent.inescapable_torment)|pet.fiend.active>1&talent.inescapable_torment|buff.deathspeaker.up
 # High Priority Mind Spike: Insanity to fish for C'Thun procs when Mind Blast is not capped and Void Torrent is not available and Mindbender is not active
 actions.aoe+=/mind_spike_insanity,if=variable.dots_up&cooldown.mind_blast.full_recharge_time>=gcd*3&talent.idol_of_cthun&(!cooldown.void_torrent.up|!talent.void_torrent)
 # High Priority Mind Flay: Insanity to fish for C'Thun procs when Mind Blast is not capped and Void Torrent is not available and Mindbender is not active
-actions.aoe+=/mind_flay,if=buff.mind_flay_insanity.up&variable.dots_up&(!pet.fiend.active)&cooldown.mind_blast.full_recharge_time>=gcd*3&talent.idol_of_cthun&(!cooldown.void_torrent.up|!talent.void_torrent)
+actions.aoe+=/mind_flay,if=buff.mind_flay_insanity.up&variable.dots_up&cooldown.mind_blast.full_recharge_time>=gcd*3&talent.idol_of_cthun&(!cooldown.void_torrent.up|!talent.void_torrent)
 # # Use all charges of Mind Blast if Vampiric Touch and Shadow Word: Pain are active and Mind Devourer is not active or you are prepping Void Eruption
 actions.aoe+=/mind_blast,if=variable.vts_applied&(!buff.mind_devourer.up|cooldown.void_eruption.up&talent.void_eruption)
 # Void Torrent action list for AoE
@@ -120,15 +118,16 @@ actions.pl_torrent+=/vampiric_touch,if=remains<=6&cooldown.void_torrent.remains<
 actions.pl_torrent+=/devouring_plague,if=remains<=4&cooldown.void_torrent.remains<gcd*2
 actions.pl_torrent+=/mind_blast,if=!talent.mindgames|cooldown.mindgames.remains>=3&!prev_gcd.1.mind_blast
 actions.pl_torrent+=/void_torrent,if=dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking|buff.voidform.up
-actions.pl_torrent+=/mindgames,target_if=variable.all_dots_up|buff.voidform.up
+actions.pl_torrent+=/mindgames,if=dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking&dot.devouring_plague.ticking|buff.voidform.up
 
 # Cast Vampiric Touch to consume Unfurling Darkness, prefering the target with the lowest DoT duration active
 actions.filler=vampiric_touch,target_if=min:remains,if=buff.unfurling_darkness.up
+actions.filler+=/shadow_word_death,target_if=target.health.pct<20|buff.deathspeaker.up
 actions.filler+=/mind_spike_insanity
 actions.filler+=/mind_flay,if=buff.mind_flay_insanity.up
 # Save up to 20s if adds are coming soon.
 actions.filler+=/halo,if=raid_event.adds.in>20
-actions.filler+=/shadow_word_death,target_if=min:target.time_to_die,if=target.health.pct<20&active_enemies<4|talent.inescapable_torment&pet.fiend.active
+actions.filler+=/shadow_word_death,target_if=min:target.time_to_die,if=talent.inescapable_torment&pet.fiend.active
 # Save up to 10s if adds are coming soon.
 actions.filler+=/divine_star,if=raid_event.adds.in>10
 actions.filler+=/devouring_plague,if=buff.voidform.up&variable.dots_up
