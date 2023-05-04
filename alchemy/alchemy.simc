@@ -28,6 +28,13 @@ potion=disabled
 flask=disabled
 
 # Flasks/Phials
+profileset."Iced_Phial_of_Corrupting_Rage_50_1"+=flask=iced_phial_of_corrupting_rage_1
+profileset."Iced_Phial_of_Corrupting_Rage_50_1"+=dragonflight.corrupting_rage_uptime=0.5
+profileset."Iced_Phial_of_Corrupting_Rage_50_2"+=flask=iced_phial_of_corrupting_rage_2
+profileset."Iced_Phial_of_Corrupting_Rage_50_2"+=dragonflight.corrupting_rage_uptime=0.5
+profileset."Iced_Phial_of_Corrupting_Rage_50_3"+=flask=iced_phial_of_corrupting_rage_3
+profileset."Iced_Phial_of_Corrupting_Rage_50_3"+=dragonflight.corrupting_rage_uptime=0.5
+
 profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=flask=iced_phial_of_corrupting_rage_1
 profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=dragonflight.corrupting_rage_uptime=0.7
 profileset."Iced_Phial_of_Corrupting_Rage_70_2"+=flask=iced_phial_of_corrupting_rage_2
