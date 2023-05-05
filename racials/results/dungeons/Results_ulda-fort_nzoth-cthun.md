@@ -1,0 +1,34 @@
+# ulda-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|148414|0.77%|
+|Human|148380|0.75%|
+|Gnome|148277|0.68%|
+|Night_Elf_Haste|148248|0.66%|
+|Goblin|148221|0.64%|
+|Void_Elf|148085|0.55%|
+|Highmountain_Tauren|147986|0.48%|
+|Kul_Tiran|147958|0.46%|
+|Blood_Elf|147949|0.46%|
+|Tauren|147948|0.46%|
+|Nightborne|147943|0.45%|
+|Zandalari_Troll_Paku|147941|0.45%|
+|Draenei|147928|0.44%|
+|Dwarf|147917|0.44%|
+|Troll|147869|0.40%|
+|Night_Elf_Crit|147868|0.40%|
+|Worgen|147864|0.40%|
+|Dark_Iron_Dwarf|147791|0.35%|
+|Orc|147791|0.35%|
+|Panda_Fortune_Cookie|147670|0.27%|
+|Panda_Haste|147596|0.22%|
+|Maghar_Orc|147576|0.20%|
+|Panda_Mastery|147558|0.19%|
+|Panda_Crit|147554|0.19%|
+|Panda_Vers|147484|0.14%|
+|Zandalari_Troll_Kimbul|147458|0.12%|
+|Zandalari_Troll_Bwonsamdi|147422|0.10%|
+|Undead|147370|0.06%|
+|Lightforged_Draenei|147283|0.01%|
+|Base|147275|0.00%|
+|Vulpera|147195|-0.05%|

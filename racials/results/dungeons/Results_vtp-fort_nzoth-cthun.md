@@ -1,0 +1,34 @@
+# vtp-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|147747|1.09%|
+|Human|147563|0.96%|
+|Gnome|147488|0.91%|
+|Goblin|147454|0.88%|
+|Night_Elf_Haste|147399|0.85%|
+|Void_Elf|147199|0.71%|
+|Blood_Elf|147174|0.69%|
+|Nightborne|147168|0.69%|
+|Zandalari_Troll_Paku|147159|0.68%|
+|Highmountain_Tauren|147148|0.68%|
+|Draenei|147127|0.66%|
+|Kul_Tiran|147114|0.65%|
+|Night_Elf_Crit|147100|0.64%|
+|Dwarf|147097|0.64%|
+|Worgen|147046|0.61%|
+|Troll|147041|0.60%|
+|Tauren|147039|0.60%|
+|Orc|147007|0.58%|
+|Dark_Iron_Dwarf|146915|0.52%|
+|Panda_Fortune_Cookie|146821|0.45%|
+|Maghar_Orc|146635|0.32%|
+|Panda_Crit|146604|0.30%|
+|Panda_Mastery|146571|0.28%|
+|Panda_Haste|146567|0.28%|
+|Panda_Vers|146450|0.20%|
+|Undead|146312|0.10%|
+|Zandalari_Troll_Bwonsamdi|146297|0.09%|
+|Zandalari_Troll_Kimbul|146287|0.09%|
+|Base|146161|0.00%|
+|Vulpera|146158|0.00%|
+|Lightforged_Draenei|146081|-0.05%|

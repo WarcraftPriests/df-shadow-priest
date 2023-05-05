@@ -1,0 +1,34 @@
+# hoi-tyran - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|121190|0.96%|
+|Night_Elf_Haste|121127|0.91%|
+|Human|121121|0.90%|
+|Gnome|121074|0.86%|
+|Goblin|121071|0.86%|
+|Troll|120845|0.67%|
+|Void_Elf|120808|0.64%|
+|Draenei|120789|0.63%|
+|Highmountain_Tauren|120774|0.61%|
+|Worgen|120769|0.61%|
+|Orc|120763|0.60%|
+|Nightborne|120752|0.59%|
+|Zandalari_Troll_Paku|120744|0.59%|
+|Blood_Elf|120737|0.58%|
+|Kul_Tiran|120730|0.58%|
+|Night_Elf_Crit|120726|0.57%|
+|Dark_Iron_Dwarf|120590|0.46%|
+|Tauren|120568|0.44%|
+|Panda_Fortune_Cookie|120496|0.38%|
+|Dwarf|120464|0.35%|
+|Panda_Haste|120460|0.35%|
+|Maghar_Orc|120407|0.31%|
+|Panda_Mastery|120378|0.28%|
+|Panda_Crit|120354|0.26%|
+|Panda_Vers|120239|0.17%|
+|Zandalari_Troll_Bwonsamdi|120228|0.16%|
+|Zandalari_Troll_Kimbul|120207|0.14%|
+|Undead|120169|0.11%|
+|Base|120038|0.00%|
+|Lightforged_Draenei|120032|0.00%|
+|Vulpera|120001|-0.03%|

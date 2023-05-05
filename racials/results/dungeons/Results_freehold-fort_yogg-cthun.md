@@ -1,0 +1,34 @@
+# freehold-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|172127|1.13%|
+|Human|172058|1.08%|
+|Goblin|171962|1.03%|
+|Gnome|171959|1.03%|
+|Night_Elf_Haste|171906|1.00%|
+|Draenei|171476|0.74%|
+|Zandalari_Troll_Paku|171441|0.72%|
+|Void_Elf|171432|0.72%|
+|Highmountain_Tauren|171395|0.70%|
+|Troll|171376|0.68%|
+|Night_Elf_Crit|171370|0.68%|
+|Nightborne|171366|0.68%|
+|Blood_Elf|171348|0.67%|
+|Kul_Tiran|171329|0.66%|
+|Worgen|171299|0.64%|
+|Orc|171266|0.62%|
+|Dwarf|171019|0.47%|
+|Dark_Iron_Dwarf|170989|0.46%|
+|Panda_Fortune_Cookie|170989|0.46%|
+|Tauren|170977|0.45%|
+|Maghar_Orc|170839|0.37%|
+|Panda_Haste|170783|0.34%|
+|Panda_Mastery|170729|0.30%|
+|Panda_Crit|170717|0.30%|
+|Panda_Vers|170613|0.24%|
+|Zandalari_Troll_Bwonsamdi|170425|0.13%|
+|Undead|170350|0.08%|
+|Zandalari_Troll_Kimbul|170333|0.07%|
+|Base|170212|0.00%|
+|Vulpera|170211|0.00%|
+|Lightforged_Draenei|170183|-0.02%|

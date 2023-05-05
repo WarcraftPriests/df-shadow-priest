@@ -1,0 +1,34 @@
+# freehold-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|158500|1.13%|
+|Human|158320|1.02%|
+|Gnome|158163|0.92%|
+|Goblin|158163|0.92%|
+|Night_Elf_Haste|158150|0.91%|
+|Void_Elf|157988|0.81%|
+|Nightborne|157893|0.75%|
+|Kul_Tiran|157855|0.72%|
+|Zandalari_Troll_Paku|157824|0.70%|
+|Draenei|157802|0.69%|
+|Blood_Elf|157790|0.68%|
+|Worgen|157785|0.68%|
+|Highmountain_Tauren|157768|0.67%|
+|Night_Elf_Crit|157768|0.67%|
+|Dwarf|157716|0.63%|
+|Orc|157652|0.59%|
+|Tauren|157651|0.59%|
+|Dark_Iron_Dwarf|157600|0.56%|
+|Panda_Fortune_Cookie|157438|0.46%|
+|Panda_Crit|157262|0.34%|
+|Maghar_Orc|157233|0.33%|
+|Troll|157231|0.32%|
+|Panda_Mastery|157213|0.31%|
+|Panda_Haste|157089|0.23%|
+|Panda_Vers|157020|0.19%|
+|Zandalari_Troll_Bwonsamdi|156925|0.13%|
+|Zandalari_Troll_Kimbul|156843|0.08%|
+|Undead|156807|0.05%|
+|Vulpera|156726|0.00%|
+|Base|156723|0.00%|
+|Lightforged_Draenei|156659|-0.04%|

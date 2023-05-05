@@ -1,0 +1,34 @@
+# vtp-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|132984|0.91%|
+|Human|132977|0.90%|
+|Goblin|132810|0.77%|
+|Gnome|132802|0.77%|
+|Night_Elf_Haste|132786|0.76%|
+|Draenei|132612|0.62%|
+|Void_Elf|132599|0.61%|
+|Troll|132585|0.60%|
+|Nightborne|132581|0.60%|
+|Orc|132547|0.57%|
+|Kul_Tiran|132546|0.57%|
+|Blood_Elf|132545|0.57%|
+|Highmountain_Tauren|132527|0.56%|
+|Zandalari_Troll_Paku|132519|0.55%|
+|Tauren|132509|0.55%|
+|Night_Elf_Crit|132487|0.53%|
+|Worgen|132477|0.52%|
+|Dwarf|132475|0.52%|
+|Panda_Fortune_Cookie|132374|0.44%|
+|Dark_Iron_Dwarf|132328|0.41%|
+|Maghar_Orc|132199|0.31%|
+|Panda_Mastery|132180|0.30%|
+|Panda_Vers|132133|0.26%|
+|Panda_Crit|132128|0.26%|
+|Panda_Haste|132107|0.24%|
+|Zandalari_Troll_Bwonsamdi|131964|0.13%|
+|Zandalari_Troll_Kimbul|131930|0.11%|
+|Undead|131923|0.10%|
+|Base|131790|0.00%|
+|Vulpera|131767|-0.02%|
+|Lightforged_Draenei|131730|-0.05%|

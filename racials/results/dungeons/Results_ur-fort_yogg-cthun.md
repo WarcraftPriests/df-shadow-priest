@@ -1,0 +1,34 @@
+# ur-fort - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|141230|1.07%|
+|Human|141219|1.06%|
+|Gnome|141101|0.98%|
+|Goblin|141101|0.98%|
+|Night_Elf_Haste|141092|0.97%|
+|Blood_Elf|140699|0.69%|
+|Draenei|140684|0.68%|
+|Void_Elf|140675|0.67%|
+|Nightborne|140664|0.67%|
+|Zandalari_Troll_Paku|140625|0.64%|
+|Highmountain_Tauren|140614|0.63%|
+|Night_Elf_Crit|140595|0.62%|
+|Kul_Tiran|140590|0.61%|
+|Worgen|140562|0.59%|
+|Orc|140519|0.56%|
+|Troll|140503|0.55%|
+|Panda_Fortune_Cookie|140335|0.43%|
+|Dwarf|140314|0.42%|
+|Panda_Haste|140295|0.40%|
+|Dark_Iron_Dwarf|140260|0.38%|
+|Tauren|140230|0.36%|
+|Panda_Mastery|140175|0.32%|
+|Panda_Crit|140167|0.31%|
+|Maghar_Orc|140160|0.31%|
+|Panda_Vers|140051|0.23%|
+|Undead|139926|0.14%|
+|Zandalari_Troll_Bwonsamdi|139917|0.13%|
+|Zandalari_Troll_Kimbul|139900|0.12%|
+|Vulpera|139778|0.03%|
+|Lightforged_Draenei|139741|0.01%|
+|Base|139732|0.00%|

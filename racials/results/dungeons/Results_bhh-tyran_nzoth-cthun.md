@@ -1,0 +1,34 @@
+# bhh-tyran - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|151996|0.97%|
+|Mechagnome|151995|0.97%|
+|Goblin|151890|0.90%|
+|Gnome|151765|0.82%|
+|Night_Elf_Haste|151736|0.80%|
+|Nightborne|151569|0.69%|
+|Draenei|151531|0.66%|
+|Highmountain_Tauren|151525|0.66%|
+|Blood_Elf|151504|0.64%|
+|Troll|151503|0.64%|
+|Void_Elf|151501|0.64%|
+|Orc|151441|0.60%|
+|Night_Elf_Crit|151437|0.60%|
+|Zandalari_Troll_Paku|151426|0.59%|
+|Kul_Tiran|151408|0.58%|
+|Worgen|151377|0.56%|
+|Tauren|151350|0.54%|
+|Dwarf|151344|0.54%|
+|Dark_Iron_Dwarf|151279|0.49%|
+|Panda_Fortune_Cookie|151170|0.42%|
+|Maghar_Orc|151037|0.33%|
+|Panda_Mastery|151003|0.31%|
+|Panda_Crit|150986|0.30%|
+|Panda_Haste|150927|0.26%|
+|Panda_Vers|150840|0.20%|
+|Undead|150826|0.19%|
+|Zandalari_Troll_Bwonsamdi|150675|0.09%|
+|Zandalari_Troll_Kimbul|150662|0.08%|
+|Vulpera|150565|0.02%|
+|Base|150535|0.00%|
+|Lightforged_Draenei|150527|-0.01%|

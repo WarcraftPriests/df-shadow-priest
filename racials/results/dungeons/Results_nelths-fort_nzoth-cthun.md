@@ -1,0 +1,34 @@
+# nelths-fort - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|183123|1.03%|
+|Human|182926|0.93%|
+|Gnome|182812|0.86%|
+|Goblin|182708|0.81%|
+|Night_Elf_Haste|182639|0.77%|
+|Void_Elf|182494|0.69%|
+|Zandalari_Troll_Paku|182440|0.66%|
+|Nightborne|182439|0.66%|
+|Night_Elf_Crit|182419|0.65%|
+|Draenei|182395|0.63%|
+|Highmountain_Tauren|182381|0.63%|
+|Blood_Elf|182377|0.62%|
+|Kul_Tiran|182337|0.60%|
+|Tauren|182316|0.59%|
+|Troll|182276|0.57%|
+|Dwarf|182269|0.56%|
+|Worgen|182253|0.55%|
+|Orc|182207|0.53%|
+|Dark_Iron_Dwarf|182030|0.43%|
+|Maghar_Orc|181803|0.31%|
+|Panda_Fortune_Cookie|181777|0.29%|
+|Panda_Mastery|181674|0.24%|
+|Panda_Crit|181646|0.22%|
+|Panda_Haste|181578|0.18%|
+|Panda_Vers|181548|0.17%|
+|Undead|181543|0.16%|
+|Zandalari_Troll_Bwonsamdi|181524|0.15%|
+|Zandalari_Troll_Kimbul|181460|0.12%|
+|Vulpera|181303|0.03%|
+|Lightforged_Draenei|181258|0.01%|
+|Base|181248|0.00%|
