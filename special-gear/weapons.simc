@@ -23,153 +23,153 @@ trinket1=igneous_flowstone,id=203996,ilevel=447
 trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
 
 # 2h weapons
-profileset."2h_erethos_the_empty_promise_450"+=main_hand=erethos_the_empty_promise,id=202565,ilevel=450,enchant_id=6643
-profileset."2h_erethos_the_empty_promise_441"+=main_hand=erethos_the_empty_promise,id=202565,ilevel=441,enchant_id=6643
+profileset."2h_erethos_the_empty_promise_450"+=main_hand=erethos_the_empty_promise,id=202565,ilevel=450,enchant=wafting_devotion_3
+profileset."2h_erethos_the_empty_promise_441"+=main_hand=erethos_the_empty_promise,id=202565,ilevel=441,enchant=wafting_devotion_3
 
-profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=447,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=447,enchant=wafting_devotion_3
 
-profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant_id=6643
+profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant=wafting_devotion_3
 
-profileset."2h_infinite_dragonspire_441"+=main_hand=infinite_dragonspire,id=193803,ilevel=441,enchant_id=6643
-profileset."2h_infinite_dragonspire_447"+=main_hand=infinite_dragonspire,id=193803,ilevel=447,enchant_id=6643
+profileset."2h_infinite_dragonspire_441"+=main_hand=infinite_dragonspire,id=193803,ilevel=441,enchant=wafting_devotion_3
+profileset."2h_infinite_dragonspire_447"+=main_hand=infinite_dragonspire,id=193803,ilevel=447,enchant=wafting_devotion_3
 
 # 1h + OH
-profileset."1h_leaxas_thoughtpiercer_441-OH_crackling_codex_of_the_isles_447"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_crackling_codex_of_the_isles_447"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
-profileset."1h_leaxas_thoughtpiercer_447-OH_crackling_codex_of_the_isles_447"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_crackling_codex_of_the_isles_447"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
-profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
-profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
 
-profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_450"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_450"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
-profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_450"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_450"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
 
-profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
-profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
 
-profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
-profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
 
-profileset."1h_leaxas_thoughtpiercer_441-OH_rod_of_perfect_order_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_441-OH_rod_of_perfect_order_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_441-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
-profileset."1h_leaxas_thoughtpiercer_447-OH_rod_of_perfect_order_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant_id=6643
+profileset."1h_leaxas_thoughtpiercer_447-OH_rod_of_perfect_order_441"+=main_hand=leaxas_thoughtpiercer,id=159652,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_leaxas_thoughtpiercer_447-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
 
-profileset."1h_lavaflow_control_rod_441-OH_crackling_codex_of_the_isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_crackling_codex_of_the_isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
-profileset."1h_lavaflow_control_rod_447-OH_crackling_codex_of_the_isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_crackling_codex_of_the_isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
-profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
-profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
 
-profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_450"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_450"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
-profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_450"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_450"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
 
-profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
-profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
 
-profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
-profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
 
-profileset."1h_lavaflow_control_rod_441-OH_rod_of_perfect_order_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant_id=6643
+profileset."1h_lavaflow_control_rod_441-OH_rod_of_perfect_order_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_441-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
-profileset."1h_lavaflow_control_rod_447-OH_rod_of_perfect_order_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
+profileset."1h_lavaflow_control_rod_447-OH_rod_of_perfect_order_441"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_lavaflow_control_rod_447-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_crackling_codex_of_the_isles_447"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_crackling_codex_of_the_isles_447"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
-profileset."1h_zskarns_autopsy_scalpel_447-OH_crackling_codex_of_the_isles_447"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_crackling_codex_of_the_isles_447"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
-profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_450"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_450"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
-profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_450"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_450"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
-profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
-profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
 
-profileset."1h_zskarns_autopsy_scalpel_441-OH_rod_of_perfect_order_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_441-OH_rod_of_perfect_order_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_441-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
-profileset."1h_zskarns_autopsy_scalpel_447-OH_rod_of_perfect_order_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant_id=6643
+profileset."1h_zskarns_autopsy_scalpel_447-OH_rod_of_perfect_order_441"+=main_hand=zskarns_autopsy_scalpel,id=202555,ilevel=447,enchant=wafting_devotion_3
 profileset."1h_zskarns_autopsy_scalpel_447-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_crackling_codex_of_the_isles_447"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_crackling_codex_of_the_isles_447"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
-profileset."1h_bloodfire_extraction_conduit_444-OH_crackling_codex_of_the_isles_447"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_crackling_codex_of_the_isles_447"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
-profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_450"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_450"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
-profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_450"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_450"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
-profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_444"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
-profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_444"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_444"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
 
-profileset."1h_bloodfire_extraction_conduit_441-OH_rod_of_perfect_order_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_441-OH_rod_of_perfect_order_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=441,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_441-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
-profileset."1h_bloodfire_extraction_conduit_444-OH_rod_of_perfect_order_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant_id=6643
+profileset."1h_bloodfire_extraction_conduit_444-OH_rod_of_perfect_order_441"+=main_hand=bloodfire_extraction_conduit,id=204319,ilevel=444,enchant=wafting_devotion_3
 profileset."1h_bloodfire_extraction_conduit_444-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
 
-profileset."1h_torch_of_primal_awakening_447-OH_crackling_codex_of_the_isles_447"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_crackling_codex_of_the_isles_447"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_crackling_codex_of_the_isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
 
-profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_441"+=off_hand=echos_maddening_volume,id=204324,ilevel=441
 
-profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_450"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_450"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_echos_maddening_volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
 
-profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_441"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=441
 
-profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_444"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_thadrions_erratic_arcanotrode_444"+=off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=444
 
-profileset."1h_torch_of_primal_awakening_447-OH_rod_of_perfect_order_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant_id=6643,crafted_stats=49/36
+profileset."1h_torch_of_primal_awakening_447-OH_rod_of_perfect_order_441"+=main_hand=torch_of_primal_awakening,id=200642,ilevel=447,enchant=wafting_devotion_3,crafted_stats=49/36
 profileset."1h_torch_of_primal_awakening_447-OH_rod_of_perfect_order_441"+=off_hand=rod_of_perfect_order,id=193745,ilevel=441
 
 iterations=10000
