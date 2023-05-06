@@ -26,8 +26,8 @@ gear:
   finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
   finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
   trinket1: "igneous_flowstone,id=203996,ilevel=447"
-  trinket2: "neltharions_call_to_suffering,id=204211,ilevel=457"
-  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/vers
+  trinket2: "ominous_chromatic_essence,id=203729,ilevel=444"
+  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/mastery
   off_hand: ""
 sims:
   alchemy:
