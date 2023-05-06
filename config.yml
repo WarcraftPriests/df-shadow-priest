@@ -25,7 +25,7 @@ gear:
   feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
   finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
   finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
-  trinket1: "igneous_flowstone,id=203996,ilevel=447"
+  trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
   trinket2: "ominous_chromatic_essence,id=203729,ilevel=444"
   main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/mastery
   off_hand: ""

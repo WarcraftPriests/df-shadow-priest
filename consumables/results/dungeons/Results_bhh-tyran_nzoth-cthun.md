@@ -1,18 +1,18 @@
 # bhh-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|149895|0.51%|
-|Fated_Fortune_Cookie|149884|0.50%|
-|Thousandbone_Tongueslicer|149876|0.50%|
-|Great_Cerulean_Sea|149868|0.49%|
-|Sizzling_Seafood_Medley|149839|0.47%|
-|Revenge_Served_Cold|149804|0.45%|
-|Feisty_Fish_Sticks|149784|0.44%|
-|Aromatic_Seafood_Platter|149763|0.42%|
-|Seamoth_Surprise|149751|0.41%|
-|Salt_Baked_Fishcake|149749|0.41%|
-|Filet_of_Fangs|149724|0.40%|
-|Timely_Demise|149644|0.34%|
-|Roast_Duck_Delight|149468|0.22%|
-|Thrice_Spiced_Mammoth_Kabob|149364|0.15%|
-|Base|149133|0.00%|
+|Draconic_Augment_Rune|142918|0.50%|
+|Thousandbone_Tongueslicer|142820|0.43%|
+|Great_Cerulean_Sea|142807|0.42%|
+|Revenge_Served_Cold|142807|0.42%|
+|Fated_Fortune_Cookie|142804|0.42%|
+|Sizzling_Seafood_Medley|142729|0.37%|
+|Salt_Baked_Fishcake|142698|0.34%|
+|Aromatic_Seafood_Platter|142676|0.33%|
+|Feisty_Fish_Sticks|142654|0.31%|
+|Seamoth_Surprise|142627|0.29%|
+|Timely_Demise|142619|0.29%|
+|Filet_of_Fangs|142618|0.29%|
+|Roast_Duck_Delight|142430|0.16%|
+|Thrice_Spiced_Mammoth_Kabob|142354|0.10%|
+|Base|142209|0.00%|

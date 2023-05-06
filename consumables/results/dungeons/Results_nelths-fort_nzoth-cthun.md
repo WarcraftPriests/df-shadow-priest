@@ -1,18 +1,18 @@
 # nelths-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sizzling_Seafood_Medley|180813|0.35%|
-|Draconic_Augment_Rune|180803|0.35%|
-|Thousandbone_Tongueslicer|180743|0.31%|
-|Great_Cerulean_Sea|180685|0.28%|
-|Revenge_Served_Cold|180676|0.28%|
-|Feisty_Fish_Sticks|180669|0.27%|
-|Aromatic_Seafood_Platter|180660|0.27%|
-|Salt_Baked_Fishcake|180643|0.26%|
-|Fated_Fortune_Cookie|180634|0.25%|
-|Filet_of_Fangs|180630|0.25%|
-|Timely_Demise|180615|0.24%|
-|Seamoth_Surprise|180541|0.20%|
-|Roast_Duck_Delight|180420|0.13%|
-|Thrice_Spiced_Mammoth_Kabob|180385|0.11%|
-|Base|180178|0.00%|
+|Revenge_Served_Cold|173624|0.30%|
+|Great_Cerulean_Sea|173582|0.27%|
+|Salt_Baked_Fishcake|173578|0.27%|
+|Thousandbone_Tongueslicer|173577|0.27%|
+|Draconic_Augment_Rune|173542|0.25%|
+|Fated_Fortune_Cookie|173531|0.24%|
+|Feisty_Fish_Sticks|173504|0.23%|
+|Sizzling_Seafood_Medley|173495|0.22%|
+|Aromatic_Seafood_Platter|173494|0.22%|
+|Filet_of_Fangs|173491|0.22%|
+|Timely_Demise|173456|0.20%|
+|Seamoth_Surprise|173427|0.18%|
+|Roast_Duck_Delight|173289|0.10%|
+|Thrice_Spiced_Mammoth_Kabob|173286|0.10%|
+|Base|173110|0.00%|
