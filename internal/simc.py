@@ -14,6 +14,7 @@ def sim_local(simc_path, profile_location, output_location, iterations):
                 [
                     simc_path,
                     f"json2={output_location}",
+                    f"iterations={iterations}",
                     profile_location
                 ], stdout=file, stderr=file)
         except Exception as ex:
