@@ -41,15 +41,19 @@ def generate_args(sim_dir, sim_type, script, args):
     arguments = ["python", script, sim_dir]
 
     if sim_type == "dungeons":
+        print("Running Dungeon Sim...")
         arguments.append("--dungeons")
 
     if args.ptr:
+        print("Running sims with PTR data...")
         arguments.append("--ptr")
 
     if args.apl:
+        print("Running sims with custom APL...")
         arguments.append("--apl")
 
     if args.local:
+        print("Running Locally...")
         arguments.append("--local")
 
     if args.local:
