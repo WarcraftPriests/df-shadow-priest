@@ -25,7 +25,7 @@ def get_simc_dir(talent, folder_name):
 
 
 def generate_parser(description):
-    """creates the shared argparser for sim.pu and profiles.py"""
+    """creates the shared argparser for sim.py and profiles.py"""
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('dir', help='Directory to generate profiles for.')
     parser.add_argument(
@@ -36,6 +36,14 @@ def generate_parser(description):
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
     parser.add_argument(
         '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
+    parser.add_argument(
+        '--iterations', help='Pass through specific iterations to run on. Default is 10000')
+    parser.add_argument(
+        '--local', help='indicate if the simulation should run local.', action='store_true')
+    parser.add_argument(
+        '--auto_download', help='indicate if we should automatically download latest simc.',
+        action='store_true'
+    )
     return parser
 
 
