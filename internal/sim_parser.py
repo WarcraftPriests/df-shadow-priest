@@ -9,7 +9,7 @@ def parse(filename, weights):
     """parse the given sim file"""
     separator = ','
     ret = ''
-    with open(filename, "r") as file:
+    with open(filename, "r", encoding="utf-8") as file:
         data = file.read()
         sim = json.loads(data)
         print("Parsing: " + filename)

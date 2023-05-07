@@ -89,9 +89,11 @@ def main():
     parser.add_argument(
         '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
     parser.add_argument(
-        '--local', help='indicate if the sim should run locally (not recommended)', action='store_true')
+        '--local', help='indicate if the sim should run locally (not recommended)', 
+        action='store_true')
     parser.add_argument(
-        '--auto_download', help='if local enabled will grab the latest simc package', action='store_true')
+        '--auto_download', help='if local enabled will grab the latest simc package', 
+        action='store_true')
     args = parser.parse_args()
 
     if args.fresh or not os.path.exists(output_file):
