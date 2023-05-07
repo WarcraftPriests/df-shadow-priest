@@ -3,7 +3,7 @@ import subprocess
 import os
 import time
 
-def sim_local(simc_path, profile_location, output_location):
+def sim_local(simc_path, profile_location, output_location, iterations):
     # pylint: disable=bare-except
     """sim against a local simc instance"""
     location_list = output_location.split("/")
@@ -27,4 +27,4 @@ def sim_local(simc_path, profile_location, output_location):
 def raidbots(simc_path, profile_location, simc_build, output_location, report_name, iterations):
     # pylint: disable=unused-argument, too-many-arguments
     """just pass through to sim_local"""
-    sim_local(simc_path, profile_location, output_location)
+    sim_local(simc_path, profile_location, output_location, iterations)
