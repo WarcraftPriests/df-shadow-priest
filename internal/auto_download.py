@@ -94,7 +94,7 @@ def _rename_directory(glob_path, commit):
 def _ensure_download_path():
     'Create and return the auto_download path'
     rootpath = os.path.dirname(os.path.realpath(__file__))
-    download_dir = os.path.join(rootpath, "..", "auto_download")
+    download_dir = os.path.join(rootpath, "auto_download")
     if not os.path.exists(download_dir):
         os.makedirs(download_dir)
     return download_dir
@@ -117,7 +117,7 @@ def _download_simc_version(url, filepath):
     'Download the specific file'
     print(f"Retrieving simc from url '{url}' to '{filepath}'.")
     with requests.get(url, timeout=10, stream=True) as req:
-        with open(filepath, 'wb', encoding="utf8") as handler:
+        with open(filepath, 'wb') as handler:
             shutil.copyfileobj(req.raw, handler)
 
 
@@ -129,10 +129,6 @@ def _unpack_file(seven_zip_executable, filepath, download_dir):
         subprocess.call(cmd)
 
         time.sleep(1)
-
-        # Nightly builds include their commit hash, we need to strip that out.
-        commit = filepath[: filepath.find(".7z")].rsplit("-")[-1]
-        _rename_directory(f"{download_dir}/simc-*-win64/", commit)
 
     except OSError as error:
         print(f"Exception when unpacking: {error}")
