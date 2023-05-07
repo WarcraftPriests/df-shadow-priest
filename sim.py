@@ -141,14 +141,6 @@ def main():
     # pylint: disable=import-outside-toplevel,too-many-branches,unsupported-assignment-operation,duplicate-code
     """main function, runs and parses sims"""
     parser = utils.generate_parser("Parses a list of reports from Raidbots.")
-    parser.add_argument(
-        '--iterations', help='Pass through specific iterations to run on. Default is 10000')
-    parser.add_argument(
-        '--local', help='indicate if the simulation should run local.', action='store_true')
-    parser.add_argument(
-        '--auto_download', help='indicate if we should automatically download latest simc.',
-        action='store_true'
-    )
     args = parser.parse_args()
 
     sys.path.insert(0, args.dir)
