@@ -1,4 +1,4 @@
-# Dungeons - yogg-cthun
+# freehold-fort - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|142345|1.00|0.58|0.57|0.58|0.52|0.13|
+|Base|158340|1.00|0.50|0.57|0.57|0.53|0.10|

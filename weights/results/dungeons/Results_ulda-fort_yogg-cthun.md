@@ -1,4 +1,4 @@
-# Dungeons - yogg-cthun
+# ulda-fort - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|142345|1.00|0.58|0.57|0.58|0.52|0.13|
+|Base|143925|1.00|0.71|0.73|0.75|0.68|0.24|

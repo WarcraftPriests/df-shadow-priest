@@ -1,4 +1,4 @@
-# Dungeons - yogg-cthun
+# ulda-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|142345|1.00|0.58|0.57|0.58|0.52|0.13|
+|Base|127698|1.00|0.44|0.51|0.52|0.47|0.12|

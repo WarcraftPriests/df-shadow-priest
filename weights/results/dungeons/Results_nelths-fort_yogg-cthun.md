@@ -1,4 +1,4 @@
-# Dungeons - yogg-cthun
+# nelths-fort - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|142345|1.00|0.58|0.57|0.58|0.52|0.13|
+|Base|183424|1.00|0.45|0.44|0.47|0.41|0.08|

@@ -1,4 +1,4 @@
-# Dungeons - yogg-cthun
+# vtp-fort - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|142345|1.00|0.58|0.57|0.58|0.52|0.13|
+|Base|137681|1.00|0.46|0.55|0.54|0.50|0.10|
