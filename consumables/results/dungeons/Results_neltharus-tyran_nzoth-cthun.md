@@ -1,18 +1,18 @@
 # neltharus-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|148274|0.54%|
-|Fated_Fortune_Cookie|148098|0.42%|
-|Thousandbone_Tongueslicer|148083|0.41%|
-|Great_Cerulean_Sea|148081|0.41%|
-|Filet_of_Fangs|148063|0.39%|
-|Revenge_Served_Cold|148061|0.39%|
-|Feisty_Fish_Sticks|148051|0.39%|
-|Sizzling_Seafood_Medley|148038|0.38%|
-|Aromatic_Seafood_Platter|147948|0.32%|
-|Seamoth_Surprise|147935|0.31%|
-|Timely_Demise|147906|0.29%|
-|Salt_Baked_Fishcake|147904|0.29%|
-|Roast_Duck_Delight|147778|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|147611|0.09%|
-|Base|147483|0.00%|
+|Draconic_Augment_Rune|148202|0.46%|
+|Revenge_Served_Cold|148193|0.45%|
+|Thousandbone_Tongueslicer|148124|0.40%|
+|Fated_Fortune_Cookie|148120|0.40%|
+|Great_Cerulean_Sea|148057|0.36%|
+|Filet_of_Fangs|148014|0.33%|
+|Sizzling_Seafood_Medley|148005|0.32%|
+|Salt_Baked_Fishcake|148004|0.32%|
+|Feisty_Fish_Sticks|148002|0.32%|
+|Aromatic_Seafood_Platter|147982|0.31%|
+|Seamoth_Surprise|147965|0.29%|
+|Timely_Demise|147907|0.26%|
+|Roast_Duck_Delight|147723|0.13%|
+|Thrice_Spiced_Mammoth_Kabob|147681|0.10%|
+|Base|147530|0.00%|

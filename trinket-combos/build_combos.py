@@ -8,7 +8,7 @@ from itertools import combinations
 
 combos = {
     # s2 dungeons (441/447)
-    # "Idol_of_Pure_Decay_441": "idol_of_pure_decay,id=193660,ilevel=441",
+    "Idol_of_Pure_Decay_441": "idol_of_pure_decay,id=193660,ilevel=441",
     "Idol_of_Pure_Decay_447": "idol_of_pure_decay,id=193660,ilevel=447",
     # "Irideus_Fragment_441": "irideus_fragment,id=193743,ilevel=441",
     "Irideus_Fragment_447": "irideus_fragment,id=193743,ilevel=447",
@@ -16,38 +16,30 @@ combos = {
     "Erupting_Spear_Fragment_447": "erupting_spear_fragment,id=193769,ilevel=447",
     "Spoils_of_Neltharus_441": "spoils_of_neltharus,id=193773,ilevel=441",
     "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
-    # "Time_Breaching_Talon_441": "time_breaching_talon,id=193791,ilevel=441", # underperformed
-    "Time_Breaching_Talon_447": "time_breaching_talon,id=193791,ilevel=447",
-    # "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441", # underperformed
-    # "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447", # underperformed
-    # "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
+    # "Time_Breaching_Talon_447": "time_breaching_talon,id=193791,ilevel=447",
+    "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441",
+    "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447",
+    "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
     "Rotcrusted_Voodoo_Doll_447": "rotcrusted_voodoo_doll,id=159624,ilevel=447",
     # aberrus the shadowed crucible
     "Screaming_Black_Dragonscale_441": "screaming_black_dragonscale,id=202612,ilevel=441",
     "Screaming_Black_Dragonscale_447": "screaming_black_dragonscale,id=202612,ilevel=447",
-    # "Vessel_of_Searing_Shadow_437": "vessel_of_searing_shadow,id=202615,ilevel=437", # underperformed
     "Vessel_of_Searing_Shadow_441": "vessel_of_searing_shadow,id=202615,ilevel=441",
-    "Ominous_Chromatic_Essence_Obsidian_441": "ominous_chromatic_essence,id=203729,ilevel=441",
-    "Ominous_Chromatic_Essence_Obsidian_444": "ominous_chromatic_essence,id=203729,ilevel=444",
-    "Ominous_Chromatic_Essence_Ruby_441": "ominous_chromatic_essence,id=203729,ilevel=441",
-    "Ominous_Chromatic_Essence_Ruby_444": "ominous_chromatic_essence,id=203729,ilevel=444",
     "Ominous_Chromatic_Essence_Bronze_441": "ominous_chromatic_essence,id=203729,ilevel=441",
     "Ominous_Chromatic_Essence_Bronze_444": "ominous_chromatic_essence,id=203729,ilevel=444",
     "Ominous_Chromatic_Essence_Azure_441": "ominous_chromatic_essence,id=203729,ilevel=441",
     "Ominous_Chromatic_Essence_Azure_444": "ominous_chromatic_essence,id=203729,ilevel=444",
     "Ominous_Chromatic_Essence_Emerald_441": "ominous_chromatic_essence,id=203729,ilevel=441",
     "Ominous_Chromatic_Essence_Emerald_444": "ominous_chromatic_essence,id=203729,ilevel=444",
-    # "Igneous_Flowstone_437": "igneous_flowstone,id=203996,ilevel=437", # NYI?
-    "Igneous_Flowstone_447": "igneous_flowstone,id=203996,ilevel=447",  # NYI?
+    "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441",
+    "Igneous_Flowstone_447": "igneous_flowstone,id=203996,ilevel=447",
     "Neltharions_Call_to_Suffering_444": "neltharions_call_to_suffering,id=204211,ilevel=444",
     "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",
-    # "Beacon_to_the_Beyond_437": "beacon_to_the_beyond,id=203963,ilevel=437", # underperformed
     "Beacon_to_the_Beyond_450": "beacon_to_the_beyond,id=203963,ilevel=450",
     # s1 dungeons (415/421)
-    "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
-    "Furious_Ragefeather_421": "furious_ragefeather,id=193677,ilevel=421",
+    # "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
     # vault of the incarnates
-    "Whispering_Incarnate_Icon_0_421": "whispering_incarnate_icon,id=194301,ilevel=421",
+    # "Whispering_Incarnate_Icon_0_421": "whispering_incarnate_icon,id=194301,ilevel=421",
 }
 
 
