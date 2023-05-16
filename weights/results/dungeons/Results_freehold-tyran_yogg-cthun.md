@@ -1,4 +1,4 @@
 # freehold-tyran - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|152675|1.00|0.58|0.61|0.61|0.56|0.08|
+|Base|153442|1.00|0.58|0.60|0.63|0.56|0.08|
