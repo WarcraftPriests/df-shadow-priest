@@ -1,4 +1,4 @@
-# !TrvtpUniq0FrRQXyaZ1DRw1Cjnsev1tO8fS1TU2vo40TxYV9YmGTH4vcLaZWmV3BMXOj69A1LgRT58yR7F6TLfA1yZfTAOBZxOn72)9xg0QZ9T9d7o2ACoZMoBpe1Xrx)lG9MU30p)WDU8UEBL2Pv3o2oAGRFECyW052n22Q3sKZguJNAn3mGrpOnw3xT2Rg3vFmBb258)vG)7MJ5ZJDVz67quecTYzm)gyXjT6QP1C2103fIhqYh3F8OoNXTKQOtoMDs8unEIfprr8anPvwl1yTG7sukbRGnPjjec43VaQ6JFFw8utcWSmG5yCIqCvziibCxUzfgx18jioAiowgE2tz4H0YVjvGvzCGMYDoAKmt2LGlNLQlRo4rZbsixZy1HgBILzCjY66hQNOA5jG4VJmlRsuzIPRueRDGaQXsIezSx6qD1Jo40do4LeZioqTal2CrywKlhZOaZy9etd03Lu4i58qovfqBH(kHnx2xQzhjynBPdf7(KYhkHPml0JQWntT)e8MAYG7kCXWffvdpcavVEc(Hc(ePw3QNgKRs8TLLrVPCWsZrz24syOM(r5imsZI5GRxptNpgryjvJGIjOyHDcukqJpoTrePKAQrVAsEwE0uQXt)cHuRxpQp)XrKB0SziapzyOSaTYZNjL6p4tHISod(gOZ8U)3V1p43C)Wt3pO(Xq)4L7h(09dB6U1CvR6p9t)JGZp4P6G3NVeo(ADTKxWesMSOGrleA7tvyP41NyLLsovqevswHGraxjJBpdAqTcUiV(RX8Rar1))p
+# !TrvuVXjpqWFrjfBJpGx7xFjsn8fjUMhTG7otcnuCeystEHF7D31gd(s0jXzS9U7mZolkM6OQYC636Z2jyzj9(G67QQlUxl5C2TImwwEsMilNdBOkVripCBctiL5jjjfPQsbD3uiWsPQ6(Mx0l1tZJWtRbwzNhwQRSnJtl16MX(pwQpPBn05pRH3o3axy61rDZfLL(v9xT(fSAvnxUygEupo1zgGAKiyqjM7Uaa)EZ9tv6F9tBVQ6SP3m(qtV2A13n0AqM0mBn)hUF3WtiPIUZL3redvYQFhE(OzewSuFdG0NhnZxwQ)2s9DdV1nbQrxBB355E7hOIOQERPFwJv4884OEW(WCFpibjHnQMp1RFtJBQQg7AT)FB7KEtKTi1O)GGo6ySp0Fmp8K2mq4lldHN(pi(pPQM09qNc1bxZbIfI7vO4HexYs9hEGYjYyvvBRq32cBl9hkOgj335qyW8NKtGHq3wUK7YfMPc9UioqjkZfNikUuFnIrIaIUWZEw4Mu4PrH7GilQ4fXejnklR0IYL7kSafwZvjJVQFraR9eamlYNJrKfHlt4XlpcAcxLYOnp8LzfrmENC80STgNtZqeNt6ubbrG6OEcLdpeQgEkJDL8dkG1jHU0YCC2TtGRXgGcp7i)2wYC(IIqZFxR0lDSymxSryIZKQkP7ljnAn3nmV0T2nxtRxcpUAx8TDFA9s1o2SAIcFLHi7vwBRVhDTlnlQFjxZtQtEc1OWXJepet3LPvh7(27kBlz72SmE4IPc(z1x5HTQGLzxlugrAP6tgu)e2goiggBlzYDIvQZyDGmwsNVkLA1chV99wgEaUgDCyEsijf)Ehfap1LywHlBCXvUsV)kFpNCsr6EMDimJguNR)aHBIHvCLrjisXFEHR(00rOyrgAEsKu5aIthe8DdHchkrrbNqtwhcXJ97JceUdx6xl8ILxDZCAfp3RvfQVAwKZuFEwKgq3AWUFQ)b
 fight_style=DungeonRoute
 override.windfury_totem=0
 override.arcane_intellect=0
@@ -9,28 +9,30 @@ override.mystic_touch=0
 override.chaos_brand=0
 override.bleeding=0
 single_actor_batch=1
-max_time=2700
-enemy="The Vortex Pinnacle 20 Fortified"
+max_time=1800
+enemy="The Vortex Pinnacle 22 Fortified"
 enemy_health=999999
-keystone_level=20
+keystone_level=22
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=007,mark_duration=0,enemies="Gust_Soldier_1":1036302:Elemental|"Wild_Vortex_1":993657:Elemental|"Armored_Mistral_1":1977921:Elemental
-raid_events+=/pull,pull=02,bloodlust=0,delay=012,mark_duration=0,enemies="Armored_Mistral_1":1977921:Elemental|"Armored_Mistral_2":1977921:Elemental
-raid_events+=/pull,pull=03,bloodlust=0,delay=009,mark_duration=0,enemies="Gust_Soldier_1":1036302:Elemental|"Wild_Vortex_1":993657:Elemental|"Wild_Vortex_2":993657:Elemental
-raid_events+=/pull,pull=04,bloodlust=0,delay=006,mark_duration=0,enemies="Wild_Vortex_1":993657:Elemental|"Gust_Soldier_1":1036302:Elemental|"Gust_Soldier_2":1036302:Elemental
-raid_events+=/pull,pull=05,bloodlust=0,delay=014,mark_duration=0,enemies="Gust_Soldier_1":1036302:Elemental|"Gust_Soldier_2":1036302:Elemental|"Armored_Mistral_1":1977921:Elemental|"Wild_Vortex_1":993657:Elemental|"Wild_Vortex_2":993657:Elemental
-raid_events+=/pull,pull=06,bloodlust=0,delay=012,mark_duration=0,enemies="Wild_Vortex_1":993657:Elemental|"Wild_Vortex_2":993657:Elemental|"Cloud_Prince_1":1764271:Elemental
-raid_events+=/pull,pull=07,bloodlust=0,delay=005,mark_duration=0,enemies="Cloud_Prince_1":1764271:Elemental|"Cloud_Prince_2":1764271:Elemental
-raid_events+=/pull,pull=08,bloodlust=0,delay=005,mark_duration=0,enemies="BOSS_Grand_Vizier_Ertan":6424012:Elemental
-raid_events+=/pull,pull=09,bloodlust=0,delay=009,mark_duration=0,enemies="Turbulent_Squall_1":1089422:Elemental|"Turbulent_Squall_2":1089422:Elemental|"Turbulent_Squall_3":1089422:Elemental|"Turbulent_Squall_4":1089422:Elemental|"Turbulent_Squall_5":1089422:Elemental|"Turbulent_Squall_6":1089422:Elemental|"Turbulent_Squall_7":1089422:Elemental|"Turbulent_Squall_8":1089422:Elemental
-raid_events+=/pull,pull=10,bloodlust=0,delay=012,mark_duration=0,enemies="Empyrean_Assassin_1":954192:Elemental|"Empyrean_Assassin_2":954192:Elemental|"Empyrean_Assassin_3":954192:Elemental|"Empyrean_Assassin_4":954192:Elemental|"Young_Storm_Dragon_1":2626791:Dragonkin
-raid_events+=/pull,pull=11,bloodlust=0,delay=005,mark_duration=0,enemies="Wild_Vortex_1":993657:Elemental|"Wild_Vortex_2":993657:Elemental|"Turbulent_Squall_1":1089422:Elemental|"Turbulent_Squall_2":1089422:Elemental|"Gust_Soldier_1":1036302:Elemental
-raid_events+=/pull,pull=12,bloodlust=0,delay=008,mark_duration=0,enemies="Empyrean_Assassin_1":954192:Elemental|"Empyrean_Assassin_2":954192:Elemental|"Empyrean_Assassin_3":954192:Elemental|"Empyrean_Assassin_4":954192:Elemental|"Turbulent_Squall_1":1089422:Elemental|"Turbulent_Squall_2":1089422:Elemental|"Turbulent_Squall_3":1089422:Elemental|"Turbulent_Squall_4":1089422:Elemental|"Turbulent_Squall_5":1089422:Elemental|"Turbulent_Squall_6":1089422:Elemental
-raid_events+=/pull,pull=13,bloodlust=0,delay=008,mark_duration=0,enemies="BOSS_Altairus":7376251:Dragonkin
-raid_events+=/pull,pull=14,bloodlust=0,delay=014,mark_duration=0,enemies="Temple_Adept_1":1110624:Humanoid|"Executor_of_the_Caliph_1":1777926:Humanoid|"Servant_of_Asaad_1":1089212:Humanoid|"Servant_of_Asaad_2":1089212:Humanoid
-raid_events+=/pull,pull=15,bloodlust=0,delay=008,mark_duration=0,enemies="Temple_Adept_1":1110624:Humanoid|"Minister_of_Air_1":1101381:Humanoid|"Servant_of_Asaad_1":1089212:Humanoid|"Servant_of_Asaad_2":1089212:Humanoid
-raid_events+=/pull,pull=16,bloodlust=0,delay=014,mark_duration=0,enemies="Skyfall_Star_1":220866:Elemental|"Skyfall_Star_2":220866:Elemental|"Skyfall_Star_3":220866:Elemental|"Skyfall_Star_4":220866:Elemental|"Skyfall_Star_5":220866:Elemental|"Skyfall_Star_6":220866:Elemental|"Skyfall_Star_7":220866:Elemental|"Skyfall_Star_8":220866:Elemental
-raid_events+=/pull,pull=17,bloodlust=0,delay=012,mark_duration=0,enemies="Temple_Adept_1":1110624:Humanoid|"Temple_Adept_2":1110624:Humanoid|"Executor_of_the_Caliph_1":1777926:Humanoid|"Servant_of_Asaad_1":1089212:Humanoid|"Servant_of_Asaad_2":1089212:Humanoid
-raid_events+=/pull,pull=18,bloodlust=0,delay=010,mark_duration=0,enemies="Skyfall_Star_1":220866:Elemental|"Skyfall_Star_2":220866:Elemental|"Skyfall_Star_3":220866:Elemental|"Skyfall_Star_4":220866:Elemental|"Skyfall_Star_5":220866:Elemental|"Skyfall_Star_6":220866:Elemental|"Skyfall_Star_7":220866:Elemental|"Skyfall_Star_8":220866:Elemental
-raid_events+=/pull,pull=19,bloodlust=0,delay=007,mark_duration=0,enemies="BOSS_Asaad":7418512:Elemental
+raid_events+=/pull,pull=01,bloodlust=0,delay=015,enemies="Gust_Soldier_1":1860038:Elemental|"Armored_Mistral_1":3348067:Elemental|"Armored_Mistral_2":3348067:Elemental|"Armored_Mistral_3":3348067:Elemental|"Wild_Vortex_1":1674034:Elemental
+raid_events+=/pull,pull=02,bloodlust=0,delay=008,enemies="Gust_Soldier_1":1860038:Elemental|"Wild_Vortex_1":1674034:Elemental|"Wild_Vortex_2":1674034:Elemental
+raid_events+=/pull,pull=03,bloodlust=0,delay=010,enemies="Gust_Soldier_1":1860038:Elemental|"Gust_Soldier_2":1860038:Elemental|"Wild_Vortex_1":1674034:Elemental
+raid_events+=/pull,pull=04,bloodlust=0,delay=013,enemies="Gust_Soldier_1":1860038:Elemental|"Gust_Soldier_2":1860038:Elemental|"Armored_Mistral_1":3348067:Elemental|"Wild_Vortex_1":1674034:Elemental|"Wild_Vortex_2":1674034:Elemental
+raid_events+=/pull,pull=05,bloodlust=0,delay=009,enemies="Wild_Vortex_1":1674034:Elemental|"Wild_Vortex_2":1674034:Elemental|"Cloud_Prince_1":2976059:Elemental
+raid_events+=/pull,pull=06,bloodlust=0,delay=007,enemies="Cloud_Prince_1":2976059:Elemental|"Cloud_Prince_2":2976059:Elemental
+raid_events+=/pull,pull=07,bloodlust=0,delay=012,enemies="BOSS_Grand_Vizier_Ertan":10849184:Elemental
+raid_events+=/pull,pull=08,bloodlust=0,delay=015,enemies="Turbulent_Squall_1":1673394:Elemental|"Turbulent_Squall_2":1673394:Elemental|"Turbulent_Squall_3":1673394:Elemental|"Turbulent_Squall_4":1673394:Elemental|"Turbulent_Squall_5":1673394:Elemental|"Turbulent_Squall_6":1673394:Elemental|"Turbulent_Squall_7":1673394:Elemental|"Turbulent_Squall_8":1673394:Elemental
+raid_events+=/pull,pull=09,bloodlust=0,delay=006,enemies="Young_Storm_Dragon_1":4464090:Dragonkin|"Empyrean_Assassin_1":1860038:Elemental|"Empyrean_Assassin_2":1860038:Elemental
+raid_events+=/pull,pull=10,bloodlust=0,delay=015,enemies="Empyrean_Assassin_1":1860038:Elemental|"Empyrean_Assassin_2":1860038:Elemental
+raid_events+=/pull,pull=11,bloodlust=0,delay=013,enemies="Wild_Vortex_1":1674034:Elemental|"Wild_Vortex_2":1674034:Elemental|"Turbulent_Squall_1":1673394:Elemental|"Turbulent_Squall_2":1673394:Elemental|"Gust_Soldier_1":1860038:Elemental
+raid_events+=/pull,pull=12,bloodlust=0,delay=007,enemies="Empyrean_Assassin_1":1860038:Elemental|"Empyrean_Assassin_2":1860038:Elemental|"Empyrean_Assassin_3":1860038:Elemental|"Empyrean_Assassin_4":1860038:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=013,enemies="Turbulent_Squall_1":1673394:Elemental|"Turbulent_Squall_2":1673394:Elemental|"Turbulent_Squall_3":1673394:Elemental|"Turbulent_Squall_4":1673394:Elemental|"Empyrean_Assassin_1":1860038:Elemental|"Empyrean_Assassin_2":1860038:Elemental
+raid_events+=/pull,pull=14,bloodlust=0,delay=009,enemies="BOSS_Altairus":13948950:Dragonkin
+raid_events+=/pull,pull=15,bloodlust=0,delay=012,enemies="Temple_Adept_1":1488029:Humanoid|"Servant_of_Asaad_1":2232044:Humanoid|"Servant_of_Asaad_2":2232044:Humanoid|"Executor_of_the_Caliph_1":2976059:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=009,enemies="Temple_Adept_1":1488029:Humanoid|"Servant_of_Asaad_1":2232044:Humanoid|"Servant_of_Asaad_2":2232044:Humanoid|"Minister_of_Air_1":4092082:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=015,enemies="Skyfall_Star_1":186005:Elemental|"Skyfall_Star_2":186005:Elemental|"Skyfall_Star_3":186005:Elemental|"Skyfall_Star_4":186005:Elemental|"Skyfall_Star_5":186005:Elemental|"Skyfall_Star_6":186005:Elemental|"Skyfall_Star_7":186005:Elemental|"Skyfall_Star_8":186005:Elemental|"Skyfall_Star_9":186005:Elemental|"Skyfall_Star_10":186005:Elemental|"Skyfall_Star_11":186005:Elemental|"Skyfall_Star_12":186005:Elemental|"Skyfall_Star_13":186005:Elemental|"Skyfall_Star_14":186005:Elemental|"Skyfall_Star_15":186005:Elemental|"Skyfall_Star_16":186005:Elemental
+raid_events+=/pull,pull=18,bloodlust=0,delay=010,enemies="Temple_Adept_1":1488029:Humanoid|"Temple_Adept_2":1488029:Humanoid|"Servant_of_Asaad_1":2232044:Humanoid|"Servant_of_Asaad_2":2232044:Humanoid|"Executor_of_the_Caliph_1":2976059:Humanoid
+raid_events+=/pull,pull=19,bloodlust=0,delay=014,enemies="Minister_of_Air_1":4092082:Humanoid|"Executor_of_the_Caliph_1":2976059:Humanoid|"Executor_of_the_Caliph_2":2976059:Humanoid|"Servant_of_Asaad_1":2232044:Humanoid|"Servant_of_Asaad_2":2232044:Humanoid
+raid_events+=/pull,pull=20,bloodlust=0,delay=015,enemies="Skyfall_Star_1":186005:Elemental|"Skyfall_Star_2":186005:Elemental|"Skyfall_Star_3":186005:Elemental|"Skyfall_Star_4":186005:Elemental|"Skyfall_Star_5":186005:Elemental|"Skyfall_Star_6":186005:Elemental|"Skyfall_Star_7":186005:Elemental|"Skyfall_Star_8":186005:Elemental|"Skyfall_Star_9":186005:Elemental|"Skyfall_Star_10":186005:Elemental|"Skyfall_Star_11":186005:Elemental|"Skyfall_Star_12":186005:Elemental|"Skyfall_Star_13":186005:Elemental|"Skyfall_Star_14":186005:Elemental|"Skyfall_Star_15":186005:Elemental|"Skyfall_Star_16":186005:Elemental
+raid_events+=/pull,pull=21,bloodlust=0,delay=009,enemies="BOSS_Asaad":12399067:Elemental

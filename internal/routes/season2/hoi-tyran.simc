@@ -1,4 +1,4 @@
-# !TvvxVXniqWFrrXagW(10QOMwj3i588Q7liXnU2r3HVM(Y9BVSSGpJVkDNXEzzMHDhSbg8c0oU7xM9Ut(BBcpFGU7rTOuRKf8cLKlzmfyVRSeA4WJ3PlesrLuvPlL6kEboLeAe46AkHhGgj02(2XXPd3)0W5UtGdAh8XD4ntDhG23)(hIhE5h7RvkpLDwB3(PE3F94xaTN32pzqTSF64rZG75P(E)mS5aTt76nNnyqO9d)SZYpDb)XXFo8YYqcmKyvwO2lXjk9t4hu0GMgQOH6Wq7(X(XJqR1kmw7c8JiYwsPkJSIedPPsyHivBs5UKbH56kQckvheBDOwMMkIpTvyILkqNPaA)Y4zCxh3hYmUT7qULZfkxQUqxcD656P(gccUbrQ6rYpFdJWtL0ial331XjXfkxYG3FeyqrmOdYGvHzHoeV4A4uvIxsLmjIudxfAanCnPswzSGvf0zdxeJ5ZLjd)DZQpTfQjUlsUH)xFKQL1z7N6qTunVcef6aJEjuPgCGyplVeK61gqkg90vstgXqYPWBzujMXZBHHNxzIXkqS8gsrMrAY)jIaq5wMLJk7j5c0U1Jhw6Atol)iPidv(CSROlMDHlzua34SVkvcMYmOlJGQGBn)m9Qs3sxAYcplKGnLvb5hocU0cYLsM0SAA0Lfw2A))8MkPX6v0N15uz0NExqE3jYgVyUcMwJ7g3kR(MgmTywMki)dViRs5MFt9xNgE1mo80Hp9BJAO1zm)UB4vyh0EY07)Wt34qQ7em1h7SUFATNmXpjve51HR9t)1VT1)6(lBgTx280GD6KhGlBU7Yg67nx2Cpgh)MdPXN32BCoJp1ru3BNCJFbJJI4Hv5eejY0FmM3b6Co8V
+# !1vvWYTjmq0VOMbHaS4ABp0otljZGNCudyJWMgc4beXj9aF7vRwjHKD6yhaj29TV9Tp5Wj898YXd)rCuoRESqVEG)vEzdUSGKf)qE(owcJqJsP8IyEXxi5jpeZOrXmglMMXlO6ytujwKYl)D9hheRvYPUl9Q7xw67xRU2jpVw1VmlxRQv)nlRNu3KJQhFP7I664Rc55UHtRvI(zi)ZJlNu5018YA15XRQl1tnW(q(x7aupi4s9NYRcXlalkRBAghEwmn3noO4ueLOO0sxdV80J)61ws7F7EoIxECSFC6P6EHuk(5q7i051lYXVb7RybicbX08o0HQkjfVRU(J6((51QX21kv6l6Qv20122DCPx(HsOI5LVv3ViaKpUmnjgKpPKc1BiUnkxo0lEtaBYlNf9QbbaeQ9Q4KUi)(YWjX4asJCGfIxbAEGxccSB8zVOba(kHl4w44dqv94EZmdJchHsyJ96QcToVSTLkAB9WWGncEIp4z(WsISyHVYrLmn8f7WBm8wEqnHkMlCOzbHPbzNMP53qrQWRCggGTfH6ZXDbCeBcsCqTZn9BAaybDklaLeV6KS1(6njb8S9aYZSaO3HHAofLgad9Zyi0Wwn0sZcYnkckGG(AlNzutDP6va0BqIXGyaSAgLH8t9LWWjqei(GZe7rtYXjy2XPgmZmcZoDlPFgWlMIasYreX2L5PR(TPAqySggpIlYCK2rEQjq5ynJPM5CEG7J5EXMmLBgikG2RBKnT0UxOYcon0EOd2UDnrptajylhPBTDCQLEI14Opoq(FZptv0bBoS4I9w7qUWRii5Z8xXSAOoOBo3SfB8M)WrsIBVncS9th(KIYV7u0gPqOtcOwIbuC9UpvhSNymVoXnQ95yk)UthG5k00R93r61wVcwEmWupsD)XisUNUzDMU6N5Hd397oHZHuSAXrof0MZD(rSAHJsmzsal0EelICJLtH2uxR8X22zX2)s3ANLMp8)n
 fight_style=DungeonRoute
 override.windfury_totem=0
 override.arcane_intellect=0
@@ -9,30 +9,30 @@ override.mystic_touch=0
 override.chaos_brand=0
 override.bleeding=0
 single_actor_batch=1
-max_time=2700
-enemy="Halls of Infusion 20 Tyrannical"
+max_time=2100
+enemy="Halls of Infusion 22 Tyrannical"
 enemy_health=999999
-keystone_level=20
+keystone_level=22
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=011,mark_duration=0,enemies="Refti_Defender_1":926640:Humanoid|"Refti_Defender_2":926640:Humanoid|"Primalist_Ravager_1":926640:Humanoid|"Primalist_Ravager_2":926640:Humanoid|"Primalist_Geomancer_1":926640:Humanoid|"Primalist_Geomancer_2":926640:Humanoid|"Primalist_Geomancer_3":926640:Humanoid
-raid_events+=/pull,pull=02,bloodlust=0,delay=009,mark_duration=0,enemies="Refti_Defender_1":926640:Humanoid|"Primalist_Ravager_1":926640:Humanoid|"Primalist_Geomancer_1":926640:Humanoid|"Containment_Apparatus_1":926640:Mechanical
-raid_events+=/pull,pull=03,bloodlust=0,delay=011,mark_duration=0,enemies="Containment_Apparatus_1":926640:Mechanical|"Containment_Apparatus_2":926640:Mechanical|"Containment_Apparatus_3":926640:Mechanical
-raid_events+=/pull,pull=04,bloodlust=0,delay=005,mark_duration=0,enemies="Refti_Defender_1":926640:Humanoid|"Refti_Defender_2":926640:Humanoid|"Primalist_Ravager_1":926640:Humanoid|"Primalist_Geomancer_1":926640:Humanoid|"Primalist_Geomancer_2":926640:Humanoid
-raid_events+=/pull,pull=05,bloodlust=0,delay=009,mark_duration=0,enemies="BOSS_Watcher_Irideus":26562937:Giant
-raid_events+=/pull,pull=06,bloodlust=0,delay=008,mark_duration=0,enemies="Primalist_Shocktrooper_1":926640:Humanoid|"Primalist_Shocktrooper_2":926640:Humanoid|"Curious_Swoglet_1":278024:Dragonkin|"Curious_Swoglet_2":278024:Dragonkin|"Curious_Swoglet_3":278024:Dragonkin|"Dazzling_Dragonfly_1":740312:Beast
-raid_events+=/pull,pull=07,bloodlust=0,delay=010,mark_duration=0,enemies="Skulking_Zealot_1":926640:Humanoid|"Curious_Swoglet_1":278024:Dragonkin|"Curious_Swoglet_2":278024:Dragonkin|"Curious_Swoglet_3":278024:Dragonkin|"Curious_Swoglet_4":278024:Dragonkin|"Curious_Swoglet_5":278024:Dragonkin|"Curious_Swoglet_6":278024:Dragonkin|"Curious_Swoglet_7":278024:Dragonkin|"Curious_Swoglet_8":278024:Dragonkin|"Curious_Swoglet_9":278024:Dragonkin|"Curious_Swoglet_10":278024:Dragonkin|"Curious_Swoglet_11":278024:Dragonkin|"Curious_Swoglet_12":278024:Dragonkin|"Curious_Swoglet_13":278024:Dragonkin|"Curious_Swoglet_14":278024:Dragonkin|"Curious_Swoglet_15":278024:Dragonkin
-raid_events+=/pull,pull=08,bloodlust=0,delay=014,mark_duration=0,enemies="Dazzling_Dragonfly_1":740312:Beast|"Dazzling_Dragonfly_2":740312:Beast|"Skulking_Zealot_1":926640:Humanoid
-raid_events+=/pull,pull=09,bloodlust=0,delay=011,mark_duration=0,enemies="Primalist_Shocktrooper_1":926640:Humanoid|"Primalist_Shocktrooper_2":926640:Humanoid|"Primalist_Shocktrooper_3":926640:Humanoid|"Skulking_Zealot_1":926640:Humanoid|"Skulking_Zealot_2":926640:Humanoid
-raid_events+=/pull,pull=10,bloodlust=0,delay=010,mark_duration=0,enemies="Squallbringer_Cyraz_1":2298770:Humanoid|"Flamecaller_Aymi_1":2298770:Humanoid
-raid_events+=/pull,pull=11,bloodlust=0,delay=010,mark_duration=0,enemies="BOSS_Gulping_Goliath":6407861:Dragonkin
-raid_events+=/pull,pull=12,bloodlust=0,delay=007,mark_duration=0,enemies="Primalist_Icecaller_1":833919:Humanoid|"Glacial_Proto-Dragon_1":1501281:Dragonkin|"Primalist_Earthshaker_1":833919:Humanoid
-raid_events+=/pull,pull=13,bloodlust=0,delay=009,mark_duration=0,enemies="Primalist_Earthshaker_1":833919:Humanoid|"Primalist_Galesinger_1":833919:Humanoid|"Glacial_Proto-Dragon_1":1501281:Dragonkin
-raid_events+=/pull,pull=14,bloodlust=0,delay=015,mark_duration=0,enemies="Primalist_Icecaller_1":833919:Humanoid|"Primalist_Icecaller_2":833919:Humanoid|"Primalist_Galesinger_1":833919:Humanoid|"Primalist_Galesinger_2":833919:Humanoid
-raid_events+=/pull,pull=15,bloodlust=0,delay=013,mark_duration=0,enemies="Primalist_Icecaller_1":833919:Humanoid|"Glacial_Proto-Dragon_1":1501281:Dragonkin|"Primalist_Earthshaker_1":833919:Humanoid|"Primalist_Earthshaker_2":833919:Humanoid|"Primalist_Galesinger_1":833919:Humanoid
-raid_events+=/pull,pull=16,bloodlust=0,delay=015,mark_duration=0,enemies="BOSS_Khajin_the_Unyielding":6262886:Humanoid
-raid_events+=/pull,pull=17,bloodlust=0,delay=011,mark_duration=0,enemies="Primalist_Icecaller_1":833919:Humanoid|"Aqua_Rager_1":460270:Elemental|"Aqua_Rager_2":460270:Elemental|"Aqua_Rager_3":460270:Elemental|"Aqua_Rager_4":460270:Elemental|"Aqua_Rager_5":460270:Elemental|"Primalist_Earthshaker_1":833919:Humanoid
-raid_events+=/pull,pull=18,bloodlust=0,delay=014,mark_duration=0,enemies="Glacial_Proto-Dragon_1":1501281:Dragonkin
-raid_events+=/pull,pull=19,bloodlust=0,delay=015,mark_duration=0,enemies="Primalist_Icecaller_1":833919:Humanoid|"Aqua_Rager_1":460270:Elemental|"Aqua_Rager_2":460270:Elemental|"Primalist_Galesinger_1":833919:Humanoid
-raid_events+=/pull,pull=20,bloodlust=0,delay=009,mark_duration=0,enemies="Infuser_Sariya_1":2185230:Humanoid
-raid_events+=/pull,pull=21,bloodlust=0,delay=008,mark_duration=0,enemies="BOSS_Primal_Tsunami":6958762:Elemental
+raid_events+=/pull,pull=01,bloodlust=0,delay=011,enemies="Refti_Defender_1":1705659:Humanoid|"Refti_Defender_2":1705659:Humanoid|"Primalist_Ravager_1":1395540:Humanoid|"Primalist_Ravager_2":1395540:Humanoid|"Primalist_Geomancer_1":1550598:Humanoid|"Primalist_Geomancer_2":1550598:Humanoid|"Primalist_Geomancer_3":1550598:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=005,enemies="Refti_Defender_1":1705659:Humanoid|"Refti_Defender_2":1705659:Humanoid|"Primalist_Ravager_1":1395540:Humanoid|"Primalist_Geomancer_1":1550598:Humanoid|"Containment_Apparatus_1":1395540:Mechanical|"Containment_Apparatus_2":1395540:Mechanical
+raid_events+=/pull,pull=03,bloodlust=0,delay=013,enemies="Containment_Apparatus_1":1395540:Mechanical|"Containment_Apparatus_2":1395540:Mechanical|"Containment_Apparatus_3":1395540:Mechanical
+raid_events+=/pull,pull=04,bloodlust=0,delay=014,enemies="Refti_Defender_1":1705659:Humanoid|"Refti_Defender_2":1705659:Humanoid|"Primalist_Ravager_1":1395540:Humanoid|"Primalist_Geomancer_1":1550598:Humanoid|"Primalist_Geomancer_2":1550598:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=008,enemies="Refti_Defender_1":1705659:Humanoid|"Primalist_Ravager_1":1395540:Humanoid|"Primalist_Geomancer_1":1550598:Humanoid|"Primalist_Geomancer_2":1550598:Humanoid|"Containment_Apparatus_1":1395540:Mechanical|"Containment_Apparatus_2":1395540:Mechanical
+raid_events+=/pull,pull=06,bloodlust=0,delay=011,enemies="Refti_Defender_1":1705659:Humanoid|"Refti_Defender_2":1705659:Humanoid|"Refti_Defender_3":1705659:Humanoid|"Containment_Apparatus_1":1395540:Mechanical|"Containment_Apparatus_2":1395540:Mechanical
+raid_events+=/pull,pull=07,bloodlust=0,delay=014,enemies="BOSS_Watcher_Irideus":52434608:Giant
+raid_events+=/pull,pull=08,bloodlust=0,delay=015,enemies="Primalist_Shocktrooper_1":1550598:Humanoid|"Primalist_Shocktrooper_2":1550598:Humanoid|"Curious_Swoglet_1":465180:Dragonkin|"Curious_Swoglet_2":465180:Dragonkin|"Curious_Swoglet_3":465180:Dragonkin|"Curious_Swoglet_4":465180:Dragonkin|"Curious_Swoglet_5":465180:Dragonkin|"Curious_Swoglet_6":465180:Dragonkin|"Curious_Swoglet_7":465180:Dragonkin|"Curious_Swoglet_8":465180:Dragonkin|"Curious_Swoglet_9":465180:Dragonkin|"Curious_Swoglet_10":465180:Dragonkin|"Curious_Swoglet_11":465180:Dragonkin|"Curious_Swoglet_12":465180:Dragonkin|"Curious_Swoglet_13":465180:Dragonkin|"Curious_Swoglet_14":465180:Dragonkin|"Curious_Swoglet_15":465180:Dragonkin|"Curious_Swoglet_16":465180:Dragonkin|"Curious_Swoglet_17":465180:Dragonkin|"Curious_Swoglet_18":465180:Dragonkin|"Dazzling_Dragonfly_1":1240479:Beast
+raid_events+=/pull,pull=09,bloodlust=0,delay=007,enemies="Dazzling_Dragonfly_1":1240479:Beast|"Dazzling_Dragonfly_2":1240479:Beast|"Primalist_Shocktrooper_1":1550598:Humanoid|"Primalist_Shocktrooper_2":1550598:Humanoid|"Primalist_Shocktrooper_3":1550598:Humanoid|"Skulking_Zealot_1":1240479:Humanoid|"Skulking_Zealot_2":1240479:Humanoid|"Skulking_Zealot_3":1240479:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,enemies="Squallbringer_Cyraz_1":3721438:Humanoid|"Flamecaller_Aymi_1":3721438:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=006,enemies="BOSS_Gulping_Goliath":14117010:Dragonkin
+raid_events+=/pull,pull=12,bloodlust=0,delay=005,enemies="Primalist_Earthshaker_1":1860719:Humanoid|"Primalist_Icecaller_1":1395540:Humanoid|"Glacial_Proto-Dragon_1":2791078:Dragonkin
+raid_events+=/pull,pull=13,bloodlust=0,delay=009,enemies="Glacial_Proto-Dragon_1":2791078:Dragonkin|"Primalist_Earthshaker_1":1860719:Humanoid|"Primalist_Galesinger_1":1395540:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=012,enemies="Primalist_Galesinger_1":1395540:Humanoid|"Primalist_Galesinger_2":1395540:Humanoid|"Primalist_Icecaller_1":1395540:Humanoid|"Primalist_Icecaller_2":1395540:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,enemies="Primalist_Icecaller_1":1395540:Humanoid|"Glacial_Proto-Dragon_1":2791078:Dragonkin|"Primalist_Earthshaker_1":1860719:Humanoid|"Primalist_Earthshaker_2":1860719:Humanoid|"Primalist_Galesinger_1":1395540:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=007,enemies="BOSS_Khajin_the_Unyielding":14117010:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=010,enemies="Primalist_Earthshaker_1":1860719:Humanoid|"Primalist_Icecaller_1":1395540:Humanoid|"Aqua_Rager_1":775300:Elemental|"Aqua_Rager_2":775300:Elemental|"Aqua_Rager_3":775300:Elemental|"Aqua_Rager_4":775300:Elemental|"Aqua_Rager_5":775300:Elemental
+raid_events+=/pull,pull=18,bloodlust=0,delay=008,enemies="Glacial_Proto-Dragon_1":2791078:Dragonkin
+raid_events+=/pull,pull=19,bloodlust=0,delay=015,enemies="Primalist_Icecaller_1":1395540:Humanoid|"Aqua_Rager_1":775300:Elemental|"Aqua_Rager_2":775300:Elemental|"Primalist_Galesinger_1":1395540:Humanoid
+raid_events+=/pull,pull=20,bloodlust=0,delay=012,enemies="Infuser_Sariya_1":4651797:Humanoid
+raid_events+=/pull,pull=21,bloodlust=0,delay=013,enemies="BOSS_Primal_Tsunami":14923697:Elemental
