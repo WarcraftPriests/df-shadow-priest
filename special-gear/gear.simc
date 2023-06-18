@@ -28,6 +28,7 @@ ${gear.off_hand}
 profileset."Back_Voice_of_the_Silent_Star_431"+=back=voice_of_the_silent_star,id=204465,ilevel=431
 profileset."Back_Voice_of_the_Silent_Star_441"+=back=voice_of_the_silent_star,id=204465,ilevel=441
 profileset."Back_Voice_of_the_Silent_Star_444"+=back=voice_of_the_silent_star,id=204465,ilevel=444
+profileset."Back_Voice_of_the_Silent_Star_447"+=back=voice_of_the_silent_star,id=204465,ilevel=447
 profileset."Back_Voice_of_the_Silent_Star_457"+=back=voice_of_the_silent_star,id=204465,ilevel=457
 
 # Crafted Gear ilvls = 424/437/447

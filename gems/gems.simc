@@ -128,33 +128,3 @@ profileset."Senseis_Neltharite_3"+=main_hand=${gear.main_hand},enchant_id=6643,g
 profileset."Zen_Neltharite_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192962
 profileset."Zen_Neltharite_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192963
 profileset."Zen_Neltharite_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192964
-
-# Speed?
-# profileset."Straddling_Illimited_Diamond_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194112
-# profileset."Straddling_Illimited_Diamond_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194113
-# profileset."Straddling_Illimited_Diamond_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=194114
-
-# Vibrant Emerald
-profileset."Energized_Vibrant_Emerald_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192906
-profileset."Energized_Vibrant_Emerald_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192907
-profileset."Energized_Vibrant_Emerald_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192908
-
-# Queen's Ruby
-profileset."Crafty_Queens_Ruby_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192900
-profileset."Crafty_Queens_Ruby_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192901
-profileset."Crafty_Queens_Ruby_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192902
-
-# Sundered Onyx
-profileset."Senseis_Sundered_Onyx_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192910
-profileset."Senseis_Sundered_Onyx_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192911
-profileset."Senseis_Sundered_Onyx_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192912
-
-# Solid Eternity Amber
-profileset."Solid_Eternity_Amber_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192913
-profileset."Solid_Eternity_Amber_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192914
-profileset."Solid_Eternity_Amber_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192916
-
-# Zen Mystic sapphire
-profileset."Zen_Mystic_Sapphire_1"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192903
-profileset."Zen_Mystic_Sapphire_2"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192904
-profileset."Zen_Mystic_Sapphire_3"+=main_hand=${gear.main_hand},enchant_id=6643,gem_id=192905

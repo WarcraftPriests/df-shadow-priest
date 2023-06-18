@@ -172,6 +172,7 @@ special = {
     "Back_Voice_of_the_Silent_Star_431": 204465,
     "Back_Voice_of_the_Silent_Star_441": 204465,
     "Back_Voice_of_the_Silent_Star_444": 204465,
+    "Back_Voice_of_the_Silent_Star_447": 204465,
     "Back_Voice_of_the_Silent_Star_457": 204465,
     "MH_Spore_Keepers_Baton_447-OH_Echos_Maddening_Volume_450": 204401,
     "Embellishment_Shadowflame_Tempered_Armor_Patch_1": 204710,

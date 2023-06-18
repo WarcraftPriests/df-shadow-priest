@@ -1,18 +1,18 @@
 # ur-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Great_Cerulean_Sea|132380|0.37%|
-|Thousandbone_Tongueslicer|132377|0.37%|
-|Fated_Fortune_Cookie|132362|0.36%|
-|Draconic_Augment_Rune|132358|0.36%|
-|Revenge_Served_Cold|132357|0.36%|
-|Salt_Baked_Fishcake|132296|0.31%|
-|Sizzling_Seafood_Medley|132290|0.31%|
-|Aromatic_Seafood_Platter|132288|0.30%|
-|Feisty_Fish_Sticks|132269|0.29%|
-|Filet_of_Fangs|132248|0.27%|
-|Timely_Demise|132226|0.26%|
-|Seamoth_Surprise|132213|0.25%|
-|Roast_Duck_Delight|132068|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|132010|0.09%|
-|Base|131887|0.00%|
+|Draconic_Augment_Rune|122551|0.68%|
+|Thousandbone_Tongueslicer|122472|0.62%|
+|Fated_Fortune_Cookie|122435|0.59%|
+|Revenge_Served_Cold|122435|0.59%|
+|Great_Cerulean_Sea|122411|0.57%|
+|Feisty_Fish_Sticks|122377|0.54%|
+|Aromatic_Seafood_Platter|122350|0.52%|
+|Sizzling_Seafood_Medley|122334|0.50%|
+|Salt_Baked_Fishcake|122324|0.50%|
+|Seamoth_Surprise|122311|0.49%|
+|Timely_Demise|122306|0.48%|
+|Filet_of_Fangs|122212|0.40%|
+|Roast_Duck_Delight|122035|0.26%|
+|Thrice_Spiced_Mammoth_Kabob|121948|0.19%|
+|Base|121720|0.00%|

@@ -1,18 +1,18 @@
 # freehold-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|147222|0.62%|
-|Fated_Fortune_Cookie|147125|0.56%|
-|Thousandbone_Tongueslicer|147108|0.54%|
-|Revenge_Served_Cold|147085|0.53%|
-|Great_Cerulean_Sea|147055|0.51%|
-|Salt_Baked_Fishcake|147025|0.49%|
-|Sizzling_Seafood_Medley|146997|0.47%|
-|Aromatic_Seafood_Platter|146979|0.46%|
-|Filet_of_Fangs|146963|0.44%|
-|Feisty_Fish_Sticks|146935|0.43%|
-|Seamoth_Surprise|146855|0.37%|
-|Timely_Demise|146839|0.36%|
-|Roast_Duck_Delight|146666|0.24%|
-|Thrice_Spiced_Mammoth_Kabob|146507|0.13%|
-|Base|146312|0.00%|
+|Draconic_Augment_Rune|135002|0.72%|
+|Revenge_Served_Cold|134929|0.66%|
+|Thousandbone_Tongueslicer|134890|0.63%|
+|Fated_Fortune_Cookie|134879|0.63%|
+|Great_Cerulean_Sea|134868|0.62%|
+|Sizzling_Seafood_Medley|134825|0.58%|
+|Aromatic_Seafood_Platter|134753|0.53%|
+|Seamoth_Surprise|134736|0.52%|
+|Feisty_Fish_Sticks|134728|0.51%|
+|Filet_of_Fangs|134719|0.51%|
+|Salt_Baked_Fishcake|134700|0.49%|
+|Timely_Demise|134622|0.43%|
+|Roast_Duck_Delight|134426|0.29%|
+|Thrice_Spiced_Mammoth_Kabob|134358|0.24%|
+|Base|134041|0.00%|

@@ -87,12 +87,14 @@ def main():
     parser.add_argument(
         '--dungeons', help='only run the dungeon suite', action='store_true')
     parser.add_argument(
+        '--composite', help='only run the composite suite', action='store_true')
+    parser.add_argument(
         '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
     parser.add_argument(
-        '--local', help='indicate if the sim should run locally (not recommended)', 
+        '--local', help='indicate if the sim should run locally (not recommended)',
         action='store_true')
     parser.add_argument(
-        '--auto_download', help='if local enabled will grab the latest simc package', 
+        '--auto_download', help='if local enabled will grab the latest simc package',
         action='store_true')
     args = parser.parse_args()
 
@@ -110,7 +112,8 @@ def main():
         # Can pass in --dungeons to ONLY run the Dungeons suite
         if not args.dungeons:
             run_suite(sim_dir, "composite", output_file, sim, args)
-        run_suite(sim_dir, "dungeons", output_file, sim, args)
+        if not args.composite:
+            run_suite(sim_dir, "dungeons", output_file, sim, args)
 
 
 if __name__ == "__main__":

@@ -89,6 +89,7 @@ def run_sims(args, iterations, talent):
     count = 0
 
     for profile in profiles:
+        print(profile)
         if args.dungeons:
             profile_name = profile
         else:

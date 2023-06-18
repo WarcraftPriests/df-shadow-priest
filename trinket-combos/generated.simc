@@ -55,29 +55,32 @@ profileset."Idol_of_Pure_Decay_441-Screaming_Black_Dragonscale_447"+=trinket2=sc
 profileset."Idol_of_Pure_Decay_441-Vessel_of_Searing_Shadow_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Idol_of_Pure_Decay_441-Vessel_of_Searing_Shadow_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
+profileset."Idol_of_Pure_Decay_441-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
-profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
+profileset."Idol_of_Pure_Decay_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_441-Igneous_Flowstone_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -85,8 +88,8 @@ profileset."Idol_of_Pure_Decay_441-Igneous_Flowstone_441"+=trinket2=igneous_flow
 profileset."Idol_of_Pure_Decay_441-Igneous_Flowstone_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
-profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
+profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_457"+=trinket1=idol_of_pure_decay,id=193660,ilevel=441
 profileset."Idol_of_Pure_Decay_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -127,29 +130,32 @@ profileset."Idol_of_Pure_Decay_447-Screaming_Black_Dragonscale_447"+=trinket2=sc
 profileset."Idol_of_Pure_Decay_447-Vessel_of_Searing_Shadow_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Idol_of_Pure_Decay_447-Vessel_of_Searing_Shadow_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
+profileset."Idol_of_Pure_Decay_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
-profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
+profileset."Idol_of_Pure_Decay_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Idol_of_Pure_Decay_447-Igneous_Flowstone_441"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -157,8 +163,8 @@ profileset."Idol_of_Pure_Decay_447-Igneous_Flowstone_441"+=trinket2=igneous_flow
 profileset."Idol_of_Pure_Decay_447-Igneous_Flowstone_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
-profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
+profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_457"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 profileset."Idol_of_Pure_Decay_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -196,29 +202,32 @@ profileset."Irideus_Fragment_447-Screaming_Black_Dragonscale_447"+=trinket2=scre
 profileset."Irideus_Fragment_447-Vessel_of_Searing_Shadow_441"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Irideus_Fragment_447-Vessel_of_Searing_Shadow_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
+profileset."Irideus_Fragment_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=irideus_fragment,id=193743,ilevel=447
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=irideus_fragment,id=193743,ilevel=447
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=irideus_fragment,id=193743,ilevel=447
-profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
+profileset."Irideus_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Irideus_Fragment_447-Igneous_Flowstone_441"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -226,8 +235,8 @@ profileset."Irideus_Fragment_447-Igneous_Flowstone_441"+=trinket2=igneous_flowst
 profileset."Irideus_Fragment_447-Igneous_Flowstone_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_444"+=trinket1=irideus_fragment,id=193743,ilevel=447
-profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
+profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_457"+=trinket1=irideus_fragment,id=193743,ilevel=447
 profileset."Irideus_Fragment_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -262,29 +271,32 @@ profileset."Erupting_Spear_Fragment_447-Screaming_Black_Dragonscale_447"+=trinke
 profileset."Erupting_Spear_Fragment_447-Vessel_of_Searing_Shadow_441"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Erupting_Spear_Fragment_447-Vessel_of_Searing_Shadow_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
+profileset."Erupting_Spear_Fragment_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
-profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
+profileset."Erupting_Spear_Fragment_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Erupting_Spear_Fragment_447-Igneous_Flowstone_441"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -292,8 +304,8 @@ profileset."Erupting_Spear_Fragment_447-Igneous_Flowstone_441"+=trinket2=igneous
 profileset."Erupting_Spear_Fragment_447-Igneous_Flowstone_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_444"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
-profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
+profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_457"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 profileset."Erupting_Spear_Fragment_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -322,29 +334,32 @@ profileset."Spoils_of_Neltharus_441-Screaming_Black_Dragonscale_447"+=trinket2=s
 profileset."Spoils_of_Neltharus_441-Vessel_of_Searing_Shadow_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Spoils_of_Neltharus_441-Vessel_of_Searing_Shadow_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
+profileset."Spoils_of_Neltharus_441-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
-profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
+profileset."Spoils_of_Neltharus_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_441-Igneous_Flowstone_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -352,8 +367,8 @@ profileset."Spoils_of_Neltharus_441-Igneous_Flowstone_441"+=trinket2=igneous_flo
 profileset."Spoils_of_Neltharus_441-Igneous_Flowstone_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
-profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
+profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_457"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -382,29 +397,32 @@ profileset."Spoils_of_Neltharus_447-Screaming_Black_Dragonscale_447"+=trinket2=s
 profileset."Spoils_of_Neltharus_447-Vessel_of_Searing_Shadow_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Spoils_of_Neltharus_447-Vessel_of_Searing_Shadow_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Spoils_of_Neltharus_447-Igneous_Flowstone_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -412,8 +430,8 @@ profileset."Spoils_of_Neltharus_447-Igneous_Flowstone_441"+=trinket2=igneous_flo
 profileset."Spoils_of_Neltharus_447-Igneous_Flowstone_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_457"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -436,29 +454,32 @@ profileset."Naraxas_Spiked_Tongue_441-Screaming_Black_Dragonscale_447"+=trinket2
 profileset."Naraxas_Spiked_Tongue_441-Vessel_of_Searing_Shadow_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Naraxas_Spiked_Tongue_441-Vessel_of_Searing_Shadow_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+profileset."Naraxas_Spiked_Tongue_441-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
-profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+profileset."Naraxas_Spiked_Tongue_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_441-Igneous_Flowstone_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -466,8 +487,8 @@ profileset."Naraxas_Spiked_Tongue_441-Igneous_Flowstone_441"+=trinket2=igneous_f
 profileset."Naraxas_Spiked_Tongue_441-Igneous_Flowstone_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
-profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_457"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
 profileset."Naraxas_Spiked_Tongue_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -490,29 +511,32 @@ profileset."Naraxas_Spiked_Tongue_447-Screaming_Black_Dragonscale_447"+=trinket2
 profileset."Naraxas_Spiked_Tongue_447-Vessel_of_Searing_Shadow_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Naraxas_Spiked_Tongue_447-Vessel_of_Searing_Shadow_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+profileset."Naraxas_Spiked_Tongue_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
-profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+profileset."Naraxas_Spiked_Tongue_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_447-Igneous_Flowstone_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -520,8 +544,8 @@ profileset."Naraxas_Spiked_Tongue_447-Igneous_Flowstone_441"+=trinket2=igneous_f
 profileset."Naraxas_Spiked_Tongue_447-Igneous_Flowstone_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_444"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
-profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_457"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -538,29 +562,32 @@ profileset."Rotcrusted_Voodoo_Doll_441-Screaming_Black_Dragonscale_447"+=trinket
 profileset."Rotcrusted_Voodoo_Doll_441-Vessel_of_Searing_Shadow_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Rotcrusted_Voodoo_Doll_441-Vessel_of_Searing_Shadow_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
+profileset."Rotcrusted_Voodoo_Doll_441-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
-profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
+profileset."Rotcrusted_Voodoo_Doll_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_441-Igneous_Flowstone_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -568,8 +595,8 @@ profileset."Rotcrusted_Voodoo_Doll_441-Igneous_Flowstone_441"+=trinket2=igneous_
 profileset."Rotcrusted_Voodoo_Doll_441-Igneous_Flowstone_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
-profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
+profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_457"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -586,29 +613,32 @@ profileset."Rotcrusted_Voodoo_Doll_447-Screaming_Black_Dragonscale_447"+=trinket
 profileset."Rotcrusted_Voodoo_Doll_447-Vessel_of_Searing_Shadow_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Rotcrusted_Voodoo_Doll_447-Vessel_of_Searing_Shadow_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+profileset."Rotcrusted_Voodoo_Doll_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
-profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+profileset."Rotcrusted_Voodoo_Doll_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_447-Igneous_Flowstone_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -616,8 +646,8 @@ profileset."Rotcrusted_Voodoo_Doll_447-Igneous_Flowstone_441"+=trinket2=igneous_
 profileset."Rotcrusted_Voodoo_Doll_447-Igneous_Flowstone_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_444"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
-profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_457"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
 profileset."Rotcrusted_Voodoo_Doll_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -628,29 +658,32 @@ profileset."Rotcrusted_Voodoo_Doll_447-Beacon_to_the_Beyond_450"+=trinket2=beaco
 profileset."Screaming_Black_Dragonscale_441-Vessel_of_Searing_Shadow_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Screaming_Black_Dragonscale_441-Vessel_of_Searing_Shadow_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_441-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
-profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_441-Igneous_Flowstone_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -658,8 +691,8 @@ profileset."Screaming_Black_Dragonscale_441-Igneous_Flowstone_441"+=trinket2=ign
 profileset."Screaming_Black_Dragonscale_441-Igneous_Flowstone_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
-profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
+profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_457"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=441
 profileset."Screaming_Black_Dragonscale_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -670,29 +703,32 @@ profileset."Screaming_Black_Dragonscale_441-Beacon_to_the_Beyond_450"+=trinket2=
 profileset."Screaming_Black_Dragonscale_447-Vessel_of_Searing_Shadow_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Vessel_of_Searing_Shadow_441"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=441
 
+profileset."Screaming_Black_Dragonscale_447-Vessel_of_Searing_Shadow_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+profileset."Screaming_Black_Dragonscale_447-Vessel_of_Searing_Shadow_447"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=447
+
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
-profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+profileset."Screaming_Black_Dragonscale_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_447-Igneous_Flowstone_441"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -700,8 +736,8 @@ profileset."Screaming_Black_Dragonscale_447-Igneous_Flowstone_441"+=trinket2=ign
 profileset."Screaming_Black_Dragonscale_447-Igneous_Flowstone_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_444"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
-profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_457"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
 profileset."Screaming_Black_Dragonscale_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -713,25 +749,25 @@ profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_441"+=
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_444"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
 
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
-profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_444"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=444
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
+profileset."Vessel_of_Searing_Shadow_441-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
 
 profileset."Vessel_of_Searing_Shadow_441-Igneous_Flowstone_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
@@ -739,14 +775,53 @@ profileset."Vessel_of_Searing_Shadow_441-Igneous_Flowstone_441"+=trinket2=igneou
 profileset."Vessel_of_Searing_Shadow_441-Igneous_Flowstone_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_444"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
-profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
+profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_457"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
 
 profileset."Vessel_of_Searing_Shadow_441-Beacon_to_the_Beyond_450"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=441
 profileset."Vessel_of_Searing_Shadow_441-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Bronze_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Azure_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_441"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=441
+
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Ominous_Chromatic_Essence_Emerald_447"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=447
+
+profileset."Vessel_of_Searing_Shadow_447-Igneous_Flowstone_441"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
+
+profileset."Vessel_of_Searing_Shadow_447-Igneous_Flowstone_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
+
+profileset."Vessel_of_Searing_Shadow_447-Neltharions_Call_to_Suffering_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
+
+profileset."Vessel_of_Searing_Shadow_447-Neltharions_Call_to_Suffering_457"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
+
+profileset."Vessel_of_Searing_Shadow_447-Beacon_to_the_Beyond_450"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
 profileset."Ominous_Chromatic_Essence_Bronze_441-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_441-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -756,9 +831,9 @@ profileset."Ominous_Chromatic_Essence_Bronze_441-Igneous_Flowstone_447"+=dragonf
 profileset."Ominous_Chromatic_Essence_Bronze_441-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Bronze_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
-profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
+profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_441-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -768,25 +843,25 @@ profileset."Ominous_Chromatic_Essence_Bronze_441-Beacon_to_the_Beyond_450"+=drag
 profileset."Ominous_Chromatic_Essence_Bronze_441-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Bronze_441-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
 
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Bronze_444-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Bronze_444-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
 
-profileset."Ominous_Chromatic_Essence_Bronze_444-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_444-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Bronze_444-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
+profileset."Ominous_Chromatic_Essence_Bronze_447-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
 profileset."Ominous_Chromatic_Essence_Azure_441-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_441-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -796,9 +871,9 @@ profileset."Ominous_Chromatic_Essence_Azure_441-Igneous_Flowstone_447"+=dragonfl
 profileset."Ominous_Chromatic_Essence_Azure_441-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Azure_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
-profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
+profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_441-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -808,25 +883,25 @@ profileset."Ominous_Chromatic_Essence_Azure_441-Beacon_to_the_Beyond_450"+=drago
 profileset."Ominous_Chromatic_Essence_Azure_441-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Azure_441-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
 
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Azure_444-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Azure_444-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
 
-profileset."Ominous_Chromatic_Essence_Azure_444-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_444-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Azure_444-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
+profileset."Ominous_Chromatic_Essence_Azure_447-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
 profileset."Ominous_Chromatic_Essence_Emerald_441-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_441-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -836,9 +911,9 @@ profileset."Ominous_Chromatic_Essence_Emerald_441-Igneous_Flowstone_447"+=dragon
 profileset."Ominous_Chromatic_Essence_Emerald_441-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Emerald_441-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
-profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
+profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_441-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
@@ -848,28 +923,28 @@ profileset."Ominous_Chromatic_Essence_Emerald_441-Beacon_to_the_Beyond_450"+=dra
 profileset."Ominous_Chromatic_Essence_Emerald_441-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=441
 profileset."Ominous_Chromatic_Essence_Emerald_441-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_441"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_441"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_441"+=trinket2=igneous_flowstone,id=203996,ilevel=441
 
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Emerald_444-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Igneous_Flowstone_447"+=trinket2=igneous_flowstone,id=203996,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_444"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_444"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Emerald_444-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_457"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_457"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
 
-profileset."Ominous_Chromatic_Essence_Emerald_444-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_444-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=444
-profileset."Ominous_Chromatic_Essence_Emerald_444-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
+profileset."Ominous_Chromatic_Essence_Emerald_447-Beacon_to_the_Beyond_450"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Beacon_to_the_Beyond_450"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_444"+=trinket1=igneous_flowstone,id=203996,ilevel=441
-profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_447"+=trinket1=igneous_flowstone,id=203996,ilevel=441
+profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_457"+=trinket1=igneous_flowstone,id=203996,ilevel=441
 profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -877,8 +952,8 @@ profileset."Igneous_Flowstone_441-Neltharions_Call_to_Suffering_457"+=trinket2=n
 profileset."Igneous_Flowstone_441-Beacon_to_the_Beyond_450"+=trinket1=igneous_flowstone,id=203996,ilevel=441
 profileset."Igneous_Flowstone_441-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_444"+=trinket1=igneous_flowstone,id=203996,ilevel=447
-profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_444"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=444
+profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_447"+=trinket1=igneous_flowstone,id=203996,ilevel=447
+profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_447"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=447
 
 profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_457"+=trinket1=igneous_flowstone,id=203996,ilevel=447
 profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_457"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=457
@@ -886,8 +961,8 @@ profileset."Igneous_Flowstone_447-Neltharions_Call_to_Suffering_457"+=trinket2=n
 profileset."Igneous_Flowstone_447-Beacon_to_the_Beyond_450"+=trinket1=igneous_flowstone,id=203996,ilevel=447
 profileset."Igneous_Flowstone_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
-profileset."Neltharions_Call_to_Suffering_444-Beacon_to_the_Beyond_450"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=444
-profileset."Neltharions_Call_to_Suffering_444-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
+profileset."Neltharions_Call_to_Suffering_447-Beacon_to_the_Beyond_450"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=447
+profileset."Neltharions_Call_to_Suffering_447-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450
 
 profileset."Neltharions_Call_to_Suffering_457-Beacon_to_the_Beyond_450"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Beacon_to_the_Beyond_450"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=450

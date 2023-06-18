@@ -1,4 +1,4 @@
 # freehold-fort - yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|164175|1.00|0.53|0.55|0.56|0.49|0.11|
+|Base|156745|1.00|0.69|0.65|0.68|0.63|0.10|
