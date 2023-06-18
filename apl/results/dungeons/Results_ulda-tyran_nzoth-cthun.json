@@ -1,1 +1,1 @@
-{"name": "ulda-tyran - nzoth-cthun", "data": {"Base": {"DPS": 134611}, "barely_above_fillers": {"DPS": 134586}, "removed": {"DPS": 134452}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "ulda-tyran - nzoth-cthun", "data": {"new": {"DPS": 132542}, "Base": {"DPS": 130462}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

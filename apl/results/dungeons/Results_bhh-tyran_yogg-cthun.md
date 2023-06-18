@@ -1,6 +1,5 @@
 # bhh-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|barely_above_fillers|148604|0.02%|
-|Base|148571|0.00%|
-|removed|148471|-0.07%|
+|new|137968|0.75%|
+|Base|136938|0.00%|

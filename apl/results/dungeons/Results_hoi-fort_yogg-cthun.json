@@ -1,1 +1,1 @@
-{"name": "hoi-fort - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 124145}, "Base": {"DPS": 124096}, "removed": {"DPS": 124006}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "hoi-fort - yogg-cthun", "data": {"new": {"DPS": 124184}, "Base": {"DPS": 122237}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

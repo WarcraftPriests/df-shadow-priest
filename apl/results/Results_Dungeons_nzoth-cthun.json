@@ -1,1 +1,1 @@
-{"name": "Dungeons - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 148883}, "Base": {"DPS": 148870}, "removed": {"DPS": 148742}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "Dungeons - nzoth-cthun", "data": {"new": {"DPS": 126704}, "Base": {"DPS": 124656}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

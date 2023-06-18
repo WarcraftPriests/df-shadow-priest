@@ -1,1 +1,1 @@
-{"name": "freehold-tyran - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 157584}, "Base": {"DPS": 157541}, "removed": {"DPS": 157252}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "freehold-tyran - nzoth-cthun", "data": {"new": {"DPS": 133289}, "Base": {"DPS": 131212}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

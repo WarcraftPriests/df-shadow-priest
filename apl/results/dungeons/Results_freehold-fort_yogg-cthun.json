@@ -1,1 +1,1 @@
-{"name": "freehold-fort - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 166749}, "Base": {"DPS": 166727}, "removed": {"DPS": 166626}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "freehold-fort - yogg-cthun", "data": {"new": {"DPS": 153059}, "Base": {"DPS": 151414}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

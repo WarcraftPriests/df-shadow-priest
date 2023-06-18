@@ -1,1 +1,1 @@
-{"name": "bhh-fort - yogg-cthun", "data": {"Base": {"DPS": 152743}, "barely_above_fillers": {"DPS": 152739}, "removed": {"DPS": 152644}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "bhh-fort - yogg-cthun", "data": {"new": {"DPS": 151064}, "Base": {"DPS": 150236}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

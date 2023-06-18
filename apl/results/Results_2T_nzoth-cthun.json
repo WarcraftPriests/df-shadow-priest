@@ -1,1 +1,1 @@
-{"name": "2T - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 160709}, "removed": {"DPS": 160523}, "Base": {"DPS": 160464}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "2T - nzoth-cthun", "data": {"new": {"DPS": 157303}, "Base": {"DPS": 155066}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

@@ -1,1 +1,1 @@
-{"name": "freehold-fort - nzoth-cthun", "data": {"Base": {"DPS": 168129}, "barely_above_fillers": {"DPS": 168042}, "removed": {"DPS": 167878}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "freehold-fort - nzoth-cthun", "data": {"new": {"DPS": 146932}, "Base": {"DPS": 144443}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

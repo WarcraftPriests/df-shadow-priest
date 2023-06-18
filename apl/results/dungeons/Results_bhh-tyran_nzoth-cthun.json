@@ -1,1 +1,1 @@
-{"name": "bhh-tyran - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 151593}, "Base": {"DPS": 151590}, "removed": {"DPS": 151444}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "bhh-tyran - nzoth-cthun", "data": {"new": {"DPS": 134672}, "Base": {"DPS": 132961}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

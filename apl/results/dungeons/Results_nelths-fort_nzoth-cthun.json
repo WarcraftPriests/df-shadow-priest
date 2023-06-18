@@ -1,1 +1,1 @@
-{"name": "nelths-fort - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 179373}, "Base": {"DPS": 179358}, "removed": {"DPS": 179198}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "nelths-fort - nzoth-cthun", "data": {"new": {"DPS": 109090}, "Base": {"DPS": 107297}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

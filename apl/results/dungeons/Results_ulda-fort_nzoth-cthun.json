@@ -1,1 +1,1 @@
-{"name": "ulda-fort - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 148196}, "Base": {"DPS": 148189}, "removed": {"DPS": 148031}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "ulda-fort - nzoth-cthun", "data": {"new": {"DPS": 145024}, "Base": {"DPS": 142614}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

@@ -1,1 +1,1 @@
-{"name": "Dungeons - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 148028}, "Base": {"DPS": 148005}, "removed": {"DPS": 147912}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "Dungeons - yogg-cthun", "data": {"new": {"DPS": 131109}, "Base": {"DPS": 129731}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

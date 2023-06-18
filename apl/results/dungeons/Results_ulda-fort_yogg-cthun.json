@@ -1,1 +1,1 @@
-{"name": "ulda-fort - yogg-cthun", "data": {"removed": {"DPS": 145484}, "Base": {"DPS": 145474}, "barely_above_fillers": {"DPS": 145463}}, "ids": {"removed": null, "barely_above_fillers": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["removed", "barely_above_fillers"], "last_updated": "2023-05-02"}
+{"name": "ulda-fort - yogg-cthun", "data": {"new": {"DPS": 150890}, "Base": {"DPS": 149618}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

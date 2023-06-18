@@ -1,1 +1,1 @@
-{"name": "neltharus-tyran - nzoth-cthun", "data": {"Base": {"DPS": 156919}, "barely_above_fillers": {"DPS": 156913}, "removed": {"DPS": 156851}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "neltharus-tyran - nzoth-cthun", "data": {"new": {"DPS": 130120}, "Base": {"DPS": 127751}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

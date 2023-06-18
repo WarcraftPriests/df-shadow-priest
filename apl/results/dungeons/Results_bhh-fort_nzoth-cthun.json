@@ -1,1 +1,1 @@
-{"name": "bhh-fort - nzoth-cthun", "data": {"barely_above_fillers": {"DPS": 158067}, "removed": {"DPS": 157972}, "Base": {"DPS": 157956}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "bhh-fort - nzoth-cthun", "data": {"new": {"DPS": 146296}, "Base": {"DPS": 144149}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

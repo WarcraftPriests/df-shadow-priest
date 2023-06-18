@@ -1,1 +1,1 @@
-{"name": "nelths-fort - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 184393}, "Base": {"DPS": 184353}, "removed": {"DPS": 184257}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "nelths-fort - yogg-cthun", "data": {"new": {"DPS": 111629}, "Base": {"DPS": 110423}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

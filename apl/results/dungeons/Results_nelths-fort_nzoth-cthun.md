@@ -1,6 +1,5 @@
 # nelths-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|barely_above_fillers|179373|0.01%|
-|Base|179358|0.00%|
-|removed|179198|-0.09%|
+|new|109090|1.67%|
+|Base|107297|0.00%|

@@ -1,1 +1,1 @@
-{"name": "4T - yogg-cthun", "data": {"barely_above_fillers": {"DPS": 307667}, "Base": {"DPS": 307486}, "removed": {"DPS": 306445}}, "ids": {"barely_above_fillers": null, "removed": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["barely_above_fillers", "removed"], "last_updated": "2023-05-02"}
+{"name": "4T - yogg-cthun", "data": {"new": {"DPS": 300960}, "Base": {"DPS": 300855}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}

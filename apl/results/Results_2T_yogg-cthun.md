@@ -1,6 +1,5 @@
 # 2T - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|barely_above_fillers|171471|0.18%|
-|removed|171340|0.10%|
-|Base|171169|0.00%|
+|new|167648|1.11%|
+|Base|165807|0.00%|
