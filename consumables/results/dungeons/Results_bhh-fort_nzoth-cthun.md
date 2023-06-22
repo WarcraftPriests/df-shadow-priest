@@ -1,18 +1,18 @@
 # bhh-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|147871|0.53%|
-|Revenge_Served_Cold|147813|0.49%|
-|Thousandbone_Tongueslicer|147758|0.46%|
-|Great_Cerulean_Sea|147755|0.45%|
-|Fated_Fortune_Cookie|147753|0.45%|
-|Sizzling_Seafood_Medley|147732|0.44%|
-|Feisty_Fish_Sticks|147702|0.42%|
-|Aromatic_Seafood_Platter|147660|0.39%|
-|Salt_Baked_Fishcake|147633|0.37%|
-|Filet_of_Fangs|147577|0.33%|
-|Seamoth_Surprise|147576|0.33%|
-|Timely_Demise|147534|0.30%|
-|Roast_Duck_Delight|147379|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|147207|0.08%|
-|Base|147087|0.00%|
+|Draconic_Augment_Rune|150016|0.50%|
+|Thousandbone_Tongueslicer|149920|0.43%|
+|Great_Cerulean_Sea|149914|0.43%|
+|Fated_Fortune_Cookie|149878|0.41%|
+|Aromatic_Seafood_Platter|149867|0.40%|
+|Sizzling_Seafood_Medley|149863|0.40%|
+|Revenge_Served_Cold|149835|0.38%|
+|Feisty_Fish_Sticks|149794|0.35%|
+|Seamoth_Surprise|149767|0.33%|
+|Salt_Baked_Fishcake|149722|0.30%|
+|Filet_of_Fangs|149721|0.30%|
+|Timely_Demise|149716|0.30%|
+|Roast_Duck_Delight|149525|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|149425|0.10%|
+|Base|149271|0.00%|

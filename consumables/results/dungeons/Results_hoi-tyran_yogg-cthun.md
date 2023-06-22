@@ -1,18 +1,18 @@
 # hoi-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|116761|0.67%|
-|Revenge_Served_Cold|116699|0.62%|
-|Fated_Fortune_Cookie|116690|0.61%|
-|Great_Cerulean_Sea|116685|0.61%|
-|Thousandbone_Tongueslicer|116676|0.60%|
-|Sizzling_Seafood_Medley|116594|0.53%|
-|Aromatic_Seafood_Platter|116590|0.53%|
-|Feisty_Fish_Sticks|116588|0.52%|
-|Timely_Demise|116546|0.49%|
-|Filet_of_Fangs|116536|0.48%|
-|Salt_Baked_Fishcake|116536|0.48%|
-|Seamoth_Surprise|116476|0.43%|
-|Roast_Duck_Delight|116278|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|116125|0.13%|
-|Base|115980|0.00%|
+|Draconic_Augment_Rune|119124|0.78%|
+|Fated_Fortune_Cookie|119051|0.72%|
+|Thousandbone_Tongueslicer|119042|0.71%|
+|Revenge_Served_Cold|119005|0.68%|
+|Great_Cerulean_Sea|118995|0.68%|
+|Aromatic_Seafood_Platter|118943|0.63%|
+|Sizzling_Seafood_Medley|118919|0.61%|
+|Feisty_Fish_Sticks|118917|0.61%|
+|Salt_Baked_Fishcake|118903|0.60%|
+|Filet_of_Fangs|118892|0.59%|
+|Seamoth_Surprise|118833|0.54%|
+|Timely_Demise|118825|0.53%|
+|Roast_Duck_Delight|118582|0.33%|
+|Thrice_Spiced_Mammoth_Kabob|118467|0.23%|
+|Base|118197|0.00%|
