@@ -1,2 +1,20 @@
 
 # Overrides are added below here
+# Mind Blast damage increased by 10%.
+override.spell_data=effect.3283.sp_coefficient=0.861696
+# Shadow Word: Death damage increased by 10%.
+override.spell_data=effect.22171.sp_coefficient=0.935
+# Mind Spike: Insanity damage increased by 10%.
+override.spell_data=effect.1070939.sp_coefficient=2.057715
+# Mind Spike damage increased by 10%.
+override.spell_data=effect.66820.sp_coefficient=0.722007
+# Mind Flay: Insanity damage increased by 10%.
+override.spell_data=effect.1028897.sp_coefficient=0.786137
+# Mind Flay damage increased by 10%.
+override.spell_data=effect.7301.sp_coefficient=0.357335
+# Void Bolt damage increased by 10%.
+override.spell_data=effect.303383.sp_coefficient=2.6136
+# Void Spike damage from Idol of Yogg-Saron reduced by 35%.
+override.spell_data=effect.998387.sp_coefficient=0.861432
+# Psychic Link now causes direct damage spells to inflict 25% of their damage onto all other targets with Vampiric Touch (was 30%).
+override.spell_data=effect.293563.base_value=25
