@@ -42,7 +42,7 @@ if __name__ == '__main__':
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
-                ' 111', "_" + profile.split('-')[1].split('.simc')[0])
+                ' 1111', "_" + profile.split('-')[1].split('.simc')[0])
 
             # Don't add combos that waste points on TS without Yogg
             if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
