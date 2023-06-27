@@ -1,0 +1,34 @@
+# neltharus-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|150699|1.71%|
+|Human|150259|1.41%|
+|Gnome|150105|1.31%|
+|Goblin|150105|1.31%|
+|Night_Elf_Haste|150078|1.29%|
+|Orc|149874|1.15%|
+|Highmountain_Tauren|149800|1.10%|
+|Void_Elf|149766|1.08%|
+|Troll|149734|1.06%|
+|Kul_Tiran|149730|1.06%|
+|Draenei|149702|1.04%|
+|Zandalari_Troll_Paku|149662|1.01%|
+|Nightborne|149608|0.97%|
+|Blood_Elf|149504|0.90%|
+|Night_Elf_Crit|149482|0.89%|
+|Worgen|149473|0.88%|
+|Dwarf|149377|0.82%|
+|Dark_Iron_Dwarf|149367|0.81%|
+|Tauren|149327|0.78%|
+|Panda_Fortune_Cookie|149229|0.72%|
+|Maghar_Orc|149056|0.60%|
+|Panda_Mastery|148881|0.48%|
+|Panda_Vers|148816|0.44%|
+|Panda_Crit|148642|0.32%|
+|Undead|148522|0.24%|
+|Zandalari_Troll_Bwonsamdi|148458|0.20%|
+|Zandalari_Troll_Kimbul|148450|0.19%|
+|Panda_Haste|148379|0.15%|
+|Vulpera|148224|0.04%|
+|Lightforged_Draenei|148194|0.02%|
+|Base|148164|0.00%|

@@ -1,0 +1,34 @@
+# ur-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|116756|1.45%|
+|Human|116498|1.22%|
+|Goblin|116446|1.18%|
+|Gnome|116439|1.17%|
+|Night_Elf_Haste|116379|1.12%|
+|Draenei|116184|0.95%|
+|Highmountain_Tauren|116126|0.90%|
+|Nightborne|116080|0.86%|
+|Zandalari_Troll_Paku|116074|0.85%|
+|Kul_Tiran|116071|0.85%|
+|Void_Elf|116051|0.83%|
+|Orc|116017|0.80%|
+|Blood_Elf|115979|0.77%|
+|Troll|115953|0.75%|
+|Night_Elf_Crit|115941|0.74%|
+|Worgen|115941|0.74%|
+|Dwarf|115925|0.72%|
+|Tauren|115925|0.72%|
+|Dark_Iron_Dwarf|115842|0.65%|
+|Panda_Fortune_Cookie|115804|0.62%|
+|Panda_Mastery|115533|0.38%|
+|Maghar_Orc|115519|0.37%|
+|Panda_Vers|115417|0.28%|
+|Panda_Crit|115397|0.27%|
+|Undead|115280|0.16%|
+|Zandalari_Troll_Bwonsamdi|115265|0.15%|
+|Panda_Haste|115245|0.13%|
+|Zandalari_Troll_Kimbul|115244|0.13%|
+|Vulpera|115127|0.03%|
+|Lightforged_Draenei|115110|0.02%|
+|Base|115091|0.00%|

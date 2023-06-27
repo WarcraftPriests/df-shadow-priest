@@ -1,0 +1,34 @@
+# bhh-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|139459|1.49%|
+|Human|139205|1.30%|
+|Goblin|139199|1.30%|
+|Night_Elf_Haste|139153|1.27%|
+|Gnome|139115|1.24%|
+|Draenei|138703|0.94%|
+|Kul_Tiran|138700|0.94%|
+|Highmountain_Tauren|138688|0.93%|
+|Nightborne|138664|0.91%|
+|Void_Elf|138662|0.91%|
+|Orc|138647|0.90%|
+|Zandalari_Troll_Paku|138631|0.89%|
+|Troll|138528|0.81%|
+|Night_Elf_Crit|138505|0.79%|
+|Blood_Elf|138493|0.79%|
+|Worgen|138453|0.76%|
+|Tauren|138399|0.72%|
+|Dark_Iron_Dwarf|138376|0.70%|
+|Dwarf|138355|0.68%|
+|Panda_Fortune_Cookie|138279|0.63%|
+|Panda_Mastery|138047|0.46%|
+|Maghar_Orc|137890|0.35%|
+|Panda_Vers|137889|0.35%|
+|Panda_Crit|137808|0.29%|
+|Undead|137664|0.18%|
+|Panda_Haste|137662|0.18%|
+|Zandalari_Troll_Bwonsamdi|137622|0.15%|
+|Zandalari_Troll_Kimbul|137609|0.14%|
+|Vulpera|137462|0.03%|
+|Lightforged_Draenei|137423|0.01%|
+|Base|137414|0.00%|

@@ -1,0 +1,34 @@
+# vtp-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|129207|1.07%|
+|Gnome|129012|0.91%|
+|Goblin|128993|0.90%|
+|Human|128993|0.90%|
+|Night_Elf_Haste|128981|0.89%|
+|Void_Elf|128691|0.66%|
+|Highmountain_Tauren|128680|0.65%|
+|Draenei|128674|0.65%|
+|Kul_Tiran|128671|0.65%|
+|Nightborne|128656|0.63%|
+|Orc|128651|0.63%|
+|Zandalari_Troll_Paku|128640|0.62%|
+|Blood_Elf|128543|0.55%|
+|Dwarf|128527|0.53%|
+|Night_Elf_Crit|128523|0.53%|
+|Worgen|128514|0.52%|
+|Dark_Iron_Dwarf|128502|0.51%|
+|Troll|128459|0.48%|
+|Tauren|128452|0.47%|
+|Panda_Fortune_Cookie|128416|0.45%|
+|Panda_Mastery|128212|0.29%|
+|Maghar_Orc|128187|0.27%|
+|Panda_Vers|128169|0.25%|
+|Panda_Crit|128073|0.18%|
+|Panda_Haste|128044|0.16%|
+|Zandalari_Troll_Bwonsamdi|128005|0.13%|
+|Zandalari_Troll_Kimbul|127991|0.11%|
+|Undead|127980|0.11%|
+|Vulpera|127848|0.00%|
+|Base|127845|0.00%|
+|Lightforged_Draenei|127845|0.00%|

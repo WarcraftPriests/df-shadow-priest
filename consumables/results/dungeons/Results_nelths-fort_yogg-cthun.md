@@ -1,18 +1,18 @@
 # nelths-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|114756|0.52%|
-|Thousandbone_Tongueslicer|114667|0.44%|
-|Sizzling_Seafood_Medley|114646|0.42%|
-|Great_Cerulean_Sea|114631|0.41%|
-|Feisty_Fish_Sticks|114627|0.41%|
-|Fated_Fortune_Cookie|114616|0.40%|
-|Aromatic_Seafood_Platter|114609|0.39%|
-|Revenge_Served_Cold|114570|0.36%|
-|Seamoth_Surprise|114543|0.33%|
-|Salt_Baked_Fishcake|114530|0.32%|
-|Timely_Demise|114519|0.31%|
-|Filet_of_Fangs|114507|0.30%|
-|Roast_Duck_Delight|114364|0.18%|
-|Thrice_Spiced_Mammoth_Kabob|114251|0.08%|
-|Base|114164|0.00%|
+|Draconic_Augment_Rune|112735|0.64%|
+|Great_Cerulean_Sea|112664|0.57%|
+|Fated_Fortune_Cookie|112658|0.57%|
+|Sizzling_Seafood_Medley|112648|0.56%|
+|Feisty_Fish_Sticks|112644|0.56%|
+|Thousandbone_Tongueslicer|112638|0.55%|
+|Aromatic_Seafood_Platter|112634|0.55%|
+|Revenge_Served_Cold|112618|0.53%|
+|Salt_Baked_Fishcake|112555|0.48%|
+|Seamoth_Surprise|112541|0.47%|
+|Filet_of_Fangs|112529|0.45%|
+|Timely_Demise|112510|0.44%|
+|Roast_Duck_Delight|112327|0.27%|
+|Thrice_Spiced_Mammoth_Kabob|112178|0.14%|
+|Base|112020|0.00%|

@@ -1,0 +1,34 @@
+# bhh-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|149157|1.15%|
+|Human|148957|1.01%|
+|Gnome|148945|1.01%|
+|Goblin|148907|0.98%|
+|Night_Elf_Haste|148827|0.93%|
+|Troll|148498|0.70%|
+|Highmountain_Tauren|148475|0.69%|
+|Kul_Tiran|148461|0.68%|
+|Draenei|148444|0.67%|
+|Zandalari_Troll_Paku|148426|0.65%|
+|Void_Elf|148417|0.65%|
+|Nightborne|148415|0.65%|
+|Orc|148401|0.64%|
+|Night_Elf_Crit|148352|0.60%|
+|Worgen|148292|0.56%|
+|Blood_Elf|148263|0.54%|
+|Dwarf|148235|0.52%|
+|Dark_Iron_Dwarf|148171|0.48%|
+|Tauren|148162|0.47%|
+|Panda_Fortune_Cookie|148132|0.45%|
+|Maghar_Orc|147844|0.26%|
+|Panda_Mastery|147836|0.25%|
+|Panda_Vers|147800|0.23%|
+|Panda_Crit|147757|0.20%|
+|Panda_Haste|147593|0.09%|
+|Zandalari_Troll_Bwonsamdi|147593|0.09%|
+|Undead|147541|0.05%|
+|Zandalari_Troll_Kimbul|147538|0.05%|
+|Base|147462|0.00%|
+|Vulpera|147457|0.00%|
+|Lightforged_Draenei|147420|-0.03%|

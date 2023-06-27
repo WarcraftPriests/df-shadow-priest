@@ -1,0 +1,34 @@
+# freehold-fort - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|153947|1.41%|
+|Human|153700|1.25%|
+|Goblin|153697|1.25%|
+|Gnome|153637|1.21%|
+|Night_Elf_Haste|153569|1.16%|
+|Draenei|153269|0.96%|
+|Orc|153255|0.95%|
+|Kul_Tiran|153224|0.93%|
+|Void_Elf|153220|0.93%|
+|Highmountain_Tauren|153170|0.90%|
+|Troll|153170|0.90%|
+|Nightborne|153085|0.84%|
+|Zandalari_Troll_Paku|153035|0.81%|
+|Dark_Iron_Dwarf|152972|0.77%|
+|Blood_Elf|152945|0.75%|
+|Night_Elf_Crit|152934|0.74%|
+|Worgen|152933|0.74%|
+|Tauren|152892|0.71%|
+|Dwarf|152840|0.68%|
+|Panda_Fortune_Cookie|152780|0.64%|
+|Maghar_Orc|152576|0.51%|
+|Panda_Mastery|152434|0.41%|
+|Panda_Vers|152370|0.37%|
+|Panda_Crit|152255|0.30%|
+|Zandalari_Troll_Kimbul|152090|0.19%|
+|Zandalari_Troll_Bwonsamdi|152073|0.18%|
+|Undead|152000|0.13%|
+|Panda_Haste|151999|0.13%|
+|Base|151807|0.00%|
+|Vulpera|151802|0.00%|
+|Lightforged_Draenei|151738|-0.05%|

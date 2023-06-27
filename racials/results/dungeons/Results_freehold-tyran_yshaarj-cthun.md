@@ -1,0 +1,34 @@
+# freehold-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|138854|1.21%|
+|Gnome|138616|1.04%|
+|Human|138593|1.02%|
+|Night_Elf_Haste|138559|1.00%|
+|Goblin|138550|0.99%|
+|Kul_Tiran|138246|0.77%|
+|Draenei|138216|0.75%|
+|Void_Elf|138200|0.74%|
+|Highmountain_Tauren|138195|0.73%|
+|Zandalari_Troll_Paku|138162|0.71%|
+|Nightborne|138149|0.70%|
+|Night_Elf_Crit|138125|0.68%|
+|Orc|138083|0.65%|
+|Blood_Elf|138075|0.65%|
+|Worgen|138013|0.60%|
+|Tauren|137985|0.58%|
+|Dark_Iron_Dwarf|137969|0.57%|
+|Troll|137967|0.57%|
+|Dwarf|137929|0.54%|
+|Panda_Fortune_Cookie|137833|0.47%|
+|Maghar_Orc|137628|0.32%|
+|Panda_Mastery|137622|0.31%|
+|Panda_Vers|137484|0.21%|
+|Panda_Crit|137419|0.17%|
+|Zandalari_Troll_Kimbul|137402|0.15%|
+|Panda_Haste|137359|0.12%|
+|Zandalari_Troll_Bwonsamdi|137358|0.12%|
+|Undead|137334|0.10%|
+|Base|137190|0.00%|
+|Vulpera|137151|-0.03%|
+|Lightforged_Draenei|137103|-0.06%|

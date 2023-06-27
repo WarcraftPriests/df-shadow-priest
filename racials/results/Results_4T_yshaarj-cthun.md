@@ -1,0 +1,34 @@
+# 4T - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|277876|1.37%|
+|Human|277846|1.36%|
+|Mechagnome|277729|1.31%|
+|Gnome|277564|1.25%|
+|Goblin|277490|1.23%|
+|Night_Elf_Haste|277476|1.22%|
+|Orc|277386|1.19%|
+|Blood_Elf|277211|1.12%|
+|Void_Elf|277034|1.06%|
+|Zandalari_Troll_Paku|276878|1.00%|
+|Draenei|276622|0.91%|
+|Highmountain_Tauren|276614|0.91%|
+|Kul_Tiran|276589|0.90%|
+|Nightborne|276576|0.89%|
+|Night_Elf_Crit|276494|0.86%|
+|Dark_Iron_Dwarf|276397|0.83%|
+|Worgen|276288|0.79%|
+|Panda_Fortune_Cookie|275950|0.66%|
+|Dwarf|275826|0.62%|
+|Maghar_Orc|275778|0.60%|
+|Tauren|275770|0.60%|
+|Panda_Mastery|275262|0.41%|
+|Panda_Crit|274906|0.28%|
+|Panda_Vers|274832|0.26%|
+|Panda_Haste|274509|0.14%|
+|Undead|274409|0.10%|
+|Zandalari_Troll_Bwonsamdi|274271|0.05%|
+|Zandalari_Troll_Kimbul|274145|0.01%|
+|Base|274128|0.00%|
+|Vulpera|274094|-0.01%|
+|Lightforged_Draenei|274018|-0.04%|

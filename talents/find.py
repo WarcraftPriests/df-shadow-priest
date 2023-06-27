@@ -8,6 +8,7 @@ if __name__ == '__main__':
     parser.add_argument('sim_type', help='which sim type to search through',
                         choices=["Single", "2T", "4T", "Composite", "Dungeons"])
     parser.add_argument('match', help='string to match for')
+    parser.add_argument('matchtwo', help='string to match for')
     args = parser.parse_args()
 
     results = []
@@ -36,7 +37,7 @@ if __name__ == '__main__':
             if da_or_vf in ["VF", "DA"] and spike_or_flay in filler_types:
                 with open(f"{da_or_vf}-{spike_or_flay}.simc", 'r', encoding="utf8") as sim_file:
                     for line in sim_file:
-                        if profile_name in line and args.match in line:
+                        if profile_name in line and args.match in line and args.matchtwo in line:
                             print(profile_name)
                             MATCH = True
                             break

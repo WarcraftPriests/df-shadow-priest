@@ -1,0 +1,34 @@
+# ulda-tyran - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|139614|1.43%|
+|Human|139325|1.22%|
+|Gnome|139265|1.18%|
+|Goblin|139248|1.17%|
+|Night_Elf_Haste|139199|1.13%|
+|Draenei|138912|0.92%|
+|Highmountain_Tauren|138908|0.92%|
+|Orc|138823|0.86%|
+|Kul_Tiran|138793|0.84%|
+|Nightborne|138787|0.83%|
+|Zandalari_Troll_Paku|138779|0.83%|
+|Void_Elf|138758|0.81%|
+|Blood_Elf|138673|0.75%|
+|Night_Elf_Crit|138659|0.74%|
+|Dwarf|138651|0.73%|
+|Worgen|138631|0.72%|
+|Tauren|138629|0.72%|
+|Dark_Iron_Dwarf|138611|0.70%|
+|Panda_Fortune_Cookie|138545|0.66%|
+|Troll|138523|0.64%|
+|Maghar_Orc|138226|0.42%|
+|Panda_Mastery|138225|0.42%|
+|Panda_Vers|138100|0.33%|
+|Panda_Crit|138055|0.30%|
+|Undead|137948|0.22%|
+|Zandalari_Troll_Kimbul|137945|0.22%|
+|Panda_Haste|137943|0.22%|
+|Zandalari_Troll_Bwonsamdi|137867|0.16%|
+|Vulpera|137746|0.07%|
+|Lightforged_Draenei|137678|0.03%|
+|Base|137643|0.00%|
