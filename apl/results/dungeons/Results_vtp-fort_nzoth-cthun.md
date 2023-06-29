@@ -1,5 +1,5 @@
 # vtp-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|124701|1.37%|
-|Base|123020|0.00%|
+|Base|124477|0.00%|
+|bender_da_sync|124458|-0.02%|

@@ -1,5 +1,5 @@
 # Dungeons - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|131109|1.06%|
-|Base|129731|0.00%|
+|bender_da_sync|127494|0.01%|
+|Base|127482|0.00%|

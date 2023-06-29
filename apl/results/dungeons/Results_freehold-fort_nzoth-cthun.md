@@ -1,5 +1,5 @@
 # freehold-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|146932|1.72%|
-|Base|144443|0.00%|
+|Base|146429|0.00%|
+|bender_da_sync|146382|-0.03%|

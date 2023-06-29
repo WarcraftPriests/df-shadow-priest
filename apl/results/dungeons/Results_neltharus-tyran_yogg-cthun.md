@@ -1,5 +1,5 @@
 # neltharus-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|132935|0.78%|
-|Base|131900|0.00%|
+|bender_da_sync|130851|0.01%|
+|Base|130832|0.00%|

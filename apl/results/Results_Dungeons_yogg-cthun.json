@@ -1,1 +1,1 @@
-{"name": "Dungeons - yogg-cthun", "data": {"new": {"DPS": 131109}, "Base": {"DPS": 129731}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "Dungeons - yogg-cthun", "data": {"bender_da_sync": {"DPS": 127494}, "Base": {"DPS": 127482}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

@@ -1,5 +1,5 @@
 # 2T - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|157303|1.44%|
-|Base|155066|0.00%|
+|Base|157859|0.00%|
+|bender_da_sync|157841|-0.01%|

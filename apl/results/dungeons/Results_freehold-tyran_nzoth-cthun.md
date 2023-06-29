@@ -1,5 +1,5 @@
 # freehold-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|133289|1.58%|
-|Base|131212|0.00%|
+|bender_da_sync|133336|0.08%|
+|Base|133223|0.00%|

@@ -1,5 +1,5 @@
 # hoi-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|110808|1.89%|
-|Base|108748|0.00%|
+|bender_da_sync|112502|0.06%|
+|Base|112438|0.00%|

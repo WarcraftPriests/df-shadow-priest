@@ -1,1 +1,1 @@
-{"name": "bhh-tyran - nzoth-cthun", "data": {"new": {"DPS": 134672}, "Base": {"DPS": 132961}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "bhh-tyran - nzoth-cthun", "data": {"Base": {"DPS": 135423}, "bender_da_sync": {"DPS": 135387}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-29"}

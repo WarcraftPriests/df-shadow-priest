@@ -1,1 +1,1 @@
-{"name": "4T - yogg-cthun", "data": {"new": {"DPS": 300960}, "Base": {"DPS": 300855}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "4T - yogg-cthun", "data": {"Base": {"DPS": 285181}, "bender_da_sync": {"DPS": 285137}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

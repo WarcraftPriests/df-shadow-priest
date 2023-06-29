@@ -1,1 +1,1 @@
-{"name": "freehold-fort - nzoth-cthun", "data": {"new": {"DPS": 146932}, "Base": {"DPS": 144443}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "freehold-fort - nzoth-cthun", "data": {"Base": {"DPS": 146429}, "bender_da_sync": {"DPS": 146382}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-29"}

@@ -1,5 +1,5 @@
 # Single - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|108855|0.40%|
-|Base|108416|0.00%|
+|bender_da_sync|111784|0.02%|
+|Base|111757|0.00%|

@@ -1,5 +1,5 @@
 # Composite - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|124234|0.58%|
-|Base|123514|0.00%|
+|Base|123071|0.00%|
+|bender_da_sync|123045|-0.02%|

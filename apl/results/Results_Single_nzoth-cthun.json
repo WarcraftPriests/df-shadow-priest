@@ -1,1 +1,1 @@
-{"name": "Single - nzoth-cthun", "data": {"new": {"DPS": 108855}, "Base": {"DPS": 108416}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "Single - nzoth-cthun", "data": {"bender_da_sync": {"DPS": 111784}, "Base": {"DPS": 111757}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

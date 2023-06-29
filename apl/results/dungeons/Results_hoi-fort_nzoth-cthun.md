@@ -1,5 +1,5 @@
 # hoi-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|120553|1.31%|
-|Base|118996|0.00%|
+|Base|121992|0.00%|
+|bender_da_sync|121831|-0.13%|

@@ -1,1 +1,1 @@
-{"name": "ur-fort - yogg-cthun", "data": {"new": {"DPS": 124271}, "Base": {"DPS": 122911}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "ur-fort - yogg-cthun", "data": {"bender_da_sync": {"DPS": 121071}, "Base": {"DPS": 121055}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

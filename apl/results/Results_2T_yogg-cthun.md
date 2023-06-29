@@ -1,5 +1,5 @@
 # 2T - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|167648|1.11%|
-|Base|165807|0.00%|
+|bender_da_sync|162611|0.05%|
+|Base|162537|0.00%|

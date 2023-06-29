@@ -1,5 +1,5 @@
 # freehold-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|153059|1.09%|
-|Base|151414|0.00%|
+|bender_da_sync|148403|0.00%|
+|Base|148396|0.00%|

@@ -1,1 +1,1 @@
-{"name": "nelths-fort - nzoth-cthun", "data": {"new": {"DPS": 109090}, "Base": {"DPS": 107297}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "nelths-fort - nzoth-cthun", "data": {"Base": {"DPS": 109828}, "bender_da_sync": {"DPS": 109668}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-29"}

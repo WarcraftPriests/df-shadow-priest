@@ -1,5 +1,5 @@
 # nelths-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|111629|1.09%|
-|Base|110423|0.00%|
+|bender_da_sync|109617|0.00%|
+|Base|109614|0.00%|

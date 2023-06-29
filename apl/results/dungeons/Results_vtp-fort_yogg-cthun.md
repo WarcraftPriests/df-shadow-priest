@@ -1,5 +1,5 @@
 # vtp-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|129713|0.94%|
-|Base|128505|0.00%|
+|Base|126203|0.00%|
+|bender_da_sync|126190|-0.01%|

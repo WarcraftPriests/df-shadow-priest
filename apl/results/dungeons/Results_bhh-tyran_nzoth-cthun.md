@@ -1,5 +1,5 @@
 # bhh-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|134672|1.29%|
-|Base|132961|0.00%|
+|Base|135423|0.00%|
+|bender_da_sync|135387|-0.03%|

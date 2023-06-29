@@ -1,5 +1,5 @@
 # ulda-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|150890|0.85%|
-|Base|149618|0.00%|
+|bender_da_sync|145133|0.02%|
+|Base|145098|0.00%|

@@ -1,1 +1,1 @@
-{"name": "ulda-fort - yogg-cthun", "data": {"new": {"DPS": 150890}, "Base": {"DPS": 149618}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "ulda-fort - yogg-cthun", "data": {"bender_da_sync": {"DPS": 145133}, "Base": {"DPS": 145098}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

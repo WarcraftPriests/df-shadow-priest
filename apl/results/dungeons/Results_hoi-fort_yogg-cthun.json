@@ -1,1 +1,1 @@
-{"name": "hoi-fort - yogg-cthun", "data": {"new": {"DPS": 124184}, "Base": {"DPS": 122237}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "hoi-fort - yogg-cthun", "data": {"Base": {"DPS": 121627}, "bender_da_sync": {"DPS": 121627}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

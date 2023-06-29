@@ -1,5 +1,5 @@
 # ulda-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|145024|1.69%|
-|Base|142614|0.00%|
+|bender_da_sync|144213|0.04%|
+|Base|144157|0.00%|

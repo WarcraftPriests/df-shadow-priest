@@ -1,5 +1,5 @@
 # ulda-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|139359|1.16%|
-|Base|137757|0.00%|
+|Base|133642|0.00%|
+|bender_da_sync|133626|-0.01%|

@@ -1,1 +1,1 @@
-{"name": "neltharus-tyran - yogg-cthun", "data": {"new": {"DPS": 132935}, "Base": {"DPS": 131900}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "neltharus-tyran - yogg-cthun", "data": {"bender_da_sync": {"DPS": 130851}, "Base": {"DPS": 130832}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

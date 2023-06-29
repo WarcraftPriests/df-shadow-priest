@@ -1,5 +1,5 @@
 # hoi-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|124184|1.59%|
-|Base|122237|0.00%|
+|Base|121627|0.00%|
+|bender_da_sync|121627|0.00%|

@@ -23,9 +23,11 @@ main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 # Dawn of the Infinite Mega-Dungeon (Veteren level drops)
-profileset."Mirror_of_Fractured_Tomorrows_424"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=421
+profileset."Mirror_of_Fractured_Tomorrows_424"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=424
+profileset."Mirror_of_Fractured_Tomorrows_441"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=441
 
-profileset."Time_Thiefs_Gambit_424"+=trinket1=timethiefs_gambit,id=207579,ilevel=421
+profileset."Time_Thiefs_Gambit_424"+=trinket1=timethiefs_gambit,id=207579,ilevel=424
+profileset."Time_Thiefs_Gambit_441"+=trinket1=timethiefs_gambit,id=207579,ilevel=441
 
 # Mythic+ Trinkets (End of Run): 402/405/408/411/415/418/421/424/428/431
 # Mythic+ Trinkets (Great Vault): 434/437/441/444/447

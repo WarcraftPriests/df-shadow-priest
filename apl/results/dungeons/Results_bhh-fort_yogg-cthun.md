@@ -1,5 +1,5 @@
 # bhh-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|151064|0.55%|
-|Base|150236|0.00%|
+|bender_da_sync|146970|0.02%|
+|Base|146947|0.00%|

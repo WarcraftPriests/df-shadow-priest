@@ -1,5 +1,5 @@
 # ur-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|112376|2.00%|
-|Base|110168|0.00%|
+|bender_da_sync|112850|0.01%|
+|Base|112840|0.00%|

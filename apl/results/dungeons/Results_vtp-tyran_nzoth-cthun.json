@@ -1,1 +1,1 @@
-{"name": "vtp-tyran - nzoth-cthun", "data": {"new": {"DPS": 116297}, "Base": {"DPS": 114469}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "vtp-tyran - nzoth-cthun", "data": {"bender_da_sync": {"DPS": 116809}, "Base": {"DPS": 116777}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-29"}

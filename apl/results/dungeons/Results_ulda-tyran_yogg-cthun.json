@@ -1,1 +1,1 @@
-{"name": "ulda-tyran - yogg-cthun", "data": {"new": {"DPS": 139359}, "Base": {"DPS": 137757}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "ulda-tyran - yogg-cthun", "data": {"Base": {"DPS": 133642}, "bender_da_sync": {"DPS": 133626}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

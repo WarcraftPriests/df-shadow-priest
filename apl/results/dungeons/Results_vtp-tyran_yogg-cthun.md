@@ -1,5 +1,5 @@
 # vtp-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|121081|1.55%|
-|Base|119234|0.00%|
+|bender_da_sync|117015|0.02%|
+|Base|116997|0.00%|

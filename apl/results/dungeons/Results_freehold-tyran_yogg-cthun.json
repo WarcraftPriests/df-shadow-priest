@@ -1,1 +1,1 @@
-{"name": "freehold-tyran - yogg-cthun", "data": {"new": {"DPS": 137450}, "Base": {"DPS": 136293}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "freehold-tyran - yogg-cthun", "data": {"bender_da_sync": {"DPS": 132900}, "Base": {"DPS": 132872}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

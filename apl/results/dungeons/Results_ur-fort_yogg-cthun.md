@@ -1,5 +1,5 @@
 # ur-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|124271|1.11%|
-|Base|122911|0.00%|
+|bender_da_sync|121071|0.01%|
+|Base|121055|0.00%|

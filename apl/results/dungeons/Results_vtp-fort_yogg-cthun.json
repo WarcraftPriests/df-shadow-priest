@@ -1,1 +1,1 @@
-{"name": "vtp-fort - yogg-cthun", "data": {"new": {"DPS": 129713}, "Base": {"DPS": 128505}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "vtp-fort - yogg-cthun", "data": {"Base": {"DPS": 126203}, "bender_da_sync": {"DPS": 126190}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

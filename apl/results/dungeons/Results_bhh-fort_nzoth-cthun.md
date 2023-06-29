@@ -1,5 +1,5 @@
 # bhh-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|146296|1.49%|
-|Base|144149|0.00%|
+|Base|146214|0.00%|
+|bender_da_sync|145841|-0.26%|

@@ -1,5 +1,5 @@
 # neltharus-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|142943|1.65%|
-|Base|140623|0.00%|
+|bender_da_sync|142994|0.10%|
+|Base|142853|0.00%|

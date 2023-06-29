@@ -1,5 +1,5 @@
 # ulda-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|132542|1.59%|
-|Base|130462|0.00%|
+|bender_da_sync|131912|0.01%|
+|Base|131902|0.00%|

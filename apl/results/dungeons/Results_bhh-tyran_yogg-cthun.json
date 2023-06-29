@@ -1,1 +1,1 @@
-{"name": "bhh-tyran - yogg-cthun", "data": {"new": {"DPS": 137968}, "Base": {"DPS": 136938}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "bhh-tyran - yogg-cthun", "data": {"bender_da_sync": {"DPS": 134527}, "Base": {"DPS": 134472}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

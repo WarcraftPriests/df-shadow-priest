@@ -1,5 +1,5 @@
 # nelths-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|102764|1.66%|
-|Base|101085|0.00%|
+|Base|104175|0.00%|
+|bender_da_sync|103900|-0.26%|

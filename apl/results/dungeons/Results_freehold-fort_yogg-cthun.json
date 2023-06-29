@@ -1,1 +1,1 @@
-{"name": "freehold-fort - yogg-cthun", "data": {"new": {"DPS": 153059}, "Base": {"DPS": 151414}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "freehold-fort - yogg-cthun", "data": {"bender_da_sync": {"DPS": 148403}, "Base": {"DPS": 148396}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-28"}

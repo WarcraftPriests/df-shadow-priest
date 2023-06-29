@@ -1,1 +1,1 @@
-{"name": "neltharus-tyran - nzoth-cthun", "data": {"new": {"DPS": 130120}, "Base": {"DPS": 127751}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2023-06-18"}
+{"name": "neltharus-tyran - nzoth-cthun", "data": {"Base": {"DPS": 130496}, "bender_da_sync": {"DPS": 130490}}, "ids": {"bender_da_sync": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["bender_da_sync"], "last_updated": "2023-06-29"}

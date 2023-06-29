@@ -1,5 +1,5 @@
 # ur-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|116260|1.43%|
-|Base|114618|0.00%|
+|bender_da_sync|112817|0.01%|
+|Base|112809|0.00%|
