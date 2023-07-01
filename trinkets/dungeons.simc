@@ -35,9 +35,6 @@ profileset."Time_Thiefs_Gambit_441"+=trinket1=timethiefs_gambit,id=207579,ilevel
 # https://www.wowhead.com/news/dragonflight-season-2-dungeon-item-level-rewards-better-weekly-loot-at-lower-332078
 
 # Dragonflight S2 Mythic+ Trinkets
-profileset."Idol_of_Pure_Decay_402"+=trinket1=idol_of_pure_decay,id=193660,ilevel=402
-profileset."Idol_of_Pure_Decay_405"+=trinket1=idol_of_pure_decay,id=193660,ilevel=405
-profileset."Idol_of_Pure_Decay_408"+=trinket1=idol_of_pure_decay,id=193660,ilevel=408
 profileset."Idol_of_Pure_Decay_411"+=trinket1=idol_of_pure_decay,id=193660,ilevel=411
 profileset."Idol_of_Pure_Decay_415"+=trinket1=idol_of_pure_decay,id=193660,ilevel=415
 profileset."Idol_of_Pure_Decay_418"+=trinket1=idol_of_pure_decay,id=193660,ilevel=418
@@ -51,9 +48,6 @@ profileset."Idol_of_Pure_Decay_441"+=trinket1=idol_of_pure_decay,id=193660,ileve
 profileset."Idol_of_Pure_Decay_444"+=trinket1=idol_of_pure_decay,id=193660,ilevel=444
 profileset."Idol_of_Pure_Decay_447"+=trinket1=idol_of_pure_decay,id=193660,ilevel=447
 
-profileset."Irideus_Fragment_402"+=trinket1=irideus_fragment,id=193743,ilevel=402
-profileset."Irideus_Fragment_405"+=trinket1=irideus_fragment,id=193743,ilevel=405
-profileset."Irideus_Fragment_408"+=trinket1=irideus_fragment,id=193743,ilevel=408
 profileset."Irideus_Fragment_411"+=trinket1=irideus_fragment,id=193743,ilevel=411
 profileset."Irideus_Fragment_415"+=trinket1=irideus_fragment,id=193743,ilevel=415
 profileset."Irideus_Fragment_418"+=trinket1=irideus_fragment,id=193743,ilevel=418
@@ -67,9 +61,6 @@ profileset."Irideus_Fragment_441"+=trinket1=irideus_fragment,id=193743,ilevel=44
 profileset."Irideus_Fragment_444"+=trinket1=irideus_fragment,id=193743,ilevel=444
 profileset."Irideus_Fragment_447"+=trinket1=irideus_fragment,id=193743,ilevel=447
 
-profileset."Erupting_Spear_Fragment_402"+=trinket1=erupting_spear_fragment,id=193769,ilevel=402
-profileset."Erupting_Spear_Fragment_405"+=trinket1=erupting_spear_fragment,id=193769,ilevel=405
-profileset."Erupting_Spear_Fragment_408"+=trinket1=erupting_spear_fragment,id=193769,ilevel=408
 profileset."Erupting_Spear_Fragment_411"+=trinket1=erupting_spear_fragment,id=193769,ilevel=411
 profileset."Erupting_Spear_Fragment_415"+=trinket1=erupting_spear_fragment,id=193769,ilevel=415
 profileset."Erupting_Spear_Fragment_418"+=trinket1=erupting_spear_fragment,id=193769,ilevel=418
@@ -83,9 +74,6 @@ profileset."Erupting_Spear_Fragment_441"+=trinket1=erupting_spear_fragment,id=19
 profileset."Erupting_Spear_Fragment_444"+=trinket1=erupting_spear_fragment,id=193769,ilevel=444
 profileset."Erupting_Spear_Fragment_447"+=trinket1=erupting_spear_fragment,id=193769,ilevel=447
 
-profileset."Spoils_of_Neltharus_402"+=trinket1=spoils_of_neltharus,id=193773,ilevel=402
-profileset."Spoils_of_Neltharus_405"+=trinket1=spoils_of_neltharus,id=193773,ilevel=405
-profileset."Spoils_of_Neltharus_408"+=trinket1=spoils_of_neltharus,id=193773,ilevel=408
 profileset."Spoils_of_Neltharus_411"+=trinket1=spoils_of_neltharus,id=193773,ilevel=411
 profileset."Spoils_of_Neltharus_415"+=trinket1=spoils_of_neltharus,id=193773,ilevel=415
 profileset."Spoils_of_Neltharus_418"+=trinket1=spoils_of_neltharus,id=193773,ilevel=418
@@ -99,9 +87,6 @@ profileset."Spoils_of_Neltharus_441"+=trinket1=spoils_of_neltharus,id=193773,ile
 profileset."Spoils_of_Neltharus_444"+=trinket1=spoils_of_neltharus,id=193773,ilevel=444
 profileset."Spoils_of_Neltharus_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 
-profileset."Time_Breaching_Talon_402"+=trinket1=time_breaching_talon,id=193791,ilevel=402
-profileset."Time_Breaching_Talon_405"+=trinket1=time_breaching_talon,id=193791,ilevel=405
-profileset."Time_Breaching_Talon_408"+=trinket1=time_breaching_talon,id=193791,ilevel=408
 profileset."Time_Breaching_Talon_411"+=trinket1=time_breaching_talon,id=193791,ilevel=411
 profileset."Time_Breaching_Talon_415"+=trinket1=time_breaching_talon,id=193791,ilevel=415
 profileset."Time_Breaching_Talon_418"+=trinket1=time_breaching_talon,id=193791,ilevel=418
@@ -115,12 +100,6 @@ profileset."Time_Breaching_Talon_441"+=trinket1=time_breaching_talon,id=193791,i
 profileset."Time_Breaching_Talon_444"+=trinket1=time_breaching_talon,id=193791,ilevel=444
 profileset."Time_Breaching_Talon_447"+=trinket1=time_breaching_talon,id=193791,ilevel=447
 
-profileset."Naraxas_Spiked_Tongue_402"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=402
-profileset."Naraxas_Spiked_Tongue_402"+=distance=20
-profileset."Naraxas_Spiked_Tongue_405"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=405
-profileset."Naraxas_Spiked_Tongue_405"+=distance=20
-profileset."Naraxas_Spiked_Tongue_408"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=408
-profileset."Naraxas_Spiked_Tongue_408"+=distance=20
 profileset."Naraxas_Spiked_Tongue_411"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=411
 profileset."Naraxas_Spiked_Tongue_411"+=distance=20
 profileset."Naraxas_Spiked_Tongue_415"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=415
@@ -146,9 +125,6 @@ profileset."Naraxas_Spiked_Tongue_444"+=distance=20
 profileset."Naraxas_Spiked_Tongue_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
 profileset."Naraxas_Spiked_Tongue_447"+=distance=20
 
-profileset."Rotcrusted_Voodoo_Doll_402"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=402
-profileset."Rotcrusted_Voodoo_Doll_405"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=405
-profileset."Rotcrusted_Voodoo_Doll_408"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=408
 profileset."Rotcrusted_Voodoo_Doll_411"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=411
 profileset."Rotcrusted_Voodoo_Doll_415"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=415
 profileset."Rotcrusted_Voodoo_Doll_418"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=418
