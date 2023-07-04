@@ -1,18 +1,18 @@
 # vtp-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|120915|0.77%|
-|Thousandbone_Tongueslicer|120851|0.72%|
-|Great_Cerulean_Sea|120803|0.68%|
-|Fated_Fortune_Cookie|120799|0.67%|
-|Revenge_Served_Cold|120781|0.66%|
-|Sizzling_Seafood_Medley|120701|0.59%|
-|Feisty_Fish_Sticks|120695|0.59%|
-|Salt_Baked_Fishcake|120656|0.55%|
-|Aromatic_Seafood_Platter|120648|0.55%|
-|Seamoth_Surprise|120616|0.52%|
-|Filet_of_Fangs|120611|0.52%|
-|Timely_Demise|120525|0.45%|
-|Roast_Duck_Delight|120317|0.27%|
-|Thrice_Spiced_Mammoth_Kabob|120254|0.22%|
-|Base|119991|0.00%|
+|Draconic_Augment_Rune|123650|0.75%|
+|Great_Cerulean_Sea|123514|0.64%|
+|Thousandbone_Tongueslicer|123513|0.64%|
+|Revenge_Served_Cold|123509|0.63%|
+|Fated_Fortune_Cookie|123508|0.63%|
+|Sizzling_Seafood_Medley|123422|0.56%|
+|Aromatic_Seafood_Platter|123397|0.54%|
+|Feisty_Fish_Sticks|123394|0.54%|
+|Salt_Baked_Fishcake|123370|0.52%|
+|Seamoth_Surprise|123314|0.47%|
+|Filet_of_Fangs|123312|0.47%|
+|Timely_Demise|123210|0.39%|
+|Roast_Duck_Delight|123090|0.29%|
+|Thrice_Spiced_Mammoth_Kabob|122982|0.20%|
+|Base|122732|0.00%|

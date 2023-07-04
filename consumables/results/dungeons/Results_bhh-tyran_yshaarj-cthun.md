@@ -1,18 +1,18 @@
 # bhh-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|136587|0.69%|
-|Great_Cerulean_Sea|136449|0.59%|
-|Fated_Fortune_Cookie|136436|0.58%|
-|Revenge_Served_Cold|136436|0.58%|
-|Sizzling_Seafood_Medley|136372|0.53%|
-|Thousandbone_Tongueslicer|136354|0.52%|
-|Salt_Baked_Fishcake|136347|0.51%|
-|Aromatic_Seafood_Platter|136334|0.50%|
-|Feisty_Fish_Sticks|136279|0.46%|
-|Filet_of_Fangs|136222|0.42%|
-|Seamoth_Surprise|136188|0.39%|
-|Timely_Demise|136137|0.36%|
-|Roast_Duck_Delight|136012|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|135807|0.11%|
-|Base|135655|0.00%|
+|Draconic_Augment_Rune|139818|0.65%|
+|Revenge_Served_Cold|139752|0.60%|
+|Great_Cerulean_Sea|139735|0.59%|
+|Thousandbone_Tongueslicer|139718|0.58%|
+|Fated_Fortune_Cookie|139696|0.56%|
+|Salt_Baked_Fishcake|139583|0.48%|
+|Sizzling_Seafood_Medley|139576|0.47%|
+|Filet_of_Fangs|139546|0.45%|
+|Aromatic_Seafood_Platter|139543|0.45%|
+|Seamoth_Surprise|139516|0.43%|
+|Feisty_Fish_Sticks|139511|0.43%|
+|Timely_Demise|139327|0.29%|
+|Roast_Duck_Delight|139231|0.23%|
+|Thrice_Spiced_Mammoth_Kabob|139128|0.15%|
+|Base|138918|0.00%|

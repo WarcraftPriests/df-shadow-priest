@@ -24,6 +24,12 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
+# 10.1.5 Special Items
+profileset."Feet_Imbued_Frostweave_Slippers_441"+=feet=imbued_frostweave_slippers,id=207817,ilevel=441
+
+profileset."2h_Iridal_the_Earths_Master_441"+=main_hand=iridal_the_earths_master,id=208321,ilevel=441,enchant_id=6643
+profileset."2h_Iridal_the_Earths_Master_441"+=off_hand=disabled
+
 # 10.1 Special Items
 profileset."Back_Voice_of_the_Silent_Star_431"+=back=voice_of_the_silent_star,id=204465,ilevel=431
 profileset."Back_Voice_of_the_Silent_Star_441"+=back=voice_of_the_silent_star,id=204465,ilevel=441

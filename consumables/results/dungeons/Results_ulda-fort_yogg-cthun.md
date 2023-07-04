@@ -1,18 +1,18 @@
 # ulda-fort - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|150877|0.69%|
-|Thousandbone_Tongueslicer|150805|0.64%|
-|Revenge_Served_Cold|150790|0.63%|
-|Great_Cerulean_Sea|150779|0.63%|
-|Fated_Fortune_Cookie|150755|0.61%|
-|Sizzling_Seafood_Medley|150703|0.58%|
-|Aromatic_Seafood_Platter|150691|0.57%|
-|Feisty_Fish_Sticks|150659|0.55%|
-|Salt_Baked_Fishcake|150620|0.52%|
-|Filet_of_Fangs|150598|0.51%|
-|Seamoth_Surprise|150551|0.47%|
-|Timely_Demise|150457|0.41%|
-|Roast_Duck_Delight|150219|0.25%|
-|Thrice_Spiced_Mammoth_Kabob|150111|0.18%|
-|Base|149841|0.00%|
+|Draconic_Augment_Rune|154254|0.57%|
+|Revenge_Served_Cold|154167|0.52%|
+|Thousandbone_Tongueslicer|154162|0.51%|
+|Great_Cerulean_Sea|154156|0.51%|
+|Aromatic_Seafood_Platter|154117|0.48%|
+|Fated_Fortune_Cookie|154117|0.48%|
+|Sizzling_Seafood_Medley|154115|0.48%|
+|Feisty_Fish_Sticks|154049|0.44%|
+|Salt_Baked_Fishcake|154034|0.43%|
+|Timely_Demise|153956|0.38%|
+|Seamoth_Surprise|153951|0.38%|
+|Filet_of_Fangs|153901|0.34%|
+|Roast_Duck_Delight|153747|0.24%|
+|Thrice_Spiced_Mammoth_Kabob|153648|0.18%|
+|Base|153375|0.00%|

@@ -1,18 +1,18 @@
 # freehold-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|136470|0.64%|
-|Great_Cerulean_Sea|136320|0.53%|
-|Fated_Fortune_Cookie|136306|0.52%|
-|Revenge_Served_Cold|136279|0.50%|
-|Thousandbone_Tongueslicer|136273|0.49%|
-|Feisty_Fish_Sticks|136248|0.47%|
-|Sizzling_Seafood_Medley|136189|0.43%|
-|Salt_Baked_Fishcake|136160|0.41%|
-|Aromatic_Seafood_Platter|136159|0.41%|
-|Filet_of_Fangs|136156|0.41%|
-|Seamoth_Surprise|136058|0.33%|
-|Timely_Demise|136048|0.33%|
-|Roast_Duck_Delight|135832|0.17%|
-|Thrice_Spiced_Mammoth_Kabob|135781|0.13%|
-|Base|135605|0.00%|
+|Draconic_Augment_Rune|139093|0.54%|
+|Great_Cerulean_Sea|139070|0.52%|
+|Thousandbone_Tongueslicer|139041|0.50%|
+|Revenge_Served_Cold|139001|0.47%|
+|Fated_Fortune_Cookie|138992|0.46%|
+|Salt_Baked_Fishcake|138968|0.45%|
+|Feisty_Fish_Sticks|138953|0.44%|
+|Sizzling_Seafood_Medley|138937|0.42%|
+|Filet_of_Fangs|138900|0.40%|
+|Seamoth_Surprise|138883|0.38%|
+|Aromatic_Seafood_Platter|138873|0.38%|
+|Timely_Demise|138784|0.31%|
+|Roast_Duck_Delight|138647|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|138495|0.10%|
+|Base|138351|0.00%|
