@@ -21,7 +21,7 @@ fightExpressions = {
     "4": 'desired_targets=4',
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": 'ptr=1\n',
-    "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'
+    "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'  # noqa: E501
 }
 
 
@@ -82,7 +82,6 @@ def generate_stat_string(stat_distribution, name):
 
 
 def build_stats_files():
-    # pylint: disable=too-many-locals
     """Build generated.simc stats file from stats.simc"""
     sim_file = 'stats.simc'
     base_file = f"{args.dir}{sim_file}"
@@ -167,7 +166,6 @@ def create_talent_builds():
 
 
 def build_profiles(talent_string, apl_string):
-    # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
@@ -177,7 +175,7 @@ def build_profiles(talent_string, apl_string):
         overrides = overrides_file.read()
         overrides_file.close()
     combinations = [
-        f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets
+        f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets  # noqa: E501
     ]
     sim_files = config["sims"][args.dir[:-1]]["files"]
 
@@ -212,7 +210,7 @@ def build_profiles(talent_string, apl_string):
                 config["twoTargetWeights"]).get(profile) or 0
             four_target_weight = find_weights(
                 config["fourTargetWeights"]).get(profile) or 0
-            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:  # noqa: E501
                 # print(f"Skipping profile {profile} weights are all 0.")
                 continue
 

@@ -31,17 +31,17 @@ def generate_parser(description):
     parser.add_argument(
         '--dungeons', help='Run a dungeonsimming batch of sims.', action='store_true')
     parser.add_argument(
-        '--talents', help='indicate talent build for output.', choices=config["builds"].keys())
+        '--talents', help='indicate talent build for output.', choices=config["builds"].keys())  # noqa: E501
     parser.add_argument(
         '--ptr', help='indicate if the sim should use ptr data.', action='store_true')
     parser.add_argument(
-        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
+        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')  # noqa: E501
     parser.add_argument(
-        '--iterations', help='Pass through specific iterations to run on. Default is 10000')
+        '--iterations', help='Pass through specific iterations to run on. Default is 10000')  # noqa: E501
     parser.add_argument(
-        '--local', help='indicate if the simulation should run local.', action='store_true')
+        '--local', help='indicate if the simulation should run local.', action='store_true')  # noqa: E501
     parser.add_argument(
-        '--auto_download', help='indicate if we should automatically download latest simc.',
+        '--auto_download', help='indicate if we should automatically download latest simc.',  # noqa: E501
         action='store_true'
     )
     return parser

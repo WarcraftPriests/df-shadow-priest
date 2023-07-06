@@ -47,7 +47,7 @@ if __name__ == '__main__':
             # Don't add combos that waste points on TS without Yogg
             if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
                 continue
-            # Don't add combos that waste points on Shadow Crash without Whispering Shadows
+            # Don't add combos that waste points on Shadow Crash without Whispering Shadows  # noqa: E501
             if "shadow_crash" in line and "whispering_shadows" not in line:
                 continue
             # Don't add combos that waste points on Inescapable Torment without Y'Shaarj
@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
             # Make sure you are efficiently spending points
             HALF_SELECTED_MID_TALENTS = 0
-            for t in ["maddening_touch", "dark_evangelism", "mind_devourer", "phantasmal_pathogen"]:
+            for t in ["maddening_touch", "dark_evangelism", "mind_devourer", "phantasmal_pathogen"]:  # noqa: E501
                 if t + ":1" in line:
                     HALF_SELECTED_MID_TALENTS = HALF_SELECTED_MID_TALENTS + 1
 
@@ -72,7 +72,7 @@ if __name__ == '__main__':
                 continue
 
             # Only use Deathspeaker with Mastermind or Inescapable Torment
-            if "deathspeaker" in line and "mastermind" not in line and "inescapable" not in line:
+            if "deathspeaker" in line and "mastermind" not in line and "inescapable" not in line:  # noqa: E501
                 continue
 
             idols = ["yshaarj", "nzoth", "yogg", "cthun"]

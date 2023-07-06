@@ -191,7 +191,6 @@ tiersets = {
 
 
 def find_ids(key):
-    # pylint: disable=too-many-return-statements
     """return the matching dict"""
     if key == 'racials':
         return racials

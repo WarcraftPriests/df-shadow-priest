@@ -4,7 +4,6 @@ python build_combos.py
 """
 
 from itertools import combinations
-# pylint: disable=line-too-long
 
 combos = {
     # s2 dungeons (441/447)
@@ -22,25 +21,21 @@ combos = {
     "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
     "Rotcrusted_Voodoo_Doll_447": "rotcrusted_voodoo_doll,id=159624,ilevel=447",
     # aberrus the shadowed crucible
-    "Screaming_Black_Dragonscale_441": "screaming_black_dragonscale,id=202612,ilevel=441",
-    "Screaming_Black_Dragonscale_447": "screaming_black_dragonscale,id=202612,ilevel=447",
+    "Screaming_Black_Dragonscale_441": "screaming_black_dragonscale,id=202612,ilevel=441",  # noqa: E501
+    "Screaming_Black_Dragonscale_447": "screaming_black_dragonscale,id=202612,ilevel=447",  # noqa: E501
     "Vessel_of_Searing_Shadow_441": "vessel_of_searing_shadow,id=202615,ilevel=441",
     "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
-    "Ominous_Chromatic_Essence_Bronze_441": "ominous_chromatic_essence,id=203729,ilevel=441",
-    "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",
-    "Ominous_Chromatic_Essence_Azure_441": "ominous_chromatic_essence,id=203729,ilevel=441",
-    "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",
-    "Ominous_Chromatic_Essence_Emerald_441": "ominous_chromatic_essence,id=203729,ilevel=441",
-    "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",
+    "Ominous_Chromatic_Essence_Bronze_441": "ominous_chromatic_essence,id=203729,ilevel=441",  # noqa: E501
+    "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
+    "Ominous_Chromatic_Essence_Azure_441": "ominous_chromatic_essence,id=203729,ilevel=441",  # noqa: E501
+    "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
+    "Ominous_Chromatic_Essence_Emerald_441": "ominous_chromatic_essence,id=203729,ilevel=441",  # noqa: E501
+    "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441",
     "Igneous_Flowstone_447": "igneous_flowstone,id=203996,ilevel=447",
-    "Neltharions_Call_to_Suffering_447": "neltharions_call_to_suffering,id=204211,ilevel=447",
-    "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",
+    "Neltharions_Call_to_Suffering_447": "neltharions_call_to_suffering,id=204211,ilevel=447",  # noqa: E501
+    "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
     "Beacon_to_the_Beyond_450": "beacon_to_the_beyond,id=203963,ilevel=450",
-    # s1 dungeons (415/421)
-    # "Voidmenders_Shadowgem_421": "voidmenders_shadowgem,id=110007,ilevel=421",
-    # vault of the incarnates
-    # "Whispering_Incarnate_Icon_0_421": "whispering_incarnate_icon,id=194301,ilevel=421",
 }
 
 
@@ -81,10 +76,10 @@ def build_simc_string(trinkets):
                     roles = "dps/tank"
                 elif int(allies_count) == 2:
                     roles = "tank/heal/dps"
-                result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"
+                result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"  # noqa: E501
             if "Ominous_Chromatic_Essence" in trinket:
                 dragonflight = trinket.split("_")[3].lower()
-                result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_dragonflight={dragonflight}\n"
+                result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_dragonflight={dragonflight}\n"  # noqa: E501
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket2={trinket_two_value}\n\n"
     return result

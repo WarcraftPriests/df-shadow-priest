@@ -14,7 +14,7 @@ def build_range(min_ilevel, max_ilevel):
 def build_trinket(name, item_id, ilevel):
     """build the correct trinket string"""
     item_name = name.lower()
-    return f"profileset.\"{name}_{ilevel}\"+=trinket1={item_name},id={item_id},ilevel={ilevel}"
+    return f"profileset.\"{name}_{ilevel}\"+=trinket1={item_name},id={item_id},ilevel={ilevel}"  # noqa: E501
 
 
 def build_trinket_with_options(name, item_id, ilevel, options):
@@ -32,14 +32,9 @@ def build_trinket_with_options(name, item_id, ilevel, options):
 
 
 def build_option(name, ilevel, option):
-    # pylint: disable=line-too-long
     """build additional option into the profileset"""
-    if name == "Soleahs_Secret_Technique":
-        return f"profileset.\"{name}_{option}_{ilevel}\"+=shadowlands.soleahs_secret_technique_type={option.lower()}"
-    if name == "Unbound_Changeling":
-        return f"profileset.\"{name}_{option}_{ilevel}\"+=shadowlands.unbound_changeling_stat_type={option.lower()}"
     if name == "Inscrutable_Quantum_Device_Only_Opener":
-        return f"profileset.\"{name}_{ilevel}\"+=shadowlands.iqd_stat_fail_chance={option}"
+        return f"profileset.\"{name}_{ilevel}\"+=shadowlands.iqd_stat_fail_chance={option}"  # noqa: E501
     return ""
 
 
@@ -65,7 +60,7 @@ def main():
             continue
         if args.name == "Soleahs_Secret_Technique":
             trinket_list.extend(build_trinket_with_options(
-                args.name, args.id, ilevel, ['Haste', 'Versatility', 'Crit', 'Mastery']))
+                args.name, args.id, ilevel, ['Haste', 'Versatility', 'Crit', 'Mastery']))  # noqa: E501
         elif args.name == "Unbound_Changeling":
             trinket_list.extend(build_trinket_with_options(
                 args.name, args.id, ilevel, ['Haste', 'Crit', 'Mastery', 'All']))

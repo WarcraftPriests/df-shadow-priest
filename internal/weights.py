@@ -131,7 +131,6 @@ weights_season_two = {
 
 
 def find_weights(key):
-    # pylint: disable=too-many-return-statements
     """return the matching dict"""
     if key == 'weightsSingle':
         return weights_single

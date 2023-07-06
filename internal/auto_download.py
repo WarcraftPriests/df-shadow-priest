@@ -71,7 +71,6 @@ def _find_7zip(search_paths):
 
 
 def _cleanup_older_files(download_dir, current_dir):
-    # pylint: disable=bare-except
     try:
         files = glob.glob(f"{download_dir}/simc*")
         for file in files:
@@ -81,8 +80,8 @@ def _cleanup_older_files(download_dir, current_dir):
             ):
                 print(f"Removing old simc from '{os.path.basename(file)}'.")
                 os.remove(file)
-    except:
-        print("Unable to automatically remove files, cleanup old files in auto_download/")
+    except:  # noqa: E722
+        print("Unable to automatically remove files, cleanup old files in auto_download/")  # noqa: E501
 
 
 def _rename_directory(glob_path, commit):

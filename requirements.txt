@@ -1,5 +1,5 @@
-pyyaml>5.1
-pandas==1.1.4
-requests>=2.23.0
-numpy==1.19.3
-tqdm>=4.51.0
+pyyaml>=6.0
+pandas>=2.0.3
+requests>=2.31.0
+numpy>=1.24.4
+tqdm>=4.65.0

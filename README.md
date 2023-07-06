@@ -10,6 +10,9 @@ This repo includes scripts and sims for shadow priests.
 - [Discord](https://discord.gg/WarcraftPriests)
 - [Website](https://warcraftpriests.com/)
 
+## Contributing
+Contributions are always welcome, this project uses `ruff` for linting.
+
 ## How to Run
 All scripts are run built with python3, but should be able to be run with python2 (results may vary).
 
@@ -18,16 +21,16 @@ All scripts are run built with python3, but should be able to be run with python
 2. Edit and confirm config in `config.yml`, this controls how profiles are built, sims are ran, and aggregated. See the [wiki](https://github.com/WarcraftPriests/df-shadow-priest/wiki/Config-File) for more information.
 
 ### Full Suite
-To run every folder of sims for composite and dungeons, you can simply run `python suite.py`. This will go through each and every sim folder and sim for each type based on `config.yml` for each sim. By default this currently excludes `apl`, `gear`, and `talent-builds` (can be altered by passing a list to `--exclude`). This script keeps track of state via `internal/suite.csv` to know which sims it has run already for that suite run. This means if you start the suite and then stop/restart it later it will pick up where it left off. To start a new, clean run you just pash the `--fresh` argument. When using this command there is no reason to run the other two scripts below unless you are looking to do one off sims. 
+To run every folder of sims for composite and dungeons, you can simply run `python suite.py`. This will go through each and every sim folder and sim for each type based on `config.yml` for each sim. By default this currently excludes `apl`, `talents`, and `talents-top` (can be altered by passing a list to `--exclude`). This script keeps track of state via `internal/suite.csv` to know which sims it has run already for that suite run. This means if you start the suite and then stop/restart it later it will pick up where it left off. To start a new, clean run you just pash the `--fresh` argument. When using this command there is no reason to run the other two scripts below unless you are looking to do one off sims. 
 
 ### Create profiles
-1. Run `python profiles.py dir/ [--ptr, --dungeons, --talents [am, hv]]` for the directory you want to sim. Current talent options are indicated by the config keys under: `builds`. If you don't specify `talents` and that sim uses it based on config, all combinations will be automatically generated.
+1. Run `python profiles.py dir/ [--ptr, --dungeons, --talents [x, y]]` for the directory you want to sim. Current talent options are indicated by the config keys under: `builds`. If you don't specify `talents` and that sim uses it based on config, all combinations will be automatically generated.
 
 ### Simulate
 #### Use raidbots
 1. To run the sim in Raidbots create `api_secrets.py` inside the root directory. Set `api_key = 'XXX'`.
 2. By default if a file already exists in `output/` or if the weight in `internal/weights.py` is 0, sim.py will skip it.
-3. To run the sims use `python sim.py dir/ [--iterations 10000, --dungeons, --talents [am, hv]]` where `dir/` is the sim directory you want to sim. If you don't specify `talents` and that sim uses it based on config, all combinations will be automatically generated.
+3. To run the sims use `python sim.py dir/ [--iterations 10000, --dungeons, --talents [x, y]]` where `dir/` is the sim directory you want to sim. If you don't specify `talents` and that sim uses it based on config, all combinations will be automatically generated.
 4. Based on config keys in `analyze` markdown, csv, and json will be generated for the aggregated sims. These will output separate files for Composite, Single Target, or Dungeon sims. You can find all output files in the `results/` folder in any sim folder.
 
 #### Use local simc
@@ -42,13 +45,6 @@ To run every folder of sims for composite and dungeons, you can simply run `pyth
 3. To run the sims use `python sim.py dir/ [--iterations 10000, --dungeons, --talents [am, hv] --local]` where `dir/` is the sim directory you want to sim. If you don't specify `talents` and that sim uses it based on config, all combinations will be automatically generated.
 4. Based on config keys in `analyze` markdown, csv, and json will be generated for the aggregated sims. These will output separate files for Composite, Single Target, or Dungeon sims. You can find all output files in the `results/` folder in any sim folder.
 
-### General Order of sims to run
-The following is a rough order to follow when running sims. Generally the things on the same row can be run at the same time since they do not influence each other.
-
-1. Talents
-2. Consumables, Enchants, Stats, Trinkets, and Racials
-3. Weights
-
 ## Output Formats
 Based on `config.yml` sim results will output in up to 3 different formats: Markdown, CSV, and JSON. The files are all located in the `results/` folder of each sim type. The following sections go over how the data is listed here. Each output file is made up into various sections based on how the sim is configured. There are several layers of results.
 
@@ -59,7 +55,7 @@ Based on `config.yml` sim results will output in up to 3 different formats: Mark
     - Single
 - Talents
 
-These layers are used to create the file name. So if a sim is run with default setup without talent builds it will just be `Results_SIMTYPE` i.e. `Results_Composite.md`. If the sim is ran with talents this is augmented with that talent build (see config for current builds) i.e.`Results_Composite_am.md`.
+These layers are used to create the file name. So if a sim is run with default setup without talent builds it will just be `Results_SIMTYPE` i.e. `Results_Composite.md`. If the sim is ran with talents this is augmented with that talent build (see config for current builds) i.e.`Results_Composite_x.md`.
 
 ### Markdown
 The markdown files are broken up and contain easy layer name at the top as a header. Each file is just a simple table broken up by Actor, DPS, and the Increase of that actor against the `Base` actor.

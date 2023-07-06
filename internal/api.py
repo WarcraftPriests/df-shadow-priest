@@ -18,8 +18,7 @@ session.headers = {
 }
 
 
-def submit_sim(api_url_base, api_key, profile_location, simc_build, report_name, iterations):
-    # pylint: disable=too-many-arguments, too-many-return-statements, too-many-locals
+def submit_sim(api_url_base, api_key, profile_location, simc_build, report_name, iterations):  # noqa: E501
     """submits a sim to the raidbots api"""
 
     iterations = int(iterations) if iterations != "smart" else iterations
@@ -111,7 +110,7 @@ def poll_status(api_url_base, sim_id):
                 sim_status = response.json()
 
                 # Check if we have a progress in the job data
-                if not 'progress' in sim_status['job']:
+                if 'progress' not in sim_status['job']:
                     pbar.close()
                     print(
                         f"Error getting progress from 200 response json: {sim_status}")
@@ -146,11 +145,11 @@ def poll_status(api_url_base, sim_id):
                 else:
                     current_try += 1
                     print(
-                        f"Unknown state: {state} when getting {sim_id}. - Retry {current_try}"
+                        f"Unknown state: {state} when getting {sim_id}. - Retry {current_try}"  # noqa: E501
                     )
             else:
                 print(
-                    f'[?] Unexpected Error: [HTTP {status}]: Content: {response.content}')
+                    f'[?] Unexpected Error: [HTTP {status}]: Content: {response.content}')  # noqa: E501
                 return None
 
         # we've exceeded the maximum tries
@@ -159,7 +158,6 @@ def poll_status(api_url_base, sim_id):
 
 
 def retrieve_data(api_url_base, sim_id, data_file):
-    # pylint: disable=inconsistent-return-statements, R1710
     """get final sim data from raidbots"""
 
     api_url = f'{api_url_base}/reports/{sim_id}/{data_file}'
@@ -190,8 +188,7 @@ def retrieve_data(api_url_base, sim_id, data_file):
     return None
 
 
-def raidbots(api_key, profile_location, simc_build, output_location, report_name, iterations):
-    # pylint: disable=too-many-arguments
+def raidbots(api_key, profile_location, simc_build, output_location, report_name, iterations):  # noqa: E501
     """calls the appropriate functions to run a sim to raidbots"""
     api_url_base = config["raidbots"]["apiUrlBase"]
 
@@ -207,7 +204,7 @@ def raidbots(api_key, profile_location, simc_build, output_location, report_name
     # pull back results from the sim
     sim_data = retrieve_data(api_url_base, sim_id, 'data.json')
     if sim_data is not None:
-        # raidbots uses hasFullJson to indicate that there is another file with more info
+        # raidbots uses hasFullJson to indicate that there is another file with more info  # noqa: E501
         if 'hasFullJson' in sim_data['simbot']:
             sim_data = retrieve_data(api_url_base, sim_id, 'data.full.json')
         with open(output_location, 'w', encoding="utf8") as file:

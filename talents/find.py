@@ -36,10 +36,9 @@ if __name__ == '__main__':
             MATCH = False
 
             if da_or_vf in ["VF", "DA"] and spike_or_flay in filler_types:
-                with open(f"{da_or_vf}-{spike_or_flay}.simc", 'r', encoding="utf8") as sim_file:
+                with open(f"{da_or_vf}-{spike_or_flay}.simc", 'r', encoding="utf8") as sim_file:  # noqa: E501
                     for line in sim_file:
-                        # pylint: disable=line-too-long
-                        if profile_name in line and args.match in line and args.matchtwo in line and args.matchthree in line:
+                        if profile_name in line and args.match in line and args.matchtwo in line and args.matchthree in line:  # noqa: E501
                             print(profile_name)
                             MATCH = True
                             break

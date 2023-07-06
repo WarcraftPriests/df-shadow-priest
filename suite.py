@@ -59,7 +59,6 @@ def generate_args(sim_dir, sim_type, script, args):
 
 
 def run_suite(sim_dir, sim_type, output_file, sim, args):
-    # pylint: disable=too-many-arguments
     """helper function to orchestrate other calls"""
     if check_state(sim_dir, sim_type, output_file, "profiles"):
         call_process(generate_args(sim_dir, sim_type, "profiles.py", args))
@@ -89,7 +88,7 @@ def main():
     parser.add_argument(
         '--composite', help='only run the composite suite', action='store_true')
     parser.add_argument(
-        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')
+        '--apl', help='indicate if the sim should use the custom apl.', action='store_true')  # noqa: E501
     parser.add_argument(
         '--local', help='indicate if the sim should run locally (not recommended)',
         action='store_true')

@@ -4,7 +4,6 @@ import os
 import time
 
 def sim_local(simc_path, profile_location, output_location, iterations):
-    # pylint: disable=bare-except
     """sim against a local simc instance"""
     location_list = output_location.split("/")
     logloc = output_location.replace("json", "log")
@@ -25,7 +24,6 @@ def sim_local(simc_path, profile_location, output_location, iterations):
         os.remove(logloc)
 
 
-def raidbots(simc_path, profile_location, simc_build, output_location, report_name, iterations):
-    # pylint: disable=unused-argument, too-many-arguments
+def raidbots(simc_path, profile_location, simc_build, output_location, report_name, iterations):  # noqa: E501
     """just pass through to sim_local"""
     sim_local(simc_path, profile_location, output_location, iterations)

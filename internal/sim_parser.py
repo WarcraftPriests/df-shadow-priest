@@ -5,7 +5,6 @@ from os import path
 
 
 def parse(filename, weights):
-    # pylint: disable=consider-using-f-string
     """parse the given sim file"""
     separator = ','
     ret = ''
@@ -14,7 +13,7 @@ def parse(filename, weights):
         sim = json.loads(data)
         print("Parsing: " + filename)
         if 'error' in sim:
-            print(f"ERROR: {filename} contains a sim error - cannot parse.\n{sim['error']}")
+            print(f"ERROR: {filename} contains a sim error - cannot parse.\n{sim['error']}")  # noqa: E501
             raise RuntimeError from OSError
         results = sim['sim']['players']
         for player in sorted(results, key=lambda k: k['name']):
@@ -37,7 +36,6 @@ def parse(filename, weights):
 
 
 def parse_profile_sets(filename, weights):
-    # pylint: disable=consider-using-f-string
     """parse the given file if it contains profilesets"""
     if weights:
         print("ERROR: Cannot sim weights with profilesets.")
