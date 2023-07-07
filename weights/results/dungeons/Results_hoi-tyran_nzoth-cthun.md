@@ -1,4 +1,4 @@
 # hoi-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|112328|1.00|0.46|0.56|0.61|0.56|0.12|
+|Base|118355|1.00|0.40|0.53|0.60|0.53|0.12|

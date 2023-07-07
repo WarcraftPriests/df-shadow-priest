@@ -1,4 +1,4 @@
 # nelths-tyran - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|104199|1.00|0.46|0.55|0.60|0.56|0.11|
+|Base|109499|1.00|0.45|0.57|0.63|0.57|0.13|

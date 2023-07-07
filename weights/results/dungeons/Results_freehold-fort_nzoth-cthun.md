@@ -1,4 +1,4 @@
 # freehold-fort - nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|149046|1.00|0.44|0.54|0.57|0.53|0.09|
+|Base|155026|1.00|0.46|0.59|0.65|0.59|0.08|
