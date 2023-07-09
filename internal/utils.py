@@ -1,5 +1,6 @@
 """stores utils that are shared between scripts"""
 import argparse
+import sys
 import yaml
 
 with open("config.yml", "r", encoding="utf8") as ymlfile:
@@ -8,12 +9,16 @@ with open("config.yml", "r", encoding="utf8") as ymlfile:
 
 def get_talents(args):
     """lookup talents based on current config"""
-    if args.talents:
-        talents = [args.talents]
-    elif config["sims"][args.dir[:-1]]["builds"]:
-        talents = config["builds"].keys()
-    else:
-        talents = []
+    try:
+        if args.talents:
+            talents = [args.talents]
+        elif config["sims"][args.dir[:-1]]["builds"]:
+            talents = config["builds"].keys()
+        else:
+            talents = []
+    except KeyError:
+        print(f"{args.dir[:-1]} is not a valid sim dir.\nOptions are {config['sims'].keys()}")  # noqa: E501
+        sys.exit(1)
     return talents
 
 
