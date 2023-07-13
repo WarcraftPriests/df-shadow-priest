@@ -25,6 +25,7 @@ ${gear.off_hand}
 # Dawn of the Infinite Mega-Dungeon (Veteren level drops)
 profileset."Mirror_of_Fractured_Tomorrows_424"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=424
 profileset."Mirror_of_Fractured_Tomorrows_441"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=441
+profileset."Mirror_of_Fractured_Tomorrows_447"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=447
 
 profileset."Time_Thiefs_Gambit_424"+=trinket1=timethiefs_gambit,id=207579,ilevel=424
 profileset."Time_Thiefs_Gambit_441"+=trinket1=timethiefs_gambit,id=207579,ilevel=441
