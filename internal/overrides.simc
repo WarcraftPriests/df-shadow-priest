@@ -1,2 +1,24 @@
 
 # Overrides are added below here
+
+# Psychic Link is now 15%
+override.spell_data=effect.293563.base_value=15
+# Yogg-Saron AoE coeff reduced by 30%
+override.spell_data=effect.1078854.base_value=21
+# Devouring Plague buffed by 12%
+override.spell_data=effect.832086.sp_coefficient=1.7385872
+override.spell_data=effect.832087.sp_coefficient=0.8257312
+# Mind Blast buffed by 12%
+override.spell_data=effect.3283.sp_coefficient=0.8773632
+# Void Bolt buffed by 12%
+override.spell_data=effect.303383.sp_coefficient=2.927232
+# Mind Flay buffed by 12%
+override.spell_data=effect.7301.sp_coefficient=0.4002208
+# Mind Flay: Insanity buffed by 12%
+override.spell_data=effect.1028897.sp_coefficient=0.8804768
+# Mind Spike buffed by 12%
+override.spell_data=effect.66820.sp_coefficient=0.8086512
+# Mind Spike: Insanity buffed by 12%
+override.spell_data=effect.1070939.sp_coefficient=2.3046352
+# SW:D buffed by 12%
+override.spell_data=effect.22171.sp_coefficient=0.952
