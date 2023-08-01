@@ -1,18 +1,18 @@
 # ulda-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|140957|0.90%|
-|Fated_Fortune_Cookie|140799|0.79%|
-|Thousandbone_Tongueslicer|140772|0.77%|
-|Great_Cerulean_Sea|140763|0.76%|
-|Revenge_Served_Cold|140721|0.73%|
-|Sizzling_Seafood_Medley|140687|0.71%|
-|Aromatic_Seafood_Platter|140600|0.65%|
-|Salt_Baked_Fishcake|140595|0.64%|
-|Feisty_Fish_Sticks|140547|0.61%|
-|Seamoth_Surprise|140520|0.59%|
-|Filet_of_Fangs|140494|0.57%|
-|Timely_Demise|140331|0.46%|
-|Roast_Duck_Delight|140165|0.34%|
-|Thrice_Spiced_Mammoth_Kabob|139989|0.21%|
-|Base|139695|0.00%|
+|Draconic_Augment_Rune|138332|0.60%|
+|Thousandbone_Tongueslicer|138283|0.57%|
+|Revenge_Served_Cold|138229|0.53%|
+|Great_Cerulean_Sea|138218|0.52%|
+|Fated_Fortune_Cookie|138203|0.51%|
+|Sizzling_Seafood_Medley|138177|0.49%|
+|Aromatic_Seafood_Platter|138166|0.48%|
+|Feisty_Fish_Sticks|138120|0.45%|
+|Salt_Baked_Fishcake|138082|0.42%|
+|Filet_of_Fangs|138015|0.37%|
+|Seamoth_Surprise|138015|0.37%|
+|Timely_Demise|137974|0.34%|
+|Roast_Duck_Delight|137841|0.25%|
+|Thrice_Spiced_Mammoth_Kabob|137728|0.16%|
+|Base|137502|0.00%|

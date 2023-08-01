@@ -1,18 +1,18 @@
 # ulda-fort - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|150159|0.48%|
-|Fated_Fortune_Cookie|150093|0.43%|
-|Great_Cerulean_Sea|150091|0.43%|
-|Thousandbone_Tongueslicer|150079|0.42%|
-|Revenge_Served_Cold|150063|0.41%|
-|Sizzling_Seafood_Medley|150046|0.40%|
-|Aromatic_Seafood_Platter|149972|0.35%|
-|Filet_of_Fangs|149970|0.35%|
-|Salt_Baked_Fishcake|149970|0.35%|
-|Feisty_Fish_Sticks|149965|0.35%|
-|Seamoth_Surprise|149933|0.32%|
-|Timely_Demise|149882|0.29%|
-|Roast_Duck_Delight|149730|0.19%|
-|Thrice_Spiced_Mammoth_Kabob|149607|0.11%|
-|Base|149449|0.00%|
+|Draconic_Augment_Rune|148173|0.52%|
+|Fated_Fortune_Cookie|148137|0.49%|
+|Great_Cerulean_Sea|148132|0.49%|
+|Thousandbone_Tongueslicer|148129|0.49%|
+|Revenge_Served_Cold|148120|0.48%|
+|Sizzling_Seafood_Medley|148094|0.47%|
+|Feisty_Fish_Sticks|148034|0.42%|
+|Salt_Baked_Fishcake|148022|0.42%|
+|Seamoth_Surprise|148012|0.41%|
+|Aromatic_Seafood_Platter|147985|0.39%|
+|Filet_of_Fangs|147947|0.37%|
+|Timely_Demise|147883|0.32%|
+|Roast_Duck_Delight|147714|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|147647|0.16%|
+|Base|147408|0.00%|
