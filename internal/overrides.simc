@@ -1,2 +1,10 @@
 
 # Overrides are added below here
+# Vampiric Touch damage reduced by 20%.
+override.spell_data=effect.25010.sp_coefficient=0.177728
+override.spell_data=effect.841601.sp_coefficient=1.62316
+# Shadow Word: Pain damage reduced by 15%.
+override.spell_data=effect.242.sp_coefficient=0.10982
+override.spell_data=effect.254257.sp_coefficient=0.081498
+# Shadowy Apparition damage reduced by 15%.
+override.spell_data=effect.1081317.sp_coefficient=0.174845
