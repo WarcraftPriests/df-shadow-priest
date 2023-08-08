@@ -1,5 +1,7 @@
 # neltharus-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|bender_da_sync|130736|0.24%|
-|Base|130422|0.00%|
+|Base|129200|0.00%|
+|rhapsody_control|129191|-0.01%|
+|rhapsody_at_20_low_filler|124631|-3.54%|
+|rhapsody_at_20_high_filler|124606|-3.56%|

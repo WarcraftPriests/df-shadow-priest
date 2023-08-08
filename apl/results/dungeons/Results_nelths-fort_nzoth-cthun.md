@@ -1,5 +1,7 @@
 # nelths-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|109828|0.00%|
-|bender_da_sync|109668|-0.15%|
+|Base|111460|0.00%|
+|rhapsody_control|111452|-0.01%|
+|rhapsody_at_20_low_filler|108160|-2.96%|
+|rhapsody_at_20_high_filler|108140|-2.98%|

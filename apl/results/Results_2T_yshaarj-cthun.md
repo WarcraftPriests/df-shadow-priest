@@ -1,5 +1,7 @@
 # 2T - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|158531|0.00%|
-|bender_da_sync|158486|-0.03%|
+|rhapsody_control|155046|0.01%|
+|Base|155037|0.00%|
+|rhapsody_at_20_low_filler|152051|-1.93%|
+|rhapsody_at_20_high_filler|151813|-2.08%|

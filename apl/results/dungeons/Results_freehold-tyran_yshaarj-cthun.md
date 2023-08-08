@@ -1,5 +1,7 @@
 # freehold-tyran - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|bender_da_sync|134345|0.63%|
-|Base|133501|0.00%|
+|rhapsody_control|130789|0.01%|
+|Base|130776|0.00%|
+|rhapsody_at_20_low_filler|127880|-2.21%|
+|rhapsody_at_20_high_filler|127842|-2.24%|

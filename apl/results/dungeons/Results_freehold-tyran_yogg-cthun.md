@@ -1,5 +1,7 @@
 # freehold-tyran - yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|bender_da_sync|132900|0.02%|
-|Base|132872|0.00%|
+|Base|130832|0.00%|
+|rhapsody_control|130822|-0.01%|
+|rhapsody_at_20_low_filler|126418|-3.37%|
+|rhapsody_at_20_high_filler|126239|-3.51%|

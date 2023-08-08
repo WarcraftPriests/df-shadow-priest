@@ -1,5 +1,7 @@
 # neltharus-tyran - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|130496|0.00%|
-|bender_da_sync|130490|0.00%|
+|rhapsody_control|129833|0.01%|
+|Base|129826|0.00%|
+|rhapsody_at_20_high_filler|125065|-3.67%|
+|rhapsody_at_20_low_filler|125058|-3.67%|

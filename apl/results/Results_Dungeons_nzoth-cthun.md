@@ -1,5 +1,7 @@
 # Dungeons - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|126974|0.00%|
-|bender_da_sync|126939|-0.03%|
+|rhapsody_control|126532|0.00%|
+|Base|126531|0.00%|
+|rhapsody_at_20_high_filler|122096|-3.50%|
+|rhapsody_at_20_low_filler|122084|-3.51%|

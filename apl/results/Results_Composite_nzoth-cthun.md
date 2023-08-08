@@ -1,5 +1,7 @@
 # Composite - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|bender_da_sync|117875|0.05%|
-|Base|117814|0.00%|
+|rhapsody_control|125058|0.01%|
+|Base|125046|0.00%|
+|rhapsody_at_20_low_filler|123721|-1.06%|
+|rhapsody_at_20_high_filler|123552|-1.19%|
