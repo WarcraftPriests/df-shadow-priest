@@ -1,18 +1,18 @@
 # ulda-fort - nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|149885|0.52%|
-|Thousandbone_Tongueslicer|149822|0.48%|
-|Fated_Fortune_Cookie|149706|0.40%|
-|Aromatic_Seafood_Platter|149689|0.39%|
-|Great_Cerulean_Sea|149689|0.39%|
-|Revenge_Served_Cold|149689|0.39%|
-|Sizzling_Seafood_Medley|149654|0.37%|
-|Feisty_Fish_Sticks|149641|0.36%|
-|Seamoth_Surprise|149630|0.35%|
-|Salt_Baked_Fishcake|149618|0.35%|
-|Filet_of_Fangs|149582|0.32%|
-|Timely_Demise|149524|0.28%|
-|Roast_Duck_Delight|149420|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|149286|0.12%|
-|Base|149103|0.00%|
+|Draconic_Augment_Rune|145519|0.58%|
+|Fated_Fortune_Cookie|145470|0.55%|
+|Sizzling_Seafood_Medley|145457|0.54%|
+|Great_Cerulean_Sea|145456|0.54%|
+|Thousandbone_Tongueslicer|145429|0.52%|
+|Salt_Baked_Fishcake|145419|0.51%|
+|Revenge_Served_Cold|145382|0.49%|
+|Aromatic_Seafood_Platter|145319|0.44%|
+|Feisty_Fish_Sticks|145285|0.42%|
+|Filet_of_Fangs|145278|0.42%|
+|Seamoth_Surprise|145276|0.41%|
+|Timely_Demise|145090|0.29%|
+|Thrice_Spiced_Mammoth_Kabob|145015|0.23%|
+|Roast_Duck_Delight|144983|0.21%|
+|Base|144677|0.00%|
