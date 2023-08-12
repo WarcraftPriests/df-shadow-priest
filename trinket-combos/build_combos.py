@@ -7,17 +7,17 @@ from itertools import combinations
 
 combos = {
     # s2 dungeons (441/447)
-    "Idol_of_Pure_Decay_441": "idol_of_pure_decay,id=193660,ilevel=441",
+    # "Idol_of_Pure_Decay_441": "idol_of_pure_decay,id=193660,ilevel=441",
     "Idol_of_Pure_Decay_447": "idol_of_pure_decay,id=193660,ilevel=447",
-    # "Irideus_Fragment_441": "irideus_fragment,id=193743,ilevel=441",
+    "Irideus_Fragment_441": "irideus_fragment,id=193743,ilevel=441",
     "Irideus_Fragment_447": "irideus_fragment,id=193743,ilevel=447",
     # "Erupting_Spear_Fragment_441": "erupting_spear_fragment,id=193769,ilevel=441",
     "Erupting_Spear_Fragment_447": "erupting_spear_fragment,id=193769,ilevel=447",
     "Spoils_of_Neltharus_441": "spoils_of_neltharus,id=193773,ilevel=441",
     "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
     # "Time_Breaching_Talon_447": "time_breaching_talon,id=193791,ilevel=447",
-    "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441",
-    "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447",
+    # "Naraxas_Spiked_Tongue_441": "naraxas_spiked_tongue,id=137349,ilevel=441",
+    # "Naraxas_Spiked_Tongue_447": "naraxas_spiked_tongue,id=137349,ilevel=447",
     "Rotcrusted_Voodoo_Doll_441": "rotcrusted_voodoo_doll,id=159624,ilevel=441",
     "Rotcrusted_Voodoo_Doll_447": "rotcrusted_voodoo_doll,id=159624,ilevel=447",
     # aberrus the shadowed crucible
@@ -31,11 +31,11 @@ combos = {
     "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Ominous_Chromatic_Essence_Emerald_441": "ominous_chromatic_essence,id=203729,ilevel=441",  # noqa: E501
     "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441",
+    # "Igneous_Flowstone_441": "igneous_flowstone,id=203996,ilevel=441",
     "Igneous_Flowstone_447": "igneous_flowstone,id=203996,ilevel=447",
     "Neltharions_Call_to_Suffering_447": "neltharions_call_to_suffering,id=204211,ilevel=447",  # noqa: E501
     "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
-    "Beacon_to_the_Beyond_450": "beacon_to_the_beyond,id=203963,ilevel=450",
+    # "Beacon_to_the_Beyond_450": "beacon_to_the_beyond,id=203963,ilevel=450",
 }
 
 
