@@ -110,23 +110,42 @@ weights_season_one = {
 }
 
 # bring down overperforming keys to get a better composite
-weights_season_two = {
-    "bhh-fort": 0.0600,
-    "bhh-tyran": 0.0600,
-    "freehold-fort": 0.0575,
-    "freehold-tyran": 0.0575,
-    "hoi-fort": 0.0750,
-    "hoi-tyran": 0.0750,
-    "neltharus-fort": 0.0575,
-    "neltharus-tyran": 0.0575,
-    "nelths-fort": 0.0500,
-    "nelths-tyran": 0.0500,
-    "ulda-fort": 0.0650,
-    "ulda-tyran": 0.0650,
-    "ur-fort": 0.0675,
-    "ur-tyran": 0.0675,
-    "vtp-fort": 0.0675,
-    "vtp-tyran": 0.0675,
+weights_standard_season_two = {
+    "bhh-fort-standard": 0.0600,
+    "bhh-tyran-standard": 0.0600,
+    "freehold-fort-standard": 0.0575,
+    "freehold-tyran-standard": 0.0575,
+    "hoi-fort-standard": 0.0750,
+    "hoi-tyran-standard": 0.0750,
+    "neltharus-fort-standard": 0.0575,
+    "neltharus-tyran-standard": 0.0575,
+    "nelths-fort-standard": 0.0500,
+    "nelths-tyran-standard": 0.0500,
+    "ulda-fort-standard": 0.0650,
+    "ulda-tyran-standard": 0.0650,
+    "ur-fort-standard": 0.0675,
+    "ur-tyran-standard": 0.0675,
+    "vtp-fort-standard": 0.0675,
+    "vtp-tyran-standard": 0.0675,
+}
+
+weights_push_season_two = {
+    "bhh-fort-push": 0.0600,
+    "bhh-tyran-push": 0.0600,
+    "freehold-fort-push": 0.0575,
+    "freehold-tyran-push": 0.0575,
+    "hoi-fort-push": 0.0750,
+    "hoi-tyran-push": 0.0750,
+    "neltharus-fort-push": 0.0575,
+    "neltharus-tyran-push": 0.0575,
+    "nelths-fort-push": 0.0500,
+    "nelths-tyran-push": 0.0500,
+    "ulda-fort-push": 0.0650,
+    "ulda-tyran-push": 0.0650,
+    "ur-fort-push": 0.0675,
+    "ur-tyran-push": 0.0675,
+    "vtp-fort-push": 0.0675,
+    "vtp-tyran-push": 0.0675,
 }
 
 
@@ -144,6 +163,8 @@ def find_weights(key):
         return weights_aberrus_the_shadowed_crucible
     if key == 'weightsSeasonOne':
         return weights_season_one
-    if key == 'weightsSeasonTwo':
-        return weights_season_two
+    if key == 'weightsStandardSeasonTwo':
+        return weights_standard_season_two
+    if key == 'weightsPushSeasonTwo':
+        return weights_push_season_two
     return None

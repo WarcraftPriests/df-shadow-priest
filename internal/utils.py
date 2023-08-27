@@ -62,6 +62,7 @@ def get_dungeon_combos():
         keys = ["algethar", "azure", "cos", "hov",
                 "nokhud", "rlp", "smbg", "temple"]
     affixes = ["fort", "tyran"]
+    levels = ["standard", "push"]
     combos = [
-        f"{key}-{affix}" for key in keys for affix in affixes]
+        f"{key}-{affix}-{level}" for key in keys for affix in affixes for level in levels]  # noqa: E501
     return combos

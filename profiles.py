@@ -55,7 +55,13 @@ def build_settings(profile_name_string, weights, dungeons):
         settings_string += fightExpressions['weights']
     if dungeons:
         season = config["dungeonSeason"]
-        r_file_location = f"internal/routes/season{season}/{profile_name_string}.simc"
+        if "standard" in profile_name_string:
+            r_file_location = f"internal/routes/season{season}/standard/{profile_name_string}.simc"  # noqa: E501
+        elif "push" in profile_name_string:
+            r_file_location = f"internal/routes/season{season}/push/{profile_name_string}.simc"  # noqa: E501
+        else:
+            print(f"Profile name is non-standard: {profile_name_string}")
+            exit(1)
         with open(r_file_location, 'r', encoding="utf8") as r_file:
             data = r_file.read()
             r_file.close()

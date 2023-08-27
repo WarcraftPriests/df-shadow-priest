@@ -1,0 +1,36 @@
+# !1v12UXjmq0pN(u2IVHTFnTvQvQIgjVTpAbBWKqlfIynPjVW3E9Dm7MiH21xM5mN5mZasG8Ou02311F)YG(vzfKkfl9TsXxP3(6XV8Zg(axkAABNg)LA(C)0OScxGHfsX9tdtZ31mO0A13g7MSq1SON(K98(XhK3EHnTVy8vQLINBgwuwZpRgu3RTGEuwbmr3E79lZZQrTy50G6z1G9cXCFN(hDDNv6ZEtpAS0yU7pqH7)nx)8Y4dQPrxazsHwP(RLpNsgC3YWG1DXtMfjeJ)yUW(ywGSe2(WKvezfxwv6wqDxXCB52TbYy9j6V2AZvhHV(OsFwqD)5vmPORdP66YW9yoGi7gscQ3deleCvYryu2kY8mpGi1gfbzLKki27jl)WGSVfmULXg9iJwjfa6kqooVfXUtMi6XjO2qNAJChAxbCOeHK4bPmdeBk6abLhwAgptBdzFYsSlCKC7rroVxx42aeKGixyY8opNYKZjRsKsmMls0C3P(wm8wadxUfx(E1P0fqCEAcY7h0jBrHYm4nkZ2ISJBH0bcJbpuXZvPn3AaEzEV25hdiUTE6fNiZeRDYeaMyOxfSNrsvRS6V8QzHTK33(fA5XxObESP7WeTloi5vJijuWjORa7ai8IaI7bTn5BFyUhUxeIP)fdwvW8o0iDE3HNcNj0DvBwsfD8dweux2UCDVYfgX4YDnVGihOVjqxkq5qajxKgSmiUCObsYRyWy3rek0fXfhGKlVEyccZ1cyCMX9AFT6fZVvQb9JnZMVM8HZR1FVPFET(M1AXJZtlTR1FCT(BJp3FwkMo9BZxDsV2x0gdpeEaGrCCjbXz(j0BquYbeGc4LLmiLfAonu9wBNG4k0nez0CNLJ5yxsXhiCcbZbyk2)MUBGOIdmmPavIlz8RX(PHE9A9YtR19J6P1A4AT7dwM9DR16jZrTnMp1zOqwGnl(Ns9hVsj)p
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=1980
+enemy="Neltharion's Lair 27 Tyrannical"
+enemy_health=999999
+keystone_level=27
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=008,enemies="Vileshard_Crawler_1":748266:Beast|"Vileshard_Crawler_2":748266:Beast|"Vileshard_Crawler_3":748266:Beast|"Vileshard_Crawler_4":748266:Beast|"Vileshard_Crawler_5":748266:Beast|"Vileshard_Crawler_6":748266:Beast|"Vileshard_Crawler_7":748266:Beast|"Vileshard_Crawler_8":748266:Beast|"Vileshard_Crawler_9":748266:Beast|"Embershard_Scorpion_1":2494218:Beast|"Rockback_Gnasher_1":2494218:Beast|"Rockback_Gnasher_2":2494218:Beast|"Tarspitter_Lurker_1":1995374:Beast|"Tarspitter_Lurker_2":1995374:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=014,enemies="Rockback_Gnasher_1":2494218:Beast|"Understone_Drudge_1":2494218:Humanoid
+raid_events+=/pull,pull=03,bloodlust=1,delay=009,enemies="BOSS_Rokmora":22744072:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=007,enemies="Stoneclaw_Hunter_1":2244798:Humanoid|"Understone_Drummer_1":1496531:Humanoid|"Mightstone_Breaker_1":3990749:Humanoid|"Rockback_Gnasher_1":2494218:Beast
+raid_events+=/pull,pull=05,bloodlust=0,delay=008,enemies="Rockbound_Pelter_1":1995374:Humanoid|"Rockbound_Pelter_2":1995374:Humanoid|"Mightstone_Breaker_1":3990749:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=013,enemies="Blightshard_Shaper_1":2244798:Humanoid|"Vileshard_Hulk_1":4788900:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=009,enemies="Blightshard_Shaper_1":2244798:Humanoid|"Blightshard_Shaper_2":2244798:Humanoid|"Vileshard_Hulk_1":4788900:Humanoid|"Mightstone_Breaker_1":3990749:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=010,enemies="Rockbound_Pelter_1":1995374:Humanoid|"Rockbound_Pelter_2":1995374:Humanoid|"Mightstone_Breaker_1":3990749:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=014,enemies="Rockbound_Pelter_1":1995374:Humanoid|"Burning_Geode_1":399075:Elemental|"Blightshard_Shaper_1":2244798:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,enemies="BOSS_Ularogg_Cragshaper":20469667:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,enemies="Rockback_Gnasher_1":2494218:Beast|"Rockback_Gnasher_2":2494218:Beast|"Rockback_Gnasher_3":2494218:Beast|"Rockback_Gnasher_4":2494218:Beast
+raid_events+=/pull,pull=12,bloodlust=0,delay=010,enemies="Blightshard_Shaper_1":2244798:Humanoid|"Stoneclaw_Grubmaster_1":2494218:Humanoid|"Stoneclaw_Grubmaster_2":2494218:Humanoid|"Burning_Geode_1":399075:Elemental|"Tarspitter_Lurker_1":1995374:Beast
+raid_events+=/pull,pull=13,bloodlust=0,delay=015,enemies="Stoneclaw_Grubmaster_1":2494218:Humanoid|"Tarspitter_Lurker_1":1995374:Beast|"Tarspitter_Slug_1":498843:Beast|"Tarspitter_Slug_2":498843:Beast|"Tarspitter_Slug_3":498843:Beast|"Tarspitter_Slug_4":498843:Beast|"Tarspitter_Slug_5":498843:Beast|"Tarspitter_Slug_6":498843:Beast|"Tarspitter_Slug_7":498843:Beast|"Tarspitter_Slug_8":498843:Beast|"Tarspitter_Slug_9":498843:Beast
+raid_events+=/pull,pull=14,bloodlust=0,delay=005,enemies="BOSS_Naraxas":22744072:Beast
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,enemies="Mightstone_Breaker_1":3990749:Humanoid|"Understone_Demolisher_1":2494218:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=009,enemies="Rockbound_Trapper_1":2244798:Humanoid|"Rockbound_Trapper_2":2244798:Humanoid|"Mightstone_Breaker_1":3990749:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=007,enemies="Rockbound_Trapper_1":2244798:Humanoid|"Emberhusk_Dominator_1":4489593:Beast
+raid_events+=/pull,pull=18,bloodlust=0,delay=007,enemies="Emberhusk_Dominator_1":4489593:Beast|"Rockbound_Trapper_1":2244798:Humanoid
+raid_events+=/pull,pull=19,bloodlust=1,delay=012,enemies="BOSS_Dargrul":25993225:Humanoid

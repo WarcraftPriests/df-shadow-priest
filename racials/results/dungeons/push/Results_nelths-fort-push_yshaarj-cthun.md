@@ -1,0 +1,34 @@
+# nelths-fort-push - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|126457|1.54%|
+|Human|126205|1.34%|
+|Orc|125977|1.16%|
+|Goblin|125943|1.13%|
+|Night_Elf_Haste|125909|1.10%|
+|Gnome|125879|1.08%|
+|Dwarf|125818|1.03%|
+|Tauren|125803|1.02%|
+|Draenei|125787|1.00%|
+|Zandalari_Troll_Paku|125780|1.00%|
+|Highmountain_Tauren|125767|0.99%|
+|Kul_Tiran|125746|0.97%|
+|Void_Elf|125718|0.95%|
+|Blood_Elf|125689|0.92%|
+|Nightborne|125626|0.87%|
+|Worgen|125610|0.86%|
+|Night_Elf_Crit|125606|0.86%|
+|Dark_Iron_Dwarf|125588|0.84%|
+|Troll|125422|0.71%|
+|Panda_Fortune_Cookie|125326|0.63%|
+|Maghar_Orc|125212|0.54%|
+|Panda_Mastery|125117|0.46%|
+|Panda_Crit|125002|0.37%|
+|Panda_Vers|124851|0.25%|
+|Zandalari_Troll_Bwonsamdi|124844|0.25%|
+|Zandalari_Troll_Kimbul|124776|0.19%|
+|Undead|124724|0.15%|
+|Panda_Haste|124621|0.07%|
+|Vulpera|124589|0.04%|
+|Lightforged_Draenei|124571|0.03%|
+|Base|124538|0.00%|

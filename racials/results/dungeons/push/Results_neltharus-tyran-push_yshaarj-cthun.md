@@ -1,0 +1,34 @@
+# neltharus-tyran-push - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|143076|1.40%|
+|Human|142807|1.21%|
+|Goblin|142753|1.17%|
+|Gnome|142719|1.15%|
+|Night_Elf_Haste|142640|1.09%|
+|Orc|142489|0.98%|
+|Tauren|142427|0.94%|
+|Dwarf|142377|0.90%|
+|Blood_Elf|142355|0.89%|
+|Highmountain_Tauren|142344|0.88%|
+|Zandalari_Troll_Paku|142335|0.87%|
+|Void_Elf|142331|0.87%|
+|Draenei|142325|0.87%|
+|Kul_Tiran|142312|0.86%|
+|Nightborne|142307|0.85%|
+|Troll|142292|0.84%|
+|Dark_Iron_Dwarf|142233|0.80%|
+|Night_Elf_Crit|142222|0.79%|
+|Worgen|142185|0.77%|
+|Panda_Fortune_Cookie|141973|0.62%|
+|Maghar_Orc|141749|0.46%|
+|Panda_Mastery|141740|0.45%|
+|Panda_Vers|141588|0.35%|
+|Panda_Crit|141501|0.28%|
+|Zandalari_Troll_Bwonsamdi|141327|0.16%|
+|Zandalari_Troll_Kimbul|141281|0.13%|
+|Undead|141280|0.13%|
+|Panda_Haste|141270|0.12%|
+|Lightforged_Draenei|141206|0.07%|
+|Vulpera|141130|0.02%|
+|Base|141101|0.00%|

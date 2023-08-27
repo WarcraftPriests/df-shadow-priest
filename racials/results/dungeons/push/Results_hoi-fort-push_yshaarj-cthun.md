@@ -1,0 +1,34 @@
+# hoi-fort-push - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|136687|1.33%|
+|Human|136431|1.14%|
+|Night_Elf_Haste|136228|0.99%|
+|Gnome|136204|0.97%|
+|Orc|136181|0.95%|
+|Goblin|136164|0.94%|
+|Zandalari_Troll_Paku|136077|0.88%|
+|Troll|136021|0.83%|
+|Dwarf|136015|0.83%|
+|Highmountain_Tauren|136010|0.83%|
+|Tauren|135982|0.81%|
+|Draenei|135959|0.79%|
+|Void_Elf|135959|0.79%|
+|Kul_Tiran|135949|0.78%|
+|Blood_Elf|135905|0.75%|
+|Nightborne|135903|0.75%|
+|Night_Elf_Crit|135866|0.72%|
+|Dark_Iron_Dwarf|135799|0.67%|
+|Worgen|135778|0.65%|
+|Panda_Fortune_Cookie|135646|0.56%|
+|Maghar_Orc|135492|0.44%|
+|Panda_Mastery|135457|0.42%|
+|Panda_Vers|135335|0.33%|
+|Panda_Crit|135261|0.27%|
+|Undead|135129|0.17%|
+|Zandalari_Troll_Bwonsamdi|135082|0.14%|
+|Zandalari_Troll_Kimbul|135067|0.13%|
+|Panda_Haste|135046|0.11%|
+|Base|134896|0.00%|
+|Vulpera|134887|-0.01%|
+|Lightforged_Draenei|134873|-0.02%|

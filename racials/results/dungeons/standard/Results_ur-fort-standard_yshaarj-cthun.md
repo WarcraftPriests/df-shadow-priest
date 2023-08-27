@@ -1,0 +1,34 @@
+# ur-fort-standard - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|127938|0.99%|
+|Human|127780|0.87%|
+|Goblin|127770|0.86%|
+|Gnome|127717|0.82%|
+|Night_Elf_Haste|127693|0.80%|
+|Orc|127668|0.78%|
+|Dwarf|127603|0.73%|
+|Void_Elf|127542|0.68%|
+|Tauren|127513|0.66%|
+|Draenei|127494|0.64%|
+|Zandalari_Troll_Paku|127489|0.64%|
+|Highmountain_Tauren|127481|0.63%|
+|Kul_Tiran|127477|0.63%|
+|Nightborne|127470|0.63%|
+|Blood_Elf|127454|0.61%|
+|Troll|127452|0.61%|
+|Dark_Iron_Dwarf|127426|0.59%|
+|Night_Elf_Crit|127396|0.57%|
+|Worgen|127339|0.52%|
+|Panda_Fortune_Cookie|127214|0.42%|
+|Maghar_Orc|127173|0.39%|
+|Panda_Vers|127042|0.29%|
+|Panda_Crit|126992|0.25%|
+|Panda_Mastery|126990|0.25%|
+|Zandalari_Troll_Bwonsamdi|126934|0.20%|
+|Undead|126856|0.14%|
+|Panda_Haste|126820|0.11%|
+|Zandalari_Troll_Kimbul|126807|0.10%|
+|Lightforged_Draenei|126757|0.06%|
+|Vulpera|126690|0.01%|
+|Base|126678|0.00%|

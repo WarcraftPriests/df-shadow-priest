@@ -1,0 +1,34 @@
+# neltharus-tyran-push - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|147204|1.81%|
+|Gnome|147095|1.74%|
+|Goblin|147058|1.71%|
+|Night_Elf_Haste|147032|1.69%|
+|Mechagnome|147019|1.69%|
+|Orc|146275|1.17%|
+|Zandalari_Troll_Paku|146145|1.08%|
+|Draenei|146137|1.08%|
+|Blood_Elf|146129|1.07%|
+|Troll|146092|1.04%|
+|Void_Elf|146067|1.03%|
+|Highmountain_Tauren|146066|1.03%|
+|Kul_Tiran|146029|1.00%|
+|Nightborne|146000|0.98%|
+|Night_Elf_Crit|145918|0.92%|
+|Worgen|145890|0.90%|
+|Dark_Iron_Dwarf|145622|0.72%|
+|Panda_Fortune_Cookie|145612|0.71%|
+|Tauren|145602|0.71%|
+|Dwarf|145591|0.70%|
+|Maghar_Orc|145329|0.52%|
+|Panda_Mastery|145307|0.50%|
+|Panda_Haste|145237|0.45%|
+|Panda_Crit|145207|0.43%|
+|Panda_Vers|145047|0.32%|
+|Zandalari_Troll_Bwonsamdi|144902|0.22%|
+|Zandalari_Troll_Kimbul|144820|0.16%|
+|Undead|144769|0.13%|
+|Base|144582|0.00%|
+|Vulpera|144574|-0.01%|
+|Lightforged_Draenei|144500|-0.06%|

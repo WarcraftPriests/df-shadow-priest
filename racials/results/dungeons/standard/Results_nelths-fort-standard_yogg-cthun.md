@@ -1,0 +1,34 @@
+# nelths-fort-standard - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Night_Elf_Haste|114442|1.05%|
+|Human|114438|1.04%|
+|Goblin|114425|1.03%|
+|Gnome|114415|1.02%|
+|Mechagnome|114390|1.00%|
+|Zandalari_Troll_Paku|113964|0.63%|
+|Kul_Tiran|113935|0.60%|
+|Highmountain_Tauren|113916|0.58%|
+|Draenei|113912|0.58%|
+|Orc|113910|0.58%|
+|Void_Elf|113905|0.57%|
+|Troll|113857|0.53%|
+|Night_Elf_Crit|113832|0.51%|
+|Worgen|113829|0.51%|
+|Nightborne|113810|0.49%|
+|Blood_Elf|113808|0.49%|
+|Dwarf|113762|0.45%|
+|Dark_Iron_Dwarf|113710|0.40%|
+|Tauren|113705|0.40%|
+|Panda_Fortune_Cookie|113700|0.39%|
+|Panda_Mastery|113632|0.33%|
+|Panda_Haste|113616|0.32%|
+|Maghar_Orc|113603|0.31%|
+|Panda_Vers|113495|0.21%|
+|Panda_Crit|113430|0.15%|
+|Undead|113419|0.14%|
+|Zandalari_Troll_Bwonsamdi|113418|0.14%|
+|Zandalari_Troll_Kimbul|113361|0.09%|
+|Base|113255|0.00%|
+|Lightforged_Draenei|113243|-0.01%|
+|Vulpera|113197|-0.05%|

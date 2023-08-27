@@ -1,0 +1,34 @@
+# freehold-fort-push - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|210187|1.13%|
+|Human|209999|1.04%|
+|Goblin|209719|0.91%|
+|Gnome|209695|0.90%|
+|Orc|209664|0.88%|
+|Night_Elf_Haste|209548|0.83%|
+|Tauren|209477|0.79%|
+|Zandalari_Troll_Paku|209474|0.79%|
+|Dwarf|209414|0.76%|
+|Highmountain_Tauren|209394|0.75%|
+|Draenei|209322|0.72%|
+|Kul_Tiran|209315|0.71%|
+|Void_Elf|209295|0.70%|
+|Troll|209285|0.70%|
+|Nightborne|209265|0.69%|
+|Night_Elf_Crit|209234|0.68%|
+|Dark_Iron_Dwarf|209212|0.66%|
+|Blood_Elf|209199|0.66%|
+|Worgen|209161|0.64%|
+|Panda_Fortune_Cookie|208819|0.48%|
+|Maghar_Orc|208721|0.43%|
+|Panda_Mastery|208504|0.32%|
+|Panda_Vers|208442|0.29%|
+|Panda_Crit|208403|0.28%|
+|Panda_Haste|208218|0.19%|
+|Zandalari_Troll_Kimbul|208085|0.12%|
+|Zandalari_Troll_Bwonsamdi|208054|0.11%|
+|Undead|208011|0.09%|
+|Vulpera|207851|0.01%|
+|Base|207830|0.00%|
+|Lightforged_Draenei|207796|-0.02%|

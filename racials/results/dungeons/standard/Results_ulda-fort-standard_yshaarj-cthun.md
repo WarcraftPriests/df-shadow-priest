@@ -1,0 +1,34 @@
+# ulda-fort-standard - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|146794|1.32%|
+|Human|146481|1.10%|
+|Night_Elf_Haste|146438|1.07%|
+|Goblin|146379|1.03%|
+|Gnome|146315|0.99%|
+|Tauren|146149|0.87%|
+|Orc|146148|0.87%|
+|Troll|146127|0.86%|
+|Dwarf|146089|0.83%|
+|Zandalari_Troll_Paku|146074|0.82%|
+|Highmountain_Tauren|146051|0.81%|
+|Kul_Tiran|146038|0.80%|
+|Nightborne|146018|0.78%|
+|Draenei|146002|0.77%|
+|Blood_Elf|145977|0.76%|
+|Void_Elf|145973|0.75%|
+|Night_Elf_Crit|145969|0.75%|
+|Worgen|145919|0.72%|
+|Dark_Iron_Dwarf|145834|0.66%|
+|Panda_Fortune_Cookie|145695|0.56%|
+|Panda_Mastery|145477|0.41%|
+|Maghar_Orc|145465|0.40%|
+|Panda_Vers|145372|0.34%|
+|Panda_Crit|145358|0.33%|
+|Zandalari_Troll_Bwonsamdi|145151|0.19%|
+|Undead|145120|0.16%|
+|Zandalari_Troll_Kimbul|145112|0.16%|
+|Panda_Haste|145077|0.13%|
+|Vulpera|144979|0.07%|
+|Lightforged_Draenei|144961|0.05%|
+|Base|144882|0.00%|

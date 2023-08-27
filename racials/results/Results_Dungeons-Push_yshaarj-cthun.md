@@ -1,0 +1,34 @@
+# Dungeons-Push - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|150783|1.45%|
+|Human|150484|1.24%|
+|Gnome|150309|1.13%|
+|Goblin|150295|1.12%|
+|Night_Elf_Haste|150279|1.11%|
+|Orc|150184|1.04%|
+|Zandalari_Troll_Paku|150038|0.94%|
+|Dwarf|150034|0.94%|
+|Tauren|150028|0.94%|
+|Draenei|149997|0.92%|
+|Highmountain_Tauren|149992|0.91%|
+|Kul_Tiran|149975|0.90%|
+|Void_Elf|149929|0.87%|
+|Blood_Elf|149928|0.87%|
+|Nightborne|149916|0.86%|
+|Troll|149893|0.85%|
+|Night_Elf_Crit|149826|0.80%|
+|Worgen|149802|0.79%|
+|Dark_Iron_Dwarf|149761|0.76%|
+|Panda_Fortune_Cookie|149562|0.62%|
+|Maghar_Orc|149374|0.50%|
+|Panda_Mastery|149282|0.44%|
+|Panda_Crit|149137|0.34%|
+|Panda_Vers|149125|0.33%|
+|Zandalari_Troll_Bwonsamdi|148881|0.17%|
+|Undead|148857|0.15%|
+|Panda_Haste|148842|0.14%|
+|Zandalari_Troll_Kimbul|148827|0.13%|
+|Vulpera|148662|0.02%|
+|Lightforged_Draenei|148651|0.01%|
+|Base|148634|0.00%|

@@ -1,0 +1,34 @@
+# nelths-tyran-standard - yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|114629|1.32%|
+|Human|114345|1.07%|
+|Goblin|114266|1.00%|
+|Gnome|114228|0.96%|
+|Night_Elf_Haste|114174|0.91%|
+|Orc|114172|0.91%|
+|Dwarf|114167|0.91%|
+|Tauren|114120|0.87%|
+|Zandalari_Troll_Paku|114075|0.83%|
+|Highmountain_Tauren|114053|0.81%|
+|Draenei|114039|0.79%|
+|Kul_Tiran|114039|0.79%|
+|Blood_Elf|114007|0.77%|
+|Nightborne|113988|0.75%|
+|Void_Elf|113967|0.73%|
+|Troll|113954|0.72%|
+|Night_Elf_Crit|113936|0.70%|
+|Worgen|113930|0.70%|
+|Dark_Iron_Dwarf|113826|0.61%|
+|Panda_Fortune_Cookie|113776|0.56%|
+|Maghar_Orc|113606|0.41%|
+|Panda_Mastery|113582|0.39%|
+|Panda_Vers|113463|0.29%|
+|Panda_Crit|113452|0.28%|
+|Zandalari_Troll_Bwonsamdi|113392|0.22%|
+|Undead|113375|0.21%|
+|Zandalari_Troll_Kimbul|113309|0.15%|
+|Panda_Haste|113254|0.10%|
+|Lightforged_Draenei|113178|0.03%|
+|Vulpera|113173|0.03%|
+|Base|113140|0.00%|

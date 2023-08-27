@@ -1,0 +1,34 @@
+# bhh-fort-standard - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|149371|0.87%|
+|Human|149086|0.68%|
+|Night_Elf_Haste|149006|0.63%|
+|Gnome|148961|0.60%|
+|Goblin|148922|0.57%|
+|Tauren|148900|0.56%|
+|Dwarf|148893|0.55%|
+|Orc|148864|0.53%|
+|Highmountain_Tauren|148850|0.52%|
+|Kul_Tiran|148847|0.52%|
+|Zandalari_Troll_Paku|148846|0.52%|
+|Draenei|148843|0.52%|
+|Void_Elf|148837|0.51%|
+|Nightborne|148814|0.50%|
+|Troll|148757|0.46%|
+|Night_Elf_Crit|148734|0.44%|
+|Worgen|148724|0.44%|
+|Blood_Elf|148721|0.43%|
+|Dark_Iron_Dwarf|148681|0.41%|
+|Panda_Fortune_Cookie|148558|0.32%|
+|Panda_Mastery|148447|0.25%|
+|Maghar_Orc|148435|0.24%|
+|Panda_Crit|148337|0.18%|
+|Panda_Vers|148306|0.15%|
+|Zandalari_Troll_Bwonsamdi|148203|0.09%|
+|Undead|148168|0.06%|
+|Zandalari_Troll_Kimbul|148129|0.04%|
+|Panda_Haste|148117|0.03%|
+|Base|148077|0.00%|
+|Lightforged_Draenei|148056|-0.01%|
+|Vulpera|148017|-0.04%|

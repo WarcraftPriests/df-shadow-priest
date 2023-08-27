@@ -1,0 +1,34 @@
+# vtp-tyran-push - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|135075|1.42%|
+|Human|135067|1.41%|
+|Goblin|135044|1.40%|
+|Gnome|135004|1.37%|
+|Night_Elf_Haste|134997|1.36%|
+|Zandalari_Troll_Paku|134414|0.92%|
+|Highmountain_Tauren|134374|0.89%|
+|Orc|134373|0.89%|
+|Draenei|134328|0.86%|
+|Void_Elf|134300|0.84%|
+|Troll|134280|0.82%|
+|Kul_Tiran|134265|0.81%|
+|Blood_Elf|134236|0.79%|
+|Night_Elf_Crit|134231|0.79%|
+|Nightborne|134231|0.79%|
+|Worgen|134192|0.76%|
+|Dwarf|134077|0.67%|
+|Panda_Fortune_Cookie|134002|0.61%|
+|Dark_Iron_Dwarf|134001|0.61%|
+|Tauren|134000|0.61%|
+|Maghar_Orc|133799|0.46%|
+|Panda_Mastery|133773|0.44%|
+|Panda_Haste|133745|0.42%|
+|Panda_Vers|133614|0.32%|
+|Panda_Crit|133595|0.31%|
+|Zandalari_Troll_Bwonsamdi|133435|0.19%|
+|Undead|133414|0.17%|
+|Zandalari_Troll_Kimbul|133404|0.17%|
+|Vulpera|133187|0.00%|
+|Base|133184|0.00%|
+|Lightforged_Draenei|133169|-0.01%|

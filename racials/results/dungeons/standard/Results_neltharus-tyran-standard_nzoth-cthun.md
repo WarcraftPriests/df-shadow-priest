@@ -1,0 +1,34 @@
+# neltharus-tyran-standard - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|136858|1.57%|
+|Human|136397|1.23%|
+|Orc|136305|1.16%|
+|Gnome|136300|1.16%|
+|Goblin|136258|1.13%|
+|Night_Elf_Haste|136252|1.12%|
+|Draenei|136042|0.97%|
+|Troll|136026|0.95%|
+|Dwarf|136023|0.95%|
+|Tauren|136013|0.94%|
+|Void_Elf|136012|0.94%|
+|Highmountain_Tauren|135973|0.91%|
+|Kul_Tiran|135960|0.90%|
+|Nightborne|135926|0.88%|
+|Blood_Elf|135914|0.87%|
+|Zandalari_Troll_Paku|135899|0.86%|
+|Night_Elf_Crit|135868|0.84%|
+|Dark_Iron_Dwarf|135862|0.83%|
+|Worgen|135847|0.82%|
+|Panda_Fortune_Cookie|135536|0.59%|
+|Maghar_Orc|135461|0.53%|
+|Panda_Mastery|135267|0.39%|
+|Panda_Crit|135204|0.34%|
+|Panda_Vers|135147|0.30%|
+|Undead|134986|0.18%|
+|Zandalari_Troll_Bwonsamdi|134952|0.16%|
+|Zandalari_Troll_Kimbul|134861|0.09%|
+|Panda_Haste|134825|0.06%|
+|Lightforged_Draenei|134745|0.00%|
+|Base|134741|0.00%|
+|Vulpera|134733|-0.01%|

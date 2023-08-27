@@ -28,6 +28,10 @@ def build_output_string(sim_type, talent_string, file_type, dungeons):
     output_dir = "results/"
     if dungeons:
         output_dir += "dungeons/"
+        if "standard" in sim_type:
+            output_dir += "standard/"
+        elif "push" in sim_type:
+            output_dir += "push/"
     assure_path_exists(output_dir)
     output_string = f"{output_dir}Results_{sim_type}{talent_string}.{file_type}"
     return output_string
@@ -59,8 +63,10 @@ def find_weight(sim_type, profile_name, dungeons):
         weight_type = "twoTargetWeights"
     elif sim_type == "4T":
         weight_type = "fourTargetWeights"
-    elif sim_type == "Dungeons":
-        weight_type = "dungeonWeights"
+    elif sim_type == "Dungeons-Standard":
+        weight_type = "dungeonStandardWeights"
+    elif sim_type == "Dungeons-Push":
+        weight_type = "dungeonPushWeights"
     elif dungeons:
         if sim_type == profile_name:
             weight = 1
@@ -78,7 +84,7 @@ def build_results(data, weights, sim_type, directory, dungeons):
     results = {}
     for value in data.iterrows():
         actor = value[1].actor
-        if sim_type == "Dungeons" or dungeons:
+        if "Dungeons" in sim_type or dungeons:
             fight_style = value[1].profile.split("_")[-1]
         else:
             fight_style = re.search(
@@ -300,24 +306,32 @@ def convert_increase_to_double(increase):
     return increase
 
 
+def not_dungeon_fight(fight_type):
+    """checks if fight_type is a specific dungeon one"""
+    non_dungeon_fights = ["Composite", "Single",
+                          "Dungeons-Push", "Dungeons-Standard", "2T", "4T"]
+    return fight_type in non_dungeon_fights
+
+
 def clear_dir(path, talent_string, fight_types):
     """clear out unused files that are not in the current run"""
     for file in os.listdir(path):
-        # ignore the sub-folder
-        if file == "dungeons":
+        # ignore the sub-folders
+        if file == "dungeons" or file == "push" or file == "standard":
             continue
         file_to_delete = path + "/" + file
         output_files = []
         if talent_string:
             for talent in config["builds"]:
                 for fight_type in fight_types:
+                    dungeonChartsGen = config["analyze"]["dungeonCharts"] or not_dungeon_fight(fight_type)  # noqa: E501
                     if config["analyze"]["markdown"]:
                         output_files.append(
                             f"{path}/Results_{fight_type}_{talent}.md")
-                    if config["analyze"]["csv"]:
+                    if config["analyze"]["csv"] and dungeonChartsGen:
                         output_files.append(
                             f"{path}/Results_{fight_type}_{talent}.csv")
-                    if config["analyze"]["json"]:
+                    if config["analyze"]["json"] and dungeonChartsGen:
                         output_files.append(
                             f"{path}/Results_{fight_type}_{talent}.json")
         else:
@@ -338,7 +352,7 @@ def clear_output_files(talent_string):
     dungeon_fights = utils.get_dungeon_combos()
 
     clear_dir("results", talent_string, [
-              "Composite", "Single", "Dungeons", "2T", "4T"])
+              "Composite", "Single", "Dungeons-Standard", "Dungeons-Push", "2T", "4T"])
     clear_dir("results/dungeons", talent_string, dungeon_fights)
 
 
@@ -399,7 +413,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
         data = pandas.read_csv(csv, usecols=['profile', 'actor', 'DD', 'DPS'])
 
     talent_string = f"_{talents}" if talents else ""
-    sim_types = ["Dungeons"] if dungeons else [
+    sim_types = ["Dungeons-Standard", "Dungeons-Push"] if dungeons else [
         "Composite", "Single", "2T", "4T"]
 
     # Main Composites
@@ -416,7 +430,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
             build_json(sim_type, talent_string, results,
                        directory, timestamp, False)
 
-    # Dungeon Composite
+    # Individual Dungeons
     if dungeons:
         combinations = utils.get_dungeon_combos()
 
@@ -426,10 +440,10 @@ def analyze(talents, directory, dungeons, weights, timestamp):
             if config["analyze"]["markdown"]:
                 build_markdown(combo, talent_string, results,
                                weights, base_dps, True)
-            if config["analyze"]["csv"]:
+            if config["analyze"]["csv"] and config["analyze"]["dungeonCharts"]:
                 build_csv(combo, talent_string, results,
                           weights, base_dps, True)
-            if config["analyze"]["json"] and not weights:
+            if config["analyze"]["json"] and config["analyze"]["dungeonCharts"] and not weights:  # noqa: E501
                 build_json(combo, talent_string, results,
                            directory, timestamp, True)
 

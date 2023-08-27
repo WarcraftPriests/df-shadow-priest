@@ -1,0 +1,34 @@
+# hoi-fort-standard - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|127534|1.27%|
+|Gnome|127503|1.24%|
+|Night_Elf_Haste|127482|1.23%|
+|Goblin|127457|1.21%|
+|Mechagnome|127430|1.19%|
+|Zandalari_Troll_Paku|126868|0.74%|
+|Orc|126859|0.73%|
+|Draenei|126844|0.72%|
+|Troll|126827|0.71%|
+|Void_Elf|126815|0.70%|
+|Nightborne|126811|0.69%|
+|Blood_Elf|126804|0.69%|
+|Kul_Tiran|126804|0.69%|
+|Highmountain_Tauren|126776|0.67%|
+|Night_Elf_Crit|126773|0.66%|
+|Worgen|126758|0.65%|
+|Dwarf|126665|0.58%|
+|Tauren|126630|0.55%|
+|Panda_Fortune_Cookie|126592|0.52%|
+|Dark_Iron_Dwarf|126588|0.52%|
+|Maghar_Orc|126448|0.41%|
+|Panda_Mastery|126439|0.40%|
+|Panda_Haste|126405|0.37%|
+|Panda_Vers|126308|0.30%|
+|Panda_Crit|126294|0.28%|
+|Zandalari_Troll_Kimbul|126140|0.16%|
+|Zandalari_Troll_Bwonsamdi|126138|0.16%|
+|Undead|126134|0.16%|
+|Lightforged_Draenei|126057|0.10%|
+|Vulpera|126018|0.07%|
+|Base|125936|0.00%|

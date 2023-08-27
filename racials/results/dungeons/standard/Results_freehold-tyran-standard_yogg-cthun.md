@@ -1,0 +1,34 @@
+# freehold-tyran-standard - yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|138246|1.48%|
+|Goblin|138181|1.43%|
+|Gnome|138133|1.39%|
+|Night_Elf_Haste|138106|1.37%|
+|Mechagnome|138076|1.35%|
+|Highmountain_Tauren|137425|0.87%|
+|Void_Elf|137421|0.87%|
+|Orc|137380|0.84%|
+|Zandalari_Troll_Paku|137380|0.84%|
+|Kul_Tiran|137379|0.84%|
+|Draenei|137348|0.82%|
+|Blood_Elf|137343|0.81%|
+|Troll|137340|0.81%|
+|Nightborne|137308|0.79%|
+|Night_Elf_Crit|137286|0.77%|
+|Worgen|137244|0.74%|
+|Dwarf|137064|0.61%|
+|Dark_Iron_Dwarf|137030|0.59%|
+|Tauren|137014|0.57%|
+|Panda_Fortune_Cookie|137003|0.57%|
+|Panda_Mastery|136895|0.49%|
+|Panda_Haste|136794|0.41%|
+|Maghar_Orc|136760|0.39%|
+|Panda_Crit|136637|0.30%|
+|Panda_Vers|136629|0.29%|
+|Zandalari_Troll_Bwonsamdi|136508|0.20%|
+|Undead|136499|0.20%|
+|Zandalari_Troll_Kimbul|136419|0.14%|
+|Vulpera|136237|0.00%|
+|Base|136233|0.00%|
+|Lightforged_Draenei|136231|0.00%|

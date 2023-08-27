@@ -1,0 +1,34 @@
+# ur-fort-push - nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|137747|1.38%|
+|Human|137447|1.15%|
+|Gnome|137285|1.04%|
+|Night_Elf_Haste|137251|1.01%|
+|Goblin|137226|0.99%|
+|Orc|137199|0.97%|
+|Dwarf|137095|0.90%|
+|Draenei|137064|0.87%|
+|Tauren|137064|0.87%|
+|Zandalari_Troll_Paku|137043|0.86%|
+|Highmountain_Tauren|137040|0.86%|
+|Kul_Tiran|137020|0.84%|
+|Void_Elf|137010|0.83%|
+|Nightborne|136979|0.81%|
+|Troll|136978|0.81%|
+|Worgen|136882|0.74%|
+|Night_Elf_Crit|136877|0.74%|
+|Blood_Elf|136874|0.73%|
+|Dark_Iron_Dwarf|136816|0.69%|
+|Panda_Fortune_Cookie|136675|0.59%|
+|Maghar_Orc|136527|0.48%|
+|Panda_Mastery|136428|0.40%|
+|Panda_Crit|136318|0.32%|
+|Panda_Vers|136286|0.30%|
+|Zandalari_Troll_Bwonsamdi|136108|0.17%|
+|Panda_Haste|136079|0.15%|
+|Undead|136060|0.13%|
+|Zandalari_Troll_Kimbul|135982|0.08%|
+|Vulpera|135951|0.05%|
+|Lightforged_Draenei|135931|0.04%|
+|Base|135878|0.00%|
