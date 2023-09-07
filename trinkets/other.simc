@@ -207,7 +207,7 @@ profileset."Idol_of_the_Life_Binder_447"+=waist=${gear.waist},gem_id=192919
 profileset."Idol_of_the_Life_Binder_447"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
 profileset."Idol_of_the_Life_Binder_447"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
 
-# TODO: Questing Trinkets
+# Questing Trinkets
 profileset."Primal_Ritual_Shell_Wind_424"+=trinket1=primal_ritual_shell,id=200563,ilevel=424
 profileset."Primal_Ritual_Shell_Wind_424"+=dragonflight.primal_ritual_shell_blessing=wind
 
@@ -239,6 +239,7 @@ profileset."Stirring_Twilight_Ember_424"+=trinket1=stirring_twilight_ember,id=20
 profileset."Crimson_Gladiators_Badge_of_Ferocity_434"+=trinket1=crimson_gladiators_badge_of_ferocity,id=201807,ilevel=434
 profileset."Crimson_Gladiators_Insignia_of_Alacrity_434"+=trinket1=crimson_gladiators_insignia_of_alacrity,id=201808,ilevel=434
 
+# TODO: Timewalking Item Level
 # Ulduar Timewalking
 profileset."Energy_Siphon_437"+=trinket1=energy_siphon,id=156021,ilevel=437
 profileset."Eye_of_the_Broodmother_437"+=trinket1=eye_of_the_broodmother,id=156036,ilevel=437

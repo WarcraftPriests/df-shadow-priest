@@ -37,5 +37,15 @@ profileset."T30-2-set"+=set_bonus=tier30_2pc=1
 profileset."T30-2_4-set"+=set_bonus=tier30_2pc=1
 profileset."T30-2_4-set"+=set_bonus=tier30_4pc=1
 
+profileset."T31-2-set"+=set_bonus=tier31_2pc=1
+profileset."T31-2_4-set"+=set_bonus=tier31_2pc=1
+profileset."T31-2_4-set"+=set_bonus=tier31_4pc=1
+
 profileset."T29-2-set+T30-2-set"+=set_bonus=tier30_2pc=1
 profileset."T29-2-set+T30-2-set"+=set_bonus=tier29_2pc=1
+
+profileset."T30-2-set+T31-2-set"+=set_bonus=tier30_2pc=1
+profileset."T30-2-set+T31-2-set"+=set_bonus=tier31_2pc=1
+
+profileset."T29-2-set+T31-2-set"+=set_bonus=tier29_2pc=1
+profileset."T29-2-set+T31-2-set"+=set_bonus=tier31_2pc=1
