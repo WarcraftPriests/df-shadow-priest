@@ -25,21 +25,17 @@ main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 # 10.1.5 Special Items
-profileset."Feet_Imbued_Frostweave_Slippers_441"+=feet=imbued_frostweave_slippers,id=207817,ilevel=441
+profileset."Feet_Imbued_Frostweave_Slippers_483"+=feet=imbued_frostweave_slippers,id=207817,ilevel=483
 
-profileset."2h_Iridal_the_Earths_Master_441"+=main_hand=iridal_the_earths_master,id=208321,ilevel=441,enchant_id=6643
-profileset."2h_Iridal_the_Earths_Master_441"+=off_hand=disabled
+profileset."2h_Iridal_the_Earths_Master_483"+=main_hand=iridal_the_earths_master,id=208321,ilevel=483,enchant_id=6643
+profileset."2h_Iridal_the_Earths_Master_483"+=off_hand=disabled
 
 # 10.1 Special Items
-profileset."Back_Voice_of_the_Silent_Star_431"+=back=voice_of_the_silent_star,id=204465,ilevel=431
-profileset."Back_Voice_of_the_Silent_Star_441"+=back=voice_of_the_silent_star,id=204465,ilevel=441
-profileset."Back_Voice_of_the_Silent_Star_444"+=back=voice_of_the_silent_star,id=204465,ilevel=444
-profileset."Back_Voice_of_the_Silent_Star_447"+=back=voice_of_the_silent_star,id=204465,ilevel=447
 profileset."Back_Voice_of_the_Silent_Star_457"+=back=voice_of_the_silent_star,id=204465,ilevel=457
 
-# Crafted Gear ilvls = 424/437/447
-profileset."MH_Spore_Keepers_Baton_447-OH_Echos_Maddening_Volume_450"+=main_hand=spore_keepers_baton,id=204401,ilevel=447,enchant_id=6643
-profileset."MH_Spore_Keepers_Baton_447-OH_Echos_Maddening_Volume_450"+=off_hand=echos_maddening_volume,id=204324,ilevel=450
+# Crafted Gear ilvls = 483
+profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=main_hand=spore_keepers_baton,id=204401,ilevel=483,enchant_id=6643
+profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=off_hand=holdable__offhand,id=207796,ilevel=489
 
 # Embellishments
 ## Blue Silken Lining - 8932
@@ -85,82 +81,84 @@ profileset."Embellishment_BSL1_90%_STAP_1"+=finger1=${gear.finger1},enchant_id=6
 profileset."Embellishment_BSL1_90%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.9
 
 ## Jewelcrafting
-profileset."Neck_Elemental_Lariat_7Earth_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192948/192948
+profileset."Neck_Elemental_Lariat_7Earth_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192948/192948/192948
 
-profileset."Neck_Elemental_Lariat_7Air_447"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192961/192961/192961
-profileset."Neck_Elemental_Lariat_7Air_447"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
-profileset."Neck_Elemental_Lariat_7Air_447"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
-profileset."Neck_Elemental_Lariat_7Air_447"+=waist=${gear.waist},gem_id=192961
-profileset."Neck_Elemental_Lariat_7Air_447"+=wrists=${gear.wrists},gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192961/192961/192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=waist=${gear.waist},gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=wrists=${gear.wrists},gem_id=192961
 
-profileset."Neck_Torc_of_Passed_Time_447"+=neck=torc_of_passed_time,id=201759,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=447,gem_id=192948/192948/192948
+profileset."Neck_Torc_of_Passed_Time_483"+=neck=torc_of_passed_time,id=201759,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192948/192948/192948
 
-profileset."Finger1_Ring_Bound_Hourglass_447"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=447,enchant_id=6556,gem_id=192948
-profileset."Finger2_Ring_Bound_Hourglass_447"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=447,enchant_id=6556,gem_id=192948
+profileset."Finger1_Ring_Bound_Hourglass_483"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=6556,gem_id=192948
+profileset."Finger2_Ring_Bound_Hourglass_483"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=6556,gem_id=192948
 
 ## Tailoring
-# add chest whenever replacing tier slot chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
-profileset."Legs_Vibrant_Wildercloth_Slacks_447"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6541
-profileset."Legs_Vibrant_Wildercloth_Slacks_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+# add chest whenever replacing tier slot chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=6541
+profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Waist_Vibrant_Wildercloth_Girdle_447"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
+profileset."Waist_Vibrant_Wildercloth_Girdle_483"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
 
-profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=447
-profileset."Hands_Vibrant_Wildercloth_Handwraps_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Hands_Vibrant_Wildercloth_Handwraps_483"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Hands_Vibrant_Wildercloth_Handwraps_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Head_Vibrant_Wildercloth_Headcover_447"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
-profileset."Head_Vibrant_Wildercloth_Headcover_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Head_Vibrant_Wildercloth_Headcover_483"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
+profileset."Head_Vibrant_Wildercloth_Headcover_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Back_Vibrant_Wildercloth_Shawl_447"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=447
+profileset."Back_Vibrant_Wildercloth_Shawl_483"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=447
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_483"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Feet_Vibrant_Wildercloth_Slippers_447"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=447
+profileset."Feet_Vibrant_Wildercloth_Slippers_483"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
 # currently using this in the base profile since we have like no good chests
-# profileset."Chest_Vibrant_Wildercloth_Vestments_447"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447,enchant_id=6625
+profileset."Chest_Vibrant_Wildercloth_Vestments_483"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=6625
 
-profileset."Wrists_Vibrant_Wildercloth_Wristwraps_447"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=447,gem_id=192948
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_483"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
 
-profileset."Back_Undulating_Sporecloak_447"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=447
+profileset."Back_Undulating_Sporecloak_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
 ### Azureweave
-profileset."Azureweave_Mantle_Slippers_447"+=shoulder=azureweave_mantle,id=193520,ilevel=447
-profileset."Azureweave_Mantle_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
-profileset."Azureweave_Mantle_Slippers_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Azureweave_Mantle_Slippers_483"+=shoulder=azureweave_mantle,id=193520,ilevel=483
+profileset."Azureweave_Mantle_Slippers_483"+=feet=azureweave_slippers,id=193525,ilevel=483
+profileset."Azureweave_Mantle_Slippers_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Azureweave_Robe_Slippers_447"+=chest=azureweave_robe,id=193536,ilevel=447,enchant_id=6625
-profileset."Azureweave_Robe_Slippers_447"+=feet=azureweave_slippers,id=193525,ilevel=447
+profileset."Azureweave_Robe_Slippers_483"+=chest=azureweave_robe,id=193536,ilevel=483,enchant_id=6625
+profileset."Azureweave_Robe_Slippers_483"+=feet=azureweave_slippers,id=193525,ilevel=483
 
-profileset."Feet_Blue_Dragon_Soles_447"+=feet=blue_dragon_soles,id=193532,ilevel=447
-profileset."Shoulders_Amice_of_the_Blue_447"+=shoulder=amice_of_the_blue,id=193526,ilevel=447
-profileset."Shoulders_Amice_of_the_Blue_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Feet_Blue_Dragon_Soles_483"+=feet=blue_dragon_soles,id=193532,ilevel=483
+profileset."Shoulders_Amice_of_the_Blue_483"+=shoulder=amice_of_the_blue,id=193526,ilevel=483
+profileset."Shoulders_Amice_of_the_Blue_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
 ### Chronocloth
-profileset."Chronocloth_Gloves_Sash_447"+=hands=chronocloth_gloves,id=193527,ilevel=447
-profileset."Chronocloth_Gloves_Sash_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
-profileset."Chronocloth_Gloves_Sash_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Chronocloth_Gloves_Sash_483"+=hands=chronocloth_gloves,id=193527,ilevel=483
+profileset."Chronocloth_Gloves_Sash_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=192948
+profileset."Chronocloth_Gloves_Sash_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Chronocloth_Sash_Leggings_447"+=legs=chronocloth_leggings,id=193537,ilevel=447,enchant_id=6541
-profileset."Chronocloth_Sash_Leggings_447"+=waist=chronocloth_sash,id=193512,ilevel=447,gem_id=192948
-profileset."Chronocloth_Sash_Leggings_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Chronocloth_Sash_Leggings_483"+=legs=chronocloth_leggings,id=193537,ilevel=483,enchant_id=6541
+profileset."Chronocloth_Sash_Leggings_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=192948
+profileset."Chronocloth_Sash_Leggings_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Head_Hood_of_Surging_Time_447"+=head=hood_of_surging_time,id=193521,ilevel=447,gem_id=192948
-profileset."Head_Hood_of_Surging_Time_447"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=447,enchant_id=6625
+profileset."Head_Hood_of_Surging_Time_483"+=head=hood_of_surging_time,id=193521,ilevel=483,gem_id=192948
+profileset."Head_Hood_of_Surging_Time_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
 
-profileset."Wrists_Allied_Wristguards_of_Time_Dilation_447"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=447,gem_id=192948
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_483"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=483,gem_id=192948
 
 ## Inscription
-profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=447,enchant_id=6643
-profileset."2h_Illuminating_Pillar_of_the_Isles_447"+=off_hand=disabled
+profileset."2h_Illuminating_Pillar_of_the_Isles_483"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=483,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_483"+=off_hand=disabled
 
-profileset."2h_Weathered_Explorers_Stave_447"+=main_hand=weathered_explorers_stave,id=194894,ilevel=447,enchant_id=6643
-profileset."2h_Weathered_Explorers_Stave_447"+=off_hand=disabled
+profileset."2h_Weathered_Explorers_Stave_483"+=main_hand=weathered_explorers_stave,id=194894,ilevel=483,enchant_id=6643
+profileset."2h_Weathered_Explorers_Stave_483"+=off_hand=disabled
 
-profileset."MH_Lavaflow_Control_Rod_447-OH_Crackling_Codex_of_the_Isles_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
-profileset."MH_Lavaflow_Control_Rod_447-OH_Crackling_Codex_of_the_Isles_447"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=447,crafted_stats=49/36
+## TODO: Fix this MH with something else
+profileset."MH_Lavaflow_Control_Rod_483-OH_Crackling_Codex_of_the_Isles_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_483-OH_Crackling_Codex_of_the_Isles_483"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=483,crafted_stats=49/36
 
 ## Leatherworking
-profileset."MH_Lavaflow_Control_Rod_447-OH_Witherrot_Tome_447"+=main_hand=lavaflow_control_rod,id=202570,ilevel=447,enchant_id=6643
-profileset."MH_Lavaflow_Control_Rod_447-OH_Witherrot_Tome_447"+=off_hand=witherrot_tome,id=193496,ilevel=447,crafted_stats=49/36
+## TODO: Fix this MH with something else
+profileset."MH_Lavaflow_Control_Rod_483-OH_Witherrot_Tome_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_483-OH_Witherrot_Tome_483"+=off_hand=witherrot_tome,id=193496,ilevel=483,crafted_stats=49/36

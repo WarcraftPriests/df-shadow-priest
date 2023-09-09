@@ -19,21 +19,21 @@ builds:
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkEJBAAAAAAAAAAAAIkGRSSJIJJRSig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_98181774799791_Spike_DR
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQISAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_90810537711535_Flay_DR
 gear:
-  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # haste/crit
-  neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
-  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/mastery
-  back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
-  chest: "vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447" # haste=mastery
-  wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
-  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=447" # vers/haste
-  waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
-  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=450" # mastery/crit
-  feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
-  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
-  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
+  head: "tier,id=207281,ilevel=489" # mastery/crit
+  neck: "neck,id=207163,ilevel=489" # mastery/haste
+  shoulders: "tier,id=207279,ilevel=489" # crit/mastery
+  back: "back,id=207161,ilevel=489" # mastery/crit
+  chest: "chest,id=207121,ilevel=489" # haste/crit
+  wrists: "wrists,id=210204,ilevel=489" # mastery/haste
+  hands: "tier,id=207282,ilevel=489" # haste/crit
+  waist: "waist,id=207124,ilevel=489" # haste/mastery
+  legs: "tier,id=207280,ilevel=489" # haste/mastery
+  feet: "feet,id=207123,ilevel=489" # mastery/haste
+  finger1: "ring1,id=207159,ilevel=489" # haste/mastery
+  finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
   trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
   trinket2: "ominous_chromatic_essence,id=203729,ilevel=444"
-  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/mastery
+  main_hand: "staff,id=207795,ilevel=489" # haste/mastery
   off_hand: ""
 sims:
   alchemy:
