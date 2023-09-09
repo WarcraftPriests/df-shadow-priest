@@ -237,9 +237,12 @@ analyze:
   csv: true
   json: true
 stats:
-  base: 1600
-  steps: 1000
-  total: 12600
+  base: 2000
+  steps: 500
+  total: 16000
+  min:
+    haste: 5000
+    mastery: 5000
   include:
     - mastery
     - haste
