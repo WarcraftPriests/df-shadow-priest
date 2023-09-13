@@ -105,6 +105,13 @@ def build_stats_files():
             "haste": generate_stat_string(dist, "haste"),
             "crit": generate_stat_string(dist, "crit")
         }
+        haste = int(combination.get("haste").split("=")[1])
+        mastery = int(combination.get("mastery").split("=")[1])
+        # remove profiles with too low haste/mastery
+        if haste < config["stats"]["min"]["haste"]:
+            continue
+        if mastery < config["stats"]["min"]["mastery"]:
+            continue
         rating_combinations.append(combination)
     print(f"Simming {len(rating_combinations)} number of combinations")
     output_file = f"{args.dir}/generated.simc"

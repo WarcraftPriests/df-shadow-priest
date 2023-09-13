@@ -14,37 +14,37 @@ combos = {
     "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
-    # s3 dungeons (470/483)
-    "Vessel_of_Skittering_Shadows_470": "vessel_of_skittering_shadows,id=159610,ilevel=470", # noqa: E501
+    # s3 dungeons (483/489)
     "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
-    "Caged_Horror_470": "caged_horror,id=136716,ilevel=470",
+    "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
     "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
-    "Corrupted_Starlight_470": "corrupted_starlight,id=137301,ilevel=470",
+    "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
     "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
-    "Oakhearts_Gnarled_Root_470": "oakhearts_gnarled_root,id=137306,ilevel=470",
+    "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
     "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
-    "Leaf_of_the_Ancient_Protectors_470": "leaf_of_the_ancient_protectors,id=110009,ilevel=470", # noqa: E501
+    "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
     "Leaf_of_the_Ancient_Protectors_483": "leaf_of_the_ancient_protectors,id=110009,ilevel=483", # noqa: E501
-    "Coagulated_Genesaur_Blood_470": "coagulated_genesaur_blood,id=110004,ilevel=470",
+    "Leaf_of_the_Ancient_Protectors_489": "leaf_of_the_ancient_protectors,id=110009,ilevel=489", # noqa: E501
     "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
-    "Sea_Star_470": "sea_star,id=133201,ilevel=470",
+    "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
     "Sea_Star_483": "sea_star,id=133201,ilevel=483",
-    "Balefire_Branch_470": "balefire_branch,id=159630,ilevel=470",
+    "Sea_Star_489": "sea_star,id=133201,ilevel=489",
     "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
-    "Mirror_of_Fractured_Tomorrows_470": "mirror_of_fractured_tomorrows,id=207581,ilevel=470", # noqa: E501
+    "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
     "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
-    "Time_Thiefs_Gambit_470": "timethiefs_gambit,id=207579,ilevel=470",
+    "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
     "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
-    # amirdrassil: the dream's hope (482/489)
-    "Pips_Emerald_Friendship_Badge_Mastery_482": "pips_emerald_friendship_badge_mastery,id=207168,ilevel=482", # noqa: E501
+    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
+    # amirdrassil: the dream's hope (483/489)
+    "Pips_Emerald_Friendship_Badge_Mastery_483": "pips_emerald_friendship_badge_mastery,id=207168,ilevel=483", # noqa: E501
     "Pips_Emerald_Friendship_Badge_Mastery_489": "pips_emerald_friendship_badge_mastery,id=207168,ilevel=489", # noqa: E501
-    "Nymues_Vengeful_Spindle_482": "nymues_vengeful_spindle,id=208615,ilevel=482",
+    "Nymues_Vengeful_Spindle_483": "nymues_vengeful_spindle,id=208615,ilevel=483",
     "Nymues_Vengeful_Spindle_489": "nymues_vengeful_spindle,id=208615,ilevel=489",
-    "Belorrelos_the_Sunstone_482": "belorrelos_the_sunstone,id=207172,ilevel=482",
+    "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
     "Belorrelos_the_Sunstone_489": "belorrelos_the_sunstone,id=207172,ilevel=489",
-    "Augury_of_the_Primal_Flame_482": "augury_of_the_primal_flame,id=208614,ilevel=482",
+    "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",
     "Augury_of_the_Primal_Flame_489": "augury_of_the_primal_flame,id=208614,ilevel=489",
-    "Ashes_of_the_Embersoul_482": "ashes_of_the_embersoul,id=207167,ilevel=482",
+    "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
     "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"
 }
 

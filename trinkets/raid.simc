@@ -23,51 +23,51 @@ main_hand=${gear.main_hand},enchant_id=6643
 ${gear.off_hand}
 
 # Amirdrassil: The Dream's Hope
-## 462 / 475 / 482 / 489
-profileset."Ashes_of_the_Embersoul_462"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=462
-profileset."Ashes_of_the_Embersoul_475"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=475
-profileset."Ashes_of_the_Embersoul_482"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=482
+## 463 / 476 / 483 / 489
+profileset."Ashes_of_the_Embersoul_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
+profileset."Ashes_of_the_Embersoul_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
+profileset."Ashes_of_the_Embersoul_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
 profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Augury_of_the_Primal_Flame_462"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=462
-profileset."Augury_of_the_Primal_Flame_475"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=475
-profileset."Augury_of_the_Primal_Flame_482"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=482
+profileset."Augury_of_the_Primal_Flame_463"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=463
+profileset."Augury_of_the_Primal_Flame_476"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=476
+profileset."Augury_of_the_Primal_Flame_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
 profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=489
 
 # TODO: Needs custom APL to use before CDs
-profileset."Belorrelos_the_Sunstone_462"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=462
-profileset."Belorrelos_the_Sunstone_475"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=475
-profileset."Belorrelos_the_Sunstone_482"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=482
+profileset."Belorrelos_the_Sunstone_463"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=463
+profileset."Belorrelos_the_Sunstone_476"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=476
+profileset."Belorrelos_the_Sunstone_483"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
 profileset."Belorrelos_the_Sunstone_489"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
 
 # TODO: Needs custom APL to use before CDs if possible
-profileset."Nymues_Vengeful_Spindle_462"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=462
-profileset."Nymues_Vengeful_Spindle_475"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=475
-profileset."Nymues_Vengeful_Spindle_482"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=482
+profileset."Nymues_Vengeful_Spindle_463"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=463
+profileset."Nymues_Vengeful_Spindle_476"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=476
+profileset."Nymues_Vengeful_Spindle_483"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=483
 profileset."Nymues_Vengeful_Spindle_489"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Crit_462"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_462"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=462
-# profileset."Pips_Emerald_Friendship_Badge_Crit_475"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_475"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=475
-# profileset."Pips_Emerald_Friendship_Badge_Crit_482"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_482"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=482
+# profileset."Pips_Emerald_Friendship_Badge_Crit_463"+=dragonflight.TODO=crit
+profileset."Pips_Emerald_Friendship_Badge_Crit_463"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=463
+# profileset."Pips_Emerald_Friendship_Badge_Crit_476"+=dragonflight.TODO=crit
+profileset."Pips_Emerald_Friendship_Badge_Crit_476"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=476
+# profileset."Pips_Emerald_Friendship_Badge_Crit_483"+=dragonflight.TODO=crit
+profileset."Pips_Emerald_Friendship_Badge_Crit_483"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=483
 # profileset."Pips_Emerald_Friendship_Badge_Crit_489"+=dragonflight.TODO=crit
 profileset."Pips_Emerald_Friendship_Badge_Crit_489"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=489
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_462"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_462"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=462
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_475"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_475"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=475
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_482"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_482"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=482
+# profileset."Pips_Emerald_Friendship_Badge_Mastery_463"+=dragonflight.TODO=mastery
+profileset."Pips_Emerald_Friendship_Badge_Mastery_463"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=463
+# profileset."Pips_Emerald_Friendship_Badge_Mastery_476"+=dragonflight.TODO=mastery
+profileset."Pips_Emerald_Friendship_Badge_Mastery_476"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=476
+# profileset."Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
+profileset."Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
 # profileset."Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
 profileset."Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_462"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_462"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=462     
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_475"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_475"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=475     
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_482"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_482"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=482     
+# profileset."Pips_Emerald_Friendship_Badge_Versatility_463"+=dragonflight.TODO=versatility
+profileset."Pips_Emerald_Friendship_Badge_Versatility_463"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=463     
+# profileset."Pips_Emerald_Friendship_Badge_Versatility_476"+=dragonflight.TODO=versatility
+profileset."Pips_Emerald_Friendship_Badge_Versatility_476"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=476     
+# profileset."Pips_Emerald_Friendship_Badge_Versatility_483"+=dragonflight.TODO=versatility
+profileset."Pips_Emerald_Friendship_Badge_Versatility_483"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=483     
 # profileset."Pips_Emerald_Friendship_Badge_Versatility_489"+=dragonflight.TODO=versatility
 profileset."Pips_Emerald_Friendship_Badge_Versatility_489"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=489
 

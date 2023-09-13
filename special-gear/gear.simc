@@ -33,7 +33,7 @@ profileset."2h_Iridal_the_Earths_Master_483"+=off_hand=disabled
 # 10.1 Special Items
 profileset."Back_Voice_of_the_Silent_Star_457"+=back=voice_of_the_silent_star,id=204465,ilevel=457
 
-# Crafted Gear ilvls = 483
+# TODO: fix OH Name Crafted Gear ilvls = 483
 profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=main_hand=spore_keepers_baton,id=204401,ilevel=483,enchant_id=6643
 profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=off_hand=holdable__offhand,id=207796,ilevel=489
 
@@ -42,6 +42,8 @@ profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=off_hand=
 ## Potion Absorption Inhibitor - 8175
 ## Bronzed Grip Wrappings - 8937
 ## Shadowflame Tempered Armor Patch - 9379
+## TODO: Dreamtender's Charm - https://www.wowhead.com/ptr-2/spell=420834/dreaming-trance
+## TODO: Verdant Conduit - ?
 profileset."Embellishment_Blue_Silken_Lining_50%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_50%_1"+=dragonflight.blue_silken_lining_uptime=0.5
 profileset."Embellishment_Blue_Silken_Lining_70%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
@@ -51,6 +53,8 @@ profileset."Embellishment_Blue_Silken_Lining_90%_1"+=dragonflight.blue_silken_li
 profileset."Embellishment_Potion_Absorption_Inhibitor_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
 profileset."Embellishment_Bronzed_Grip_Wrappings_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
+# profileset."Embellishment_Dreamtenders_Charm_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
+# profileset."Embellishment_Verdant_Conduit_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
 
 profileset."Embellishment_Blue_Silken_Lining_50%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_50%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
@@ -67,6 +71,10 @@ profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=main_hand=${gear.main_hand}
 profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8937
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
 profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+# profileset."Embellishment_Dreamtenders_Charm_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
+# profileset."Embellishment_Dreamtenders_Charm_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+# profileset."Embellishment_Verdant_Conduit_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
+# profileset."Embellishment_Verdant_Conduit_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
 
 profileset."Embellishment_BSL1_50%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
 profileset."Embellishment_BSL1_50%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379

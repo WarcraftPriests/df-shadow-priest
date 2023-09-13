@@ -4,7 +4,7 @@ level=70
 role=spell
 position=back
 spec=shadow
-class_talents=dispel_magic:1/improved_flash_heal:1/protective_light:1/angelic_feather:1/phantasm:1/death_and_madness:1/leap_of_faith:1/dominate_mind:1/mass_dispel:1/power_infusion:1/vampiric_embrace:1/tithe_evasion:1/body_and_soul:1/twins_of_the_sun_priestess:1/sanlayn:1/twist_of_fate:2/throes_of_pain:2/halo:1/translucent_image:1/mindgames:1/lights_inspiration:2/improved_fade:2/manipulation:2/angelic_bulwark:1/shattered_perceptions:1
+class_talents=dispel_magic:1/improved_flash_heal:1/protective_light:1/angelic_feather:1/phantasm:1/death_and_madness:1/leap_of_faith:1/dominate_mind:1/mass_dispel:1/mental_agility:1/power_infusion:1/vampiric_embrace:1/tithe_evasion:1/body_and_soul:1/twins_of_the_sun_priestess:1/sanlayn:1/twist_of_fate:2/throes_of_pain:2/halo:1/translucent_image:1/mindgames:1/lights_inspiration:2/improved_fade:2/manipulation:2/angelic_bulwark:1/shattered_perceptions:1
 spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadowy_insight:1/void_torrent:1/malediction:1/idol_of_cthun:1
 
 ${apl}
