@@ -27,7 +27,8 @@ ${gear.off_hand}
 temporary_enchant=disabled
 
 # Head
-## TODO: https://www.wowhead.com/ptr-2/item=210494/incandescent-essence
+## TODO check this: https://www.wowhead.com/ptr-2/item=210494/incandescent-essence
+profileset."Head_Incandescent_Essence_1"+=head=${gear.head},gem_id=192948,enchant_id=7052
 
 # Temporary Enchants
 profileset."Temp_Weapon_Howling_Rune_1"+=temporary_enchant=main_hand:howling_rune_1
