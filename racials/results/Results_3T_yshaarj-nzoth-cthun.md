@@ -1,0 +1,34 @@
+# 3T - yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|330154|1.34%|
+|Troll|329566|1.16%|
+|Night_Elf_Haste|329546|1.15%|
+|Goblin|329509|1.14%|
+|Gnome|329391|1.11%|
+|Orc|329250|1.06%|
+|Mechagnome|329165|1.04%|
+|Void_Elf|329019|0.99%|
+|Kul_Tiran|328762|0.91%|
+|Highmountain_Tauren|328735|0.90%|
+|Tauren|328671|0.88%|
+|Zandalari_Troll_Paku|328631|0.87%|
+|Dwarf|328466|0.82%|
+|Night_Elf_Crit|328332|0.78%|
+|Blood_Elf|328326|0.78%|
+|Draenei|328202|0.74%|
+|Nightborne|328182|0.73%|
+|Worgen|328178|0.73%|
+|Dark_Iron_Dwarf|327716|0.59%|
+|Maghar_Orc|327403|0.50%|
+|Panda_Fortune_Cookie|327270|0.45%|
+|Panda_Vers|327138|0.41%|
+|Panda_Mastery|326828|0.32%|
+|Panda_Crit|326801|0.31%|
+|Panda_Haste|326439|0.20%|
+|Undead|326069|0.09%|
+|Zandalari_Troll_Bwonsamdi|325973|0.06%|
+|Zandalari_Troll_Kimbul|325904|0.04%|
+|Base|325789|0.00%|
+|Vulpera|325739|-0.02%|
+|Lightforged_Draenei|325533|-0.08%|

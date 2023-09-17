@@ -60,6 +60,36 @@ weights_aberrus_the_shadowed_crucible = {
     'hm_na_4': 0.00000000,
 }
 
+weights_amirdrassil_the_dreams_hope = {
+    'pw_ba_1': 0.08333333,
+    'pw_sa_1': 0.17777778,
+    'pw_na_1': 0.32777778,
+    'lm_ba_1': 0.01111111,
+    'lm_sa_1': 0.05555556,
+    'lm_na_1': 0.16111111,
+    'hm_ba_1': 0.00000000,
+    'hm_sa_1': 0.00000000,
+    'hm_na_1': 0.06111111,
+    'pw_ba_2': 0.01666667,
+    'pw_sa_2': 0.00000000,
+    'pw_na_2': 0.07222222,
+    'lm_ba_2': 0.00000000,
+    'lm_sa_2': 0.00000000,
+    'lm_na_2': 0.02777778,
+    'hm_ba_2': 0.00000000,
+    'hm_sa_2': 0.00000000,
+    'hm_na_2': 0.00555556,
+    'pw_ba_3': 0.00000000,
+    'pw_sa_3': 0.00000000,
+    'pw_na_3': 0.00000000,
+    'lm_ba_3': 0.00000000,
+    'lm_sa_3': 0.00000000,
+    'lm_na_3': 0.00000000,
+    'hm_ba_3': 0.00000000,
+    'hm_sa_3': 0.00000000,
+    'hm_na_3': 0.00000000,
+}
+
 weights_single = {
     'pw_na_1': 0.59595959596,
     'lm_na_1': 0.29292929293,
@@ -76,6 +106,18 @@ weights_two_targets = {
     'hm_ba_2': 0.000,
     'hm_sa_2': 0.000,
     'hm_na_2': 0.000,
+}
+
+weights_three_targets = {
+    'pw_ba_3': 0.000,
+    'pw_sa_3': 0.000,
+    'pw_na_3': 0.800,
+    'lm_ba_3': 0.000,
+    'lm_sa_3': 0.000,
+    'lm_na_3': 0.200,
+    'hm_ba_3': 0.000,
+    'hm_sa_3': 0.000,
+    'hm_na_3': 0.000,
 }
 
 weights_four_targets = {
@@ -155,6 +197,8 @@ def find_weights(key):
         return weights_single
     if key == 'weightsTwoTargets':
         return weights_two_targets
+    if key == 'weightsThreeTargets':
+        return weights_three_targets
     if key == 'weightsFourTargets':
         return weights_four_targets
     if key == 'weightsVaultOfTheIncarnates':
@@ -167,4 +211,6 @@ def find_weights(key):
         return weights_standard_season_two
     if key == 'weightsPushSeasonTwo':
         return weights_push_season_two
+    if key == 'weightsAmirdrassilTheDreamsHope':
+        return weights_amirdrassil_the_dreams_hope
     return None

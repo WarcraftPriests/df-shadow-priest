@@ -109,6 +109,7 @@ def main():
 
         # By default run Composite and Dungeons suite
         # Can pass in --dungeons to ONLY run the Dungeons suite
+        # Can pass in --composite to ONLY run the Composite suite
         if not args.dungeons:
             run_suite(sim_dir, "composite", output_file, sim, args)
         if not args.composite:

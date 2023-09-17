@@ -18,7 +18,7 @@ fightExpressions = {
     "sa": 'raid_events+=/adds,count=3,first=45,cooldown=45,duration=10,distance=5',
     "1": 'desired_targets=1',
     "2": 'desired_targets=2',
-    "4": 'desired_targets=4',
+    "3": 'enemy=Fluffy_Pillow\nenemy=enemy2\nenemy=enemy3\nraid_events+=/move_enemy,enemy_name=enemy3,cooldown=2000,duration=1000,x=-27,y=-27',  # noqa: E501
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": 'ptr=1\n',
     "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'  # noqa: E501
@@ -182,7 +182,7 @@ def build_profiles(talent_string, apl_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2", "4"]
+    targets = ["1", "2", "3"]
     overrides = ""
     with open("internal/overrides.simc", 'r', encoding="utf8") as overrides_file:
         overrides = overrides_file.read()
@@ -221,9 +221,11 @@ def build_profiles(talent_string, apl_string):
                 config["singleTargetWeights"]).get(profile) or 0
             two_target_weight = find_weights(
                 config["twoTargetWeights"]).get(profile) or 0
+            three_target_weight = find_weights(
+                config["threeTargetWeights"]).get(profile) or 0
             four_target_weight = find_weights(
                 config["fourTargetWeights"]).get(profile) or 0
-            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:  # noqa: E501
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and three_target_weight == 0 and four_target_weight == 0 and not args.dungeons:  # noqa: E501
                 # print(f"Skipping profile {profile} weights are all 0.")
                 continue
 
@@ -245,8 +247,8 @@ def build_profiles(talent_string, apl_string):
                 elif target_count == 2:
                     new_talents = config["builds"][talent_string]["2t"]
                     sim_data = replace_talents(new_talents, sim_data)
-                elif target_count == 4:
-                    new_talents = config["builds"][talent_string]["4t"]
+                elif target_count == 3:
+                    new_talents = config["builds"][talent_string]["3t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data)

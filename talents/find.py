@@ -6,7 +6,7 @@ import csv
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('sim_type', help='which sim type to search through',
-                        choices=["Single", "2T", "4T", "Composite", "Dungeons"])
+                        choices=["Single", "2T", "3T", "Composite", "Dungeons"])
     parser.add_argument('match', help='string to match for')
     parser.add_argument('matchtwo', help='string to match for')
     parser.add_argument('matchthree', help='string to match for')

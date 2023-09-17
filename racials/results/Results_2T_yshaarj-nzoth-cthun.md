@@ -1,0 +1,34 @@
+# 2T - yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|272095|1.41%|
+|Goblin|271881|1.33%|
+|Gnome|271708|1.26%|
+|Night_Elf_Haste|271676|1.25%|
+|Mechagnome|271185|1.07%|
+|Troll|271126|1.04%|
+|Void_Elf|271077|1.03%|
+|Tauren|271043|1.01%|
+|Dwarf|270992|0.99%|
+|Orc|270951|0.98%|
+|Kul_Tiran|270771|0.91%|
+|Zandalari_Troll_Paku|270568|0.84%|
+|Highmountain_Tauren|270555|0.83%|
+|Night_Elf_Crit|270457|0.79%|
+|Worgen|270452|0.79%|
+|Blood_Elf|270415|0.78%|
+|Nightborne|270389|0.77%|
+|Draenei|270218|0.71%|
+|Dark_Iron_Dwarf|270038|0.64%|
+|Maghar_Orc|269674|0.50%|
+|Panda_Fortune_Cookie|269661|0.50%|
+|Panda_Crit|269618|0.48%|
+|Panda_Haste|269454|0.42%|
+|Panda_Vers|269409|0.40%|
+|Panda_Mastery|269171|0.32%|
+|Zandalari_Troll_Bwonsamdi|268651|0.12%|
+|Zandalari_Troll_Kimbul|268633|0.12%|
+|Undead|268426|0.04%|
+|Base|268324|0.00%|
+|Lightforged_Draenei|268046|-0.10%|
+|Vulpera|268007|-0.12%|

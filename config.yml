@@ -1,17 +1,17 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkE5ABAAAAAAAAAAAAIJaRkIlgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144613401519_Spike_DR
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkERAAAAAAAAAAAAASiWEJSJOgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144611304367_Spike_DR
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
     single: BIQAAAAAAAAAAAAAAAAAAAAAAIkE5ABAAAAAAAAAAAAIJaRkIlgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144613401519_Spike_DR
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIhWEJShIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144643835823_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
   yshaarj-nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCHAAAAAAAAAAAAAIhWEJJlISSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674180458415_Spike_DR
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkgEEAAAAAAAAAAAAgkoFRSSJOgkERSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674416354223_Spike_DR
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSiDAAAAAAAAAAAAAIhWEJJlISSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674176264111_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAkQSicAAAAAAAAAAAAAgEaRkkUCSSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674249664431_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSiEAAAAAAAAAAAAgEaRkkUgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_89674518091695_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSiAAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808147236783_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAkgEEAAAAAAAAAAAAgkoFRSSJOgkERSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674416354223_Spike_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASoFRSShIJRSSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674448885679_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCBAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR
 gear:
   head: "tier,id=207281,ilevel=489" # mastery/crit
   neck: "neck,id=207163,ilevel=489" # mastery/haste
@@ -203,9 +203,10 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsAberrusTheShadowedCrucible
+compositeWeights: weightsAmirdrassilTheDreamsHope
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
+threeTargetWeights: weightsThreeTargets
 fourTargetWeights: weightsFourTargets
 singleTargetProfiles:
   - pw_na_1
