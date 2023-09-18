@@ -100,13 +100,11 @@ profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_483"+=trinket2=timethiefs
 profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Spoils_of_Neltharus_447-Nymues_Vengeful_Spindle_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -207,13 +205,11 @@ profileset."Vessel_of_Searing_Shadow_447-Time_Thiefs_Gambit_483"+=trinket2=timet
 profileset."Vessel_of_Searing_Shadow_447-Time_Thiefs_Gambit_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Vessel_of_Searing_Shadow_447-Nymues_Vengeful_Spindle_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -323,15 +319,13 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=dragon
 profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-# profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-# profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Nymues_Vengeful_Spindle_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Nymues_Vengeful_Spindle_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -449,15 +443,13 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=dragonf
 profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-# profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-# profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Nymues_Vengeful_Spindle_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Nymues_Vengeful_Spindle_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -575,15 +567,13 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=drago
 profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-# profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-# profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Nymues_Vengeful_Spindle_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Nymues_Vengeful_Spindle_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -677,13 +667,11 @@ profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_483"+=trinket2=
 profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Neltharions_Call_to_Suffering_457-Nymues_Vengeful_Spindle_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -763,13 +751,11 @@ profileset."Vessel_of_Skittering_Shadows_483-Time_Thiefs_Gambit_483"+=trinket2=t
 profileset."Vessel_of_Skittering_Shadows_483-Time_Thiefs_Gambit_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_483-Nymues_Vengeful_Spindle_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -849,13 +835,11 @@ profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_483"+=trinket2=t
 profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_489-Nymues_Vengeful_Spindle_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -929,13 +913,11 @@ profileset."Caged_Horror_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit
 profileset."Caged_Horror_483-Time_Thiefs_Gambit_489"+=trinket1=caged_horror,id=136716,ilevel=483
 profileset."Caged_Horror_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=caged_horror,id=136716,ilevel=483
+profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=caged_horror,id=136716,ilevel=483
+profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_483"+=trinket1=caged_horror,id=136716,ilevel=483
 profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1009,13 +991,11 @@ profileset."Caged_Horror_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit
 profileset."Caged_Horror_489-Time_Thiefs_Gambit_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Caged_Horror_489-Nymues_Vengeful_Spindle_483"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1083,13 +1063,11 @@ profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs
 profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
 profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
+profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
+profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
 profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1157,13 +1135,11 @@ profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs
 profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
-profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
-profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Corrupted_Starlight_489-Nymues_Vengeful_Spindle_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1225,13 +1201,11 @@ profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_483"+=trinket2=timethi
 profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
 profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
+profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
+profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
 profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1293,13 +1267,11 @@ profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_483"+=trinket2=timethi
 profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
-profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
-profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Oakhearts_Gnarled_Root_489-Nymues_Vengeful_Spindle_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1355,13 +1327,11 @@ profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_483"+=trinket2
 profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
 profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
+profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
+profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
 profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1417,13 +1387,11 @@ profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_483"+=trinket2
 profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Leaf_of_the_Ancient_Protectors_489-Nymues_Vengeful_Spindle_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1473,13 +1441,11 @@ profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_483"+=trinket2=time
 profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
 profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
+profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
+profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
 profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1529,13 +1495,11 @@ profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_483"+=trinket2=time
 profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Coagulated_Genesaur_Blood_489-Nymues_Vengeful_Spindle_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1579,13 +1543,11 @@ profileset."Sea_Star_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=
 profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Sea_Star_483-Nymues_Vengeful_Spindle_483"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1629,13 +1591,11 @@ profileset."Sea_Star_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=
 profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Sea_Star_489-Nymues_Vengeful_Spindle_483"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1673,13 +1633,11 @@ profileset."Balefire_Branch_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gam
 profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Balefire_Branch_483-Nymues_Vengeful_Spindle_483"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1717,13 +1675,11 @@ profileset."Balefire_Branch_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gam
 profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Balefire_Branch_489-Nymues_Vengeful_Spindle_483"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1755,13 +1711,11 @@ profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket2=
 profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Vengeful_Spindle_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1793,13 +1747,11 @@ profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_483"+=trinket2=
 profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
-# profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Vengeful_Spindle_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1825,13 +1777,11 @@ profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_483"+=trink
 profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-# profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Time_Thiefs_Gambit_483-Nymues_Vengeful_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
 profileset."Time_Thiefs_Gambit_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1857,13 +1807,11 @@ profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_o
 profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
 profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-# profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
-# profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket2=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 profileset."Time_Thiefs_Gambit_489-Nymues_Vengeful_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
 profileset."Time_Thiefs_Gambit_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
@@ -1889,69 +1837,53 @@ profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_o
 profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
 profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Vengeful_Spindle_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Vengeful_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Vengeful_Spindle_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Vengeful_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
 
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
 profileset."Nymues_Vengeful_Spindle_483-Belorrelos_the_Sunstone_483"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=483
 profileset."Nymues_Vengeful_Spindle_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483

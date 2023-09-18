@@ -46,30 +46,10 @@ profileset."Nymues_Vengeful_Spindle_476"+=trinket1=nymues_vengeful_spindle,id=20
 profileset."Nymues_Vengeful_Spindle_483"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=483
 profileset."Nymues_Vengeful_Spindle_489"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=489
 
-# profileset."Pips_Emerald_Friendship_Badge_Crit_463"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_463"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=463
-# profileset."Pips_Emerald_Friendship_Badge_Crit_476"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_476"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=476
-# profileset."Pips_Emerald_Friendship_Badge_Crit_483"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_483"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=483
-# profileset."Pips_Emerald_Friendship_Badge_Crit_489"+=dragonflight.TODO=crit
-profileset."Pips_Emerald_Friendship_Badge_Crit_489"+=trinket1=pips_emerald_friendship_badge_crit,id=207168,ilevel=489
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_463"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_463"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=463
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_476"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_476"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=476
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_483"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_483"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=483
-# profileset."Pips_Emerald_Friendship_Badge_Mastery_489"+=dragonflight.TODO=mastery
-profileset."Pips_Emerald_Friendship_Badge_Mastery_489"+=trinket1=pips_emerald_friendship_badge_mastery,id=207168,ilevel=489
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_463"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_463"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=463     
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_476"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_476"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=476     
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_483"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_483"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=483     
-# profileset."Pips_Emerald_Friendship_Badge_Versatility_489"+=dragonflight.TODO=versatility
-profileset."Pips_Emerald_Friendship_Badge_Versatility_489"+=trinket1=pips_emerald_friendship_badge_versatility,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_463"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=463
+profileset."Pips_Emerald_Friendship_Badge_476"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=476
+profileset."Pips_Emerald_Friendship_Badge_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
 
 # Aberrus, the Shadowed Crucible - Capped Item Level
 profileset."Screaming_Black_Dragonscale_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447

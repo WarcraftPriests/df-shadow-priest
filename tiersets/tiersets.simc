@@ -9,6 +9,8 @@ set_bonus=tier29_2pc=0
 set_bonus=tier29_4pc=0
 set_bonus=tier30_2pc=0
 set_bonus=tier30_4pc=0
+set_bonus=tier31_2pc=0
+set_bonus=tier31_4pc=0
 
 ${apl}
 

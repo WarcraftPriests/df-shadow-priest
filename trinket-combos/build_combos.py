@@ -36,8 +36,8 @@ combos = {
     "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
     "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
     # amirdrassil: the dream's hope (483/489)
-    "Pips_Emerald_Friendship_Badge_Mastery_483": "pips_emerald_friendship_badge_mastery,id=207168,ilevel=483", # noqa: E501
-    "Pips_Emerald_Friendship_Badge_Mastery_489": "pips_emerald_friendship_badge_mastery,id=207168,ilevel=489", # noqa: E501
+    "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
+    "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
     "Nymues_Vengeful_Spindle_483": "nymues_vengeful_spindle,id=208615,ilevel=483",
     "Nymues_Vengeful_Spindle_489": "nymues_vengeful_spindle,id=208615,ilevel=489",
     "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
@@ -90,9 +90,6 @@ def build_simc_string(trinkets):
             if "Ominous_Chromatic_Essence" in trinket:
                 dragonflight = trinket.split("_")[3].lower()
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_dragonflight={dragonflight}\n"  # noqa: E501
-            if "Pips_Emerald_Friendship_Badge" in trinket:
-                stat = trinket.split("_")[4].lower()
-                result += f"# profileset.\"{profileset_name}\"+=dragonflight.TODO={stat}\n"  # noqa: E501
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket2={trinket_two_value}\n\n"
     return result

@@ -100,3 +100,34 @@ profileset."Naraxas_Spiked_Tongue_447"+=distance=20
 
 profileset."Rotcrusted_Voodoo_Doll_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447
+
+# Mythic +0 Trinkets (437)
+profileset."Idol_of_Pure_Decay_437"+=trinket1=idol_of_pure_decay,id=193660,ilevel=437
+
+profileset."Irideus_Fragment_437"+=trinket1=irideus_fragment,id=193743,ilevel=437
+
+profileset."Erupting_Spear_Fragment_437"+=trinket1=erupting_spear_fragment,id=193769,ilevel=437
+
+profileset."Spoils_of_Neltharus_437"+=trinket1=spoils_of_neltharus,id=193773,ilevel=437
+
+profileset."Time_Breaching_Talon_437"+=trinket1=time_breaching_talon,id=193791,ilevel=437
+
+profileset."Emerald_Coachs_Whistle_437"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=437
+
+profileset."Tome_of_Unstable_Power_437"+=trinket1=tome_of_unstable_power,id=193628,ilevel=437
+
+profileset."Umbrelskuls_Fractured_Heart_437"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=437
+
+profileset."Furious_Ragefeather_437"+=trinket1=furious_ragefeather,id=193677,ilevel=437
+
+profileset."Ruby_Whelp_Shell_FS6_437"+=trinket1=ruby_whelp_shell,id=193757,ilevel=437
+profileset."Ruby_Whelp_Shell_FS6_437"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
+
+profileset."Ruby_Whelp_Shell_LFN6_437"+=trinket1=ruby_whelp_shell,id=193757,ilevel=437
+profileset."Ruby_Whelp_Shell_LFN6_437"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
+
+profileset."Ruby_Whelp_Shell_SRW6_437"+=trinket1=ruby_whelp_shell,id=193757,ilevel=437
+profileset."Ruby_Whelp_Shell_SRW6_437"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
+
+profileset."Ruby_Whelp_Shell_URW6_437"+=trinket1=ruby_whelp_shell,id=193757,ilevel=437
+profileset."Ruby_Whelp_Shell_URW6_437"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
