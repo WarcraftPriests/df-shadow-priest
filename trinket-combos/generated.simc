@@ -7,19 +7,19 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=192948
-neck=${gear.neck},gem_id=192985/192948/192948
+head=${gear.head},gem_id=${gems.main}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists},gem_id=192948
+chest=${gear.chest},enchant_id=${enchants.chest}
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
-legs=${gear.legs},enchant_id=6541
+waist=${gear.waist},gem_id=${gems.main}
+legs=${gear.legs},enchant_id=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-finger2=${gear.finger2},enchant_id=6556,gem_id=192948
-main_hand=${gear.main_hand},enchant_id=6643
+finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
+main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 profileset."Spoils_of_Neltharus_447-Vessel_of_Searing_Shadow_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
@@ -46,32 +46,17 @@ profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_483"+=trinket2=
 profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Spoils_of_Neltharus_447-Caged_Horror_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Spoils_of_Neltharus_447-Caged_Horror_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Spoils_of_Neltharus_447-Corrupted_Starlight_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Spoils_of_Neltharus_447-Corrupted_Starlight_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Spoils_of_Neltharus_447-Oakhearts_Gnarled_Root_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Spoils_of_Neltharus_447-Oakhearts_Gnarled_Root_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Spoils_of_Neltharus_447-Leaf_of_the_Ancient_Protectors_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Spoils_of_Neltharus_447-Leaf_of_the_Ancient_Protectors_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Spoils_of_Neltharus_447-Coagulated_Genesaur_Blood_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Spoils_of_Neltharus_447-Coagulated_Genesaur_Blood_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -87,6 +72,12 @@ profileset."Spoils_of_Neltharus_447-Balefire_Branch_483"+=trinket2=balefire_bran
 
 profileset."Spoils_of_Neltharus_447-Balefire_Branch_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Spoils_of_Neltharus_447-Lady_Waycrests_Music_Box_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Spoils_of_Neltharus_447-Lady_Waycrests_Music_Box_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Spoils_of_Neltharus_447-Mirror_of_Fractured_Tomorrows_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -151,32 +142,17 @@ profileset."Vessel_of_Searing_Shadow_447-Vessel_of_Skittering_Shadows_483"+=trin
 profileset."Vessel_of_Searing_Shadow_447-Vessel_of_Skittering_Shadows_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Vessel_of_Searing_Shadow_447-Caged_Horror_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Vessel_of_Searing_Shadow_447-Caged_Horror_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Vessel_of_Searing_Shadow_447-Corrupted_Starlight_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Vessel_of_Searing_Shadow_447-Corrupted_Starlight_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Vessel_of_Searing_Shadow_447-Oakhearts_Gnarled_Root_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Vessel_of_Searing_Shadow_447-Oakhearts_Gnarled_Root_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Vessel_of_Searing_Shadow_447-Leaf_of_the_Ancient_Protectors_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Vessel_of_Searing_Shadow_447-Leaf_of_the_Ancient_Protectors_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Vessel_of_Searing_Shadow_447-Coagulated_Genesaur_Blood_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
-profileset."Vessel_of_Searing_Shadow_447-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Vessel_of_Searing_Shadow_447-Coagulated_Genesaur_Blood_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -192,6 +168,12 @@ profileset."Vessel_of_Searing_Shadow_447-Balefire_Branch_483"+=trinket2=balefire
 
 profileset."Vessel_of_Searing_Shadow_447-Balefire_Branch_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Vessel_of_Searing_Shadow_447-Lady_Waycrests_Music_Box_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Vessel_of_Searing_Shadow_447-Lady_Waycrests_Music_Box_489"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_447-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Vessel_of_Searing_Shadow_447-Mirror_of_Fractured_Tomorrows_483"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
 profileset."Vessel_of_Searing_Shadow_447-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -247,41 +229,21 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_48
 profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Bronze_447-Coagulated_Genesaur_Blood_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Coagulated_Genesaur_Blood_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Coagulated_Genesaur_Blood_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Coagulated_Genesaur_Blood_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -302,6 +264,14 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Balefire_Branch_483"+=trinket2=
 profileset."Ominous_Chromatic_Essence_Bronze_447-Balefire_Branch_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Balefire_Branch_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Mirror_of_Fractured_Tomorrows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Mirror_of_Fractured_Tomorrows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -371,41 +341,21 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_489
 profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Azure_447-Coagulated_Genesaur_Blood_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Coagulated_Genesaur_Blood_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Coagulated_Genesaur_Blood_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Coagulated_Genesaur_Blood_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -426,6 +376,14 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Balefire_Branch_483"+=trinket2=b
 profileset."Ominous_Chromatic_Essence_Azure_447-Balefire_Branch_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Balefire_Branch_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Mirror_of_Fractured_Tomorrows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Mirror_of_Fractured_Tomorrows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -495,41 +453,21 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_4
 profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Ominous_Chromatic_Essence_Emerald_447-Coagulated_Genesaur_Blood_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Coagulated_Genesaur_Blood_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Coagulated_Genesaur_Blood_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Coagulated_Genesaur_Blood_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -550,6 +488,14 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Balefire_Branch_483"+=trinket2
 profileset."Ominous_Chromatic_Essence_Emerald_447-Balefire_Branch_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Balefire_Branch_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Mirror_of_Fractured_Tomorrows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Mirror_of_Fractured_Tomorrows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -613,32 +559,17 @@ profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_483"+
 profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
-profileset."Neltharions_Call_to_Suffering_457-Caged_Horror_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Neltharions_Call_to_Suffering_457-Caged_Horror_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Neltharions_Call_to_Suffering_457-Corrupted_Starlight_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Neltharions_Call_to_Suffering_457-Corrupted_Starlight_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Neltharions_Call_to_Suffering_457-Oakhearts_Gnarled_Root_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Neltharions_Call_to_Suffering_457-Oakhearts_Gnarled_Root_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Neltharions_Call_to_Suffering_457-Leaf_of_the_Ancient_Protectors_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Neltharions_Call_to_Suffering_457-Leaf_of_the_Ancient_Protectors_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Neltharions_Call_to_Suffering_457-Coagulated_Genesaur_Blood_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Neltharions_Call_to_Suffering_457-Coagulated_Genesaur_Blood_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -654,6 +585,12 @@ profileset."Neltharions_Call_to_Suffering_457-Balefire_Branch_483"+=trinket2=bal
 
 profileset."Neltharions_Call_to_Suffering_457-Balefire_Branch_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Neltharions_Call_to_Suffering_457-Lady_Waycrests_Music_Box_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Neltharions_Call_to_Suffering_457-Lady_Waycrests_Music_Box_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Neltharions_Call_to_Suffering_457-Mirror_of_Fractured_Tomorrows_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -697,32 +634,17 @@ profileset."Neltharions_Call_to_Suffering_457-Ashes_of_the_Embersoul_483"+=trink
 profileset."Neltharions_Call_to_Suffering_457-Ashes_of_the_Embersoul_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -738,6 +660,12 @@ profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_483"+=trinket2=bale
 
 profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
+profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -781,32 +709,17 @@ profileset."Vessel_of_Skittering_Shadows_483-Ashes_of_the_Embersoul_483"+=trinke
 profileset."Vessel_of_Skittering_Shadows_483-Ashes_of_the_Embersoul_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_483"+=trinket2=caged_horror,id=136716,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_489-Corrupted_Starlight_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
 
 profileset."Vessel_of_Skittering_Shadows_489-Corrupted_Starlight_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_489-Oakhearts_Gnarled_Root_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_489-Oakhearts_Gnarled_Root_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Vessel_of_Skittering_Shadows_489-Leaf_of_the_Ancient_Protectors_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Vessel_of_Skittering_Shadows_489-Leaf_of_the_Ancient_Protectors_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_489-Coagulated_Genesaur_Blood_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
-profileset."Vessel_of_Skittering_Shadows_489-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Vessel_of_Skittering_Shadows_489-Coagulated_Genesaur_Blood_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -822,6 +735,12 @@ profileset."Vessel_of_Skittering_Shadows_489-Balefire_Branch_483"+=trinket2=bale
 
 profileset."Vessel_of_Skittering_Shadows_489-Balefire_Branch_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Vessel_of_Skittering_Shadows_489-Lady_Waycrests_Music_Box_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Vessel_of_Skittering_Shadows_489-Lady_Waycrests_Music_Box_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -865,104 +784,14 @@ profileset."Vessel_of_Skittering_Shadows_489-Ashes_of_the_Embersoul_483"+=trinke
 profileset."Vessel_of_Skittering_Shadows_489-Ashes_of_the_Embersoul_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Caged_Horror_483-Corrupted_Starlight_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
-
-profileset."Caged_Horror_483-Corrupted_Starlight_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
-
-profileset."Caged_Horror_483-Oakhearts_Gnarled_Root_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
-profileset."Caged_Horror_483-Oakhearts_Gnarled_Root_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
-
-profileset."Caged_Horror_483-Leaf_of_the_Ancient_Protectors_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
-profileset."Caged_Horror_483-Leaf_of_the_Ancient_Protectors_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Caged_Horror_483-Coagulated_Genesaur_Blood_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
-
-profileset."Caged_Horror_483-Coagulated_Genesaur_Blood_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
-
-profileset."Caged_Horror_483-Sea_Star_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Caged_Horror_483-Sea_Star_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Caged_Horror_483-Balefire_Branch_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Caged_Horror_483-Balefire_Branch_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Caged_Horror_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Caged_Horror_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Caged_Horror_483-Time_Thiefs_Gambit_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
-
-profileset."Caged_Horror_483-Time_Thiefs_Gambit_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
-
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
-
-profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
-
-profileset."Caged_Horror_483-Belorrelos_the_Sunstone_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
-
-profileset."Caged_Horror_483-Belorrelos_the_Sunstone_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Caged_Horror_483-Augury_of_the_Primal_Flame_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
-
-profileset."Caged_Horror_483-Augury_of_the_Primal_Flame_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Caged_Horror_483-Ashes_of_the_Embersoul_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
-
-profileset."Caged_Horror_483-Ashes_of_the_Embersoul_489"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Caged_Horror_489-Corrupted_Starlight_483"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Corrupted_Starlight_483"+=trinket2=corrupted_starlight,id=137301,ilevel=483
-
 profileset."Caged_Horror_489-Corrupted_Starlight_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
-
-profileset."Caged_Horror_489-Oakhearts_Gnarled_Root_483"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
 
 profileset."Caged_Horror_489-Oakhearts_Gnarled_Root_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Caged_Horror_489-Leaf_of_the_Ancient_Protectors_483"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Caged_Horror_489-Leaf_of_the_Ancient_Protectors_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Caged_Horror_489-Coagulated_Genesaur_Blood_483"+=trinket1=caged_horror,id=136716,ilevel=489
-profileset."Caged_Horror_489-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Caged_Horror_489-Coagulated_Genesaur_Blood_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -978,6 +807,12 @@ profileset."Caged_Horror_489-Balefire_Branch_483"+=trinket2=balefire_branch,id=1
 
 profileset."Caged_Horror_489-Balefire_Branch_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Caged_Horror_489-Lady_Waycrests_Music_Box_483"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Caged_Horror_489-Lady_Waycrests_Music_Box_489"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Caged_Horror_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1021,92 +856,11 @@ profileset."Caged_Horror_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_
 profileset."Caged_Horror_489-Ashes_of_the_Embersoul_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Corrupted_Starlight_483-Oakhearts_Gnarled_Root_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
-profileset."Corrupted_Starlight_483-Oakhearts_Gnarled_Root_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
-
-profileset."Corrupted_Starlight_483-Leaf_of_the_Ancient_Protectors_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
-profileset."Corrupted_Starlight_483-Leaf_of_the_Ancient_Protectors_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Corrupted_Starlight_483-Coagulated_Genesaur_Blood_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
-
-profileset."Corrupted_Starlight_483-Coagulated_Genesaur_Blood_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
-
-profileset."Corrupted_Starlight_483-Sea_Star_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Corrupted_Starlight_483-Sea_Star_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Corrupted_Starlight_483-Balefire_Branch_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Corrupted_Starlight_483-Balefire_Branch_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Corrupted_Starlight_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Corrupted_Starlight_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
-
-profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
-
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
-
-profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
-
-profileset."Corrupted_Starlight_483-Belorrelos_the_Sunstone_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
-
-profileset."Corrupted_Starlight_483-Belorrelos_the_Sunstone_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Corrupted_Starlight_483-Augury_of_the_Primal_Flame_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
-
-profileset."Corrupted_Starlight_483-Augury_of_the_Primal_Flame_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Corrupted_Starlight_483-Ashes_of_the_Embersoul_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
-
-profileset."Corrupted_Starlight_483-Ashes_of_the_Embersoul_489"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Corrupted_Starlight_489-Oakhearts_Gnarled_Root_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
-profileset."Corrupted_Starlight_489-Oakhearts_Gnarled_Root_483"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=483
-
 profileset."Corrupted_Starlight_489-Oakhearts_Gnarled_Root_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
 
-profileset."Corrupted_Starlight_489-Leaf_of_the_Ancient_Protectors_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
-profileset."Corrupted_Starlight_489-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Corrupted_Starlight_489-Leaf_of_the_Ancient_Protectors_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Corrupted_Starlight_489-Coagulated_Genesaur_Blood_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
-profileset."Corrupted_Starlight_489-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Corrupted_Starlight_489-Coagulated_Genesaur_Blood_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -1122,6 +876,12 @@ profileset."Corrupted_Starlight_489-Balefire_Branch_483"+=trinket2=balefire_bran
 
 profileset."Corrupted_Starlight_489-Balefire_Branch_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Corrupted_Starlight_489-Lady_Waycrests_Music_Box_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Corrupted_Starlight_489-Lady_Waycrests_Music_Box_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Corrupted_Starlight_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1165,80 +925,8 @@ profileset."Corrupted_Starlight_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_
 profileset."Corrupted_Starlight_489-Ashes_of_the_Embersoul_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Oakhearts_Gnarled_Root_483-Leaf_of_the_Ancient_Protectors_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Leaf_of_the_Ancient_Protectors_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Coagulated_Genesaur_Blood_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Coagulated_Genesaur_Blood_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Sea_Star_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Sea_Star_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Balefire_Branch_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Balefire_Branch_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Belorrelos_the_Sunstone_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Belorrelos_the_Sunstone_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Augury_of_the_Primal_Flame_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Augury_of_the_Primal_Flame_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_483-Ashes_of_the_Embersoul_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
-
-profileset."Oakhearts_Gnarled_Root_483-Ashes_of_the_Embersoul_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_489-Leaf_of_the_Ancient_Protectors_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
-profileset."Oakhearts_Gnarled_Root_489-Leaf_of_the_Ancient_Protectors_483"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-
 profileset."Oakhearts_Gnarled_Root_489-Leaf_of_the_Ancient_Protectors_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Oakhearts_Gnarled_Root_489-Coagulated_Genesaur_Blood_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
-profileset."Oakhearts_Gnarled_Root_489-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
 
 profileset."Oakhearts_Gnarled_Root_489-Coagulated_Genesaur_Blood_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
@@ -1254,6 +942,12 @@ profileset."Oakhearts_Gnarled_Root_489-Balefire_Branch_483"+=trinket2=balefire_b
 
 profileset."Oakhearts_Gnarled_Root_489-Balefire_Branch_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Oakhearts_Gnarled_Root_489-Lady_Waycrests_Music_Box_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Oakhearts_Gnarled_Root_489-Lady_Waycrests_Music_Box_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Oakhearts_Gnarled_Root_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1297,69 +991,6 @@ profileset."Oakhearts_Gnarled_Root_489-Ashes_of_the_Embersoul_483"+=trinket2=ash
 profileset."Oakhearts_Gnarled_Root_489-Ashes_of_the_Embersoul_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Leaf_of_the_Ancient_Protectors_483-Coagulated_Genesaur_Blood_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Coagulated_Genesaur_Blood_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Sea_Star_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Sea_Star_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Balefire_Branch_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Balefire_Branch_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Belorrelos_the_Sunstone_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Belorrelos_the_Sunstone_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Augury_of_the_Primal_Flame_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Augury_of_the_Primal_Flame_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Ashes_of_the_Embersoul_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
-
-profileset."Leaf_of_the_Ancient_Protectors_483-Ashes_of_the_Embersoul_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Leaf_of_the_Ancient_Protectors_489-Coagulated_Genesaur_Blood_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-profileset."Leaf_of_the_Ancient_Protectors_489-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
-
 profileset."Leaf_of_the_Ancient_Protectors_489-Coagulated_Genesaur_Blood_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
 
@@ -1374,6 +1005,12 @@ profileset."Leaf_of_the_Ancient_Protectors_489-Balefire_Branch_483"+=trinket2=ba
 
 profileset."Leaf_of_the_Ancient_Protectors_489-Balefire_Branch_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Leaf_of_the_Ancient_Protectors_489-Lady_Waycrests_Music_Box_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Leaf_of_the_Ancient_Protectors_489-Lady_Waycrests_Music_Box_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Leaf_of_the_Ancient_Protectors_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1417,60 +1054,6 @@ profileset."Leaf_of_the_Ancient_Protectors_489-Ashes_of_the_Embersoul_483"+=trin
 profileset."Leaf_of_the_Ancient_Protectors_489-Ashes_of_the_Embersoul_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Sunstone_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Sunstone_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
-
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
 profileset."Coagulated_Genesaur_Blood_489-Sea_Star_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
 
@@ -1482,6 +1065,12 @@ profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_483"+=trinket2=balefir
 
 profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+
+profileset."Coagulated_Genesaur_Blood_489-Lady_Waycrests_Music_Box_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Coagulated_Genesaur_Blood_489-Lady_Waycrests_Music_Box_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1531,6 +1120,12 @@ profileset."Sea_Star_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=15963
 profileset."Sea_Star_483-Balefire_Branch_489"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
 
+profileset."Sea_Star_483-Lady_Waycrests_Music_Box_483"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Sea_Star_483-Lady_Waycrests_Music_Box_489"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
+
 profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 
@@ -1579,6 +1174,12 @@ profileset."Sea_Star_489-Balefire_Branch_483"+=trinket2=balefire_branch,id=15963
 profileset."Sea_Star_489-Balefire_Branch_489"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
 
+profileset."Sea_Star_489-Lady_Waycrests_Music_Box_483"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Sea_Star_489-Lady_Waycrests_Music_Box_489"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
+
 profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 
@@ -1620,6 +1221,12 @@ profileset."Sea_Star_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embe
 
 profileset."Sea_Star_489-Ashes_of_the_Embersoul_489"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Balefire_Branch_483-Lady_Waycrests_Music_Box_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Balefire_Branch_483-Lady_Waycrests_Music_Box_489"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
 
 profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
@@ -1663,6 +1270,12 @@ profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_t
 profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_489"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
+profileset."Balefire_Branch_489-Lady_Waycrests_Music_Box_483"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
+
+profileset."Balefire_Branch_489-Lady_Waycrests_Music_Box_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
+
 profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 
@@ -1704,6 +1317,90 @@ profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_t
 
 profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_489"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Nymues_Vengeful_Spindle_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Nymues_Vengeful_Spindle_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Ashes_of_the_Embersoul_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Ashes_of_the_Embersoul_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Nymues_Vengeful_Spindle_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Nymues_Vengeful_Spindle_483"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Nymues_Vengeful_Spindle_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Nymues_Vengeful_Spindle_489"+=trinket2=nymues_vengeful_spindle,id=208615,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483

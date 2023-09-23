@@ -7,19 +7,19 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=192948
-neck=${gear.neck},gem_id=192985/192948/192948
+head=${gear.head},gem_id=${gems.main}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists},gem_id=192948
+chest=${gear.chest},enchant_id=${enchants.chest}
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
-legs=${gear.legs},enchant_id=6541
+waist=${gear.waist},gem_id=${gems.main}
+legs=${gear.legs},enchant_id=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-finger2=${gear.finger2},enchant_id=6556,gem_id=192948
-main_hand=${gear.main_hand},enchant_id=6643
+finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
+main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # 10.1.5 Time Rift Trinkets
@@ -95,7 +95,7 @@ profileset."Idol_of_the_Life_Binder_483"+=waist=${gear.waist},gem_id=192919
 profileset."Idol_of_the_Life_Binder_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
 profileset."Idol_of_the_Life_Binder_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
 
-# TODO: Questing Trinkets
+# Questing Trinkets
 # profileset."Primal_Ritual_Shell_Wind_424"+=trinket1=primal_ritual_shell,id=200563,ilevel=424
 # profileset."Primal_Ritual_Shell_Wind_424"+=dragonflight.primal_ritual_shell_blessing=wind
 
@@ -118,8 +118,10 @@ profileset."Idol_of_the_Life_Binder_483"+=finger2=${gear.finger2},enchant_id=655
 # profileset."Smoldering_Howler_Horn_424"+=trinket1=smoldering_howler_horn,id=205201,ilevel=424
 # profileset."Stirring_Twilight_Ember_424"+=trinket1=stirring_twilight_ember,id=205200,ilevel=424
 
-# profileset."Dancing_Dream_Blossoms_428"+=trinket1=dancing_dream_blossoms,id=209953,ilevel=428
-# profileset."Rune_of_the_Umbramane_428"+=trinket1=rune_of_the_umbramane,id=209958,ilevel=428
+## 10.2 Questing Trinkets (463 cap w/Drake crests)
+profileset."Dancing_Dream_Blossoms_463"+=trinket1=dancing_dream_blossoms,id=209953,ilevel=463
+profileset."Rune_of_the_Umbramane_463"+=trinket1=rune_of_the_umbramane,id=209958,ilevel=463
+profileset."Pinch_of_Dream_Magic_463"+=trinket1=pinch_of_dream_magic,id=209959,ilevel=463
 
 # TODO: PVP Trinkets
 #    Honor: ?

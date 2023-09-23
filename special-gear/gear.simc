@@ -7,34 +7,34 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=192985
-neck=${gear.neck},gem_id=192948/192948/192948
+head=${gear.head},gem_id=${gems.main}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists},gem_id=192948
+chest=${gear.chest},enchant_id=${enchants.chest}
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
-legs=${gear.legs},enchant_id=6541
+waist=${gear.waist},gem_id=${gems.main}
+legs=${gear.legs},enchant_id=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-finger2=${gear.finger2},enchant_id=6556,gem_id=192948
+finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant_id=6643
+main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # 10.1.5 Special Items
 profileset."Feet_Imbued_Frostweave_Slippers_483"+=feet=imbued_frostweave_slippers,id=207817,ilevel=483
 
-profileset."2h_Iridal_the_Earths_Master_483"+=main_hand=iridal_the_earths_master,id=208321,ilevel=483,enchant_id=6643
+profileset."2h_Iridal_the_Earths_Master_483"+=main_hand=iridal_the_earths_master,id=208321,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."2h_Iridal_the_Earths_Master_483"+=off_hand=disabled
 
 # 10.1 Special Items
 profileset."Back_Voice_of_the_Silent_Star_457"+=back=voice_of_the_silent_star,id=204465,ilevel=457
 
 # TODO: fix OH Name Crafted Gear ilvls = 483
-profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=main_hand=spore_keepers_baton,id=204401,ilevel=483,enchant_id=6643
+profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=main_hand=spore_keepers_baton,id=204401,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=off_hand=holdable__offhand,id=207796,ilevel=489
 
 # Embellishments
@@ -42,131 +42,131 @@ profileset."MH_Spore_Keepers_Baton_483-OH_Echos_Maddening_Volume_489"+=off_hand=
 ## Potion Absorption Inhibitor - 8175
 ## Bronzed Grip Wrappings - 8937
 ## Shadowflame Tempered Armor Patch - 9379
-## TODO: Dreamtender's Charm - https://www.wowhead.com/ptr-2/spell=420834/dreaming-trance
-## TODO: Verdant Conduit - ?
-profileset."Embellishment_Blue_Silken_Lining_50%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+## TODO: Dreamtender's Charm - 9532
+## TODO: Verdant Conduit - 9521
+profileset."Embellishment_Blue_Silken_Lining_50%_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_50%_1"+=dragonflight.blue_silken_lining_uptime=0.5
-profileset."Embellishment_Blue_Silken_Lining_70%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_70%_1"+=dragonflight.blue_silken_lining_uptime=0.7
-profileset."Embellishment_Blue_Silken_Lining_90%_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_90%_1"+=dragonflight.blue_silken_lining_uptime=0.9
-profileset."Embellishment_Potion_Absorption_Inhibitor_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
-profileset."Embellishment_Bronzed_Grip_Wrappings_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
-profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
-# profileset."Embellishment_Dreamtenders_Charm_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
-# profileset."Embellishment_Verdant_Conduit_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
+profileset."Embellishment_Potion_Absorption_Inhibitor_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8175
+profileset."Embellishment_Bronzed_Grip_Wrappings_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8937
+profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9379
+profileset."Embellishment_Dreamtenders_Charm_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9532
+profileset."Embellishment_Verdant_Conduit_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9521
 
-profileset."Embellishment_Blue_Silken_Lining_50%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_Blue_Silken_Lining_50%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_50%_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_50%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_50%_2"+=dragonflight.blue_silken_lining_uptime=0.5
-profileset."Embellishment_Blue_Silken_Lining_70%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_Blue_Silken_Lining_70%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_70%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_70%_2"+=dragonflight.blue_silken_lining_uptime=0.7
-profileset."Embellishment_Blue_Silken_Lining_90%_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_Blue_Silken_Lining_90%_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_Blue_Silken_Lining_90%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
 profileset."Embellishment_Blue_Silken_Lining_90%_2"+=dragonflight.blue_silken_lining_uptime=0.9
-profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8175
-profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8175
-profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8937
-profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=8937
-profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
-profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
-# profileset."Embellishment_Dreamtenders_Charm_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
-# profileset."Embellishment_Dreamtenders_Charm_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
-# profileset."Embellishment_Verdant_Conduit_2"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=9379
-# profileset."Embellishment_Verdant_Conduit_2"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8175
+profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8175
+profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8937
+profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8937
+profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9379
+profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
+profileset."Embellishment_Dreamtenders_Charm_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9532
+profileset."Embellishment_Dreamtenders_Charm_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9532
+profileset."Embellishment_Verdant_Conduit_2"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=9521
+profileset."Embellishment_Verdant_Conduit_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9521
 
-profileset."Embellishment_BSL1_50%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_BSL1_50%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_50%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_BSL1_50%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
 profileset."Embellishment_BSL1_50%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.5
 
-profileset."Embellishment_BSL1_70%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_BSL1_70%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_70%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_BSL1_70%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
 profileset."Embellishment_BSL1_70%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.7
 
-profileset."Embellishment_BSL1_90%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=6643,bonus_id=8932
-profileset."Embellishment_BSL1_90%_STAP_1"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948,bonus_id=9379
+profileset."Embellishment_BSL1_90%_STAP_1"+=main_hand=${gear.main_hand},enchant_id=${enchants.main_hand},bonus_id=8932
+profileset."Embellishment_BSL1_90%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
 profileset."Embellishment_BSL1_90%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.9
 
 ## Jewelcrafting
-profileset."Neck_Elemental_Lariat_7Earth_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192948/192948/192948
+profileset."Neck_Elemental_Lariat_7Earth_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=${gems.main}/192948/192948
 
-profileset."Neck_Elemental_Lariat_7Air_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192961/192961/192961
-profileset."Neck_Elemental_Lariat_7Air_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
-profileset."Neck_Elemental_Lariat_7Air_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=${gems.meta}/${gems.main}/${gems.main}
+profileset."Neck_Elemental_Lariat_7Air_483"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=192961
+profileset."Neck_Elemental_Lariat_7Air_483"+=finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=192961
 profileset."Neck_Elemental_Lariat_7Air_483"+=waist=${gear.waist},gem_id=192961
 profileset."Neck_Elemental_Lariat_7Air_483"+=wrists=${gear.wrists},gem_id=192961
 
-profileset."Neck_Torc_of_Passed_Time_483"+=neck=torc_of_passed_time,id=201759,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=192948/192948/192948
+profileset."Neck_Torc_of_Passed_Time_483"+=neck=torc_of_passed_time,id=201759,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=483,gem_id=${gems.main}/192948/192948
 
-profileset."Finger1_Ring_Bound_Hourglass_483"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=6556,gem_id=192948
-profileset."Finger2_Ring_Bound_Hourglass_483"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=6556,gem_id=192948
+profileset."Finger1_Ring_Bound_Hourglass_483"+=finger1=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=${enchants.ring},gem_id=${gems.main}
+profileset."Finger2_Ring_Bound_Hourglass_483"+=finger2=,id=193000,bonus_id=8836/8840/8902/8780/8802/8793,crafted_stats=36/49,ilevel=483,enchant_id=${enchants.ring},gem_id=${gems.main}
 
 ## Tailoring
-# add chest whenever replacing tier slot chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
-profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=6541
-profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+# add chest whenever replacing tier slot chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
+profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=legs=,id=193518,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=${enchants.legs}
+profileset."Legs_Vibrant_Wildercloth_Slacks_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Waist_Vibrant_Wildercloth_Girdle_483"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
+profileset."Waist_Vibrant_Wildercloth_Girdle_483"+=waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=${gems.main}
 
 profileset."Hands_Vibrant_Wildercloth_Handwraps_483"+=hands=vibrant_wildercloth_handwraps,id=193504,bonus_id=8836/8840/8902/8802/8793,ilevel=483
-profileset."Hands_Vibrant_Wildercloth_Handwraps_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Hands_Vibrant_Wildercloth_Handwraps_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Head_Vibrant_Wildercloth_Headcover_483"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
-profileset."Head_Vibrant_Wildercloth_Headcover_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Head_Vibrant_Wildercloth_Headcover_483"+=head=vibrant_wildercloth_headcover,id=193523,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=${gems.main}
+profileset."Head_Vibrant_Wildercloth_Headcover_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
 profileset."Back_Vibrant_Wildercloth_Shawl_483"+=back=vibrant_wildercloth_shawl,id=193511,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
 profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_483"+=shoulder=vibrant_wildercloth_shoulderspikes,id=193508,bonus_id=8836/8840/8902/8802/8793,ilevel=483
-profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Shoulders_Vibrant_Wildercloth_Shoulderspikes_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
 profileset."Feet_Vibrant_Wildercloth_Slippers_483"+=feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
 # currently using this in the base profile since we have like no good chests
-profileset."Chest_Vibrant_Wildercloth_Vestments_483"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=6625
+profileset."Chest_Vibrant_Wildercloth_Vestments_483"+=chest=vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Wrists_Vibrant_Wildercloth_Wristwraps_483"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=192948
+profileset."Wrists_Vibrant_Wildercloth_Wristwraps_483"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=${gems.main}
 
 profileset."Back_Undulating_Sporecloak_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
 
 ### Azureweave
 profileset."Azureweave_Mantle_Slippers_483"+=shoulder=azureweave_mantle,id=193520,ilevel=483
 profileset."Azureweave_Mantle_Slippers_483"+=feet=azureweave_slippers,id=193525,ilevel=483
-profileset."Azureweave_Mantle_Slippers_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Azureweave_Mantle_Slippers_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Azureweave_Robe_Slippers_483"+=chest=azureweave_robe,id=193536,ilevel=483,enchant_id=6625
+profileset."Azureweave_Robe_Slippers_483"+=chest=azureweave_robe,id=193536,ilevel=483,enchant_id=${enchants.chest}
 profileset."Azureweave_Robe_Slippers_483"+=feet=azureweave_slippers,id=193525,ilevel=483
 
 profileset."Feet_Blue_Dragon_Soles_483"+=feet=blue_dragon_soles,id=193532,ilevel=483
 profileset."Shoulders_Amice_of_the_Blue_483"+=shoulder=amice_of_the_blue,id=193526,ilevel=483
-profileset."Shoulders_Amice_of_the_Blue_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Shoulders_Amice_of_the_Blue_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
 ### Chronocloth
 profileset."Chronocloth_Gloves_Sash_483"+=hands=chronocloth_gloves,id=193527,ilevel=483
-profileset."Chronocloth_Gloves_Sash_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=192948
-profileset."Chronocloth_Gloves_Sash_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Chronocloth_Gloves_Sash_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=${gems.main}
+profileset."Chronocloth_Gloves_Sash_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Chronocloth_Sash_Leggings_483"+=legs=chronocloth_leggings,id=193537,ilevel=483,enchant_id=6541
-profileset."Chronocloth_Sash_Leggings_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=192948
-profileset."Chronocloth_Sash_Leggings_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Chronocloth_Sash_Leggings_483"+=legs=chronocloth_leggings,id=193537,ilevel=483,enchant_id=${enchants.legs}
+profileset."Chronocloth_Sash_Leggings_483"+=waist=chronocloth_sash,id=193512,ilevel=483,gem_id=${gems.main}
+profileset."Chronocloth_Sash_Leggings_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Head_Hood_of_Surging_Time_483"+=head=hood_of_surging_time,id=193521,ilevel=483,gem_id=192948
-profileset."Head_Hood_of_Surging_Time_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=6625
+profileset."Head_Hood_of_Surging_Time_483"+=head=hood_of_surging_time,id=193521,ilevel=483,gem_id=${gems.main}
+profileset."Head_Hood_of_Surging_Time_483"+=chest=command_of_the_furnace_seraph,id=202545,ilevel=483,enchant_id=${enchants.chest}
 
-profileset."Wrists_Allied_Wristguards_of_Time_Dilation_483"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=483,gem_id=192948
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_483"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=483,gem_id=${gems.main}
 
 ## Inscription
-profileset."2h_Illuminating_Pillar_of_the_Isles_483"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=483,enchant_id=6643
+profileset."2h_Illuminating_Pillar_of_the_Isles_483"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."2h_Illuminating_Pillar_of_the_Isles_483"+=off_hand=disabled
 
-profileset."2h_Weathered_Explorers_Stave_483"+=main_hand=weathered_explorers_stave,id=194894,ilevel=483,enchant_id=6643
+profileset."2h_Weathered_Explorers_Stave_483"+=main_hand=weathered_explorers_stave,id=194894,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."2h_Weathered_Explorers_Stave_483"+=off_hand=disabled
 
 ## TODO: Fix this MH with something else
-profileset."MH_Lavaflow_Control_Rod_483-OH_Crackling_Codex_of_the_Isles_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_483-OH_Crackling_Codex_of_the_Isles_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."MH_Lavaflow_Control_Rod_483-OH_Crackling_Codex_of_the_Isles_483"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=483,crafted_stats=49/36
 
 ## Leatherworking
 ## TODO: Fix this MH with something else
-profileset."MH_Lavaflow_Control_Rod_483-OH_Witherrot_Tome_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=6643
+profileset."MH_Lavaflow_Control_Rod_483-OH_Witherrot_Tome_483"+=main_hand=lavaflow_control_rod,id=202570,ilevel=483,enchant_id=${enchants.main_hand}
 profileset."MH_Lavaflow_Control_Rod_483-OH_Witherrot_Tome_483"+=off_hand=witherrot_tome,id=193496,ilevel=483,crafted_stats=49/36

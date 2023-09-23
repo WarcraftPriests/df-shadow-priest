@@ -17,20 +17,22 @@ combos = {
     # s3 dungeons (483/489)
     "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
     "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
-    "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
+    # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
     "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
-    "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
+    # "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
     "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
-    "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
+    # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
     "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
-    "Leaf_of_the_Ancient_Protectors_483": "leaf_of_the_ancient_protectors,id=110009,ilevel=483", # noqa: E501
+    # "Leaf_of_the_Ancient_Protectors_483": "leaf_of_the_ancient_protectors,id=110009,ilevel=483", # noqa: E501
     "Leaf_of_the_Ancient_Protectors_489": "leaf_of_the_ancient_protectors,id=110009,ilevel=489", # noqa: E501
-    "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
+    # "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
     "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
     "Sea_Star_483": "sea_star,id=133201,ilevel=483",
     "Sea_Star_489": "sea_star,id=133201,ilevel=489",
     "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
     "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
+    "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483",
+    "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
     "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
     "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
     "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",

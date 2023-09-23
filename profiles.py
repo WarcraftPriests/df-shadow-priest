@@ -150,6 +150,7 @@ def replace_talents(talent_string, data):
 
 def replace_gear(data):
     """replaces gear based on the default in config"""
+    # replace gear
     for slot in config["gear"]:
         if slot == "off_hand":
             if config["gear"][slot] != "":
@@ -159,6 +160,13 @@ def replace_gear(data):
             data = data.replace(f"${{gear.{slot}}}", replacement_string)
         else:
             data = data.replace(f"${{gear.{slot}}}", config["gear"][slot])
+    # replace gems
+    for gem in config["gems"]:
+        data = data.replace(f"${{gems.{gem}}}", config["gems"][gem])
+    # replace enchants
+    for enchant in config["enchants"]:
+        data = data.replace(f"${{enchants.{enchant}}}",
+                            config["enchants"][enchant])
     return data
 
 

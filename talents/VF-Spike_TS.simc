@@ -9,21 +9,21 @@ spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester
 
 ${apl}
 
-head=${gear.head},gem_id=192948
-neck=${gear.neck},gem_id=192985/192948/192948
+head=${gear.head},gem_id=${gems.main}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists},gem_id=192948
+chest=${gear.chest},enchant_id=${enchants.chest}
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
-legs=${gear.legs},enchant_id=6541
+waist=${gear.waist},gem_id=${gems.main}
+legs=${gear.legs},enchant_id=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-finger2=${gear.finger2},enchant_id=6556,gem_id=192948
+finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant_id=6643
+main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 profileset."VF_yogg_cthun_110102354851759_Spike_TS"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/maddening_touch:2/dark_evangelism:1/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/tormented_spirits:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1"

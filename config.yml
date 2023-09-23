@@ -17,18 +17,26 @@ gear:
   neck: "neck,id=207163,ilevel=489" # mastery/haste
   shoulders: "tier,id=207279,ilevel=489" # crit/mastery
   back: "back,id=207161,ilevel=489" # mastery/crit
-  chest: "chest,id=207121,ilevel=489" # haste/crit
+  chest: "vesture_of_smoldering_serpent,id=207121,ilevel=489" # haste/crit
   wrists: "wrists,id=210204,ilevel=489" # mastery/haste
   hands: "tier,id=207282,ilevel=489" # haste/crit
   waist: "waist,id=207124,ilevel=489" # haste/mastery
   legs: "tier,id=207280,ilevel=489" # haste/mastery
-  feet: "feet,id=207123,ilevel=489" # mastery/haste
-  finger1: "ring1,id=207159,ilevel=489" # haste/mastery
+  feet: "slippers_of_heedless_sacrifice,id=134419,ilevel=489" # crit/haste
+  finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
   finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
-  trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
-  trinket2: "ominous_chromatic_essence,id=203729,ilevel=444"
+  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
+  trinket2: "balefire_branch,id=159630,ilevel=489"
   main_hand: "staff,id=207795,ilevel=489" # haste/mastery
   off_hand: ""
+gems:
+  meta: "192985"
+  main: "192925"
+enchants:
+  chest: "6625"
+  ring: "6562"
+  legs: "6541"
+  main_hand: "6643"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
