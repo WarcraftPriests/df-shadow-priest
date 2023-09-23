@@ -1,4 +1,4 @@
 # Composite - yshaarj-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|214854|1.00|0.57|0.71|0.65|0.70|0.07|
+|Base|226942|1.00|0.44|0.71|0.67|0.73|0.07|
