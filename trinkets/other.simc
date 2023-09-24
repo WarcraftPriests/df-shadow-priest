@@ -125,9 +125,9 @@ profileset."Pinch_of_Dream_Magic_463"+=trinket1=pinch_of_dream_magic,id=209959,i
 
 # TODO: PVP Trinkets
 #    Honor: ?
-# Conquest: 447
-profileset."Verdant_Gladiators_Badge_of_Ferocity_447"+=trinket1=verdant_gladiators_badge_of_ferocity,id=209343,ilevel=447
-profileset."Verdant_Gladiators_Insignia_of_Alacrity_447"+=trinket1=verdant_gladiators_insignia_of_alacrity,id=209344,ilevel=447
+# Conquest: 463
+profileset."Verdant_Gladiators_Badge_of_Ferocity_463"+=trinket1=verdant_gladiators_badge_of_ferocity,id=209343,ilevel=463
+profileset."Verdant_Gladiators_Insignia_of_Alacrity_463"+=trinket1=verdant_gladiators_insignia_of_alacrity,id=209344,ilevel=463
 
 # TODO: Timewalking Item Level
 # Guessing this is 476
