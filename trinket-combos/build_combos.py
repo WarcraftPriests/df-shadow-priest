@@ -9,11 +9,14 @@ combos = {
     # s2 dungeons (441/447)
     "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
     # aberrus the shadowed crucible
-    "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
+    # "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
     "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
     "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
+    # timewalking (476)
+    "Energy_Siphon_476": "energy_siphon,id=156021,ilevel=476",
+    "Living_Flame_476": "living_flame,id=155947,ilevel=476",
     # s3 dungeons (483/489)
     "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
     "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
@@ -35,18 +38,18 @@ combos = {
     "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
     "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
     "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
-    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
-    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
+    # "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483", # NYI
+    # "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489", # NYI
     # amirdrassil: the dream's hope (483/489)
     "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
     "Nymues_Vengeful_Spindle_483": "nymues_vengeful_spindle,id=208615,ilevel=483",
     "Nymues_Vengeful_Spindle_489": "nymues_vengeful_spindle,id=208615,ilevel=489",
-    "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
+    # "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
     "Belorrelos_the_Sunstone_489": "belorrelos_the_sunstone,id=207172,ilevel=489",
-    "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",
+    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",
     "Augury_of_the_Primal_Flame_489": "augury_of_the_primal_flame,id=208614,ilevel=489",
-    "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
+    # "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
     "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"
 }
 
