@@ -43,11 +43,11 @@ combos = {
     # amirdrassil: the dream's hope (483/489)
     "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
-    "Nymues_Vengeful_Spindle_483": "nymues_vengeful_spindle,id=208615,ilevel=483",
-    "Nymues_Vengeful_Spindle_489": "nymues_vengeful_spindle,id=208615,ilevel=489",
+    "Nymues_Unraveling_Spindle_483": "nymues_unraveling_spindle,id=208615,ilevel=483",
+    "Nymues_Unraveling_Spindle_489": "nymues_unraveling_spindle,id=208615,ilevel=489",
     # "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
     "Belorrelos_the_Sunstone_489": "belorrelos_the_sunstone,id=207172,ilevel=489",
-    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",
+    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
     "Augury_of_the_Primal_Flame_489": "augury_of_the_primal_flame,id=208614,ilevel=489",
     # "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
     "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"

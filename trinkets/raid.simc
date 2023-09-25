@@ -34,17 +34,24 @@ profileset."Augury_of_the_Primal_Flame_476"+=trinket1=augury_of_the_primal_flame
 profileset."Augury_of_the_Primal_Flame_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
 profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=489
 
-# TODO: Needs custom APL to use before CDs
 profileset."Belorrelos_the_Sunstone_463"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=463
 profileset."Belorrelos_the_Sunstone_476"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=476
 profileset."Belorrelos_the_Sunstone_483"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
 profileset."Belorrelos_the_Sunstone_489"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
 
-# TODO: Needs custom APL to use before CDs if possible
-profileset."Nymues_Vengeful_Spindle_463"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=463
-profileset."Nymues_Vengeful_Spindle_476"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=476
-profileset."Nymues_Vengeful_Spindle_483"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=483
-profileset."Nymues_Vengeful_Spindle_489"+=trinket1=nymues_vengeful_spindle,id=208615,ilevel=489
+profileset."Nymues_Unraveling_Spindle_463"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=463
+profileset."Nymues_Unraveling_Spindle_476"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=476
+profileset."Nymues_Unraveling_Spindle_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Nymues_Unraveling_Spindle_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
+
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_463"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=463
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_463"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_476"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=476
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_476"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
 
 profileset."Pips_Emerald_Friendship_Badge_463"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=463
 profileset."Pips_Emerald_Friendship_Badge_476"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=476
