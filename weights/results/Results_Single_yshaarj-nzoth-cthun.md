@@ -1,4 +1,4 @@
 # Single - yshaarj-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|218739|1.00|0.48|0.71|0.68|0.75|0.07|
+|Base|222932|1.00|0.51|0.71|0.66|0.72|0.07|

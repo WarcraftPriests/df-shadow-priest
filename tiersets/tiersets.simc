@@ -14,7 +14,7 @@ set_bonus=tier31_4pc=0
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main}
+head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}

@@ -9,7 +9,7 @@ spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main}
+head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}

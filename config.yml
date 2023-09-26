@@ -33,6 +33,7 @@ gems:
   meta: "192985"
   main: "192925"
 enchants:
+  head: "7052"
   chest: "6625"
   ring: "6562"
   legs: "6541"
