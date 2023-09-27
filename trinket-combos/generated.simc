@@ -43,9 +43,6 @@ profileset."Spoils_of_Neltharus_447-Energy_Siphon_476"+=trinket2=energy_siphon,i
 profileset."Spoils_of_Neltharus_447-Living_Flame_476"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
 
-profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
-
 profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
 
@@ -88,6 +85,12 @@ profileset."Spoils_of_Neltharus_447-Mirror_of_Fractured_Tomorrows_483"+=trinket2
 profileset."Spoils_of_Neltharus_447-Mirror_of_Fractured_Tomorrows_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -120,10 +123,6 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Energy_Siphon_476"+=trinket2=en
 profileset."Ominous_Chromatic_Essence_Bronze_447-Living_Flame_476"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Living_Flame_476"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
-
-profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -181,6 +180,14 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Mirror_of_Fractured_Tomorrows_4
 profileset."Ominous_Chromatic_Essence_Bronze_447-Mirror_of_Fractured_Tomorrows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -220,10 +227,6 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Energy_Siphon_476"+=trinket2=ene
 profileset."Ominous_Chromatic_Essence_Azure_447-Living_Flame_476"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Living_Flame_476"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
-
-profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -281,6 +284,14 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Mirror_of_Fractured_Tomorrows_48
 profileset."Ominous_Chromatic_Essence_Azure_447-Mirror_of_Fractured_Tomorrows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -320,10 +331,6 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Energy_Siphon_476"+=trinket2=e
 profileset."Ominous_Chromatic_Essence_Emerald_447-Living_Flame_476"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Living_Flame_476"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
-
-profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Vessel_of_Skittering_Shadows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -381,6 +388,14 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Mirror_of_Fractured_Tomorrows_
 profileset."Ominous_Chromatic_Essence_Emerald_447-Mirror_of_Fractured_Tomorrows_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -414,9 +429,6 @@ profileset."Neltharions_Call_to_Suffering_457-Energy_Siphon_476"+=trinket2=energ
 
 profileset."Neltharions_Call_to_Suffering_457-Living_Flame_476"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
-
-profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
@@ -460,6 +472,12 @@ profileset."Neltharions_Call_to_Suffering_457-Mirror_of_Fractured_Tomorrows_483"
 profileset."Neltharions_Call_to_Suffering_457-Mirror_of_Fractured_Tomorrows_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -483,9 +501,6 @@ profileset."Neltharions_Call_to_Suffering_457-Ashes_of_the_Embersoul_489"+=trink
 
 profileset."Energy_Siphon_476-Living_Flame_476"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
-
-profileset."Energy_Siphon_476-Vessel_of_Skittering_Shadows_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Energy_Siphon_476-Vessel_of_Skittering_Shadows_489"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
@@ -529,6 +544,12 @@ profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirro
 profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_489"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Energy_Siphon_476-Time_Thiefs_Gambit_483"+=trinket1=energy_siphon,id=156021,ilevel=476
+profileset."Energy_Siphon_476-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Energy_Siphon_476-Time_Thiefs_Gambit_489"+=trinket1=energy_siphon,id=156021,ilevel=476
+profileset."Energy_Siphon_476-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_483"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -549,9 +570,6 @@ profileset."Energy_Siphon_476-Augury_of_the_Primal_Flame_489"+=trinket2=augury_o
 
 profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_489"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Living_Flame_476-Vessel_of_Skittering_Shadows_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Vessel_of_Skittering_Shadows_483"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=483
 
 profileset."Living_Flame_476-Vessel_of_Skittering_Shadows_489"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Vessel_of_Skittering_Shadows_489"+=trinket2=vessel_of_skittering_shadows,id=159610,ilevel=489
@@ -595,6 +613,12 @@ profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror
 profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_489"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Living_Flame_476-Time_Thiefs_Gambit_483"+=trinket1=living_flame,id=155947,ilevel=476
+profileset."Living_Flame_476-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Living_Flame_476-Time_Thiefs_Gambit_489"+=trinket1=living_flame,id=155947,ilevel=476
+profileset."Living_Flame_476-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_483"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -615,66 +639,6 @@ profileset."Living_Flame_476-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of
 
 profileset."Living_Flame_476-Ashes_of_the_Embersoul_489"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Corrupted_Starlight_489"+=trinket2=corrupted_starlight,id=137301,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Oakhearts_Gnarled_Root_489"+=trinket2=oakhearts_gnarled_root,id=137306,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Leaf_of_the_Ancient_Protectors_489"+=trinket2=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Sea_Star_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Sea_Star_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_483"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Lady_Waycrests_Music_Box_489"+=trinket2=lady_waycrests_music_box,id=159631,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Nymues_Unraveling_Spindle_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
-
-profileset."Vessel_of_Skittering_Shadows_483-Nymues_Unraveling_Spindle_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Belorrelos_the_Sunstone_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Augury_of_the_Primal_Flame_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
-
-profileset."Vessel_of_Skittering_Shadows_483-Ashes_of_the_Embersoul_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Caged_Horror_489"+=trinket2=caged_horror,id=136716,ilevel=489
@@ -714,6 +678,12 @@ profileset."Vessel_of_Skittering_Shadows_489-Mirror_of_Fractured_Tomorrows_483"+
 
 profileset."Vessel_of_Skittering_Shadows_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+profileset."Vessel_of_Skittering_Shadows_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
 profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
 profileset."Vessel_of_Skittering_Shadows_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -772,6 +742,12 @@ profileset."Caged_Horror_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror
 profileset."Caged_Horror_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Caged_Horror_489-Time_Thiefs_Gambit_483"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Caged_Horror_489-Time_Thiefs_Gambit_489"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Caged_Horror_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=caged_horror,id=136716,ilevel=489
 profileset."Caged_Horror_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -826,6 +802,12 @@ profileset."Corrupted_Starlight_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2
 profileset."Corrupted_Starlight_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 profileset."Corrupted_Starlight_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -877,6 +859,12 @@ profileset."Oakhearts_Gnarled_Root_489-Mirror_of_Fractured_Tomorrows_483"+=trink
 profileset."Oakhearts_Gnarled_Root_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+profileset."Oakhearts_Gnarled_Root_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 profileset."Oakhearts_Gnarled_Root_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -925,6 +913,12 @@ profileset."Leaf_of_the_Ancient_Protectors_489-Mirror_of_Fractured_Tomorrows_483
 profileset."Leaf_of_the_Ancient_Protectors_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
+profileset."Leaf_of_the_Ancient_Protectors_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
 profileset."Leaf_of_the_Ancient_Protectors_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -970,6 +964,12 @@ profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_483"+=tr
 profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
 profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -1008,6 +1008,12 @@ profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_
 
 profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Sea_Star_483-Time_Thiefs_Gambit_483"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=483
+profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
 profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -1048,6 +1054,12 @@ profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_
 profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Sea_Star_489-Time_Thiefs_Gambit_483"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=489
+profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=489
 profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -1080,6 +1092,12 @@ profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mir
 
 profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Balefire_Branch_483-Time_Thiefs_Gambit_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
 profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -1114,6 +1132,12 @@ profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mir
 profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Balefire_Branch_489-Time_Thiefs_Gambit_483"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -1140,6 +1164,12 @@ profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_483"+=tri
 
 profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
 profileset."Lady_Waycrests_Music_Box_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
 profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
 profileset."Lady_Waycrests_Music_Box_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -1168,6 +1198,12 @@ profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_483"+=tri
 profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 profileset."Lady_Waycrests_Music_Box_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 profileset."Lady_Waycrests_Music_Box_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -1188,6 +1224,12 @@ profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_489"+=trinke
 
 profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 profileset."Lady_Waycrests_Music_Box_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
@@ -1210,6 +1252,12 @@ profileset."Mirror_of_Fractured_Tomorrows_483-Augury_of_the_Primal_Flame_489"+=t
 profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
+profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+
+profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+
 profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
 
@@ -1230,6 +1278,48 @@ profileset."Mirror_of_Fractured_Tomorrows_489-Augury_of_the_Primal_Flame_489"+=t
 
 profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+
+profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+
+profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+
+profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+
+profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+
+profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+
+profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+
+profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_489"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=489
+
+profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
 profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
 profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483

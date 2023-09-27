@@ -18,7 +18,7 @@ combos = {
     "Energy_Siphon_476": "energy_siphon,id=156021,ilevel=476",
     "Living_Flame_476": "living_flame,id=155947,ilevel=476",
     # s3 dungeons (483/489)
-    "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
+    # "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
     "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
     # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
     "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
@@ -38,8 +38,8 @@ combos = {
     "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
     "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
     "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
-    # "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483", # NYI
-    # "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489", # NYI
+    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483", # NYI
+    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489", # NYI
     # amirdrassil: the dream's hope (483/489)
     "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
