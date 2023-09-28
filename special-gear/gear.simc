@@ -29,8 +29,8 @@ profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_489"+=main_hand=dreambinder_l
 profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_489"+=off_hand=disabled
 
 ## TODO: fix name
-profileset."MH_Fyrakk_Cantrip_1H_Mace_INT_489-OH_Tricksters_Captivating_Chime_489"+=main_hand=ph_fyrakk_cantrip_1h_mace_int,id=207788,ilevel=489,enchant_id=${enchants.main_hand}
-profileset."MH_Fyrakk_Cantrip_1H_Mace_INT_489-OH_Tricksters_Captivating_Chime_489"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=489
+profileset."Vakash_the_Shadowed_Inferno_489-OH_Tricksters_Captivating_Chime_489"+=main_hand=ph_fyrakk_cantrip_1h_mace_int,id=207788,ilevel=489,enchant_id=${enchants.main_hand}
+profileset."Vakash_the_Shadowed_Inferno_489-OH_Tricksters_Captivating_Chime_489"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=489
 
 # 10.1.5 Special Items
 profileset."2h_Iridal_the_Earths_Master_483"+=main_hand=iridal_the_earths_master,id=208321,ilevel=483,enchant_id=${enchants.main_hand}
@@ -199,7 +199,14 @@ profileset."Chest_Vibrant_Wildercloth_Vestments_483"+=chest=vibrant_wildercloth_
 
 profileset."Wrists_Vibrant_Wildercloth_Wristwraps_483"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=483,gem_id=${gems.main}
 
-profileset."Back_Undulating_Sporecloak_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Back_Undulating_Sporecloak_80%_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Back_Undulating_Sporecloak_80%_483"+=dragonflight.undulating_sporecloak_uptime=0.8
+
+profileset."Back_Undulating_Sporecloak_90%_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Back_Undulating_Sporecloak_90%_483"+=dragonflight.undulating_sporecloak_uptime=0.9
+
+profileset."Back_Undulating_Sporecloak_100%_483"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=483
+profileset."Back_Undulating_Sporecloak_100%_483"+=dragonflight.undulating_sporecloak_uptime=1.0
 
 ### Azureweave
 profileset."Azureweave_Mantle_Slippers_483"+=shoulder=azureweave_mantle,id=193520,ilevel=483

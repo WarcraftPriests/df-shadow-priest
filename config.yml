@@ -13,21 +13,21 @@ builds:
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASoFRSShIJRSSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674448885679_Spike_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCBAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR
 gear:
-  head: "tier,id=207281,ilevel=489" # mastery/crit
-  neck: "neck,id=207163,ilevel=489" # mastery/haste
-  shoulders: "tier,id=207279,ilevel=489" # crit/mastery
-  back: "back,id=207161,ilevel=489" # mastery/crit
+  head: "crest_of_lunar_communion,id=207281,ilevel=489" # mastery/crit
+  neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
+  shoulders: "shoulderguardians_of_lunar_communion,id=207279,ilevel=489" # crit/mastery
+  back: "mantle_of_blazing_sacrifice,id=207161,ilevel=489" # mastery/crit
   chest: "vesture_of_smoldering_serpent,id=207121,ilevel=489" # haste/crit
-  wrists: "wrists,id=210204,ilevel=489" # mastery/haste
-  hands: "tier,id=207282,ilevel=489" # haste/crit
-  waist: "waist,id=207124,ilevel=489" # haste/mastery
-  legs: "tier,id=207280,ilevel=489" # haste/mastery
+  wrists: "fading_flame_wristbands,id=210204,ilevel=489" # mastery/haste
+  hands: "touch_of_lunar_communion,id=207282,ilevel=489" # haste/crit
+  waist: "blooming_redeemers_sash,id=207124,ilevel=489" # haste/mastery
+  legs: "leggings_of_lunar_communion,id=207280,ilevel=489" # haste/mastery
   feet: "slippers_of_heedless_sacrifice,id=134419,ilevel=489" # crit/haste
   finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
   finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
   trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
   trinket2: "balefire_branch,id=159630,ilevel=489"
-  main_hand: "staff,id=207795,ilevel=489" # haste/mastery
+  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=489" # haste/mastery
   off_hand: ""
 gems:
   meta: "192985"
