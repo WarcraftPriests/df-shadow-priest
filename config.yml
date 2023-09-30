@@ -1,13 +1,13 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkERAAAAAAAAAAAAASiWEJSJOgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144611304367_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkAAAAAAAAAAAAAIhWEJSJOgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144438323119_Spike_DR
     single: BIQAAAAAAAAAAAAAAAAAAAAAAIkE5ABAAAAAAAAAAAAIJaRkIlgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144613401519_Spike_DR
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIhWEJShIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144643835823_Spike_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
   yshaarj-nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkgEEAAAAAAAAAAAAgkoFRSSJOgkERSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674416354223_Spike_DR
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkQSicAAAAAAAAAAAAAgEaRkkUCSSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674249664431_Spike_DR
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSiDAAAAAAAAAAAAAIhWEJJlISSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674176264111_Spike_DR
     single: BIQAAAAAAAAAAAAAAAAAAAAAAkgEEAAAAAAAAAAAAgkoFRSSJOgkERSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674416354223_Spike_DR
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASoFRSShIJRSSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674448885679_Spike_DR
@@ -26,7 +26,7 @@ gear:
   finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
   finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
   trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
-  trinket2: "balefire_branch,id=159630,ilevel=489"
+  trinket2: "nymues_unraveling_spindle,id=208615,ilevel=489"
   main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=489" # haste/mastery
   off_hand: ""
 gems:
