@@ -17,7 +17,7 @@ gear:
   neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
   shoulders: "shoulderguardians_of_lunar_communion,id=207279,ilevel=489" # crit/mastery
   back: "mantle_of_blazing_sacrifice,id=207161,ilevel=489" # mastery/crit
-  chest: "vesture_of_smoldering_serpent,id=207121,ilevel=489" # haste/crit
+  chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=489" # haste/crit
   wrists: "fading_flame_wristbands,id=210204,ilevel=489" # mastery/haste
   hands: "touch_of_lunar_communion,id=207282,ilevel=489" # haste/crit
   waist: "blooming_redeemers_sash,id=207124,ilevel=489" # haste/mastery
