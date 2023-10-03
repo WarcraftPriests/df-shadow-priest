@@ -1,18 +1,18 @@
 # neltharus-fort-standard - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|143896|0.61%|
-|Thousandbone_Tongueslicer|143854|0.58%|
-|Great_Cerulean_Sea|143842|0.57%|
-|Fated_Fortune_Cookie|143765|0.52%|
-|Revenge_Served_Cold|143764|0.52%|
-|Aromatic_Seafood_Platter|143691|0.46%|
-|Sizzling_Seafood_Medley|143688|0.46%|
-|Filet_of_Fangs|143672|0.45%|
-|Feisty_Fish_Sticks|143658|0.44%|
-|Seamoth_Surprise|143636|0.43%|
-|Salt_Baked_Fishcake|143597|0.40%|
-|Timely_Demise|143509|0.34%|
-|Roast_Duck_Delight|143330|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|143263|0.17%|
-|Base|143027|0.00%|
+|Revenge_Served_Cold|209471|0.41%|
+|Great_Cerulean_Sea|209440|0.39%|
+|Thousandbone_Tongueslicer|209435|0.39%|
+|Aromatic_Seafood_Platter|209422|0.38%|
+|Feisty_Fish_Sticks|209396|0.37%|
+|Sizzling_Seafood_Medley|209384|0.37%|
+|Seamoth_Surprise|209356|0.35%|
+|Draconic_Augment_Rune|209344|0.35%|
+|Filet_of_Fangs|209254|0.30%|
+|Fated_Fortune_Cookie|209240|0.30%|
+|Salt_Baked_Fishcake|209191|0.27%|
+|Timely_Demise|209087|0.22%|
+|Roast_Duck_Delight|208884|0.13%|
+|Thrice_Spiced_Mammoth_Kabob|208786|0.08%|
+|Base|208620|0.00%|

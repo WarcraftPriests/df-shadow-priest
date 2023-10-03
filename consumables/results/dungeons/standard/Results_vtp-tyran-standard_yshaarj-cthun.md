@@ -1,18 +1,18 @@
 # vtp-tyran-standard - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|120759|0.71%|
-|Great_Cerulean_Sea|120645|0.62%|
-|Fated_Fortune_Cookie|120638|0.61%|
-|Thousandbone_Tongueslicer|120636|0.61%|
-|Revenge_Served_Cold|120606|0.59%|
-|Sizzling_Seafood_Medley|120604|0.58%|
-|Salt_Baked_Fishcake|120557|0.55%|
-|Feisty_Fish_Sticks|120553|0.54%|
-|Aromatic_Seafood_Platter|120537|0.53%|
-|Seamoth_Surprise|120510|0.51%|
-|Filet_of_Fangs|120468|0.47%|
-|Timely_Demise|120324|0.35%|
-|Roast_Duck_Delight|120227|0.27%|
-|Thrice_Spiced_Mammoth_Kabob|120065|0.14%|
-|Base|119903|0.00%|
+|Revenge_Served_Cold|174256|0.51%|
+|Aromatic_Seafood_Platter|174115|0.43%|
+|Feisty_Fish_Sticks|174073|0.40%|
+|Thousandbone_Tongueslicer|174050|0.39%|
+|Great_Cerulean_Sea|174048|0.39%|
+|Fated_Fortune_Cookie|174018|0.37%|
+|Sizzling_Seafood_Medley|174011|0.37%|
+|Draconic_Augment_Rune|173997|0.36%|
+|Seamoth_Surprise|173912|0.31%|
+|Filet_of_Fangs|173898|0.30%|
+|Salt_Baked_Fishcake|173878|0.29%|
+|Timely_Demise|173770|0.23%|
+|Roast_Duck_Delight|173638|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|173617|0.14%|
+|Base|173375|0.00%|

@@ -23,16 +23,17 @@ main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # Amirdrassil: The Dream's Hope
+## 476 / 483 / 489 / 496 (Fyrakk Only)
+profileset."Augury_of_the_Primal_Flame_476"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=476
+profileset."Augury_of_the_Primal_Flame_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
+profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=489
+profileset."Augury_of_the_Primal_Flame_496"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
+
 ## 463 / 476 / 483 / 489
 profileset."Ashes_of_the_Embersoul_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
 profileset."Ashes_of_the_Embersoul_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
 profileset."Ashes_of_the_Embersoul_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
 profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
-
-profileset."Augury_of_the_Primal_Flame_463"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=463
-profileset."Augury_of_the_Primal_Flame_476"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=476
-profileset."Augury_of_the_Primal_Flame_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
-profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=489
 
 profileset."Belorrelos_the_Sunstone_463"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=463
 profileset."Belorrelos_the_Sunstone_476"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=476

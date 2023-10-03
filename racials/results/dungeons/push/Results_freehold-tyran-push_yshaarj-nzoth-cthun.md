@@ -1,0 +1,34 @@
+# freehold-tyran-push - yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|231919|1.25%|
+|Dwarf|231531|1.08%|
+|Mechagnome|231516|1.08%|
+|Tauren|231497|1.07%|
+|Kul_Tiran|231204|0.94%|
+|Gnome|231203|0.94%|
+|Goblin|231138|0.91%|
+|Highmountain_Tauren|231132|0.91%|
+|Night_Elf_Haste|231124|0.91%|
+|Zandalari_Troll_Paku|231074|0.89%|
+|Void_Elf|231033|0.87%|
+|Nightborne|231006|0.86%|
+|Orc|230943|0.83%|
+|Worgen|230916|0.82%|
+|Blood_Elf|230878|0.80%|
+|Night_Elf_Crit|230851|0.79%|
+|Troll|230754|0.75%|
+|Draenei|230528|0.65%|
+|Panda_Vers|230373|0.58%|
+|Panda_Fortune_Cookie|230315|0.55%|
+|Dark_Iron_Dwarf|230270|0.53%|
+|Panda_Crit|230183|0.50%|
+|Maghar_Orc|230142|0.48%|
+|Panda_Haste|229810|0.33%|
+|Panda_Mastery|229778|0.32%|
+|Undead|229524|0.21%|
+|Zandalari_Troll_Bwonsamdi|229508|0.20%|
+|Zandalari_Troll_Kimbul|229317|0.12%|
+|Vulpera|229137|0.04%|
+|Lightforged_Draenei|229118|0.03%|
+|Base|229046|0.00%|

@@ -1,18 +1,18 @@
 # nelths-tyran-standard - yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|112503|0.67%|
-|Fated_Fortune_Cookie|112468|0.64%|
-|Thousandbone_Tongueslicer|112458|0.63%|
-|Great_Cerulean_Sea|112402|0.58%|
-|Revenge_Served_Cold|112394|0.57%|
-|Sizzling_Seafood_Medley|112357|0.54%|
-|Feisty_Fish_Sticks|112349|0.53%|
-|Salt_Baked_Fishcake|112328|0.51%|
-|Aromatic_Seafood_Platter|112325|0.51%|
-|Filet_of_Fangs|112289|0.48%|
-|Seamoth_Surprise|112267|0.46%|
-|Timely_Demise|112169|0.37%|
-|Roast_Duck_Delight|112048|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|111983|0.20%|
-|Base|111757|0.00%|
+|Revenge_Served_Cold|160987|0.44%|
+|Fated_Fortune_Cookie|160961|0.42%|
+|Great_Cerulean_Sea|160959|0.42%|
+|Thousandbone_Tongueslicer|160956|0.42%|
+|Seamoth_Surprise|160935|0.40%|
+|Draconic_Augment_Rune|160933|0.40%|
+|Aromatic_Seafood_Platter|160901|0.38%|
+|Feisty_Fish_Sticks|160867|0.36%|
+|Sizzling_Seafood_Medley|160851|0.35%|
+|Filet_of_Fangs|160838|0.34%|
+|Salt_Baked_Fishcake|160734|0.28%|
+|Timely_Demise|160629|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|160500|0.13%|
+|Roast_Duck_Delight|160452|0.10%|
+|Base|160289|0.00%|

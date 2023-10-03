@@ -19,19 +19,19 @@ combos = {
     "Living_Flame_476": "living_flame,id=155947,ilevel=476",
     # s3 dungeons (483/489)
     # "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
-    "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
+    # "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
     # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
-    "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
+    # "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
     # "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
-    "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
+    # "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
     # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
-    "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
+    # "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
     # "Leaf_of_the_Ancient_Protectors_483": "leaf_of_the_ancient_protectors,id=110009,ilevel=483", # noqa: E501
-    "Leaf_of_the_Ancient_Protectors_489": "leaf_of_the_ancient_protectors,id=110009,ilevel=489", # noqa: E501
+    # "Leaf_of_the_Ancient_Protectors_489": "leaf_of_the_ancient_protectors,id=110009,ilevel=489", # noqa: E501
     # "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
-    "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
-    "Sea_Star_483": "sea_star,id=133201,ilevel=483",
-    "Sea_Star_489": "sea_star,id=133201,ilevel=489",
+    # "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
+    # "Sea_Star_483": "sea_star,id=133201,ilevel=483",
+    # "Sea_Star_489": "sea_star,id=133201,ilevel=489",
     "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
     "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
     "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483",
@@ -45,10 +45,10 @@ combos = {
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
     "Nymues_Unraveling_Spindle_483": "nymues_unraveling_spindle,id=208615,ilevel=483",
     "Nymues_Unraveling_Spindle_489": "nymues_unraveling_spindle,id=208615,ilevel=489",
-    # "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
+    "Belorrelos_the_Sunstone_483": "belorrelos_the_sunstone,id=207172,ilevel=483",
     "Belorrelos_the_Sunstone_489": "belorrelos_the_sunstone,id=207172,ilevel=489",
-    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
-    "Augury_of_the_Primal_Flame_489": "augury_of_the_primal_flame,id=208614,ilevel=489",
+    "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
+    "Augury_of_the_Primal_Flame_496": "augury_of_the_primal_flame,id=208614,ilevel=496",
     # "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
     "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"
 }

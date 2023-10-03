@@ -1,18 +1,18 @@
 # 2T - yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|283544|0.59%|
-|Great_Cerulean_Sea|283473|0.56%|
-|Feisty_Fish_Sticks|283394|0.53%|
-|Draconic_Augment_Rune|283325|0.51%|
-|Aromatic_Seafood_Platter|283321|0.51%|
-|Thousandbone_Tongueslicer|283302|0.50%|
-|Seamoth_Surprise|283241|0.48%|
-|Fated_Fortune_Cookie|283148|0.45%|
-|Sizzling_Seafood_Medley|283135|0.44%|
-|Salt_Baked_Fishcake|283124|0.44%|
-|Filet_of_Fangs|282984|0.39%|
-|Timely_Demise|282618|0.26%|
-|Roast_Duck_Delight|282263|0.13%|
-|Thrice_Spiced_Mammoth_Kabob|282040|0.05%|
-|Base|281893|0.00%|
+|Revenge_Served_Cold|267328|0.58%|
+|Draconic_Augment_Rune|267258|0.56%|
+|Thousandbone_Tongueslicer|267229|0.55%|
+|Great_Cerulean_Sea|267178|0.53%|
+|Fated_Fortune_Cookie|267072|0.49%|
+|Seamoth_Surprise|267040|0.47%|
+|Feisty_Fish_Sticks|266993|0.46%|
+|Aromatic_Seafood_Platter|266962|0.45%|
+|Filet_of_Fangs|266906|0.42%|
+|Salt_Baked_Fishcake|266854|0.40%|
+|Sizzling_Seafood_Medley|266834|0.40%|
+|Timely_Demise|266527|0.28%|
+|Roast_Duck_Delight|266362|0.22%|
+|Thrice_Spiced_Mammoth_Kabob|266146|0.14%|
+|Base|265779|0.00%|

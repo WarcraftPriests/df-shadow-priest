@@ -1,0 +1,34 @@
+# vtp-tyran-standard - yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|177590|0.89%|
+|Tauren|177375|0.77%|
+|Mechagnome|177346|0.75%|
+|Dwarf|177305|0.73%|
+|Troll|177207|0.67%|
+|Night_Elf_Haste|177197|0.67%|
+|Gnome|177178|0.66%|
+|Highmountain_Tauren|177151|0.64%|
+|Kul_Tiran|177146|0.64%|
+|Goblin|177128|0.63%|
+|Blood_Elf|177065|0.59%|
+|Void_Elf|177029|0.57%|
+|Zandalari_Troll_Paku|176984|0.55%|
+|Nightborne|176958|0.53%|
+|Orc|176935|0.52%|
+|Night_Elf_Crit|176929|0.52%|
+|Worgen|176887|0.49%|
+|Draenei|176851|0.47%|
+|Maghar_Orc|176621|0.34%|
+|Panda_Vers|176583|0.32%|
+|Dark_Iron_Dwarf|176550|0.30%|
+|Panda_Crit|176536|0.29%|
+|Panda_Fortune_Cookie|176498|0.27%|
+|Panda_Haste|176327|0.17%|
+|Panda_Mastery|176285|0.15%|
+|Zandalari_Troll_Bwonsamdi|176203|0.10%|
+|Undead|176175|0.09%|
+|Zandalari_Troll_Kimbul|176151|0.07%|
+|Base|176019|0.00%|
+|Lightforged_Draenei|175949|-0.04%|
+|Vulpera|175936|-0.05%|

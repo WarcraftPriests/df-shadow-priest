@@ -1,0 +1,34 @@
+# hoi-fort-standard - yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|190106|1.04%|
+|Mechagnome|189937|0.95%|
+|Dwarf|189882|0.92%|
+|Tauren|189882|0.92%|
+|Gnome|189634|0.79%|
+|Kul_Tiran|189608|0.78%|
+|Goblin|189598|0.77%|
+|Night_Elf_Haste|189558|0.75%|
+|Blood_Elf|189507|0.72%|
+|Highmountain_Tauren|189503|0.72%|
+|Nightborne|189488|0.71%|
+|Void_Elf|189481|0.71%|
+|Zandalari_Troll_Paku|189415|0.68%|
+|Night_Elf_Crit|189414|0.68%|
+|Worgen|189256|0.59%|
+|Orc|189235|0.58%|
+|Troll|189171|0.55%|
+|Draenei|189120|0.52%|
+|Panda_Crit|189002|0.46%|
+|Panda_Vers|188965|0.44%|
+|Maghar_Orc|188888|0.40%|
+|Dark_Iron_Dwarf|188876|0.39%|
+|Panda_Fortune_Cookie|188844|0.37%|
+|Panda_Haste|188706|0.30%|
+|Panda_Mastery|188624|0.26%|
+|Zandalari_Troll_Bwonsamdi|188461|0.17%|
+|Undead|188425|0.15%|
+|Zandalari_Troll_Kimbul|188347|0.11%|
+|Lightforged_Draenei|188193|0.03%|
+|Vulpera|188190|0.02%|
+|Base|188143|0.00%|
