@@ -111,6 +111,8 @@ actions.main=call_action_list,name=main_variables
 actions.main+=/call_action_list,name=cds,if=fight_remains<30|target.time_to_die>15&(!variable.holding_crash|active_enemies>2)
 # Use Shadowfiend and Mindbender on cooldown as long as Vampiric Touch and Shadow Word: Pain are active and sync with Dark Ascension
 actions.main+=/mindbender,if=variable.dots_up&(fight_remains<30|target.time_to_die>15)&(!talent.dark_ascension|cooldown.dark_ascension.remains<gcd.max|fight_remains<15)
+# High-Priority SW:P action to consume T31 4pc stacks if Shadow Crash is unavailable and you are capping stacks
+actions.main+=/shadow_word_pain,if=talent.shadow_crash&(prev_gcd.1.shadow_word_death&buff.deaths_torment.stack>=10|buff.deaths_torment.stack=buff.deaths_torment.max_stack)&set_bonus.tier31_4pc&cooldown.shadow_crash.remains>cooldown.shadow_word_death.remains
 actions.main+=/shadow_word_death,if=set_bonus.tier31_4pc|pet.fiend.active&talent.inescapable_torment&set_bonus.tier31_2pc
 # High priority Mind Blast action when using Inescapable Torment
 actions.main+=/mind_blast,target_if=dot.devouring_plague.remains>execute_time&(cooldown.mind_blast.full_recharge_time<=gcd.max+execute_time)|pet.fiend.remains<=execute_time+gcd.max,if=pet.fiend.active&talent.inescapable_torment&pet.fiend.remains>execute_time&active_enemies<=7
@@ -123,7 +125,7 @@ actions.main+=/devouring_plague,if=fight_remains<=duration+4
 actions.main+=/devouring_plague,target_if=!talent.distorted_reality|active_enemies=1|remains<=gcd.max,if=(remains<=gcd.max|remains<3&cooldown.void_torrent.up)|insanity.deficit<=20|buff.voidform.up&cooldown.void_bolt.remains>buff.voidform.remains&cooldown.void_bolt.remains<=buff.voidform.remains+2|buff.mind_devourer.up&pmultiplier<1.2
 actions.main+=/shadow_word_death,if=set_bonus.tier31_2pc
 # Use Shadow Crash as long as you are not holding for adds and Vampiric Touch is within pandemic range
-actions.main+=/shadow_crash,if=!variable.holding_crash&(dot.vampiric_touch.refreshable|buff.deaths_torment.stack=buff.deaths_torment.max_stack&set_bonus.tier31_4pc)
+actions.main+=/shadow_crash,if=!variable.holding_crash&(dot.vampiric_touch.refreshable|buff.deaths_torment.stack>=9&set_bonus.tier31_4pc)
 # Consume T31 4pc SWPs
 actions.main+=/shadow_word_pain,if=buff.deaths_torment.stack=buff.deaths_torment.max_stack&!talent.shadow_crash&set_bonus.tier31_4pc
 # Use Shadow Word: Death with Inescapable Torment and Mindbender active and not talented into Insidious Ire and Yogg or Deathspeaker is active
