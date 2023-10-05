@@ -1,5 +1,4 @@
 profile,actor,DPS,increase,
-Single,Base,122763,0.00%,
-Single,rhapsody_control,122718,-0.04%,
-Single,rhapsody_at_20_low_filler,121890,-0.71%,
-Single,rhapsody_at_20_high_filler,121561,-0.98%,
+Single,crash_at_9+,205700,0.02%,
+Single,low_priority_swp,205672,0.00%,
+Single,Base,205665,0.00%,

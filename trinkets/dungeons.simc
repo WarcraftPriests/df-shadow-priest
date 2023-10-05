@@ -49,10 +49,6 @@ profileset."Oakhearts_Gnarled_Root_483"+=trinket1=oakhearts_gnarled_root,id=1373
 profileset."Oakhearts_Gnarled_Root_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
 
 ## Everbloom
-profileset."Leaf_of_the_Ancient_Protectors_470"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=470
-profileset."Leaf_of_the_Ancient_Protectors_483"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=483
-profileset."Leaf_of_the_Ancient_Protectors_489"+=trinket1=leaf_of_the_ancient_protectors,id=110009,ilevel=489
-
 profileset."Coagulated_Genesaur_Blood_470"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=470
 profileset."Coagulated_Genesaur_Blood_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
 profileset."Coagulated_Genesaur_Blood_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489

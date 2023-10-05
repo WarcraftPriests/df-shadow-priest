@@ -26,8 +26,6 @@ combos = {
     # "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
     # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
     # "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
-    # "Leaf_of_the_Ancient_Protectors_483": "leaf_of_the_ancient_protectors,id=110009,ilevel=483", # noqa: E501
-    # "Leaf_of_the_Ancient_Protectors_489": "leaf_of_the_ancient_protectors,id=110009,ilevel=489", # noqa: E501
     # "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
     # "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
     # "Sea_Star_483": "sea_star,id=133201,ilevel=483",
