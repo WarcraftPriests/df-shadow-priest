@@ -79,11 +79,11 @@ profileset."Spoils_of_Neltharus_447-Nymues_Unraveling_Spindle_483"+=trinket2=nym
 profileset."Spoils_of_Neltharus_447-Nymues_Unraveling_Spindle_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Spoils_of_Neltharus_447-Belorrelos_the_Sunstone_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Spoils_of_Neltharus_447-Belorrelos_the_Suncaller_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Spoils_of_Neltharus_447-Belorrelos_the_Sunstone_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
-profileset."Spoils_of_Neltharus_447-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Spoils_of_Neltharus_447-Belorrelos_the_Suncaller_489"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
+profileset."Spoils_of_Neltharus_447-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Spoils_of_Neltharus_447-Augury_of_the_Primal_Flame_483"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 profileset."Spoils_of_Neltharus_447-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -154,13 +154,13 @@ profileset."Ominous_Chromatic_Essence_Bronze_447-Nymues_Unraveling_Spindle_489"+
 profileset."Ominous_Chromatic_Essence_Bronze_447-Nymues_Unraveling_Spindle_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Bronze_447-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_489"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Bronze_447-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Bronze_447-Augury_of_the_Primal_Flame_483"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 profileset."Ominous_Chromatic_Essence_Bronze_447-Augury_of_the_Primal_Flame_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -234,13 +234,13 @@ profileset."Ominous_Chromatic_Essence_Azure_447-Nymues_Unraveling_Spindle_489"+=
 profileset."Ominous_Chromatic_Essence_Azure_447-Nymues_Unraveling_Spindle_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Azure_447-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_489"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Azure_447-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Azure_447-Augury_of_the_Primal_Flame_483"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 profileset."Ominous_Chromatic_Essence_Azure_447-Augury_of_the_Primal_Flame_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -314,13 +314,13 @@ profileset."Ominous_Chromatic_Essence_Emerald_447-Nymues_Unraveling_Spindle_489"
 profileset."Ominous_Chromatic_Essence_Emerald_447-Nymues_Unraveling_Spindle_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
 profileset."Ominous_Chromatic_Essence_Emerald_447-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_489"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_489"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
+profileset."Ominous_Chromatic_Essence_Emerald_447-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Ominous_Chromatic_Essence_Emerald_447-Augury_of_the_Primal_Flame_483"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 profileset."Ominous_Chromatic_Essence_Emerald_447-Augury_of_the_Primal_Flame_483"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
@@ -376,11 +376,11 @@ profileset."Neltharions_Call_to_Suffering_457-Nymues_Unraveling_Spindle_483"+=tr
 profileset."Neltharions_Call_to_Suffering_457-Nymues_Unraveling_Spindle_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Sunstone_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Suncaller_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Sunstone_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
-profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Suncaller_489"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_457-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Neltharions_Call_to_Suffering_457-Augury_of_the_Primal_Flame_483"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
 profileset."Neltharions_Call_to_Suffering_457-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -430,11 +430,11 @@ profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_un
 profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_489"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Energy_Siphon_476-Belorrelos_the_Sunstone_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_483"+=trinket1=energy_siphon,id=156021,ilevel=476
+profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Energy_Siphon_476-Belorrelos_the_Sunstone_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_489"+=trinket1=energy_siphon,id=156021,ilevel=476
+profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Energy_Siphon_476-Augury_of_the_Primal_Flame_483"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Energy_Siphon_476-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -481,11 +481,11 @@ profileset."Living_Flame_476-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unr
 profileset."Living_Flame_476-Nymues_Unraveling_Spindle_489"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Living_Flame_476-Belorrelos_the_Sunstone_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Living_Flame_476-Belorrelos_the_Suncaller_483"+=trinket1=living_flame,id=155947,ilevel=476
+profileset."Living_Flame_476-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Living_Flame_476-Belorrelos_the_Sunstone_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Living_Flame_476-Belorrelos_the_Suncaller_489"+=trinket1=living_flame,id=155947,ilevel=476
+profileset."Living_Flame_476-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Living_Flame_476-Augury_of_the_Primal_Flame_483"+=trinket1=living_flame,id=155947,ilevel=476
 profileset."Living_Flame_476-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -526,11 +526,11 @@ profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_
 profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_489"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Balefire_Branch_483-Belorrelos_the_Sunstone_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Balefire_Branch_483-Belorrelos_the_Sunstone_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_489"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Balefire_Branch_483-Augury_of_the_Primal_Flame_483"+=trinket1=balefire_branch,id=159630,ilevel=483
 profileset."Balefire_Branch_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -571,11 +571,11 @@ profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_
 profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_489"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Balefire_Branch_489-Belorrelos_the_Sunstone_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_483"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Balefire_Branch_489-Belorrelos_the_Sunstone_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Balefire_Branch_489-Augury_of_the_Primal_Flame_483"+=trinket1=balefire_branch,id=159630,ilevel=489
 profileset."Balefire_Branch_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -610,11 +610,11 @@ profileset."Lady_Waycrests_Music_Box_483-Nymues_Unraveling_Spindle_483"+=trinket
 profileset."Lady_Waycrests_Music_Box_483-Nymues_Unraveling_Spindle_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
 profileset."Lady_Waycrests_Music_Box_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
-profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Suncaller_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
-profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Suncaller_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+profileset."Lady_Waycrests_Music_Box_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
 profileset."Lady_Waycrests_Music_Box_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -649,11 +649,11 @@ profileset."Lady_Waycrests_Music_Box_489-Nymues_Unraveling_Spindle_483"+=trinket
 profileset."Lady_Waycrests_Music_Box_489-Nymues_Unraveling_Spindle_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 profileset."Lady_Waycrests_Music_Box_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
-profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Suncaller_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
-profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Suncaller_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+profileset."Lady_Waycrests_Music_Box_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 profileset."Lady_Waycrests_Music_Box_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -682,11 +682,11 @@ profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_483"+=tr
 profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Sunstone_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Sunstone_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_483-Augury_of_the_Primal_Flame_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -715,11 +715,11 @@ profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_483"+=tr
 profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Sunstone_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Sunstone_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Mirror_of_Fractured_Tomorrows_489-Augury_of_the_Primal_Flame_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
 profileset."Mirror_of_Fractured_Tomorrows_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -742,11 +742,11 @@ profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymu
 profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
 profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
+profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
 profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -769,11 +769,11 @@ profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymu
 profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
 profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
 profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -790,11 +790,11 @@ profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_483"+=tr
 profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
 profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
 profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -811,11 +811,11 @@ profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_483"+=tr
 profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
 profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
 
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
 profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -826,11 +826,11 @@ profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_496"+=t
 profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
 profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Sunstone_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Sunstone_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Nymues_Unraveling_Spindle_483-Augury_of_the_Primal_Flame_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
 profileset."Nymues_Unraveling_Spindle_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -841,11 +841,11 @@ profileset."Nymues_Unraveling_Spindle_483-Augury_of_the_Primal_Flame_496"+=trink
 profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
 profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Sunstone_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Sunstone_483"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=483
+profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
 
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Sunstone_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Sunstone_489"+=trinket2=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Nymues_Unraveling_Spindle_489-Augury_of_the_Primal_Flame_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
 profileset."Nymues_Unraveling_Spindle_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
@@ -856,23 +856,23 @@ profileset."Nymues_Unraveling_Spindle_489-Augury_of_the_Primal_Flame_496"+=trink
 profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
 profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Belorrelos_the_Sunstone_483-Augury_of_the_Primal_Flame_483"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
-profileset."Belorrelos_the_Sunstone_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
 
-profileset."Belorrelos_the_Sunstone_483-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
-profileset."Belorrelos_the_Sunstone_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
 
-profileset."Belorrelos_the_Sunstone_483-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
-profileset."Belorrelos_the_Sunstone_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Belorrelos_the_Sunstone_489-Augury_of_the_Primal_Flame_483"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
-profileset."Belorrelos_the_Sunstone_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
+profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_483"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=483
 
-profileset."Belorrelos_the_Sunstone_489-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
-profileset."Belorrelos_the_Sunstone_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
 
-profileset."Belorrelos_the_Sunstone_489-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
-profileset."Belorrelos_the_Sunstone_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
 
 profileset."Augury_of_the_Primal_Flame_483-Ashes_of_the_Embersoul_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
 profileset."Augury_of_the_Primal_Flame_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489

@@ -35,10 +35,10 @@ profileset."Ashes_of_the_Embersoul_476"+=trinket1=ashes_of_the_embersoul,id=2071
 profileset."Ashes_of_the_Embersoul_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
 profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Belorrelos_the_Sunstone_463"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=463
-profileset."Belorrelos_the_Sunstone_476"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=476
-profileset."Belorrelos_the_Sunstone_483"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=483
-profileset."Belorrelos_the_Sunstone_489"+=trinket1=belorrelos_the_sunstone,id=207172,ilevel=489
+profileset."Belorrelos_the_Suncaller_463"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=463
+profileset."Belorrelos_the_Suncaller_476"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=476
+profileset."Belorrelos_the_Suncaller_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Belorrelos_the_Suncaller_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
 
 profileset."Nymues_Unraveling_Spindle_463"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=463
 profileset."Nymues_Unraveling_Spindle_476"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=476
