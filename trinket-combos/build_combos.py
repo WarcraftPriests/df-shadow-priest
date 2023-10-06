@@ -29,7 +29,7 @@ combos = {
     # "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
     # "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
     # "Sea_Star_483": "sea_star,id=133201,ilevel=483",
-    # "Sea_Star_489": "sea_star,id=133201,ilevel=489",
+    "Sea_Star_489": "sea_star,id=133201,ilevel=489",
     "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
     "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
     "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483",

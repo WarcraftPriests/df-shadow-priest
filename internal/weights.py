@@ -191,22 +191,22 @@ weights_push_season_two = {
 }
 
 weights_season_three = {
-    "galakrond-fort": 0.0625,
-    "galakrond-tyran": 0.0625,
     "atal-fort": 0.0625,
     "atal-tyran": 0.0625,
-    "waycrest-fort": 0.0625,
-    "waycrest-tyran": 0.0625,
     "brh-fort": 0.0625,
     "brh-tyran": 0.0625,
     "dht-fort": 0.0625,
     "dht-tyran": 0.0625,
     "everbloom-fort": 0.0625,
     "everbloom-tyran": 0.0625,
-    "tott-fort": 0.0625,
-    "tott-tyran": 0.0625,
+    "galakrond-fort": 0.0625,
+    "galakrond-tyran": 0.0625,
     "murozond-fort": 0.0625,
     "murozond-tyran": 0.0625,
+    "tott-fort": 0.0625,
+    "tott-tyran": 0.0625,
+    "waycrest-fort": 0.0625,
+    "waycrest-tyran": 0.0625,
 }
 
 
