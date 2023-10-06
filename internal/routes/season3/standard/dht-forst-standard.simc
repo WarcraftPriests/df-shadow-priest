@@ -1,0 +1,37 @@
+# !1nvxVXniqW)sgWFXJTnVuvjAuDuEejF3brU11o6oCA6)(YUlGbFP6ozzdZoZodlAM(j9W6PFAo7U5F1Ph(JX8lTIPhgVCzD5zZ1BtRlAvnVQspSnDrp8T2N(X6Rp8m7tJ6HZRZRxFCC24CMVUyxb(g3CRFbwFA5f9NpG5Y7EYaHCM39pFWyh3M9VCzYANo7F9VAf3l1BJZBgGTZBxVAwCpUnpt7ewyy70S5nZm2SxNSUVBT3mOnum0lUe2h2wEXSUee3lT53qVDspCZm79oyrSmqaFzV6flru8HIJ)zcTsaF7GpPDyOwGn1dwRWyTz7sqezqaasdSwoX786OTYzuy2vJdaQZKw1K9ryVDTKq7OAtqi5YQsqv1K3U9imzUj7kmP9e0snHGMOpIusbfeLEIc62ql2gDhSyZHqjsjrcsC3HGaYTK3RsDzsP(8Cr(F0HoFKfulrd1LxE)DzMdfnpDXd7uzI8Yih3gkJLv2iJ8ASS68MnonKXuhUupnGia8kwDGx(HacAhShVFYcQRg7RMqXIcVqtLmz50eJI79bz8Cm(sIYEWQWrF3Xp35GsdQNvFW9gFMaB3uiiRpo5GUOJSFfQcdPeieKfIMEumqyyIdNqQiCCgbKhUeZPuuXBiS8wseEhPcxqAZKf9mVywsgURZAlogOBhC2HKS7qCdGyIIGLNLaOt5OrtHTOioJdb9FWTewxkZvu(qXt9(XpDshXjlKU9(7m762K8CAQp5JqpXXzqEvweqyII4U7YhsFK4yE5s)0)7p
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=0
+max_time=2700
+enemy="Darkheart Thicket 20 Tyrannical"
+enemy_health=9999999
+keystone_level=20
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=011,enemies="Frenzied_Nightclaw_1":1024363:Beast|"Frenzied_Nightclaw_2":1024363:Beast|"Dreadsoul_Poisoner_1":921929:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=013,enemies="Frenzied_Nightclaw_1":1024363:Beast|"Mindshattered_Screecher_1":768272:Beast|"Mindshattered_Screecher_2":768272:Beast|"Mindshattered_Screecher_3":768272:Beast
+raid_events+=/pull,pull=03,bloodlust=0,delay=011,enemies="Dreadsoul_Poisoner_1":921929:Humanoid|"Festerhide_Grizzly_1":2560908:Beast|"Dreadsoul_Ruiner_1":921929:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=015,enemies="Crazed_Razorbeak_1":1664591:Beast|"Crazed_Razorbeak_2":1664591:Beast|"Dreadsoul_Ruiner_1":921929:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=010,enemies="Frenzied_Nightclaw_1":1024363:Beast|"Frenzied_Nightclaw_2":1024363:Beast|"Dreadsoul_Poisoner_1":921929:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=006,enemies="Dreadsoul_Poisoner_1":921929:Humanoid|"Dreadsoul_Poisoner_2":921929:Humanoid|"Mindshattered_Screecher_1":768272:Beast|"Dreadsoul_Ruiner_1":921929:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=008,enemies="Festerhide_Grizzly_1":2560908:Beast|"Festerhide_Grizzly_2":2560908:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=013,enemies="BOSS_Archdruid_Glaidalis":11654799:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=005,enemies="Rotheart_Dryad_1":1024363:Humanoid|"Vilethorn_Blossom_1":1152409:Elemental|"Vilethorn_Blossom_2":1152409:Elemental
+raid_events+=/pull,pull=10,bloodlust=0,delay=010,enemies="Rotheart_Dryad_1":1024363:Humanoid|"Vilethorn_Blossom_1":1152409:Elemental|"Vilethorn_Blossom_2":1152409:Elemental
+raid_events+=/pull,pull=11,bloodlust=0,delay=011,enemies="Rotheart_Dryad_1":1024363:Humanoid|"Rotheart_Keeper_1":1408500:Humanoid|"Rotheart_Keeper_2":1408500:Humanoid|"Vilethorn_Blossom_1":1152409:Elemental|"Vilethorn_Blossom_2":1152409:Elemental|"Vilethorn_Blossom_3":1152409:Elemental|"Vilethorn_Blossom_4":1152409:Elemental
+raid_events+=/pull,pull=12,bloodlust=0,delay=007,enemies="Nightmare_Dweller_1":1280454:Elemental|"Nightmare_Dweller_2":1280454:Elemental|"Nightmare_Dweller_3":1280454:Elemental|"Nightmare_Dweller_4":1280454:Elemental|"Nightmare_Dweller_5":1280454:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=007,enemies="BOSS_Oakheart":8965230:Elemental
+raid_events+=/pull,pull=14,bloodlust=0,delay=010,enemies="Hatespawn_Slime_1":192068:Elemental|"Hatespawn_Slime_2":192068:Elemental|"Hatespawn_Slime_3":192068:Elemental|"Hatespawn_Slime_4":192068:Elemental|"Hatespawn_Slime_5":192068:Elemental|"Hatespawn_Slime_6":192068:Elemental|"Hatespawn_Slime_7":192068:Elemental|"Hatespawn_Slime_8":192068:Elemental|"Hatespawn_Slime_9":192068:Elemental|"Bloodtainted_Fury_1":1664591:Elemental
+raid_events+=/pull,pull=15,bloodlust=0,delay=007,enemies="Hatespawn_Slime_1":192068:Elemental|"Hatespawn_Slime_2":192068:Elemental|"Hatespawn_Slime_3":192068:Elemental|"Hatespawn_Slime_4":192068:Elemental|"Hatespawn_Slime_5":192068:Elemental|"Hatespawn_Slime_6":192068:Elemental|"Hatespawn_Slime_7":192068:Elemental|"Hatespawn_Slime_8":192068:Elemental|"Hatespawn_Slime_9":192068:Elemental|"Hatespawn_Slime_10":192068:Elemental|"Hatespawn_Slime_11":192068:Elemental|"Hatespawn_Slime_12":192068:Elemental|"Hatespawn_Slime_13":192068:Elemental|"Hatespawn_Slime_14":192068:Elemental|"Hatespawn_Slime_15":192068:Elemental|"Hatespawn_Slime_16":192068:Elemental|"Hatespawn_Slime_17":192068:Elemental|"Hatespawn_Slime_18":192068:Elemental|"Bloodtainted_Fury_1":1664591:Elemental
+raid_events+=/pull,pull=16,bloodlust=0,delay=013,enemies="BOSS_Dresaron":8965230:Dragonkin
+raid_events+=/pull,pull=17,bloodlust=0,delay=007,enemies="Taintheart_Summoner_1":1126802:Demon|"Taintheart_Summoner_2":1126802:Demon|"Dreadfire_Imp_1":768272:Demon|"Dreadfire_Imp_2":768272:Demon|"Dreadfire_Imp_3":768272:Demon|"Dreadfire_Imp_4":768272:Demon|"Taintheart_Stalker_1":1024364:Demon
+raid_events+=/pull,pull=18,bloodlust=0,delay=006,enemies="Tormented_Bloodseeker_1":960341:Beast|"Tormented_Bloodseeker_2":960341:Beast|"Tormented_Bloodseeker_3":960341:Beast|"Tormented_Bloodseeker_4":960341:Beast
+raid_events+=/pull,pull=19,bloodlust=0,delay=013,enemies="Tormented_Bloodseeker_1":960341:Beast|"Dreadfire_Imp_1":768272:Demon|"Taintheart_Stalker_1":1024364:Demon|"Taintheart_Deadeye_1":921929:Demon|"Taintheart_Summoner_1":1126802:Demon
+raid_events+=/pull,pull=20,bloodlust=0,delay=011,enemies="BOSS_Shade_of_Xavius":13319769:Demon
