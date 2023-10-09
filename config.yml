@@ -1,17 +1,23 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  yshaarj-cthun:
+  da-yshaarj-cthun:
     composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkAAAAAAAAAAAAAIhWEJSJOgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144438323119_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIQSEAAAAAAAAAAAAgEpERiUiIJRSSigUIJJRaEIiQKSLkEUgA # DA_yshaarj_cthun_81144643565487_Flay
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIhWEJShIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144643835823_Spike_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
-  yshaarj-nzoth-cthun:
+  da-yshaarj-nzoth-cthun:
     composite: BIQAAAAAAAAAAAAAAAAAAAAAAkAJCAAAAAAAAAAAAgEpFRSSJikEJJJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_89674310203311_Flay_DR
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSiDAAAAAAAAAAAAAIhWEJJlISSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674176264111_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAkAJCAAAAAAAAAAAAgEpFRSSJikEJJJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_89674310203311_Flay_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkgkQAAAAAAAAAAAAASoFRSShIJRSSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_nzoth_cthun_89674448885679_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgEpERSSJikEJJJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_89674448615343_Flay
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgEpFRSSJikEJJJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_89674448615343_Flay_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCBAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR
+  vf-yshaarj:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWEJSDSSkkkIIFSSSkGBiIki0CJBFIB # VF_yshaarj_cthun_81144713041839_Spike_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQk4AAAAAAAAAAAAAASSaJRSSjIJRSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_90808081946543_Flay_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIQSEAAAAAAAAAAAAgEpERi0iIJRSSigUIJJRaEIiQKSLkEUgA # VF_yshaarj_cthun_81144643565487_Flay
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIEJRAAAAAAAAAAAAASkWEJSLikEJJJCSjkkEpRQCCpItQSAIA # VF_yshaarj_cthun_81144643565487_Flay_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAkQk4AAAAAAAAAAAAAASSaJRSSjIJRSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_90808081946543_Flay_DR
 gear:
   head: "crest_of_lunar_communion,id=207281,ilevel=489" # mastery/crit
   neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
@@ -140,18 +146,10 @@ sims:
       - DA-Flay.simc
       - DA-Spike_DR.simc
       - DA-Flay_DR.simc
-      - DA-Spike_TS.simc
-      - DA-Flay_TS.simc
-      - DA-Spike_DR_TS.simc
-      - DA-Flay_DR_TS.simc
       - VF-Spike.simc
       - VF-Flay.simc
       - VF-Spike_DR.simc
       - VF-Flay_DR.simc
-      - VF-Spike_TS.simc
-      - VF-Flay_TS.simc
-      - VF-Spike_DR_TS.simc
-      - VF-Flay_DR_TS.simc
   talents-top:
     description: "Shows top talents."
     builds: false

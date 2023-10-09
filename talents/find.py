@@ -6,7 +6,7 @@ import csv
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('sim_type', help='which sim type to search through',
-                        choices=["Single", "2T", "3T", "Composite", "Dungeons"])
+                        choices=["Single", "2T", "3T", "Composite", "Dungeons-Push", "Dungeons-Standard"])  # noqa: E501
     parser.add_argument('match', help='string to match for')
     parser.add_argument('matchtwo', help='string to match for')
     parser.add_argument('matchthree', help='string to match for')
@@ -19,8 +19,7 @@ if __name__ == '__main__':
         for row in reader:
             # DA_yshaarj_cthun_20576876345295_Spike
             profile_name = row[1]
-            filler_types = ["Flay_DR_TS", "Spike_DR_TS", "Spike_DR",
-                            "Spike_TS", "Flay_TS", "Flay_DR", "Spike", "Flay"]
+            filler_types = ["Spike_DR", "Flay_DR", "Spike", "Flay"]
             for f_type in filler_types:
                 if f_type in profile_name:
                     results.append(
@@ -31,8 +30,7 @@ if __name__ == '__main__':
             profile_name = result[0]
             da_or_vf = result[1]
             spike_or_flay = result[2]
-            filler_types = ["Spike", "Flay", "Spike_TS", "Flay_TS",
-                            "Spike_DR", "Flay_DR", "Spike_DR_TS", "Flay_DR_TS"]
+            filler_types = ["Spike", "Flay", "Spike_DR", "Flay_DR"]
             MATCH = False
 
             if da_or_vf in ["VF", "DA"] and spike_or_flay in filler_types:
