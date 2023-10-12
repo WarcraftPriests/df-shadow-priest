@@ -7,37 +7,37 @@ from itertools import combinations
 
 combos = {
     # s2 dungeons (441/447)
-    "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
+    # "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
     # aberrus the shadowed crucible
     # "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
-    "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
+    # "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
+    # "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
+    # "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
+    # "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
     # timewalking (476)
     "Energy_Siphon_476": "energy_siphon,id=156021,ilevel=476",
     "Living_Flame_476": "living_flame,id=155947,ilevel=476",
     # s3 dungeons (483/489)
     # "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
-    # "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
+    "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
     # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
-    # "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
+    "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
     # "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
-    # "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
+    "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
     # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
-    # "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
+    "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
     # "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
-    # "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
-    # "Sea_Star_483": "sea_star,id=133201,ilevel=483",
+    "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
+    "Sea_Star_483": "sea_star,id=133201,ilevel=483",
     "Sea_Star_489": "sea_star,id=133201,ilevel=489",
     "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
     "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
-    "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483",
+    # "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483", # TODO: BROKEN  # noqa: E501
     "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
     "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
     "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
-    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483", # NYI
-    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489", # NYI
+    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
+    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
     # amirdrassil: the dream's hope (483/489)
     "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501

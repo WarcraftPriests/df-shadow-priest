@@ -1,0 +1,34 @@
+# Single - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|200776|1.29%|
+|Troll|200579|1.19%|
+|Tauren|200566|1.18%|
+|Dwarf|200445|1.12%|
+|Void_Elf|200421|1.11%|
+|Orc|200180|0.99%|
+|Mechagnome|200154|0.97%|
+|Blood_Elf|200140|0.97%|
+|Kul_Tiran|200125|0.96%|
+|Nightborne|200033|0.91%|
+|Highmountain_Tauren|200014|0.90%|
+|Zandalari_Troll_Paku|199894|0.84%|
+|Night_Elf_Crit|199875|0.83%|
+|Goblin|199842|0.82%|
+|Night_Elf_Haste|199821|0.81%|
+|Gnome|199778|0.78%|
+|Worgen|199703|0.75%|
+|Draenei|199630|0.71%|
+|Dark_Iron_Dwarf|199595|0.69%|
+|Maghar_Orc|199268|0.53%|
+|Panda_Vers|199252|0.52%|
+|Panda_Fortune_Cookie|199243|0.51%|
+|Panda_Crit|199171|0.48%|
+|Panda_Mastery|198923|0.35%|
+|Zandalari_Troll_Bwonsamdi|198675|0.23%|
+|Undead|198590|0.18%|
+|Panda_Haste|198528|0.15%|
+|Zandalari_Troll_Kimbul|198508|0.14%|
+|Vulpera|198306|0.04%|
+|Lightforged_Draenei|198290|0.03%|
+|Base|198224|0.00%|

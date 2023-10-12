@@ -1,18 +1,18 @@
 # 3T - da-yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|315164|0.63%|
-|Great_Cerulean_Sea|315106|0.61%|
-|Thousandbone_Tongueslicer|314991|0.58%|
-|Draconic_Augment_Rune|314833|0.53%|
-|Feisty_Fish_Sticks|314757|0.50%|
-|Seamoth_Surprise|314749|0.50%|
-|Aromatic_Seafood_Platter|314748|0.50%|
-|Sizzling_Seafood_Medley|314691|0.48%|
-|Salt_Baked_Fishcake|314637|0.46%|
-|Fated_Fortune_Cookie|314619|0.46%|
-|Filet_of_Fangs|314619|0.46%|
-|Timely_Demise|314232|0.34%|
-|Roast_Duck_Delight|313852|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|313711|0.17%|
-|Base|313183|0.00%|
+|Aromatic_Seafood_Platter|294628|0.72%|
+|Sizzling_Seafood_Medley|294550|0.69%|
+|Feisty_Fish_Sticks|294502|0.67%|
+|Revenge_Served_Cold|294353|0.62%|
+|Great_Cerulean_Sea|294265|0.59%|
+|Draconic_Augment_Rune|294191|0.57%|
+|Thousandbone_Tongueslicer|294117|0.54%|
+|Timely_Demise|294014|0.51%|
+|Seamoth_Surprise|293968|0.49%|
+|Fated_Fortune_Cookie|293892|0.47%|
+|Filet_of_Fangs|293821|0.44%|
+|Salt_Baked_Fishcake|293806|0.44%|
+|Roast_Duck_Delight|293093|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|292937|0.14%|
+|Base|292529|0.00%|

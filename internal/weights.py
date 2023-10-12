@@ -62,14 +62,14 @@ weights_aberrus_the_shadowed_crucible = {
 
 weights_amirdrassil_the_dreams_hope = {
     'pw_ba_1': 0.00000000,
-    'pw_sa_1': 0.20000000,
-    'pw_na_1': 0.43333333,
+    'pw_sa_1': 0.25555556,
+    'pw_na_1': 0.41111111,
     'lm_ba_1': 0.00000000,
     'lm_sa_1': 0.10000000,
-    'lm_na_1': 0.08888889,
+    'lm_na_1': 0.07777778,
     'hm_ba_1': 0.00000000,
     'hm_sa_1': 0.01111111,
-    'hm_na_1': 0.05555556,
+    'hm_na_1': 0.03333333,
     'pw_ba_2': 0.00000000,
     'pw_sa_2': 0.00000000,
     'pw_na_2': 0.00000000,
@@ -91,9 +91,9 @@ weights_amirdrassil_the_dreams_hope = {
 }
 
 weights_single = {
-    'pw_na_1': 0.59595959596,
-    'lm_na_1': 0.29292929293,
-    'hm_na_1': 0.11111111111,
+    'pw_na_1': 0.78723404255,
+    'lm_na_1': 0.14893617021,
+    'hm_na_1': 0.06382978723,
 }
 
 weights_two_targets = {

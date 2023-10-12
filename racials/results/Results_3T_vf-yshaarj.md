@@ -1,0 +1,34 @@
+# 3T - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|296357|1.61%|
+|Gnome|295372|1.27%|
+|Goblin|295275|1.24%|
+|Night_Elf_Haste|295236|1.22%|
+|Void_Elf|294656|1.02%|
+|Troll|294651|1.02%|
+|Mechagnome|294635|1.02%|
+|Kul_Tiran|294381|0.93%|
+|Blood_Elf|294358|0.92%|
+|Highmountain_Tauren|294302|0.90%|
+|Nightborne|294286|0.90%|
+|Tauren|294268|0.89%|
+|Dwarf|294225|0.88%|
+|Orc|294192|0.87%|
+|Zandalari_Troll_Paku|294100|0.83%|
+|Night_Elf_Crit|293999|0.80%|
+|Worgen|293946|0.78%|
+|Draenei|293862|0.75%|
+|Panda_Haste|293381|0.59%|
+|Dark_Iron_Dwarf|293294|0.56%|
+|Maghar_Orc|293243|0.54%|
+|Panda_Fortune_Cookie|293025|0.47%|
+|Panda_Vers|292990|0.45%|
+|Panda_Mastery|292923|0.43%|
+|Panda_Crit|292844|0.40%|
+|Undead|291928|0.09%|
+|Zandalari_Troll_Bwonsamdi|291869|0.07%|
+|Zandalari_Troll_Kimbul|291831|0.06%|
+|Lightforged_Draenei|291684|0.01%|
+|Base|291668|0.00%|
+|Vulpera|291566|-0.04%|
