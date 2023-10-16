@@ -1,4 +1,4 @@
 # Composite - vf-yshaarj
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|204122|1.00|0.69|0.75|0.66|0.77|0.08|
+|Base|205769|1.00|0.67|0.76|0.66|0.76|0.08|

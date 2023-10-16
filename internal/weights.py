@@ -190,7 +190,26 @@ weights_push_season_two = {
     "vtp-tyran-push": 0.0675,
 }
 
-weights_season_three = {
+weights_standard_season_three = {
+    "atal-fort": 0.0625,
+    "atal-tyran": 0.0625,
+    "brh-fort": 0.0625,
+    "brh-tyran": 0.0625,
+    "dht-fort": 0.0625,
+    "dht-tyran": 0.0625,
+    "everbloom-fort": 0.0625,
+    "everbloom-tyran": 0.0625,
+    "galakrond-fort": 0.0625,
+    "galakrond-tyran": 0.0625,
+    "murozond-fort": 0.0625,
+    "murozond-tyran": 0.0625,
+    "tott-fort": 0.0625,
+    "tott-tyran": 0.0625,
+    "waycrest-fort": 0.0625,
+    "waycrest-tyran": 0.0625,
+}
+
+weights_push_season_three = {
     "atal-fort": 0.0625,
     "atal-tyran": 0.0625,
     "brh-fort": 0.0625,
@@ -232,4 +251,8 @@ def find_weights(key):
         return weights_push_season_two
     if key == 'weightsAmirdrassilTheDreamsHope':
         return weights_amirdrassil_the_dreams_hope
+    if key == 'weightsStandardSeasonThree':
+        return weights_standard_season_three
+    if key == 'weightsPushSeasonThree':
+        return weights_push_season_three
     return None

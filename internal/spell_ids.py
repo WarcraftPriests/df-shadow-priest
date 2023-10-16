@@ -1,5 +1,6 @@
 """spell ids to be used in json result files"""
 alchemy = {
+    "Iced_Phial_of_Corrupting_Rage_40": 191329,
     "Iced_Phial_of_Corrupting_Rage_50": 191329,
     "Iced_Phial_of_Corrupting_Rage_70": 191329,
     "Iced_Phial_of_Corrupting_Rage_85": 191329,
@@ -16,6 +17,7 @@ alchemy = {
 }
 
 consumables = {
+    "Dreambound_Augment_Rune": 211495,
     "Draconic_Augment_Rune": 201325,
     "Yusas_Hearty_Stew": 197793,
     "Grand_Banquet_of_the_Kaluak": 197794,
@@ -178,8 +180,9 @@ special = {
     "Back_Undulating_Sporecloak_90%_483": 205025,
     "Back_Undulating_Sporecloak_100%_483": 205025,
     "Neck_Torc_of_Passed_Time_483": 201759,
-    "Embellishment_Verdant_Conduit_1": 208187,
-    "Embellishment_Verdant_Conduit_2": 208187,
+    "Embellishment_Verdant_Conduit_1_Allies_0": 208187,
+    "Embellishment_Verdant_Conduit_1_Allies_1": 208187,
+    "Embellishment_Verdant_Conduit_1_Allies_2": 208187,
     "Embellishment_Dreamtenders_Charm_Ysemeralds_0_1": 208748,
     "Embellishment_Dreamtenders_Charm_Ysemeralds_7_1": 208748,
     "Embellishment_Dreamtenders_Charm_Ysemeralds_0_2": 208748,

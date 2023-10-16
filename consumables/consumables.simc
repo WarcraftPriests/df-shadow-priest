@@ -29,15 +29,7 @@ augmentation=disabled
 
 # Runes
 profileset."Draconic_Augment_Rune"+=augmentation=draconic_augment_rune
-
-# Weapon Rune?
-# https://www.wowhead.com/beta/item=194821/buzzing-rune
-# https://www.wowhead.com/beta/item=194822/buzzing-rune
-# https://www.wowhead.com/beta/item=194823/buzzing-rune
-
-# https://www.wowhead.com/beta/item=194817/howling-rune
-# https://www.wowhead.com/beta/item=194819/howling-rune
-# https://www.wowhead.com/beta/item=194820/howling-rune
+profileset."Dreambound_Augment_Rune"+=augmentation=dreambound_augment_rune
 
 # Food
 ## Feast 70 lowest stat
@@ -76,19 +68,3 @@ profileset."Sizzling_Seafood_Medley"+=food=sizzling_seafood_medley
 profileset."Roast_Duck_Delight"+=food=roast_duck_delight
 ## 22 stam 26 intellect
 profileset."Thrice_Spiced_Mammoth_Kabob"+=food=thricespiced_mammoth_kabob
-
-# Quest Items?
-## Charred Porter (does this stack with food buff?) 10% primary stat
-# profileset."Charred_Porter"+=food=charred_porter
-
-## Rare Vintage Arcwine - 30% crit damage
-# profileset."Rare_Vintage_Arcwine"+=food=rare_vintage_arcwine
-
-## 5% all stats
-# profileset."Azsunian_Poached_Lobster"+=food=azsunian_poached_lobster
-
-## 20% mastery
-# profileset."Fried_Emperor_Wraps"+=food=fried_emperor_wraps
-
-## 10% haste
-# profileset."Seared_Sea_Mist_Noodles"+=food=seared_sea_mist_noodles
