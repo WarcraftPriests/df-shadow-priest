@@ -1,1 +1,0 @@
-{"name": "2T - yshaarj-cthun", "data": {"Base": {"DPS": 267061}, "crash_at_9+": {"DPS": 266952}, "low_priority_swp": {"DPS": 265362}}, "ids": {"crash_at_9+": null, "low_priority_swp": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["crash_at_9+", "low_priority_swp"], "last_updated": "2023-10-04"}

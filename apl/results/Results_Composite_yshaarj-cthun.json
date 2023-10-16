@@ -1,1 +1,0 @@
-{"name": "Composite - yshaarj-cthun", "data": {"crash_at_9+": {"DPS": 220077}, "Base": {"DPS": 220067}, "low_priority_swp": {"DPS": 219496}}, "ids": {"crash_at_9+": null, "low_priority_swp": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["crash_at_9+", "low_priority_swp"], "last_updated": "2023-10-04"}
