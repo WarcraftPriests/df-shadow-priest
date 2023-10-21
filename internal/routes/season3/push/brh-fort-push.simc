@@ -1,0 +1,41 @@
+# !1v12ookmm0FjYfUKx3DEzEHosPA0(uKOToJyhwyvByU83VjoHqcWkrroM4Jp(yNgfrDwjNU8B4Q5H10OKZ93uYVV8(Pxp)ul9xNuYUB3MgFfU)OFAu1YPffk5hDdZGl2RZ3VdJMxMhguTKYOd58Lb4dW5uj)R9Ro4BjlVmQwQ32(yxWIlS(Tpwx8KVlVonmDxj1AgO1lrV415taRrWwbHfDzswEoKOewKTBEA(XfL)hYWGKTUMQ26d2pdebYxMqETwFXIsBtiIsK8XQGJpLUV3wz9x5WUvGRjfOfH4nzEt3UOHFSWpogLT9GMoqS2OIuTrhDurK2zw4fP2tSgFIe(W91jjnaclBvXUoBQ(5ABeEwaPZfX8V2ZCpOetkpmpSmqOz6VvRr9xKHjpJ10S45j5JFaM2bVl(zaKaRPcNtDk9rLwfIAj6JSZ3I3fW6i(2sSe5zG1GbwhcKMnAfyrDUKgQ1MOID8eNNFImL3Vl)wyB0wbSkt0I0cNMpG0KvY1QDhPwZADqvCzTcZQiCAWeNb2C(An3PdlnzQLWpexGis8zGSOovQ9NoPz)BfsVfu9bvR2FokgeBLlyZBj0TNeOSnnkXguXYR8au9YmppCVqq57LJig84u3(jAkrTFIogPVZuLL3v0mHQF7mmTAdfzhmVsZNxnXlvEAE8nyA85BF5AEmL0aWF6hFtDrjFad2lXCxrfIflQ79AZjT(byI3)SaPlNV0nagd88OEYXJUzZ0pD(Dy(Jn7XLuxZZM0VSVFc0DZdwJB9AD)vR53iZLFcW7EQR(3d
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=0
+max_time=2700
+enemy="Black Rook Hold 27 Tyrannical"
+enemy_health=9999999
+keystone_level=27
+keystone_pct_hp=27
+
+# NOTE: Last boss' health needs to be manually reduced
+raid_events+=/pull,pull=01,bloodlust=0,delay=006,enemies="Ghostly_Protector_1":3512713:Undead|"Ghostly_Retainer_1":2195445:Undead|"Ghostly_Retainer_2":2195445:Undead|"Ghostly_Councilor_1":2195445:Undead
+raid_events+=/pull,pull=02,bloodlust=0,delay=008,enemies="Ghostly_Councilor_1":2195445:Undead|"Ghostly_Councilor_2":2195445:Undead|"Ghostly_Retainer_1":2195445:Undead
+raid_events+=/pull,pull=03,bloodlust=0,delay=007,enemies="Troubled_Soul_1":439089:Undead|"Ghostly_Protector_1":3512713:Undead|"Ghostly_Retainer_1":2195445:Undead|"Ghostly_Councilor_1":2195445:Undead|"Lady_Velandras_Ravencrest_1":3477586:Undead
+raid_events+=/pull,pull=04,bloodlust=0,delay=005,enemies="Troubled_Soul_1":439089:Undead|"BOSS_Amalgam_of_Souls":19999098:Undead
+raid_events+=/pull,pull=05,bloodlust=0,delay=006,enemies="Rook_Spiderling_1":439089:Beast|"Rook_Spiderling_2":439089:Beast|"Rook_Spiderling_3":439089:Beast|"Rook_Spiderling_4":439089:Beast|"Rook_Spiderling_5":439089:Beast|"Rook_Spiderling_6":439089:Beast|"Rook_Spiderling_7":439089:Beast|"Rook_Spiderling_8":439089:Beast|"Rook_Spiderling_9":439089:Beast|"Rook_Spiderling_10":439089:Beast|"Rook_Spiderling_11":439089:Beast|"Rook_Spiderling_12":439089:Beast|"Rook_Spiderling_13":439089:Beast|"Rook_Spiderling_14":439089:Beast|"Rook_Spiderling_15":439089:Beast|"Rook_Spiderling_16":439089:Beast
+raid_events+=/pull,pull=06,bloodlust=0,delay=010,enemies="Rook_Spinner_1":3512713:Beast|"Rook_Spiderling_1":439089:Beast|"Rook_Spiderling_2":439089:Beast|"Rook_Spiderling_3":439089:Beast
+raid_events+=/pull,pull=07,bloodlust=0,delay=007,enemies="Risen_Scout_1":1975902:Undead|"Risen_Arcanist_1":1756356:Undead|"Soul-Torn_Champion_1":3073624:Undead|"Soul-Torn_Champion_2":3073624:Undead|"Arcane_Minion_1":548860:Aberration|"Risen_Archer_1":1756356:Undead
+raid_events+=/pull,pull=08,bloodlust=0,delay=014,enemies="Risen_Scout_1":1975902:Undead|"Risen_Scout_2":1975902:Undead|"Risen_Companion_1":1317267:Undead|"Soul-Torn_Champion_1":3073624:Undead|"Risen_Archer_1":1756356:Undead
+raid_events+=/pull,pull=09,bloodlust=0,delay=014,enemies="Risen_Scout_1":1975902:Undead|"Risen_Arcanist_1":1756356:Undead|"Risen_Archer_1":1756356:Undead|"Risen_Archer_2":1756356:Undead|"Arcane_Minion_1":548860:Aberration
+raid_events+=/pull,pull=10,bloodlust=0,delay=012,enemies="Commander_Shemdah'sohn_1":3512713:Undead|"Risen_Archer_1":1756356:Undead|"Risen_Archer_2":1756356:Undead|"Risen_Scout_1":1975902:Undead|"Risen_Scout_2":1975902:Undead
+raid_events+=/pull,pull=11,bloodlust=0,delay=013,enemies="Soul-Torn_Champion_1":3073624:Undead|"Risen_Archer_1":1756356:Undead|"Risen_Archer_2":1756356:Undead
+raid_events+=/pull,pull=12,bloodlust=0,delay=009,enemies="BOSS_Illysanna_Ravencrest":17713487:Demon
+raid_events+=/pull,pull=13,bloodlust=0,delay=009,enemies="Wyrmtongue_Trickster_1":878178:Demon|"Wyrmtongue_Trickster_2":878178:Demon|"Wyrmtongue_Trickster_3":878178:Demon|"Wyrmtongue_Trickster_4":878178:Demon|"Wyrmtongue_Trickster_5":878178:Demon|"Wyrmtongue_Scavenger_1":1756356:Demon|"Wyrmtongue_Scavenger_2":1756356:Demon|"Wyrmtongue_Scavenger_3":1756356:Demon|"Wyrmtongue_Scavenger_4":1756356:Demon
+raid_events+=/pull,pull=14,bloodlust=0,delay=006,enemies="Wrathguard_Bladelord_1":2634534:Demon|"Bloodscent_Felhound_1":1536813:Demon|"Wyrmtongue_Trickster_1":878178:Demon|"Wyrmtongue_Trickster_2":878178:Demon|"Wyrmtongue_Scavenger_1":1756356:Demon|"Wyrmtongue_Scavenger_2":1756356:Demon|"Wyrmtongue_Scavenger_3":1756356:Demon|"Wyrmtongue_Scavenger_4":1756356:Demon|"Wyrmtongue_Scavenger_5":1756356:Demon
+raid_events+=/pull,pull=15,bloodlust=0,delay=006,enemies="Wrathguard_Bladelord_1":2634534:Demon|"Wrathguard_Bladelord_2":2634534:Demon|"Wyrmtongue_Trickster_1":878178:Demon|"Wyrmtongue_Trickster_2":878178:Demon|"Wyrmtongue_Trickster_3":878178:Demon|"Wyrmtongue_Trickster_4":878178:Demon|"Wyrmtongue_Trickster_5":878178:Demon
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,enemies="Felspite_Dominator_1":3512713:Demon
+raid_events+=/pull,pull=17,bloodlust=0,delay=009,enemies="Felspite_Dominator_1":3512713:Demon|"Felspite_Dominator_2":3512713:Demon|"Felspite_Dominator_3":3512713:Demon
+raid_events+=/pull,pull=18,bloodlust=0,delay=007,enemies="BOSS_Smashspite_the_Hateful":19999098:Demon
+raid_events+=/pull,pull=19,bloodlust=0,delay=013,enemies="Risen_Swordsman_1":2195445:Undead|"Risen_Swordsman_2":2195445:Undead|"Risen_Swordsman_3":2195445:Undead|"Risen_Lancer_1":2414991:Undead
+raid_events+=/pull,pull=20,bloodlust=0,delay=011,enemies="Risen_Lancer_1":2414991:Undead|"Risen_Lancer_2":2414991:Undead|"Risen_Swordsman_1":2195445:Undead|"Risen_Swordsman_2":2195445:Undead
+raid_events+=/pull,pull=21,bloodlust=0,delay=006,enemies="Risen_Swordsman_1":2195445:Undead|"Risen_Swordsman_2":2195445:Undead|"Risen_Lancer_1":2414991:Undead|"Risen_Lancer_2":2414991:Undead
+raid_events+=/pull,pull=22,bloodlust=0,delay=006,enemies="BOSS_Kur'talos_Ravencrest":6856833:Undead
+raid_events+=/pull,pull=23,bloodlust=0,delay=015,enemies="BOSS_Dantalionax":6856833:Humanoid

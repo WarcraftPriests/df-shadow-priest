@@ -1,0 +1,34 @@
+# galakrond-fort-push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|175292|1.30%|
+|Tauren|175005|1.13%|
+|Dwarf|175004|1.13%|
+|Mechagnome|174985|1.12%|
+|Kul_Tiran|174800|1.01%|
+|Void_Elf|174732|0.97%|
+|Highmountain_Tauren|174711|0.96%|
+|Zandalari_Troll_Paku|174676|0.94%|
+|Gnome|174661|0.93%|
+|Troll|174652|0.93%|
+|Night_Elf_Haste|174603|0.90%|
+|Goblin|174580|0.89%|
+|Nightborne|174574|0.88%|
+|Worgen|174560|0.87%|
+|Night_Elf_Crit|174532|0.86%|
+|Blood_Elf|174471|0.82%|
+|Orc|174392|0.78%|
+|Draenei|174211|0.67%|
+|Panda_Vers|173927|0.51%|
+|Panda_Fortune_Cookie|173925|0.51%|
+|Dark_Iron_Dwarf|173910|0.50%|
+|Panda_Crit|173878|0.48%|
+|Maghar_Orc|173853|0.47%|
+|Panda_Mastery|173661|0.35%|
+|Panda_Haste|173506|0.26%|
+|Zandalari_Troll_Bwonsamdi|173480|0.25%|
+|Undead|173432|0.22%|
+|Zandalari_Troll_Kimbul|173432|0.22%|
+|Base|173048|0.00%|
+|Lightforged_Draenei|173020|-0.02%|
+|Vulpera|173017|-0.02%|

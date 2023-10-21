@@ -1,0 +1,34 @@
+# waycrest-tyran-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|187425|1.25%|
+|Mechagnome|186808|0.91%|
+|Tauren|186750|0.88%|
+|Gnome|186744|0.88%|
+|Dwarf|186722|0.87%|
+|Night_Elf_Haste|186690|0.85%|
+|Kul_Tiran|186670|0.84%|
+|Void_Elf|186657|0.83%|
+|Troll|186649|0.83%|
+|Goblin|186639|0.82%|
+|Highmountain_Tauren|186557|0.78%|
+|Nightborne|186541|0.77%|
+|Zandalari_Troll_Paku|186513|0.76%|
+|Blood_Elf|186463|0.73%|
+|Worgen|186423|0.71%|
+|Night_Elf_Crit|186422|0.71%|
+|Orc|186212|0.59%|
+|Draenei|186118|0.54%|
+|Panda_Vers|185959|0.46%|
+|Panda_Crit|185928|0.44%|
+|Maghar_Orc|185919|0.43%|
+|Panda_Fortune_Cookie|185904|0.43%|
+|Dark_Iron_Dwarf|185859|0.40%|
+|Panda_Haste|185800|0.37%|
+|Panda_Mastery|185786|0.36%|
+|Undead|185490|0.20%|
+|Zandalari_Troll_Bwonsamdi|185426|0.17%|
+|Zandalari_Troll_Kimbul|185328|0.12%|
+|Vulpera|185203|0.05%|
+|Lightforged_Draenei|185117|0.00%|
+|Base|185115|0.00%|

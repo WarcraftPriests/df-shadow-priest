@@ -1,0 +1,34 @@
+# galakrond-tyran-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|170930|1.46%|
+|Mechagnome|170400|1.14%|
+|Void_Elf|170355|1.11%|
+|Dwarf|170242|1.05%|
+|Tauren|170236|1.04%|
+|Goblin|170176|1.01%|
+|Highmountain_Tauren|170156|1.00%|
+|Gnome|170141|0.99%|
+|Zandalari_Troll_Paku|170124|0.98%|
+|Night_Elf_Haste|170112|0.97%|
+|Kul_Tiran|170093|0.96%|
+|Night_Elf_Crit|170025|0.92%|
+|Nightborne|170014|0.91%|
+|Blood_Elf|169989|0.90%|
+|Worgen|169906|0.85%|
+|Troll|169886|0.84%|
+|Orc|169636|0.69%|
+|Draenei|169567|0.65%|
+|Panda_Crit|169392|0.54%|
+|Panda_Vers|169381|0.54%|
+|Dark_Iron_Dwarf|169330|0.51%|
+|Maghar_Orc|169232|0.45%|
+|Panda_Fortune_Cookie|169232|0.45%|
+|Panda_Haste|169158|0.40%|
+|Panda_Mastery|169075|0.35%|
+|Zandalari_Troll_Bwonsamdi|168928|0.27%|
+|Zandalari_Troll_Kimbul|168920|0.26%|
+|Undead|168879|0.24%|
+|Lightforged_Draenei|168532|0.03%|
+|Vulpera|168516|0.02%|
+|Base|168478|0.00%|

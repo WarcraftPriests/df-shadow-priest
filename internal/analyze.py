@@ -353,7 +353,8 @@ def clear_output_files(talent_string):
 
     clear_dir("results", talent_string, [
               "Composite", "Single", "Dungeons-Standard", "Dungeons-Push", "2T", "3T"])
-    clear_dir("results/dungeons", talent_string, dungeon_fights)
+    clear_dir("results/dungeons/push", talent_string, dungeon_fights)
+    clear_dir("results/dungeons/standard", talent_string, dungeon_fights)
 
 
 def generate_result_name(result, talent):

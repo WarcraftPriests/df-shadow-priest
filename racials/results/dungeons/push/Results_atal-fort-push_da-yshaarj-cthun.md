@@ -1,0 +1,34 @@
+# atal-fort-push - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|171682|1.12%|
+|Dwarf|171503|1.02%|
+|Tauren|171463|0.99%|
+|Mechagnome|171386|0.95%|
+|Void_Elf|171215|0.85%|
+|Highmountain_Tauren|171210|0.84%|
+|Night_Elf_Haste|171206|0.84%|
+|Kul_Tiran|171167|0.82%|
+|Goblin|171161|0.82%|
+|Gnome|171154|0.81%|
+|Troll|171131|0.80%|
+|Nightborne|171116|0.79%|
+|Blood_Elf|171079|0.77%|
+|Zandalari_Troll_Paku|171025|0.74%|
+|Night_Elf_Crit|170870|0.64%|
+|Worgen|170816|0.61%|
+|Draenei|170785|0.59%|
+|Orc|170755|0.58%|
+|Panda_Vers|170617|0.50%|
+|Dark_Iron_Dwarf|170577|0.47%|
+|Panda_Fortune_Cookie|170489|0.42%|
+|Panda_Crit|170462|0.40%|
+|Maghar_Orc|170366|0.35%|
+|Panda_Mastery|170273|0.29%|
+|Panda_Haste|170243|0.28%|
+|Zandalari_Troll_Bwonsamdi|170146|0.22%|
+|Zandalari_Troll_Kimbul|170099|0.19%|
+|Undead|170032|0.15%|
+|Vulpera|169894|0.07%|
+|Lightforged_Draenei|169819|0.03%|
+|Base|169776|0.00%|

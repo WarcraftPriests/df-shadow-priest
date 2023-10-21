@@ -1,0 +1,34 @@
+# dht-tyran-push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|168238|1.06%|
+|Tauren|167935|0.88%|
+|Dwarf|167912|0.87%|
+|Mechagnome|167894|0.85%|
+|Gnome|167744|0.76%|
+|Night_Elf_Haste|167742|0.76%|
+|Kul_Tiran|167722|0.75%|
+|Void_Elf|167685|0.73%|
+|Highmountain_Tauren|167658|0.71%|
+|Goblin|167619|0.69%|
+|Zandalari_Troll_Paku|167605|0.68%|
+|Nightborne|167565|0.66%|
+|Blood_Elf|167518|0.63%|
+|Worgen|167462|0.60%|
+|Night_Elf_Crit|167444|0.58%|
+|Troll|167426|0.57%|
+|Draenei|167287|0.49%|
+|Orc|167281|0.49%|
+|Panda_Crit|167093|0.37%|
+|Dark_Iron_Dwarf|167074|0.36%|
+|Panda_Fortune_Cookie|167061|0.35%|
+|Panda_Vers|167061|0.35%|
+|Maghar_Orc|166940|0.28%|
+|Panda_Haste|166879|0.25%|
+|Panda_Mastery|166866|0.24%|
+|Zandalari_Troll_Bwonsamdi|166742|0.16%|
+|Undead|166685|0.13%|
+|Zandalari_Troll_Kimbul|166543|0.04%|
+|Base|166471|0.00%|
+|Vulpera|166430|-0.02%|
+|Lightforged_Draenei|166376|-0.06%|

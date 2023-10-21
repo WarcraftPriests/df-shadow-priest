@@ -1,0 +1,34 @@
+# dht-tyran-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|142066|0.94%|
+|Gnome|141829|0.77%|
+|Mechagnome|141827|0.77%|
+|Night_Elf_Haste|141753|0.72%|
+|Goblin|141725|0.70%|
+|Tauren|141718|0.69%|
+|Dwarf|141707|0.69%|
+|Kul_Tiran|141658|0.65%|
+|Highmountain_Tauren|141651|0.65%|
+|Void_Elf|141623|0.63%|
+|Nightborne|141616|0.62%|
+|Blood_Elf|141612|0.62%|
+|Night_Elf_Crit|141567|0.59%|
+|Worgen|141553|0.58%|
+|Troll|141545|0.57%|
+|Zandalari_Troll_Paku|141541|0.57%|
+|Draenei|141373|0.45%|
+|Orc|141364|0.44%|
+|Panda_Vers|141308|0.40%|
+|Panda_Crit|141263|0.37%|
+|Dark_Iron_Dwarf|141237|0.35%|
+|Maghar_Orc|141190|0.32%|
+|Panda_Haste|141163|0.30%|
+|Panda_Fortune_Cookie|141158|0.30%|
+|Panda_Mastery|141104|0.26%|
+|Zandalari_Troll_Kimbul|141008|0.19%|
+|Undead|140983|0.17%|
+|Zandalari_Troll_Bwonsamdi|140932|0.13%|
+|Lightforged_Draenei|140777|0.02%|
+|Base|140742|0.00%|
+|Vulpera|140731|-0.01%|

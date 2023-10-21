@@ -1,0 +1,34 @@
+# brh-fort-push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|181958|1.13%|
+|Dwarf|181687|0.98%|
+|Tauren|181639|0.96%|
+|Void_Elf|181547|0.91%|
+|Mechagnome|181523|0.89%|
+|Highmountain_Tauren|181460|0.86%|
+|Gnome|181453|0.85%|
+|Night_Elf_Haste|181418|0.83%|
+|Nightborne|181392|0.82%|
+|Kul_Tiran|181390|0.82%|
+|Goblin|181370|0.81%|
+|Zandalari_Troll_Paku|181306|0.77%|
+|Blood_Elf|181263|0.75%|
+|Night_Elf_Crit|181186|0.70%|
+|Worgen|181156|0.69%|
+|Troll|181041|0.62%|
+|Orc|181014|0.61%|
+|Draenei|180869|0.53%|
+|Panda_Vers|180779|0.48%|
+|Panda_Crit|180684|0.43%|
+|Panda_Fortune_Cookie|180676|0.42%|
+|Dark_Iron_Dwarf|180618|0.39%|
+|Maghar_Orc|180537|0.34%|
+|Panda_Mastery|180440|0.29%|
+|Panda_Haste|180402|0.27%|
+|Zandalari_Troll_Bwonsamdi|180260|0.19%|
+|Undead|180239|0.18%|
+|Zandalari_Troll_Kimbul|180224|0.17%|
+|Vulpera|179977|0.03%|
+|Lightforged_Draenei|179973|0.03%|
+|Base|179918|0.00%|

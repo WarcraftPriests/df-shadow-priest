@@ -1,0 +1,34 @@
+# waycrest-tyran-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|166136|0.88%|
+|Tauren|166008|0.80%|
+|Dwarf|165988|0.79%|
+|Mechagnome|165903|0.74%|
+|Kul_Tiran|165871|0.72%|
+|Highmountain_Tauren|165834|0.69%|
+|Void_Elf|165804|0.68%|
+|Troll|165801|0.67%|
+|Gnome|165792|0.67%|
+|Goblin|165761|0.65%|
+|Nightborne|165752|0.64%|
+|Night_Elf_Haste|165646|0.58%|
+|Zandalari_Troll_Paku|165644|0.58%|
+|Worgen|165611|0.56%|
+|Blood_Elf|165582|0.54%|
+|Night_Elf_Crit|165568|0.53%|
+|Draenei|165519|0.50%|
+|Orc|165453|0.46%|
+|Panda_Vers|165280|0.36%|
+|Dark_Iron_Dwarf|165279|0.36%|
+|Panda_Fortune_Cookie|165227|0.33%|
+|Panda_Crit|165181|0.30%|
+|Maghar_Orc|165160|0.28%|
+|Panda_Mastery|165005|0.19%|
+|Panda_Haste|164998|0.19%|
+|Undead|164967|0.17%|
+|Zandalari_Troll_Kimbul|164850|0.10%|
+|Zandalari_Troll_Bwonsamdi|164831|0.09%|
+|Lightforged_Draenei|164727|0.02%|
+|Base|164691|0.00%|
+|Vulpera|164686|0.00%|

@@ -1,0 +1,34 @@
+# tott-fort-standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|174517|0.98%|
+|Mechagnome|174284|0.84%|
+|Dwarf|174253|0.83%|
+|Goblin|174238|0.82%|
+|Gnome|174181|0.78%|
+|Night_Elf_Haste|174178|0.78%|
+|Tauren|174150|0.77%|
+|Troll|174071|0.72%|
+|Void_Elf|174032|0.70%|
+|Kul_Tiran|174020|0.69%|
+|Highmountain_Tauren|174016|0.69%|
+|Nightborne|173908|0.63%|
+|Zandalari_Troll_Paku|173898|0.62%|
+|Worgen|173846|0.59%|
+|Blood_Elf|173845|0.59%|
+|Night_Elf_Crit|173810|0.57%|
+|Orc|173786|0.55%|
+|Draenei|173644|0.47%|
+|Dark_Iron_Dwarf|173544|0.41%|
+|Panda_Vers|173532|0.41%|
+|Panda_Haste|173402|0.33%|
+|Maghar_Orc|173387|0.32%|
+|Panda_Fortune_Cookie|173361|0.31%|
+|Panda_Crit|173354|0.30%|
+|Panda_Mastery|173251|0.25%|
+|Zandalari_Troll_Bwonsamdi|173184|0.21%|
+|Undead|173128|0.17%|
+|Zandalari_Troll_Kimbul|173018|0.11%|
+|Vulpera|172844|0.01%|
+|Lightforged_Draenei|172836|0.01%|
+|Base|172827|0.00%|

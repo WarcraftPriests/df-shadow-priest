@@ -1,0 +1,34 @@
+# galakrond-fort-standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|169094|0.99%|
+|Tauren|168906|0.87%|
+|Dwarf|168905|0.87%|
+|Void_Elf|168859|0.85%|
+|Mechagnome|168804|0.81%|
+|Kul_Tiran|168585|0.68%|
+|Highmountain_Tauren|168564|0.67%|
+|Blood_Elf|168560|0.67%|
+|Zandalari_Troll_Paku|168540|0.66%|
+|Nightborne|168536|0.65%|
+|Goblin|168532|0.65%|
+|Gnome|168507|0.64%|
+|Night_Elf_Haste|168497|0.63%|
+|Night_Elf_Crit|168455|0.60%|
+|Troll|168369|0.55%|
+|Worgen|168345|0.54%|
+|Orc|168338|0.54%|
+|Draenei|168254|0.48%|
+|Dark_Iron_Dwarf|168049|0.36%|
+|Panda_Vers|168037|0.36%|
+|Panda_Crit|167999|0.33%|
+|Panda_Fortune_Cookie|167961|0.31%|
+|Maghar_Orc|167957|0.31%|
+|Panda_Mastery|167834|0.23%|
+|Zandalari_Troll_Bwonsamdi|167786|0.21%|
+|Panda_Haste|167666|0.13%|
+|Zandalari_Troll_Kimbul|167605|0.10%|
+|Undead|167581|0.08%|
+|Base|167442|0.00%|
+|Vulpera|167328|-0.07%|
+|Lightforged_Draenei|167257|-0.11%|

@@ -33,67 +33,67 @@ ${gear.off_hand}
 # Sagescale Sigil (8861) - Your Darkmoon Deck only shuffles when you jump
 # Azurescale Sigil (8859) - Your Darkmoon Deck now shuffles from greatest to least.
 # Bronzescale Sigil (8857) - Your Darkmoon Deck shuffles faster
-profileset."Darkmoon_Deck_Box_Rime_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483
-profileset."Darkmoon_Deck_Box_Rime_Emberscale_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483,bonus_id=8858
-profileset."Darkmoon_Deck_Box_Rime_Jetscale_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483,bonus_id=8860
-profileset."Darkmoon_Deck_Box_Rime_Sagescale_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483,bonus_id=8861
-profileset."Darkmoon_Deck_Box_Rime_Azurescale_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483,bonus_id=8859
-profileset."Darkmoon_Deck_Box_Rime_Bronzescale_483"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=483,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Rime_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486
+profileset."Darkmoon_Deck_Box_Rime_Emberscale_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Rime_Jetscale_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Rime_Sagescale_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Rime_Azurescale_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Rime_Bronzescale_486"+=trinket1=darkmoon_deck_box_rime,id=198477,ilevel=486,bonus_id=8857
 
-profileset."Darkmoon_Deck_Box_Inferno_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483
-profileset."Darkmoon_Deck_Box_Inferno_Emberscale_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483,bonus_id=8858
-profileset."Darkmoon_Deck_Box_Inferno_Jetscale_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483,bonus_id=8860
-profileset."Darkmoon_Deck_Box_Inferno_Sagescale_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483,bonus_id=8861
-profileset."Darkmoon_Deck_Box_Inferno_Azurescale_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483,bonus_id=8859
-profileset."Darkmoon_Deck_Box_Inferno_Bronzescale_483"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=483,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Inferno_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486
+profileset."Darkmoon_Deck_Box_Inferno_Emberscale_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Inferno_Jetscale_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Inferno_Sagescale_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Inferno_Azurescale_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Inferno_Bronzescale_486"+=trinket1=darkmoon_deck_box_inferno,id=194872,ilevel=486,bonus_id=8857
 
-profileset."Darkmoon_Deck_Box_Dance_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483
-profileset."Darkmoon_Deck_Box_Dance_Emberscale_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483,bonus_id=8858
-profileset."Darkmoon_Deck_Box_Dance_Jetscale_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483,bonus_id=8860
-profileset."Darkmoon_Deck_Box_Dance_Sagescale_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483,bonus_id=8861
-profileset."Darkmoon_Deck_Box_Dance_Azurescale_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483,bonus_id=8859
-profileset."Darkmoon_Deck_Box_Dance_Bronzescale_483"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=483,bonus_id=8857
+profileset."Darkmoon_Deck_Box_Dance_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486
+profileset."Darkmoon_Deck_Box_Dance_Emberscale_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486,bonus_id=8858
+profileset."Darkmoon_Deck_Box_Dance_Jetscale_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486,bonus_id=8860
+profileset."Darkmoon_Deck_Box_Dance_Sagescale_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486,bonus_id=8861
+profileset."Darkmoon_Deck_Box_Dance_Azurescale_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486,bonus_id=8859
+profileset."Darkmoon_Deck_Box_Dance_Bronzescale_486"+=trinket1=darkmoon_deck_box_dance,id=198478,ilevel=486,bonus_id=8857
 
 # Alchemy Stones
-profileset."Alacritous_Alchemist_Stone_483"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=483
-profileset."Sustaining_Alchemist_Stone_483"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=483
+profileset."Alacritous_Alchemist_Stone_486"+=trinket1=alacritous_alchemist_stone,id=202116,ilevel=486
+profileset."Sustaining_Alchemist_Stone_486"+=trinket1=sustaining_alchemist_stone,id=191491,ilevel=486
 
 # Jewelcrafting
 ## Versatility - Energized Malygite 192935
-profileset."Idol_of_the_Spell_Weaver_483"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=483
-profileset."Idol_of_the_Spell_Weaver_483"+=head=${gear.head},gem_id=192935
-profileset."Idol_of_the_Spell_Weaver_483"+=neck=${gear.neck},gem_id=192985/192935/192935
-profileset."Idol_of_the_Spell_Weaver_483"+=wrists=${gear.wrists},gem_id=192935
-profileset."Idol_of_the_Spell_Weaver_483"+=waist=${gear.waist},gem_id=192935
-profileset."Idol_of_the_Spell_Weaver_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192935
-profileset."Idol_of_the_Spell_Weaver_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_486"+=trinket1=idol_of_the_spellweaver,id=193004,ilevel=486
+profileset."Idol_of_the_Spell_Weaver_486"+=head=${gear.head},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_486"+=neck=${gear.neck},gem_id=192985/192935/192935
+profileset."Idol_of_the_Spell_Weaver_486"+=wrists=${gear.wrists},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_486"+=waist=${gear.waist},gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_486"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192935
+profileset."Idol_of_the_Spell_Weaver_486"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192935
 
 ## Haste - Keen Ysemerald 192948
-profileset."Idol_of_the_Dreamer_483"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=483
-profileset."Idol_of_the_Dreamer_483"+=head=${gear.head},gem_id=192948
-profileset."Idol_of_the_Dreamer_483"+=neck=${gear.neck},gem_id=192985/192948/192948
-profileset."Idol_of_the_Dreamer_483"+=wrists=${gear.wrists},gem_id=192948
-profileset."Idol_of_the_Dreamer_483"+=waist=${gear.waist},gem_id=192948
-profileset."Idol_of_the_Dreamer_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-profileset."Idol_of_the_Dreamer_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192948
+profileset."Idol_of_the_Dreamer_486"+=trinket1=idol_of_the_dreamer,id=193005,ilevel=486
+profileset."Idol_of_the_Dreamer_486"+=head=${gear.head},gem_id=192948
+profileset."Idol_of_the_Dreamer_486"+=neck=${gear.neck},gem_id=192985/192948/192948
+profileset."Idol_of_the_Dreamer_486"+=wrists=${gear.wrists},gem_id=192948
+profileset."Idol_of_the_Dreamer_486"+=waist=${gear.waist},gem_id=192948
+profileset."Idol_of_the_Dreamer_486"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+profileset."Idol_of_the_Dreamer_486"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192948
 
 ## Mastery Keen Neltharite 192961
-profileset."Idol_of_the_Earth_Warder_483"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=483
-profileset."Idol_of_the_Earth_Warder_483"+=head=${gear.head},gem_id=192961
-profileset."Idol_of_the_Earth_Warder_483"+=neck=${gear.neck},gem_id=192985/192961/192961
-profileset."Idol_of_the_Earth_Warder_483"+=wrists=${gear.wrists},gem_id=192961
-profileset."Idol_of_the_Earth_Warder_483"+=waist=${gear.waist},gem_id=192961
-profileset."Idol_of_the_Earth_Warder_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
-profileset."Idol_of_the_Earth_Warder_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
+profileset."Idol_of_the_Earth_Warder_486"+=trinket1=idol_of_the_earth_warder,id=193006,ilevel=486
+profileset."Idol_of_the_Earth_Warder_486"+=head=${gear.head},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_486"+=neck=${gear.neck},gem_id=192985/192961/192961
+profileset."Idol_of_the_Earth_Warder_486"+=wrists=${gear.wrists},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_486"+=waist=${gear.waist},gem_id=192961
+profileset."Idol_of_the_Earth_Warder_486"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192961
+profileset."Idol_of_the_Earth_Warder_486"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192961
 
 ## Critical Strike - Crafty Alexstraszite 192919
-profileset."Idol_of_the_Life_Binder_483"+=trinket1=idol_of_the_lifebinder,id=193003,ilevel=483
-profileset."Idol_of_the_Life_Binder_483"+=head=${gear.head},gem_id=192919
-profileset."Idol_of_the_Life_Binder_483"+=neck=${gear.neck},gem_id=192985/192919/192919
-profileset."Idol_of_the_Life_Binder_483"+=wrists=${gear.wrists},gem_id=192919
-profileset."Idol_of_the_Life_Binder_483"+=waist=${gear.waist},gem_id=192919
-profileset."Idol_of_the_Life_Binder_483"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
-profileset."Idol_of_the_Life_Binder_483"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_486"+=trinket1=idol_of_the_lifebinder,id=193003,ilevel=486
+profileset."Idol_of_the_Life_Binder_486"+=head=${gear.head},gem_id=192919
+profileset."Idol_of_the_Life_Binder_486"+=neck=${gear.neck},gem_id=192985/192919/192919
+profileset."Idol_of_the_Life_Binder_486"+=wrists=${gear.wrists},gem_id=192919
+profileset."Idol_of_the_Life_Binder_486"+=waist=${gear.waist},gem_id=192919
+profileset."Idol_of_the_Life_Binder_486"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192919
+profileset."Idol_of_the_Life_Binder_486"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
 
 # Questing Trinkets
 # profileset."Primal_Ritual_Shell_Wind_424"+=trinket1=primal_ritual_shell,id=200563,ilevel=424

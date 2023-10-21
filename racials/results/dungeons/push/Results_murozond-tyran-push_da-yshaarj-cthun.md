@@ -1,0 +1,34 @@
+# murozond-tyran-push - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|179074|1.03%|
+|Tauren|179001|0.98%|
+|Dwarf|178973|0.97%|
+|Mechagnome|178831|0.89%|
+|Void_Elf|178697|0.81%|
+|Highmountain_Tauren|178647|0.78%|
+|Kul_Tiran|178623|0.77%|
+|Zandalari_Troll_Paku|178616|0.77%|
+|Troll|178585|0.75%|
+|Nightborne|178543|0.73%|
+|Blood_Elf|178457|0.68%|
+|Goblin|178435|0.67%|
+|Orc|178398|0.64%|
+|Night_Elf_Crit|178395|0.64%|
+|Worgen|178370|0.63%|
+|Gnome|178346|0.61%|
+|Night_Elf_Haste|178330|0.61%|
+|Draenei|178189|0.53%|
+|Dark_Iron_Dwarf|178127|0.49%|
+|Panda_Vers|177950|0.39%|
+|Panda_Fortune_Cookie|177914|0.37%|
+|Panda_Crit|177897|0.36%|
+|Maghar_Orc|177883|0.35%|
+|Panda_Mastery|177646|0.22%|
+|Zandalari_Troll_Bwonsamdi|177528|0.15%|
+|Undead|177482|0.13%|
+|Panda_Haste|177465|0.12%|
+|Zandalari_Troll_Kimbul|177386|0.07%|
+|Base|177256|0.00%|
+|Lightforged_Draenei|177218|-0.02%|
+|Vulpera|177109|-0.08%|

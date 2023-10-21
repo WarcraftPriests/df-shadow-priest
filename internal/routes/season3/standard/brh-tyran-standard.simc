@@ -15,6 +15,7 @@ enemy_health=9999999
 keystone_level=20
 keystone_pct_hp=27
 
+# NOTE: Last boss' health needs to be manually reduced
 raid_events+=/pull,pull=01,bloodlust=0,delay=010,enemies="Ghostly_Protector_1":2048727:Undead|"Ghostly_Retainer_1":1280454:Undead|"Ghostly_Retainer_2":1280454:Undead|"Ghostly_Councilor_1":1280454:Undead
 raid_events+=/pull,pull=02,bloodlust=0,delay=009,enemies="Ghostly_Councilor_1":1280454:Undead|"Ghostly_Councilor_2":1280454:Undead|"Ghostly_Retainer_1":1280454:Undead
 raid_events+=/pull,pull=03,bloodlust=0,delay=014,enemies="Troubled_Soul_1":256090:Undead|"Ghostly_Protector_1":2048727:Undead|"Ghostly_Retainer_1":1280454:Undead|"Ghostly_Councilor_1":1280454:Undead|"Lady_Velandras_Ravencrest_1":2028240:Undead
@@ -37,4 +38,4 @@ raid_events+=/pull,pull=19,bloodlust=0,delay=011,enemies="Risen_Swordsman_1":128
 raid_events+=/pull,pull=20,bloodlust=0,delay=014,enemies="Risen_Lancer_1":1408500:Undead|"Risen_Lancer_2":1408500:Undead|"Risen_Swordsman_1":1280454:Undead|"Risen_Swordsman_2":1280454:Undead
 raid_events+=/pull,pull=21,bloodlust=0,delay=011,enemies="Risen_Swordsman_1":1280454:Undead|"Risen_Swordsman_2":1280454:Undead|"Risen_Lancer_1":1408500:Undead|"Risen_Lancer_2":1408500:Undead
 raid_events+=/pull,pull=22,bloodlust=0,delay=008,enemies="BOSS_Kur'talos_Ravencrest":4001420:Undead
-raid_events+=/pull,pull=23,bloodlust=0,delay=012,enemies="BOSS_Dantalionax":30010651:Humanoid
+raid_events+=/pull,pull=23,bloodlust=0,delay=012,enemies="BOSS_Dantalionax":4001420:Humanoid

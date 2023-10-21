@@ -1,0 +1,34 @@
+# galakrond-tyran-standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|169068|1.07%|
+|Void_Elf|168970|1.01%|
+|Dwarf|168907|0.97%|
+|Tauren|168861|0.94%|
+|Mechagnome|168814|0.91%|
+|Kul_Tiran|168656|0.82%|
+|Gnome|168619|0.80%|
+|Goblin|168603|0.79%|
+|Highmountain_Tauren|168603|0.79%|
+|Zandalari_Troll_Paku|168591|0.78%|
+|Night_Elf_Haste|168537|0.75%|
+|Nightborne|168492|0.72%|
+|Blood_Elf|168407|0.67%|
+|Worgen|168396|0.66%|
+|Troll|168381|0.66%|
+|Orc|168339|0.63%|
+|Night_Elf_Crit|168333|0.63%|
+|Draenei|168315|0.62%|
+|Dark_Iron_Dwarf|168062|0.46%|
+|Panda_Vers|168006|0.43%|
+|Panda_Crit|167936|0.39%|
+|Maghar_Orc|167927|0.38%|
+|Panda_Fortune_Cookie|167879|0.36%|
+|Panda_Mastery|167821|0.32%|
+|Panda_Haste|167736|0.27%|
+|Undead|167666|0.23%|
+|Zandalari_Troll_Bwonsamdi|167634|0.21%|
+|Zandalari_Troll_Kimbul|167558|0.16%|
+|Vulpera|167367|0.05%|
+|Lightforged_Draenei|167330|0.03%|
+|Base|167285|0.00%|
