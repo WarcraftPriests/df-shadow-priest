@@ -135,6 +135,8 @@ racials = {
 }
 
 special = {
+    "Embellishment_Blue_Silken_Lining_30%_1": 193946,
+    "Embellishment_Blue_Silken_Lining_40%_1": 193946,
     "Embellishment_Blue_Silken_Lining_50%_1": 193946,
     "Embellishment_Blue_Silken_Lining_70%_1": 193946,
     "Embellishment_Blue_Silken_Lining_90%_1": 193946,
