@@ -196,6 +196,7 @@ special = {
     "Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_2": 208748,
     "Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2": 208748,
     "2h_Dreambinder_Loom_of_the_Great_Cycle_489": 208616,
+    "2h_Dreambinder_Loom_of_the_Great_Cycle_483": 208616,
     "Vakash_the_Shadowed_Inferno_489-OH_Tricksters_Captivating_Chime_489": 207788,
     "2h_Iridal_the_Earths_Master_483": 208321,
     "2h_Iridal_the_Earths_Master_489": 208321,

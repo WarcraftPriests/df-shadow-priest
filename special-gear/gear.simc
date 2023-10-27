@@ -29,6 +29,9 @@ ${gear.off_hand}
 profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_489"+=main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=489,enchant_id=${enchants.main_hand}
 profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_489"+=off_hand=disabled
 
+profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_483"+=main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=483,enchant_id=${enchants.main_hand}
+profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_483"+=off_hand=disabled
+
 profileset."Vakash_the_Shadowed_Inferno_489-OH_Tricksters_Captivating_Chime_489"+=main_hand=ph_fyrakk_cantrip_1h_mace_int,id=207788,ilevel=489,enchant_id=${enchants.main_hand}
 profileset."Vakash_the_Shadowed_Inferno_489-OH_Tricksters_Captivating_Chime_489"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=489
 
