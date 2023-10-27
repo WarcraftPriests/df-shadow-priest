@@ -94,59 +94,6 @@ profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_1"+=neck=${gear.n
 profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_1"+=head=${gear.head},gem_id=192948,enchant_id=${enchants.head}
 profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_1"+=dragonflight.dreamtenders_charm_uptime=1.0
 
-# TODO: redo combos to be more realistic
-# profileset."Embellishment_Blue_Silken_Lining_50%_2"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_50%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_50%_2"+=dragonflight.blue_silken_lining_uptime=0.5
-# profileset."Embellishment_Blue_Silken_Lining_70%_2"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_70%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_70%_2"+=dragonflight.blue_silken_lining_uptime=0.7
-# profileset."Embellishment_Blue_Silken_Lining_90%_2"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_90%_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8932
-# profileset."Embellishment_Blue_Silken_Lining_90%_2"+=dragonflight.blue_silken_lining_uptime=0.9
-# profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=feet=${gear.feet},ilevel=486,bonus_id=8175
-# profileset."Embellishment_Potion_Absorption_Inhibitor_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8175
-# profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=feet=${gear.feet},ilevel=486,bonus_id=8937
-# profileset."Embellishment_Bronzed_Grip_Wrappings_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=8937
-# profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=feet=${gear.feet},ilevel=486,bonus_id=9379
-# profileset."Embellishment_Shadowflame_Tempered_Armor_Patch_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_2"+=feet=${gear.feet},ilevel=486,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_2"+=feet=${gear.feet},ilevel=486,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_2"+=dragonflight.dreamtenders_charm_uptime=1.0
-# profileset."Embellishment_Verdant_Conduit_2"+=feet=${gear.feet},ilevel=486,bonus_id=9521
-# profileset."Embellishment_Verdant_Conduit_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9521
-
-## Keen Ysemerald: Haste/Mastery - 192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=feet=${gear.feet},ilevel=486,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=192948,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=neck=${gear.neck},gem_id=${gems.meta}/192948/192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=wrists=${gear.wrists},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=waist=${gear.waist},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=head=${gear.head},gem_id=192948,enchant_id=${enchants.head}
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_2"+=finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=feet=${gear.feet},ilevel=486,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=192948,bonus_id=9532
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=neck=${gear.neck},gem_id=${gems.meta}/192948/192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=wrists=${gear.wrists},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=waist=${gear.waist},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=head=${gear.head},gem_id=192948,enchant_id=${enchants.head}
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=192948
-# profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_7_FULL_2"+=dragonflight.dreamtenders_charm_uptime=1.0
-
-# profileset."Embellishment_BSL1_50%_STAP_1"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_BSL1_50%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
-# profileset."Embellishment_BSL1_50%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.5
-
-# profileset."Embellishment_BSL1_70%_STAP_1"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_BSL1_70%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
-# profileset."Embellishment_BSL1_70%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.7
-
-# profileset."Embellishment_BSL1_90%_STAP_1"+=feet=${gear.feet},ilevel=486,bonus_id=8932
-# profileset."Embellishment_BSL1_90%_STAP_1"+=finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main},bonus_id=9379
-# profileset."Embellishment_BSL1_90%_STAP_1"+=dragonflight.blue_silken_lining_uptime=0.9
-
 ## Jewelcrafting
 ### Air Gems - Crafty Alexstraszite (Crit/Haste)
 profileset."Neck_Elemental_Lariat_7Air_486"+=neck=,id=193001,bonus_id=8836/8840/8902/8960/8783/8780/8801/8793,crafted_stats=40/36,ilevel=486,gem_id=${gems.meta}/192919/192919
@@ -243,8 +190,15 @@ profileset."Chronocloth_Sash_Leggings_486"+=chest=tier,id=207284,enchant_id=${en
 profileset."Head_Hood_of_Surging_Time_486"+=head=hood_of_surging_time,id=193521,ilevel=486,gem_id=${gems.main},enchant_id=${enchants.head}
 profileset."Head_Hood_of_Surging_Time_486"+=chest=tier,id=207284,enchant_id=${enchants.chest},ilevel=489
 
-#### TODO: consider adding value for allies attributed to the player
 profileset."Wrists_Allied_Wristguards_of_Time_Dilation_486"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=486,gem_id=${gems.main}
+
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_AVG_486"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=486,gem_id=${gems.main}
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_AVG_486"+=dragonflight.rallied_to_victory_min_allies=2
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_AVG_486"+=dragonflight.rallied_to_victory_ally_estimate=1
+
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_4_486"+=wrists=allied_wristguards_of_time_dilation,id=193530,ilevel=486,gem_id=${gems.main}
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_4_486"+=dragonflight.rallied_to_victory_min_allies=4
+profileset."Wrists_Allied_Wristguards_of_Time_Dilation_Allies_4_486"+=dragonflight.rallied_to_victory_ally_estimate=1
 
 ## Inscription
 profileset."2h_Illuminating_Pillar_of_the_Isles_486"+=main_hand=,id=194898,bonus_id=8836/8840/8902/8801/8793,ilevel=486,enchant_id=${enchants.main_hand}

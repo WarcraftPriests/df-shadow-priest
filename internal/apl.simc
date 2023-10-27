@@ -154,6 +154,8 @@ actions.pl_torrent+=/mind_blast,if=!prev_gcd.1.mind_blast
 actions.pl_torrent+=/void_torrent,if=dot.vampiric_touch.ticking&dot.shadow_word_pain.ticking|buff.voidform.up
 
 actions.trinkets=use_item,name=voidmenders_shadowgem,if=(buff.power_infusion.up|fight_remains<20)&equipped.voidmenders_shadowgem
+actions.trinkets+=/use_item,name=iridal_the_earths_master,use_off_gcd=1,if=gcd.remains>0|fight_remains<20
+actions.trinkets+=/use_item,name=dreambinder_loom_of_the_great_cycle,use_off_gcd=1,if=gcd.remains>0|fight_remains<20
 actions.trinkets+=/use_item,name=darkmoon_deck_box_inferno,if=equipped.darkmoon_deck_box_inferno
 actions.trinkets+=/use_item,name=darkmoon_deck_box_rime,if=equipped.darkmoon_deck_box_rime
 actions.trinkets+=/use_item,name=darkmoon_deck_box_dance,if=equipped.darkmoon_deck_box_dance

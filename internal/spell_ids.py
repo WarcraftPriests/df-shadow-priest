@@ -172,6 +172,8 @@ special = {
     "Chronocloth_Sash_Leggings_486": 193537,
     "Head_Hood_of_Surging_Time_486": 193521,
     "Wrists_Allied_Wristguards_of_Time_Dilation_486": 193530,
+    "Wrists_Allied_Wristguards_of_Time_Dilation_Allies_4_486": 193530,
+    "Wrists_Allied_Wristguards_of_Time_Dilation_Allies_AVG_486": 193530,
     "MH_Jagged_Iris_Sica_489-OH_Crackling_Codex_of_the_Isles_486": 194879,
     "MH_Jagged_Iris_Sica_489-OH_Witherrot_Tome_486": 193496,
     "Back_Voice_of_the_Silent_Star_457": 204465,
