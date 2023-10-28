@@ -160,6 +160,9 @@ profileset."Chest_Vibrant_Wildercloth_Vestments_486"+=chest=vibrant_wildercloth_
 
 profileset."Wrists_Vibrant_Wildercloth_Wristwraps_486"+=wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793,ilevel=486,gem_id=${gems.main}
 
+profileset."Back_Undulating_Sporecloak_75%_486"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=486
+profileset."Back_Undulating_Sporecloak_75%_486"+=dragonflight.undulating_sporecloak_uptime=0.75
+
 profileset."Back_Undulating_Sporecloak_80%_486"+=back=undulating_sporecloak,id=205025,bonus_id=8836/8840/8902/8802/8793,ilevel=486
 profileset."Back_Undulating_Sporecloak_80%_486"+=dragonflight.undulating_sporecloak_uptime=0.8
 

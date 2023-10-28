@@ -180,6 +180,7 @@ special = {
     "MH_Spore_Keepers_Baton_486-OH_Tricksters_Captivating_Chime_489": 204401,
     "Embellishment_Shadowflame_Tempered_Armor_Patch_1": 204710,
     "Embellishment_Shadowflame_Tempered_Armor_Patch_2": 204710,
+    "Back_Undulating_Sporecloak_75%_486": 205025,
     "Back_Undulating_Sporecloak_80%_486": 205025,
     "Back_Undulating_Sporecloak_90%_486": 205025,
     "Back_Undulating_Sporecloak_100%_486": 205025,
