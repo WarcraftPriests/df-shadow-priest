@@ -1,0 +1,42 @@
+priest="Base"
+level=70
+race=dwarf
+role=spell
+spec=shadow
+
+talents=BIQAdQY/q8RdYb6JH8T4eAaBLKIREAAAAAAAAAAAAgkoFkIl0OgkERSSBShkkEpFBICpItQSQBSA
+
+# Mask of the Furnace Seraph (447)
+head=,id=202542,gem_id=192988,bonus_id=6652/9229/9382/1504/8767/9413
+# Torc of Passed Time  (447)
+neck=,id=201759,gem_id=192958/192958/192958,bonus_id=8836/8840/8902/9477/8782/9405/8793/9376/8174/9366,crafted_stats=40/36,crafting_quality=5
+# Devotion of the Furnace Seraph (450)
+shoulder=,id=202540,bonus_id=6652/9227/9410/9383/1507/8767
+# Undulating Sporecloak  (447)
+back=,id=205025,enchant_id=6592,bonus_id=8836/8840/8902/8960/9405/9366/9376,crafting_quality=5
+# Reanimator's Wicked Cassock (447)
+chest=,id=202600,enchant_id=6625,bonus_id=9410/6652/9224/9221/9382/1504/8767
+# Precious' Ribbon (1)
+shirt=,id=52019
+# Tabard of the Ebon Blade (31)
+tabard=,id=43155
+# Allied Wristguards of Time Dilation  (447)
+wrist=,id=193530,gem_id=192958,bonus_id=8836/8840/8902/8960/9405/9376/9366/9413,crafting_quality=5
+# Grasp of the Furnace Seraph (447)
+hands=,id=202543,bonus_id=6652/9230/9382/1498/8767
+# Sash of the Furnace Seraph (447)
+waist=,id=202539,enchant_id=6904,gem_id=192958,bonus_id=6652/9382/1504/9413
+# Breeches of the Furnace Seraph (447)
+legs=,id=202541,enchant_id=6541,bonus_id=6652/9382/9228/1504,ilevel=450
+# Vibrant Wildercloth Slippers  (447)
+feet=,id=193519,enchant_id=6613,bonus_id=8836/8840/8902/9405/9376/8793/9237/9366,crafted_stats=36/49,crafting_quality=5
+# Ring-Bound Hourglass  (447)
+finger1=,id=193000,enchant_id=6550,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8793/9376/9366,crafted_stats=49/32,crafting_quality=5
+# Signet of Titanic Insight  (447)
+finger2=,id=192999,enchant_id=6550,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8793/9376/8174/9366,crafted_stats=32/36,crafting_quality=5
+# Spoils of Neltharus (447)
+trinket1=,id=193773,bonus_id=6652/9144/9382/1669/8767
+# Neltharion's Call to Suffering (457)
+trinket2=,id=204211,bonus_id=6652/9410/9385/1498/8767
+# Erethos, the Empty Promise (450)
+main_hand=,id=202565,enchant_id=6643,bonus_id=6652/9410/9383/1498/8767
