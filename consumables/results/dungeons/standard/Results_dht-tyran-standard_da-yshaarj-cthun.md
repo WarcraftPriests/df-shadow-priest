@@ -1,19 +1,19 @@
 # dht-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|143941|0.38%|
-|Dreambound_Augment_Rune|143923|0.37%|
-|Feisty_Fish_Sticks|143918|0.37%|
-|Great_Cerulean_Sea|143897|0.35%|
-|Seamoth_Surprise|143882|0.34%|
-|Draconic_Augment_Rune|143880|0.34%|
-|Thousandbone_Tongueslicer|143870|0.33%|
-|Aromatic_Seafood_Platter|143866|0.33%|
-|Filet_of_Fangs|143842|0.32%|
-|Fated_Fortune_Cookie|143839|0.31%|
-|Sizzling_Seafood_Medley|143799|0.29%|
-|Salt_Baked_Fishcake|143718|0.23%|
-|Timely_Demise|143680|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|143581|0.13%|
-|Roast_Duck_Delight|143566|0.12%|
-|Base|143390|0.00%|
+|Feisty_Fish_Sticks|145874|0.29%|
+|Revenge_Served_Cold|145874|0.29%|
+|Draconic_Augment_Rune|145869|0.29%|
+|Fated_Fortune_Cookie|145854|0.28%|
+|Dreambound_Augment_Rune|145841|0.27%|
+|Thousandbone_Tongueslicer|145836|0.27%|
+|Aromatic_Seafood_Platter|145817|0.25%|
+|Great_Cerulean_Sea|145794|0.24%|
+|Salt_Baked_Fishcake|145790|0.23%|
+|Filet_of_Fangs|145787|0.23%|
+|Sizzling_Seafood_Medley|145765|0.22%|
+|Seamoth_Surprise|145761|0.21%|
+|Timely_Demise|145653|0.14%|
+|Roast_Duck_Delight|145553|0.07%|
+|Thrice_Spiced_Mammoth_Kabob|145544|0.06%|
+|Base|145450|0.00%|

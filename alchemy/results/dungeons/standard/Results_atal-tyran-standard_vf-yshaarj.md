@@ -1,18 +1,18 @@
 # atal-tyran-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|148858|3.97%|
-|Iced_Phial_of_Corrupting_Rage_85_3|148265|3.56%|
-|Iced_Phial_of_Corrupting_Rage_40_3|147699|3.16%|
-|Phial_of_Static_Empowerment_3|147436|2.98%|
-|Iced_Phial_of_Corrupting_Rage_70_3|147302|2.88%|
-|Phial_of_Charged_Isolation_3|147273|2.86%|
-|Phial_of_Tepid_Versatility_3|147062|2.72%|
-|Iced_Phial_of_Corrupting_Rage_50_3|146663|2.44%|
-|Phial_of_Elemental_Chaos_3|146473|2.30%|
-|Phial_of_Glacial_Fury_3|144891|1.20%|
-|Elemental_Potion_of_Ultimate_Power_3|143862|0.48%|
-|Elemental_Potion_of_Power_3|143671|0.35%|
-|Potion_of_Shocking_Disclosure_3|143510|0.23%|
-|Bottled_Putrescence_3|143449|0.19%|
-|Base|143174|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|152833|4.09%|
+|Iced_Phial_of_Corrupting_Rage_85_3|152194|3.66%|
+|Phial_of_Static_Empowerment_3|151590|3.25%|
+|Phial_of_Charged_Isolation_3|151331|3.07%|
+|Phial_of_Tepid_Versatility_3|151227|3.00%|
+|Iced_Phial_of_Corrupting_Rage_70_3|151171|2.96%|
+|Phial_of_Elemental_Chaos_3|150645|2.60%|
+|Iced_Phial_of_Corrupting_Rage_50_3|150034|2.19%|
+|Iced_Phial_of_Corrupting_Rage_40_3|149615|1.90%|
+|Phial_of_Glacial_Fury_3|148708|1.28%|
+|Elemental_Potion_of_Ultimate_Power_3|147555|0.50%|
+|Elemental_Potion_of_Power_3|147357|0.36%|
+|Potion_of_Shocking_Disclosure_3|147242|0.29%|
+|Bottled_Putrescence_3|147178|0.24%|
+|Base|146823|0.00%|

@@ -1,19 +1,19 @@
 # murozond-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|167644|0.52%|
-|Great_Cerulean_Sea|167584|0.48%|
-|Dreambound_Augment_Rune|167518|0.44%|
-|Thousandbone_Tongueslicer|167488|0.43%|
-|Feisty_Fish_Sticks|167470|0.42%|
-|Aromatic_Seafood_Platter|167463|0.41%|
-|Draconic_Augment_Rune|167462|0.41%|
-|Seamoth_Surprise|167451|0.40%|
-|Fated_Fortune_Cookie|167433|0.39%|
-|Sizzling_Seafood_Medley|167418|0.38%|
-|Filet_of_Fangs|167413|0.38%|
-|Salt_Baked_Fishcake|167331|0.33%|
-|Timely_Demise|167085|0.18%|
-|Roast_Duck_Delight|166964|0.11%|
-|Thrice_Spiced_Mammoth_Kabob|166904|0.08%|
-|Base|166777|0.00%|
+|Revenge_Served_Cold|171047|0.52%|
+|Great_Cerulean_Sea|171043|0.51%|
+|Thousandbone_Tongueslicer|171030|0.51%|
+|Dreambound_Augment_Rune|171023|0.50%|
+|Aromatic_Seafood_Platter|171019|0.50%|
+|Draconic_Augment_Rune|170996|0.49%|
+|Sizzling_Seafood_Medley|170988|0.48%|
+|Seamoth_Surprise|170964|0.47%|
+|Fated_Fortune_Cookie|170919|0.44%|
+|Feisty_Fish_Sticks|170902|0.43%|
+|Filet_of_Fangs|170831|0.39%|
+|Salt_Baked_Fishcake|170753|0.34%|
+|Timely_Demise|170635|0.27%|
+|Roast_Duck_Delight|170480|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|170389|0.13%|
+|Base|170169|0.00%|

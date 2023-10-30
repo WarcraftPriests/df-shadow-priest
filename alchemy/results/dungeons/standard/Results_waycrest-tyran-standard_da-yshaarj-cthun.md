@@ -1,18 +1,18 @@
 # waycrest-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|164865|3.41%|
-|Iced_Phial_of_Corrupting_Rage_85_3|164286|3.04%|
-|Phial_of_Static_Empowerment_3|163733|2.70%|
-|Phial_of_Charged_Isolation_3|163543|2.58%|
-|Iced_Phial_of_Corrupting_Rage_70_3|163475|2.53%|
-|Phial_of_Tepid_Versatility_3|163377|2.47%|
-|Iced_Phial_of_Corrupting_Rage_40_3|163141|2.32%|
-|Phial_of_Elemental_Chaos_3|162755|2.08%|
-|Iced_Phial_of_Corrupting_Rage_50_3|162418|1.87%|
-|Phial_of_Glacial_Fury_3|160973|0.96%|
-|Elemental_Potion_of_Ultimate_Power_3|160054|0.39%|
-|Potion_of_Shocking_Disclosure_3|159914|0.30%|
-|Elemental_Potion_of_Power_3|159893|0.29%|
-|Bottled_Putrescence_3|159763|0.21%|
-|Base|159436|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|167729|3.34%|
+|Iced_Phial_of_Corrupting_Rage_85_3|167163|2.99%|
+|Phial_of_Static_Empowerment_3|166536|2.61%|
+|Phial_of_Charged_Isolation_3|166388|2.52%|
+|Iced_Phial_of_Corrupting_Rage_70_3|166269|2.44%|
+|Phial_of_Tepid_Versatility_3|166167|2.38%|
+|Phial_of_Elemental_Chaos_3|165719|2.10%|
+|Iced_Phial_of_Corrupting_Rage_40_3|165222|1.80%|
+|Iced_Phial_of_Corrupting_Rage_50_3|165222|1.80%|
+|Phial_of_Glacial_Fury_3|163749|0.89%|
+|Elemental_Potion_of_Ultimate_Power_3|162964|0.41%|
+|Elemental_Potion_of_Power_3|162833|0.33%|
+|Potion_of_Shocking_Disclosure_3|162787|0.30%|
+|Bottled_Putrescence_3|162566|0.16%|
+|Base|162303|0.00%|

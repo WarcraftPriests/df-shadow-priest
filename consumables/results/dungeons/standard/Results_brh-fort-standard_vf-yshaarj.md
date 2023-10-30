@@ -1,19 +1,19 @@
 # brh-fort-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|150118|0.48%|
-|Aromatic_Seafood_Platter|150117|0.48%|
-|Thousandbone_Tongueslicer|150062|0.44%|
-|Revenge_Served_Cold|150056|0.44%|
-|Sizzling_Seafood_Medley|150027|0.42%|
-|Great_Cerulean_Sea|149995|0.40%|
-|Draconic_Augment_Rune|149982|0.39%|
-|Fated_Fortune_Cookie|149931|0.35%|
-|Timely_Demise|149911|0.34%|
-|Seamoth_Surprise|149904|0.34%|
-|Dreambound_Augment_Rune|149903|0.33%|
-|Filet_of_Fangs|149879|0.32%|
-|Salt_Baked_Fishcake|149810|0.27%|
-|Roast_Duck_Delight|149700|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|149632|0.15%|
-|Base|149403|0.00%|
+|Aromatic_Seafood_Platter|154318|0.40%|
+|Revenge_Served_Cold|154301|0.39%|
+|Feisty_Fish_Sticks|154262|0.36%|
+|Thousandbone_Tongueslicer|154248|0.36%|
+|Great_Cerulean_Sea|154247|0.35%|
+|Dreambound_Augment_Rune|154245|0.35%|
+|Sizzling_Seafood_Medley|154244|0.35%|
+|Seamoth_Surprise|154169|0.30%|
+|Fated_Fortune_Cookie|154150|0.29%|
+|Filet_of_Fangs|154135|0.28%|
+|Draconic_Augment_Rune|154130|0.28%|
+|Salt_Baked_Fishcake|154117|0.27%|
+|Timely_Demise|154093|0.25%|
+|Roast_Duck_Delight|153915|0.14%|
+|Thrice_Spiced_Mammoth_Kabob|153861|0.10%|
+|Base|153702|0.00%|

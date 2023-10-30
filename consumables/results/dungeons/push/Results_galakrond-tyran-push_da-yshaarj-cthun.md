@@ -1,19 +1,19 @@
 # galakrond-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|176064|0.71%|
-|Great_Cerulean_Sea|175948|0.64%|
-|Thousandbone_Tongueslicer|175885|0.60%|
-|Aromatic_Seafood_Platter|175844|0.58%|
-|Draconic_Augment_Rune|175809|0.56%|
-|Feisty_Fish_Sticks|175768|0.54%|
-|Dreambound_Augment_Rune|175767|0.54%|
-|Seamoth_Surprise|175744|0.52%|
-|Filet_of_Fangs|175727|0.51%|
-|Sizzling_Seafood_Medley|175661|0.48%|
-|Fated_Fortune_Cookie|175660|0.47%|
-|Salt_Baked_Fishcake|175612|0.45%|
-|Timely_Demise|175491|0.38%|
-|Roast_Duck_Delight|175178|0.20%|
-|Thrice_Spiced_Mammoth_Kabob|175081|0.14%|
-|Base|174830|0.00%|
+|Revenge_Served_Cold|180422|0.62%|
+|Thousandbone_Tongueslicer|180390|0.61%|
+|Great_Cerulean_Sea|180378|0.60%|
+|Feisty_Fish_Sticks|180357|0.59%|
+|Draconic_Augment_Rune|180293|0.55%|
+|Sizzling_Seafood_Medley|180293|0.55%|
+|Aromatic_Seafood_Platter|180285|0.55%|
+|Dreambound_Augment_Rune|180273|0.54%|
+|Seamoth_Surprise|180217|0.51%|
+|Fated_Fortune_Cookie|180163|0.48%|
+|Filet_of_Fangs|180155|0.47%|
+|Salt_Baked_Fishcake|180053|0.42%|
+|Timely_Demise|180026|0.40%|
+|Roast_Duck_Delight|179684|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|179582|0.15%|
+|Base|179305|0.00%|

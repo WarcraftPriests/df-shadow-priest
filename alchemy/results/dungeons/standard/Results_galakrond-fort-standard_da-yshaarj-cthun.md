@@ -1,18 +1,18 @@
 # galakrond-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|170922|4.26%|
-|Iced_Phial_of_Corrupting_Rage_85_3|170216|3.83%|
-|Phial_of_Static_Empowerment_3|169239|3.23%|
-|Phial_of_Charged_Isolation_3|169090|3.14%|
-|Iced_Phial_of_Corrupting_Rage_70_3|169018|3.10%|
-|Phial_of_Tepid_Versatility_3|168840|2.99%|
-|Iced_Phial_of_Corrupting_Rage_40_3|168654|2.88%|
-|Phial_of_Elemental_Chaos_3|168176|2.58%|
-|Iced_Phial_of_Corrupting_Rage_50_3|167701|2.29%|
-|Phial_of_Glacial_Fury_3|165865|1.17%|
-|Elemental_Potion_of_Ultimate_Power_3|164794|0.52%|
-|Elemental_Potion_of_Power_3|164556|0.38%|
-|Potion_of_Shocking_Disclosure_3|164419|0.29%|
-|Bottled_Putrescence_3|164258|0.19%|
-|Base|163940|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|174273|4.18%|
+|Iced_Phial_of_Corrupting_Rage_85_3|173511|3.72%|
+|Phial_of_Static_Empowerment_3|172748|3.27%|
+|Phial_of_Charged_Isolation_3|172607|3.18%|
+|Phial_of_Tepid_Versatility_3|172473|3.10%|
+|Iced_Phial_of_Corrupting_Rage_70_3|172442|3.08%|
+|Phial_of_Elemental_Chaos_3|171760|2.68%|
+|Iced_Phial_of_Corrupting_Rage_40_3|171188|2.33%|
+|Iced_Phial_of_Corrupting_Rage_50_3|171013|2.23%|
+|Phial_of_Glacial_Fury_3|169171|1.13%|
+|Elemental_Potion_of_Ultimate_Power_3|168182|0.54%|
+|Elemental_Potion_of_Power_3|167854|0.34%|
+|Potion_of_Shocking_Disclosure_3|167699|0.25%|
+|Bottled_Putrescence_3|167607|0.19%|
+|Base|167285|0.00%|

@@ -1,19 +1,19 @@
 # everbloom-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|175303|0.48%|
-|Draconic_Augment_Rune|175209|0.43%|
-|Aromatic_Seafood_Platter|175171|0.41%|
-|Dreambound_Augment_Rune|175162|0.40%|
-|Thousandbone_Tongueslicer|175130|0.38%|
-|Fated_Fortune_Cookie|175116|0.37%|
-|Great_Cerulean_Sea|175116|0.37%|
-|Feisty_Fish_Sticks|175090|0.36%|
-|Sizzling_Seafood_Medley|175061|0.34%|
-|Filet_of_Fangs|175043|0.33%|
-|Salt_Baked_Fishcake|175015|0.32%|
-|Seamoth_Surprise|175015|0.32%|
-|Timely_Demise|174907|0.25%|
-|Roast_Duck_Delight|174679|0.12%|
-|Thrice_Spiced_Mammoth_Kabob|174649|0.11%|
-|Base|174463|0.00%|
+|Revenge_Served_Cold|178338|0.49%|
+|Thousandbone_Tongueslicer|178259|0.45%|
+|Draconic_Augment_Rune|178255|0.45%|
+|Great_Cerulean_Sea|178214|0.42%|
+|Filet_of_Fangs|178195|0.41%|
+|Aromatic_Seafood_Platter|178188|0.41%|
+|Dreambound_Augment_Rune|178173|0.40%|
+|Fated_Fortune_Cookie|178167|0.40%|
+|Sizzling_Seafood_Medley|178117|0.37%|
+|Feisty_Fish_Sticks|178110|0.36%|
+|Seamoth_Surprise|178102|0.36%|
+|Salt_Baked_Fishcake|178058|0.34%|
+|Timely_Demise|177989|0.30%|
+|Roast_Duck_Delight|177800|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|177648|0.10%|
+|Base|177463|0.00%|

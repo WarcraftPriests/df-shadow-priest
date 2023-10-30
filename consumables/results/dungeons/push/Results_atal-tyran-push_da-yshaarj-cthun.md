@@ -1,19 +1,19 @@
 # atal-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|169351|0.51%|
-|Draconic_Augment_Rune|169233|0.44%|
-|Dreambound_Augment_Rune|169233|0.44%|
-|Thousandbone_Tongueslicer|169231|0.43%|
-|Sizzling_Seafood_Medley|169204|0.42%|
-|Aromatic_Seafood_Platter|169200|0.42%|
-|Great_Cerulean_Sea|169199|0.42%|
-|Feisty_Fish_Sticks|169173|0.40%|
-|Filet_of_Fangs|169166|0.40%|
-|Seamoth_Surprise|169128|0.37%|
-|Fated_Fortune_Cookie|169109|0.36%|
-|Salt_Baked_Fishcake|169007|0.30%|
-|Timely_Demise|168973|0.28%|
-|Thrice_Spiced_Mammoth_Kabob|168760|0.15%|
-|Roast_Duck_Delight|168745|0.15%|
-|Base|168499|0.00%|
+|Revenge_Served_Cold|172994|0.48%|
+|Dreambound_Augment_Rune|172941|0.44%|
+|Great_Cerulean_Sea|172937|0.44%|
+|Thousandbone_Tongueslicer|172907|0.42%|
+|Aromatic_Seafood_Platter|172904|0.42%|
+|Feisty_Fish_Sticks|172865|0.40%|
+|Sizzling_Seafood_Medley|172830|0.38%|
+|Draconic_Augment_Rune|172789|0.36%|
+|Seamoth_Surprise|172775|0.35%|
+|Filet_of_Fangs|172773|0.35%|
+|Fated_Fortune_Cookie|172692|0.30%|
+|Salt_Baked_Fishcake|172656|0.28%|
+|Timely_Demise|172576|0.23%|
+|Roast_Duck_Delight|172322|0.08%|
+|Thrice_Spiced_Mammoth_Kabob|172224|0.03%|
+|Base|172176|0.00%|
