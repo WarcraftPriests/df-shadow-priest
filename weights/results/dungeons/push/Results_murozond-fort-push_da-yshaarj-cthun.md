@@ -1,4 +1,4 @@
 # murozond-fort-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|177176|1.00|0.59|0.72|0.63|0.77|0.10|
+|Base|180839|1.00|0.61|0.75|0.64|0.78|0.09|

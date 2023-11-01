@@ -1,4 +1,4 @@
 # brh-tyran-push - vf-yshaarj
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|176909|1.00|0.67|0.75|0.63|0.77|0.13|
+|Base|183901|1.00|0.72|0.72|0.64|0.79|0.10|

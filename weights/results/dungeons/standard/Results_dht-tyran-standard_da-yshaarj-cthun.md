@@ -1,4 +1,4 @@
 # dht-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|144302|1.00|0.64|0.75|0.64|0.80|0.21|
+|Base|146165|1.00|0.63|0.74|0.62|0.80|0.22|

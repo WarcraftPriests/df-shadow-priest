@@ -1,4 +1,4 @@
 # galakrond-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|170690|1.00|0.65|0.75|0.67|0.79|0.12|
+|Base|173953|1.00|0.63|0.71|0.63|0.77|0.12|
