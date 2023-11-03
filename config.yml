@@ -242,6 +242,8 @@ stats:
   min:
     haste: 5000
     mastery: 5000
+    crit: 0
+    vers: 0
   include:
     - mastery
     - haste

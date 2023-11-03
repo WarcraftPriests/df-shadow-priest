@@ -107,10 +107,16 @@ def build_stats_files():
         }
         haste = int(combination.get("haste").split("=")[1])
         mastery = int(combination.get("mastery").split("=")[1])
+        vers = int(combination.get("versatility").split("=")[1])
+        crit = int(combination.get("crit").split("=")[1])
         # remove profiles with too low haste/mastery
         if haste < config["stats"]["min"]["haste"]:
             continue
         if mastery < config["stats"]["min"]["mastery"]:
+            continue
+        if vers < config["stats"]["min"]["vers"]:
+            continue
+        if crit < config["stats"]["min"]["crit"]:
             continue
         rating_combinations.append(combination)
     print(f"Simming {len(rating_combinations)} number of combinations")
