@@ -69,6 +69,7 @@ sims:
       - apl.simc
   consumables:
     description: "Sims Food and Augment Rune consumables you can use to augment your character."
+    iterations: 20000
     builds: true
     weights: false
     chart: true
@@ -79,6 +80,7 @@ sims:
       - consumables.simc
   enchants:
     description: "Sims all possible enchants to your characters gear by slot. Lists each enchant at ranks 1, 2, and 3."
+    iterations: 20000
     builds: true
     weights: false
     chart: true
@@ -196,6 +198,7 @@ sims:
       - 470
       - 476
       - 483
+      - 486
       - 489
       - 496
     files:

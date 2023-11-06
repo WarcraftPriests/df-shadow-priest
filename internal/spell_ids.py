@@ -38,7 +38,7 @@ consumables = {
 }
 
 enchants = {
-    "Head_Incandescent_Essence_1": 210494,
+    "Head_Incandescent_Essence": 210494,
     "Legs_Frozen_Spellthread": 194013,
     "Legs_Temporal_Spellthread": 194016,
     "Legs_Vibrant_Spellthread": 194010,
