@@ -7,21 +7,21 @@ talents=BIQAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAQEAkERkIINSSSkGBJIki0CJBgA
 
 ${apl}
 
-head=${gear.head},gem_id=192948
-neck=${gear.neck},gem_id=192985/192948/192948
+head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=6625
-wrists=${gear.wrists},gem_id=192948
+chest=${gear.chest},enchant_id=${enchants.chest}
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
-legs=${gear.legs},enchant_id=6541
+waist=${gear.waist},gem_id=${gems.main}
+legs=${gear.legs},enchant_id=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=6556,gem_id=192948
-finger2=${gear.finger2},enchant_id=6556,gem_id=192948
+finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant_id=6643
+main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 ${builds}

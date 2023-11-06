@@ -1,0 +1,1 @@
+{"name": "Composite - da-yshaarj-cthun", "data": {"Base": {"DPS": 209265}, "dp_above_swd": {"DPS": 209245}, "dont_swd_if_capped_on_insanity": {"DPS": 209008}}, "ids": {"dp_above_swd": null, "dont_swd_if_capped_on_insanity": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_above_swd", "dont_swd_if_capped_on_insanity"], "last_updated": "2023-10-15"}

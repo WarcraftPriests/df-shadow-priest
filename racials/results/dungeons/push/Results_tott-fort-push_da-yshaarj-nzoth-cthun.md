@@ -1,0 +1,34 @@
+# tott-fort-push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|200620|1.05%|
+|Dwarf|200357|0.92%|
+|Mechagnome|200337|0.91%|
+|Tauren|200319|0.90%|
+|Void_Elf|200191|0.84%|
+|Kul_Tiran|200105|0.80%|
+|Gnome|200098|0.79%|
+|Highmountain_Tauren|200083|0.78%|
+|Night_Elf_Haste|200066|0.78%|
+|Goblin|200008|0.75%|
+|Nightborne|199993|0.74%|
+|Blood_Elf|199989|0.74%|
+|Zandalari_Troll_Paku|199923|0.70%|
+|Night_Elf_Crit|199879|0.68%|
+|Worgen|199870|0.68%|
+|Troll|199862|0.67%|
+|Orc|199706|0.59%|
+|Draenei|199684|0.58%|
+|Dark_Iron_Dwarf|199405|0.44%|
+|Panda_Vers|199394|0.44%|
+|Maghar_Orc|199316|0.40%|
+|Panda_Fortune_Cookie|199280|0.38%|
+|Panda_Crit|199225|0.35%|
+|Panda_Mastery|199174|0.33%|
+|Panda_Haste|198918|0.20%|
+|Zandalari_Troll_Kimbul|198838|0.16%|
+|Zandalari_Troll_Bwonsamdi|198797|0.14%|
+|Undead|198794|0.13%|
+|Base|198526|0.00%|
+|Vulpera|198497|-0.01%|
+|Lightforged_Draenei|198464|-0.03%|

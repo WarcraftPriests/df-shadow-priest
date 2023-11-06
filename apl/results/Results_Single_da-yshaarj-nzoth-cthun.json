@@ -1,0 +1,1 @@
+{"name": "Single - da-yshaarj-nzoth-cthun", "data": {"dp_above_swd": {"DPS": 193985}, "Base": {"DPS": 193982}, "dont_swd_if_capped_on_insanity": {"DPS": 193195}}, "ids": {"dp_above_swd": null, "dont_swd_if_capped_on_insanity": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_above_swd", "dont_swd_if_capped_on_insanity"], "last_updated": "2023-10-15"}

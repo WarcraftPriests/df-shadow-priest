@@ -1,40 +1,49 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  yogg-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAgkEJBAAAAAAAAAAAAIkGRi0CSSSkDkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_119201344746415_Spike_DR_TS
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAESiIBAAAAAAAAAAAAIoJRSSDSSSSkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_129962385069999_Spike_DR_TS
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAgkEJBAAAAAAAAAAAAIkGRi0CSSSkDkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_119201344746415_Spike_DR_TS
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAgkQSAAAAAAAAAAAAACp5ARSSLIJJRkIINSSSkGBJIki0CJBQSA # VF_yogg_cthun_119242146935727_Spike_DR_TS
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAESiIBAAAAAAAAAAAAIoJRSSDSSSSkIINSSSkGBJIki0CJBQSA # VF_nzoth_yogg_cthun_129962385069999_Spike_DR_TS
-  yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkE5ABAAAAAAAAAAAAIJaRkIlgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144613401519_Spike_DR
+  da-yshaarj-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
     dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_cthun_81144444614575_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkE5ABAAAAAAAAAAAAIJaRkIlgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144613401519_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
-  nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEkEJBAAAAAAAAAAAAIoRkkUiDIJJRSig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_98181776634799_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQikcAAAAAAAAAAAAAgEaRkIlgkEJJJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_98734483175343_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAEkEJBAAAAAAAAAAAAIoRkkUiDIJJRSig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_98181776634799_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEkEJBAAAAAAAAAAAAIkGRSSJIJJRSig0IJJRaEkgQKSLkEASA # DA_nzoth_cthun_98181774799791_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAkQISAAAAAAAAAAAAASOQaJRSSDSSSSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_90810537711535_Flay_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkERAAAAAAAAAAAAASiWEJSJOgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144611304367_Spike_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkEBAAAAAAAAAAAAIJaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144609232815_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAIkkkEAAAAAAAAAAAAgEaRkIFIJRSSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144713041839_Spike_DR
+  da-yshaarj-nzoth-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgEpFRSSJikEJJJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_89674448615343_Flay_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQSicAAAAAAAAAAAAAgEaRkkUCSSkkkIINSSSkGBJIki0CJBgE # DA_yshaarj_nzoth_cthun_89674249664431_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAkABBAAAAAAAAAAAAIJpFRSSJikERSigUIJJRaEIiQKSLkEUgA # DA_yshaarj_nzoth_cthun_89674483184559_Flay_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCBAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAkQSCBAAAAAAAAAAAAIJaJRSSBSSkEJCSjkkEpRQCCpItQSAIB # DA_yshaarj_nzoth_cthun_90808285648815_Spike_DR
+  vf-yshaarj:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIEREAAAAAAAAAAAAgkkWEJSLikERSig0IJJRaEkgQKSLkEAC # VF_yshaarj_cthun_81144678134703_Flay_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAkQk4AAAAAAAAAAAAAASSaJRSSjIJRSkIINSSSkGBJIki0CJBgA # VF_yshaarj_nzoth_cthun_90808081946543_Flay_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIEREAAAAAAAAAAAAgkkWEJSLikERSig0IJJRaEkgQKSLkEAC # VF_yshaarj_cthun_81144678134703_Flay_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgkkWSkENikEJRigUIJJRaEIiQKSLkEUgA # VF_yshaarj_nzoth_cthun_90808354445231_Flay_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAkAJEAAAAAAAAAAAAgkkWSkENikEJRigUIJJRaEIiQKSLkEUgA # VF_yshaarj_nzoth_cthun_90808354445231_Flay_DR
 gear:
-  head: "mask_of_the_furnace_seraph,id=202542,ilevel=447" # haste/crit
-  neck: "bromachs_disentombed_locket,id=193809,ilevel=447" # haste/mastery
-  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=450" # haste/mastery
-  back: "putrid_carapace,id=134408,ilevel=447" # mastery/crit
-  chest: "vibrant_wildercloth_vestments,id=193509,bonus_id=8836/8840/8902/8802/8793,ilevel=447" # haste=mastery
-  wrists: "sunfrost_wristwraps,id=139130,ilevel=447" # haste/crit
-  hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=447" # vers/haste
-  waist: "lost_heros_waist_wrap,id=193816,ilevel=447" # mastery/haste
-  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=450" # mastery/crit
-  feet: "sandals_of_the_west_wind,id=133370,ilevel=447" # mastery=crit
-  finger1: "loop_of_pulsing_veins,id=159463,ilevel=447" # haste/mastery
-  finger2: "loop_of_vitriolic_intent,id=134530,ilevel=447" # haste/mastery
-  trinket1: "spoils_of_neltharus,id=193773,ilevel=447"
-  trinket2: "ominous_chromatic_essence,id=203729,ilevel=444"
-  main_hand: "erethos_the_empty_promise,id=202565,ilevel=450" # haste/mastery
+  head: "crest_of_lunar_communion,id=207281,ilevel=489" # mastery/crit
+  neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
+  shoulders: "shoulderguardians_of_lunar_communion,id=207279,ilevel=489" # crit/mastery
+  back: "mantle_of_blazing_sacrifice,id=207161,ilevel=489" # mastery/crit
+  chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=489" # haste/crit
+  wrists: "fading_flame_wristbands,id=210204,ilevel=489" # mastery/haste
+  hands: "touch_of_lunar_communion,id=207282,ilevel=489" # haste/crit
+  waist: "blooming_redeemers_sash,id=207124,ilevel=489" # haste/mastery
+  legs: "leggings_of_lunar_communion,id=207280,ilevel=489" # haste/mastery
+  feet: "slippers_of_heedless_sacrifice,id=134419,ilevel=489" # crit/haste
+  finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
+  finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
+  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
+  trinket2: "nymues_unraveling_spindle,id=208615,ilevel=489"
+  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=489" # haste/mastery
   off_hand: ""
+gems:
+  meta: "192985"
+  main: "192925"
+enchants:
+  head: "7052"
+  chest: "6625"
+  ring: "6562"
+  legs: "6541"
+  main_hand: "6643"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
@@ -60,6 +69,7 @@ sims:
       - apl.simc
   consumables:
     description: "Sims Food and Augment Rune consumables you can use to augment your character."
+    iterations: 20000
     builds: true
     weights: false
     chart: true
@@ -70,6 +80,7 @@ sims:
       - consumables.simc
   enchants:
     description: "Sims all possible enchants to your characters gear by slot. Lists each enchant at ranks 1, 2, and 3."
+    iterations: 20000
     builds: true
     weights: false
     chart: true
@@ -137,18 +148,10 @@ sims:
       - DA-Flay.simc
       - DA-Spike_DR.simc
       - DA-Flay_DR.simc
-      - DA-Spike_TS.simc
-      - DA-Flay_TS.simc
-      - DA-Spike_DR_TS.simc
-      - DA-Flay_DR_TS.simc
       - VF-Spike.simc
       - VF-Flay.simc
       - VF-Spike_DR.simc
       - VF-Flay_DR.simc
-      - VF-Spike_TS.simc
-      - VF-Flay_TS.simc
-      - VF-Spike_DR_TS.simc
-      - VF-Flay_DR_TS.simc
   talents-top:
     description: "Shows top talents."
     builds: false
@@ -186,20 +189,18 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 411
-      - 415
-      - 418
-      - 421
-      - 424
-      - 428
-      - 431
-      - 434
       - 437
       - 441
-      - 444
       - 447
       - 450
       - 457
+      - 463
+      - 470
+      - 476
+      - 483
+      - 486
+      - 489
+      - 496
     files:
       - raid.simc
       - dungeons.simc
@@ -214,17 +215,18 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsAberrusTheShadowedCrucible
+compositeWeights: weightsAmirdrassilTheDreamsHope
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
+threeTargetWeights: weightsThreeTargets
 fourTargetWeights: weightsFourTargets
 singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 2
-dungeonStandardWeights: weightsStandardSeasonTwo
-dungeonPushWeights: weightsPushSeasonTwo
+dungeonSeason: 3
+dungeonStandardWeights: weightsStandardSeasonThree
+dungeonPushWeights: weightsPushSeasonThree
 simcBuild: latest
 defaultIterations: 10000
 raidbots:
@@ -237,9 +239,14 @@ analyze:
   csv: true
   json: true
 stats:
-  base: 1600
-  steps: 1000
-  total: 12600
+  base: 2000
+  steps: 500
+  total: 16000
+  min:
+    haste: 5000
+    mastery: 5000
+    crit: 0
+    vers: 0
   include:
     - mastery
     - haste

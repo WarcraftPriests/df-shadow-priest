@@ -55,7 +55,10 @@ def generate_parser(description):
 def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
     season = config["dungeonSeason"]
-    if season == 2:
+    if season == 3:
+        keys = ["atal", "brh", "dht", "everbloom",
+                "galakrond", "murozond", "tott", "waycrest"]
+    elif season == 2:
         keys = ["bhh", "freehold", "hoi", "neltharus",
                 "nelths", "ulda", "ur", "vtp"]
     else:

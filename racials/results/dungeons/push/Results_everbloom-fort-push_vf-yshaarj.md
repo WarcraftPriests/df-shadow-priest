@@ -1,0 +1,34 @@
+# everbloom-fort-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|200845|1.25%|
+|Goblin|200285|0.96%|
+|Gnome|200234|0.94%|
+|Night_Elf_Haste|200228|0.93%|
+|Void_Elf|200149|0.89%|
+|Mechagnome|200106|0.87%|
+|Troll|200089|0.86%|
+|Highmountain_Tauren|200032|0.84%|
+|Kul_Tiran|199931|0.78%|
+|Tauren|199860|0.75%|
+|Nightborne|199821|0.73%|
+|Zandalari_Troll_Paku|199758|0.70%|
+|Dwarf|199757|0.70%|
+|Blood_Elf|199729|0.68%|
+|Night_Elf_Crit|199695|0.67%|
+|Worgen|199684|0.66%|
+|Orc|199613|0.62%|
+|Draenei|199506|0.57%|
+|Panda_Haste|199372|0.50%|
+|Panda_Vers|199357|0.50%|
+|Dark_Iron_Dwarf|199274|0.45%|
+|Maghar_Orc|199210|0.42%|
+|Panda_Fortune_Cookie|199209|0.42%|
+|Panda_Crit|199144|0.39%|
+|Panda_Mastery|198872|0.25%|
+|Zandalari_Troll_Bwonsamdi|198693|0.16%|
+|Undead|198623|0.13%|
+|Zandalari_Troll_Kimbul|198564|0.10%|
+|Lightforged_Draenei|198411|0.02%|
+|Vulpera|198392|0.01%|
+|Base|198375|0.00%|

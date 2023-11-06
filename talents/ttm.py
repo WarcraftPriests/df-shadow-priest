@@ -1,24 +1,11 @@
 """Updates profile names from TTM to be more readable"""
+import yaml
+
+with open("../config.yml", "r", encoding="utf8") as ymlfile:
+    config = yaml.load(ymlfile, Loader=yaml.FullLoader)
 
 if __name__ == '__main__':
-    profiles = [
-        "DA-Spike.simc",
-        "DA-Flay.simc",
-        "DA-Spike_DR.simc",
-        "DA-Flay_DR.simc",
-        "DA-Spike_TS.simc",
-        "DA-Flay_TS.simc",
-        "DA-Spike_DR_TS.simc",
-        "DA-Flay_DR_TS.simc",
-        "VF-Spike.simc",
-        "VF-Flay.simc",
-        "VF-Spike_DR.simc",
-        "VF-Flay_DR.simc",
-        "VF-Spike_TS.simc",
-        "VF-Flay_TS.simc",
-        "VF-Spike_DR_TS.simc",
-        "VF-Flay_DR_TS.simc",
-    ]
+    profiles = config["sims"]["talents"]["files"]
     for profile in profiles:
         OUTPUT_FILE = ""
         lines_seen = set()
@@ -42,7 +29,7 @@ if __name__ == '__main__':
             TALENT = profile[:2]
             line = line.replace('Solved loadout ', TALENT + "_")
             line = line.replace(
-                ' 1111', "_" + profile.split('-')[1].split('.simc')[0])
+                ' 1112', "_" + profile.split('-')[1].split('.simc')[0])
 
             # Don't add combos that waste points on TS without Yogg
             if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
@@ -54,26 +41,27 @@ if __name__ == '__main__':
             if "inescapable_torment" in line and "yshaarj" not in line:
                 continue
 
-            # Make sure you are efficiently spending points
-            HALF_SELECTED_MID_TALENTS = 0
-            for t in ["maddening_touch", "dark_evangelism", "mind_devourer", "phantasmal_pathogen"]:  # noqa: E501
-                if t + ":1" in line:
-                    HALF_SELECTED_MID_TALENTS = HALF_SELECTED_MID_TALENTS + 1
+            # NOTE: Current builds dont need these restrictions
+            # # Make sure you are efficiently spending points
+            # HALF_SELECTED_MID_TALENTS = 0
+            # for t in ["maddening_touch", "dark_evangelism", "mind_devourer", "phantasmal_pathogen"]:  # noqa: E501
+            #     if t + ":1" in line:
+            #         HALF_SELECTED_MID_TALENTS = HALF_SELECTED_MID_TALENTS + 1
 
-            if HALF_SELECTED_MID_TALENTS >= 2:
-                continue
+            # if HALF_SELECTED_MID_TALENTS >= 2:
+            #     continue
 
-            HALF_SELECTED_BOT_TALENTS = 0
-            for t in ["mastermind", "screams_of_the_void", "insidious_ire"]:
-                if t + ":1" in line:
-                    HALF_SELECTED_BOT_TALENTS = HALF_SELECTED_BOT_TALENTS + 1
+            # HALF_SELECTED_BOT_TALENTS = 0
+            # for t in ["mastermind", "screams_of_the_void", "insidious_ire"]:
+            #     if t + ":1" in line:
+            #         HALF_SELECTED_BOT_TALENTS = HALF_SELECTED_BOT_TALENTS + 1
 
-            if HALF_SELECTED_BOT_TALENTS >= 2:
-                continue
+            # if HALF_SELECTED_BOT_TALENTS >= 2:
+            #     continue
 
-            # Only use Deathspeaker with Mastermind or Inescapable Torment
-            if "deathspeaker" in line and "mastermind" not in line and "inescapable" not in line:  # noqa: E501
-                continue
+            # # Only use Deathspeaker with Mastermind or Inescapable Torment
+            # if "deathspeaker" in line and "mastermind" not in line and "inescapable" not in line:  # noqa: E501
+            #     continue
 
             idols = ["yshaarj", "nzoth", "yogg", "cthun"]
             IDOLS_USED = ""

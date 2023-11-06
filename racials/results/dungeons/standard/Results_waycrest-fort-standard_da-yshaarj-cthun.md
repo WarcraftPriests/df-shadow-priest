@@ -1,0 +1,34 @@
+# waycrest-fort-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|169020|0.88%|
+|Tauren|168850|0.78%|
+|Dwarf|168819|0.76%|
+|Mechagnome|168730|0.71%|
+|Troll|168710|0.70%|
+|Highmountain_Tauren|168675|0.68%|
+|Night_Elf_Haste|168643|0.66%|
+|Goblin|168588|0.62%|
+|Kul_Tiran|168574|0.62%|
+|Gnome|168568|0.61%|
+|Void_Elf|168552|0.60%|
+|Nightborne|168532|0.59%|
+|Night_Elf_Crit|168506|0.58%|
+|Zandalari_Troll_Paku|168500|0.57%|
+|Worgen|168475|0.56%|
+|Blood_Elf|168470|0.55%|
+|Orc|168363|0.49%|
+|Draenei|168272|0.44%|
+|Panda_Vers|168216|0.40%|
+|Dark_Iron_Dwarf|168173|0.38%|
+|Maghar_Orc|168062|0.31%|
+|Panda_Crit|168056|0.31%|
+|Panda_Fortune_Cookie|168048|0.30%|
+|Panda_Mastery|168016|0.28%|
+|Panda_Haste|167809|0.16%|
+|Zandalari_Troll_Bwonsamdi|167804|0.16%|
+|Undead|167770|0.14%|
+|Zandalari_Troll_Kimbul|167678|0.08%|
+|Lightforged_Draenei|167614|0.04%|
+|Vulpera|167571|0.02%|
+|Base|167542|0.00%|

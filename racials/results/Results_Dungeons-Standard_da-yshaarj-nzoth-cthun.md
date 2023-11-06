@@ -1,0 +1,34 @@
+# Dungeons-Standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|186052|1.11%|
+|Dwarf|185704|0.92%|
+|Tauren|185695|0.91%|
+|Mechagnome|185684|0.91%|
+|Void_Elf|185537|0.83%|
+|Goblin|185518|0.82%|
+|Highmountain_Tauren|185509|0.81%|
+|Gnome|185508|0.81%|
+|Kul_Tiran|185498|0.80%|
+|Night_Elf_Haste|185463|0.79%|
+|Zandalari_Troll_Paku|185386|0.74%|
+|Nightborne|185386|0.74%|
+|Blood_Elf|185351|0.72%|
+|Troll|185313|0.70%|
+|Night_Elf_Crit|185246|0.67%|
+|Worgen|185236|0.66%|
+|Orc|185133|0.61%|
+|Draenei|185041|0.56%|
+|Panda_Vers|184808|0.43%|
+|Dark_Iron_Dwarf|184790|0.42%|
+|Panda_Crit|184756|0.40%|
+|Panda_Fortune_Cookie|184740|0.39%|
+|Maghar_Orc|184704|0.37%|
+|Panda_Mastery|184566|0.30%|
+|Panda_Haste|184482|0.25%|
+|Zandalari_Troll_Bwonsamdi|184337|0.17%|
+|Undead|184296|0.15%|
+|Zandalari_Troll_Kimbul|184258|0.13%|
+|Lightforged_Draenei|184020|0.00%|
+|Base|184018|0.00%|
+|Vulpera|184006|-0.01%|

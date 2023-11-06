@@ -102,6 +102,8 @@ def run_sims(args, iterations, talent):
                                    ).get(profile_name) or 0
             weight += find_weights(config["twoTargetWeights"]
                                    ).get(profile_name) or 0
+            weight += find_weights(config["threeTargetWeights"]
+                                   ).get(profile_name) or 0
             weight += find_weights(config["fourTargetWeights"]
                                    ).get(profile_name) or 0
         elif args.dungeons:

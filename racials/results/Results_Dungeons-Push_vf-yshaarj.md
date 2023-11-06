@@ -1,0 +1,34 @@
+# Dungeons-Push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|164111|1.14%|
+|Goblin|163681|0.87%|
+|Gnome|163675|0.87%|
+|Night_Elf_Haste|163640|0.85%|
+|Mechagnome|163630|0.84%|
+|Void_Elf|163506|0.77%|
+|Highmountain_Tauren|163476|0.75%|
+|Kul_Tiran|163461|0.74%|
+|Dwarf|163414|0.71%|
+|Tauren|163404|0.70%|
+|Nightborne|163389|0.69%|
+|Troll|163362|0.68%|
+|Zandalari_Troll_Paku|163318|0.65%|
+|Blood_Elf|163302|0.64%|
+|Night_Elf_Crit|163247|0.61%|
+|Worgen|163222|0.59%|
+|Orc|163132|0.54%|
+|Draenei|163119|0.53%|
+|Panda_Vers|162929|0.41%|
+|Panda_Haste|162915|0.40%|
+|Dark_Iron_Dwarf|162896|0.39%|
+|Panda_Crit|162854|0.36%|
+|Panda_Fortune_Cookie|162842|0.36%|
+|Maghar_Orc|162789|0.32%|
+|Panda_Mastery|162706|0.27%|
+|Zandalari_Troll_Bwonsamdi|162558|0.18%|
+|Undead|162539|0.17%|
+|Zandalari_Troll_Kimbul|162491|0.14%|
+|Vulpera|162289|0.02%|
+|Lightforged_Draenei|162283|0.01%|
+|Base|162263|0.00%|

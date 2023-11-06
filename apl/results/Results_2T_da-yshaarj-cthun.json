@@ -1,0 +1,1 @@
+{"name": "2T - da-yshaarj-cthun", "data": {"dont_swd_if_capped_on_insanity": {"DPS": 248381}, "dp_above_swd": {"DPS": 248143}, "Base": {"DPS": 248083}}, "ids": {"dont_swd_if_capped_on_insanity": null, "dp_above_swd": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dont_swd_if_capped_on_insanity", "dp_above_swd"], "last_updated": "2023-10-15"}

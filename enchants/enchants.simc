@@ -7,24 +7,28 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=192948
-neck=${gear.neck},gem_id=192985/192948/192948
+head=${gear.head},gem_id=${gems.main}
+neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
 chest=${gear.chest}
-wrists=${gear.wrists},gem_id=192948
+wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=192948
+waist=${gear.waist},gem_id=${gems.main}
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},gem_id=192948
-finger2=${gear.finger2},gem_id=192948
+finger1=${gear.finger1},gem_id=${gems.main}
+finger2=${gear.finger2},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
 main_hand=${gear.main_hand}
 ${gear.off_hand}
 
 temporary_enchant=disabled
+
+# Head
+## TODO check this: https://www.wowhead.com/ptr-2/item=210494/incandescent-essence
+profileset."Head_Incandescent_Essence_1"+=head=${gear.head},gem_id=${gems.main},enchant_id=7052
 
 # Temporary Enchants
 profileset."Temp_Weapon_Howling_Rune_1"+=temporary_enchant=main_hand:howling_rune_1
@@ -105,34 +109,34 @@ profileset."Chest_Waking_Stats_3"+=chest=${gear.chest},enchant=waking_stats_3
 
 # Ring
 ## TODO: convert to enchant= when parsing works
-profileset."Ring_Devotion_of_Critical_Strike_1"+=finger1=${gear.finger1},enchant_id=6548,gem_id=192948
-profileset."Ring_Devotion_of_Critical_Strike_2"+=finger1=${gear.finger1},enchant_id=6549,gem_id=192948
-profileset."Ring_Devotion_of_Critical_Strike_3"+=finger1=${gear.finger1},enchant_id=6550,gem_id=192948
+profileset."Ring_Devotion_of_Critical_Strike_1"+=finger1=${gear.finger1},enchant_id=6548,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Critical_Strike_2"+=finger1=${gear.finger1},enchant_id=6549,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Critical_Strike_3"+=finger1=${gear.finger1},enchant_id=6550,gem_id=${gems.main}
 
-profileset."Ring_Devotion_of_Haste_1"+=finger1=${gear.finger1},enchant_id=6554,gem_id=192948
-profileset."Ring_Devotion_of_Haste_2"+=finger1=${gear.finger1},enchant_id=6555,gem_id=192948
-profileset."Ring_Devotion_of_Haste_3"+=finger1=${gear.finger1},enchant_id=6556,gem_id=192948
+profileset."Ring_Devotion_of_Haste_1"+=finger1=${gear.finger1},enchant_id=6554,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Haste_2"+=finger1=${gear.finger1},enchant_id=6555,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Haste_3"+=finger1=${gear.finger1},enchant_id=6556,gem_id=${gems.main}
 
-profileset."Ring_Devotion_of_Mastery_1"+=finger1=${gear.finger1},enchant_id=6560,gem_id=192948
-profileset."Ring_Devotion_of_Mastery_2"+=finger1=${gear.finger1},enchant_id=6561,gem_id=192948
-profileset."Ring_Devotion_of_Mastery_3"+=finger1=${gear.finger1},enchant_id=6562,gem_id=192948
+profileset."Ring_Devotion_of_Mastery_1"+=finger1=${gear.finger1},enchant_id=6560,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Mastery_2"+=finger1=${gear.finger1},enchant_id=6561,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Mastery_3"+=finger1=${gear.finger1},enchant_id=6562,gem_id=${gems.main}
 
-profileset."Ring_Devotion_of_Versatility_1"+=finger1=${gear.finger1},enchant_id=6566,gem_id=192948
-profileset."Ring_Devotion_of_Versatility_2"+=finger1=${gear.finger1},enchant_id=6567,gem_id=192948
-profileset."Ring_Devotion_of_Versatility_3"+=finger1=${gear.finger1},enchant_id=6568,gem_id=192948
+profileset."Ring_Devotion_of_Versatility_1"+=finger1=${gear.finger1},enchant_id=6566,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Versatility_2"+=finger1=${gear.finger1},enchant_id=6567,gem_id=${gems.main}
+profileset."Ring_Devotion_of_Versatility_3"+=finger1=${gear.finger1},enchant_id=6568,gem_id=${gems.main}
 
-profileset."Ring_Writ_of_Critical_Strike_1"+=finger1=${gear.finger1},enchant_id=6545,gem_id=192948
-profileset."Ring_Writ_of_Critical_Strike_2"+=finger1=${gear.finger1},enchant_id=6546,gem_id=192948
-profileset."Ring_Writ_of_Critical_Strike_3"+=finger1=${gear.finger1},enchant_id=6547,gem_id=192948
+profileset."Ring_Writ_of_Critical_Strike_1"+=finger1=${gear.finger1},enchant_id=6545,gem_id=${gems.main}
+profileset."Ring_Writ_of_Critical_Strike_2"+=finger1=${gear.finger1},enchant_id=6546,gem_id=${gems.main}
+profileset."Ring_Writ_of_Critical_Strike_3"+=finger1=${gear.finger1},enchant_id=6547,gem_id=${gems.main}
 
-profileset."Ring_Writ_of_Haste_1"+=finger1=${gear.finger1},enchant_id=6551,gem_id=192948
-profileset."Ring_Writ_of_Haste_2"+=finger1=${gear.finger1},enchant_id=6552,gem_id=192948
-profileset."Ring_Writ_of_Haste_3"+=finger1=${gear.finger1},enchant_id=6553,gem_id=192948
+profileset."Ring_Writ_of_Haste_1"+=finger1=${gear.finger1},enchant_id=6551,gem_id=${gems.main}
+profileset."Ring_Writ_of_Haste_2"+=finger1=${gear.finger1},enchant_id=6552,gem_id=${gems.main}
+profileset."Ring_Writ_of_Haste_3"+=finger1=${gear.finger1},enchant_id=6553,gem_id=${gems.main}
 
-profileset."Ring_Writ_of_Mastery_1"+=finger1=${gear.finger1},enchant_id=6557,gem_id=192948
-profileset."Ring_Writ_of_Mastery_2"+=finger1=${gear.finger1},enchant_id=6558,gem_id=192948
-profileset."Ring_Writ_of_Mastery_3"+=finger1=${gear.finger1},enchant_id=6559,gem_id=192948
+profileset."Ring_Writ_of_Mastery_1"+=finger1=${gear.finger1},enchant_id=6557,gem_id=${gems.main}
+profileset."Ring_Writ_of_Mastery_2"+=finger1=${gear.finger1},enchant_id=6558,gem_id=${gems.main}
+profileset."Ring_Writ_of_Mastery_3"+=finger1=${gear.finger1},enchant_id=6559,gem_id=${gems.main}
 
-profileset."Ring_Writ_of_Versatility_1"+=finger1=${gear.finger1},enchant_id=6563,gem_id=192948
-profileset."Ring_Writ_of_Versatility_2"+=finger1=${gear.finger1},enchant_id=6564,gem_id=192948
-profileset."Ring_Writ_of_Versatility_3"+=finger1=${gear.finger1},enchant_id=6565,gem_id=192948
+profileset."Ring_Writ_of_Versatility_1"+=finger1=${gear.finger1},enchant_id=6563,gem_id=${gems.main}
+profileset."Ring_Writ_of_Versatility_2"+=finger1=${gear.finger1},enchant_id=6564,gem_id=${gems.main}
+profileset."Ring_Writ_of_Versatility_3"+=finger1=${gear.finger1},enchant_id=6565,gem_id=${gems.main}

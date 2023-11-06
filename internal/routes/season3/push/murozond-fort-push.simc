@@ -1,0 +1,35 @@
+# !TrvtpYjmm0)sts4ZRT7LPhORev9yKGbNvSLcvmHT72F912jKjHfj0myt8ZpB)C0c9p0Tl9Vc3S3XxT62TXbDBx5K5BF0)pyScnggwM)jSEFCzw3KjVCr3(w30gqXEBBDfMTpVnnPBe1bhTB9tWBa5u3(h8Re8nC6UTmTSQBngfymOVlUVGpwDtDKbAkztH3PIC84Lm(jh9uQBkW)QOcWdpbEnGoLbePyu(GrSfzP5sDGCkkAL)mzCe7ebdLzsoJMOiboPdUSeQl8C3rbbJiv6e9Rz2xXGOcG4yBCbvt9llfsmrn9jevKq0CgMcoPLoEvWFQm545jwvrwXTtopfjTZ9okJC5Hgi3(pmqzSvXD(gz1bitZQRMzyKzNWmCmZDav(NGPrwMMDNwtMuUQKoNSiXsDARq5heIy9CNW1H4YXLnw6f3nBkpTac45tN)mUcb5CyrGTiN1CFV6HoZJFbN7d7arIt3rRzmQcQIa6577vQuTNFDisQKkVIGOmsXXZG8tBH7A5D9K)mHTK4s2nMoTZXIFcMyT3UwT4WWVs)z9PmwFgMvp2(O4QpGnDRL6sc42WfFpTn)cSmFD4DAyHx(zb43JZVO71T3Hj8Iw6AuFS1uGRJg73nM7GnCh5oKuoFUBcSw46SzH4r3MD5RKFcZVC4musPBQWK(o(7tGPBBcFzy0ygVHV(bVt0(xa(LJ66))
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=0
+max_time=2700
+enemy="DOTI: Murozond's Rise 27 Tyrannical"
+enemy_health=9999999
+keystone_level=27
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=007,enemies="Infinite_Saboteur_1":6586337:Dragonkin|"Infinite_Diversionist_1":4829981:Dragonkin
+raid_events+=/pull,pull=02,bloodlust=0,delay=014,enemies="Temporal_Fusion_1":1383130:Elemental|"Temporal_Fusion_2":1383130:Elemental|"Temporal_Fusion_3":1383130:Elemental|"Temporal_Fusion_4":1383130:Elemental|"Temporal_Fusion_5":1383130:Elemental|"Temporal_Fusion_6":1383130:Elemental|"Temporal_Deviation_1":482997:Aberration|"Temporal_Deviation_2":482997:Aberration|"Temporal_Deviation_3":482997:Aberration|"Timestream_Anomaly_1":2810169:Aberration
+raid_events+=/pull,pull=03,bloodlust=0,delay=006,enemies="Infinite_Riftmage_1":2854080:Dragonkin|"Temporal_Fusion_1":1383130:Elemental|"Temporal_Fusion_2":1383130:Elemental|"Temporal_Fusion_3":1383130:Elemental|"Timestream_Anomaly_1":2810169:Aberration
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,enemies="Temporal_Fusion_1":1383130:Elemental|"Temporal_Fusion_2":1383130:Elemental|"Temporal_Fusion_3":1383130:Elemental|"Temporal_Fusion_4":1383130:Elemental|"Temporal_Fusion_5":1383130:Elemental|"Temporal_Fusion_6":1383130:Elemental|"Infinite_Riftmage_1":2854080:Dragonkin|"Infinite_Riftmage_2":2854080:Dragonkin
+raid_events+=/pull,pull=05,bloodlust=0,delay=005,enemies="Infinite_Riftmage_1":2854080:Dragonkin|"Temporal_Fusion_1":1383130:Elemental|"Temporal_Fusion_2":1383130:Elemental|"Temporal_Fusion_3":1383130:Elemental
+raid_events+=/pull,pull=06,bloodlust=0,delay=009,enemies="Time-Lost_Waveshaper_1":1756356:Humanoid|"Infinite_Timebender_1":3512713:Dragonkin|"Time-Lost_Tidehunter_1":1975902:Humanoid|"Time-Lost_Wakethrasher_1":439089:Humanoid|"Time-Lost_Wakethrasher_2":439089:Humanoid|"Time-Lost_Wakethrasher_3":439089:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=007,enemies="BOSS_Morchie":17970391:Aberration
+raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Chronaxie_1":2810169:Aberration|"Pendule_1":1405084:Elemental|"Pendule_2":1405084:Elemental
+raid_events+=/pull,pull=09,bloodlust=0,delay=012,enemies="Alliance_Destroyer_1":6586337:Mechanical|"Alliance_Knight_1":2195445:Humanoid|"Alliance_Knight_2":2195445:Humanoid|"Paladin_of_the_Silver_Hand_1":3512713:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=010,enemies="Alliance_Archer_1":548860:Humanoid|"BOSS_Anduin_Lothar":17114656:Humanoid|"Alliance_Footman_1":439089:Humanoid|"Alliance_Conjuror_1":329317:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=008,enemies="Timeline_Marauder_1":2634534:Dragonkin|"Infinite_Watchkeeper_1":6586337:Dragonkin
+raid_events+=/pull,pull=12,bloodlust=0,delay=011,enemies="Tyr's_Vanguard_1":2195445:Humanoid|"Tyr's_Vanguard_2":2195445:Humanoid|"Infinite_Twilight_Magus_1":2195445:Dragonkin|"Infinite_Twilight_Magus_2":2195445:Dragonkin|"Infinite_Twilight_Magus_3":2195445:Dragonkin|"Lerai_Timesworn_Maiden_1":5269070:Mechanical
+raid_events+=/pull,pull=13,bloodlust=0,delay=005,enemies="Tyr's_Vanguard_1":2195445:Humanoid|"Tyr's_Vanguard_2":2195445:Humanoid|"Tyr's_Vanguard_3":2195445:Humanoid|"Infinite_Twilight_Magus_1":2195445:Dragonkin|"Infinite_Twilight_Magus_2":2195445:Dragonkin|"Infinite_Twilight_Magus_3":2195445:Dragonkin
+raid_events+=/pull,pull=14,bloodlust=0,delay=007,enemies="Tyr's_Vanguard_1":2195445:Humanoid|"Tyr's_Vanguard_2":2195445:Humanoid|"Infinite_Twilight_Magus_1":2195445:Dragonkin|"Infinite_Twilight_Magus_2":2195445:Dragonkin|"Infinite_Twilight_Magus_3":2195445:Dragonkin|"Spurlok_Timesworn_Sentinel_1":5269070:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,enemies="Tyr's_Vanguard_1":2195445:Humanoid|"Tyr's_Vanguard_2":2195445:Humanoid|"Infinite_Twilight_Magus_1":2195445:Dragonkin|"Valow_Timesworn_Keeper_1":5269070:Mechanical
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,enemies="BOSS_Tyr_the_Infinite_Keeper":21713306:Giant
+raid_events+=/pull,pull=17,bloodlust=0,delay=007,enemies="Infinite_Slayer_1":6586337:Dragonkin|"Timeline_Marauder_1":2634534:Dragonkin|"Timeline_Marauder_2":2634534:Dragonkin
+raid_events+=/pull,pull=18,bloodlust=0,delay=013,enemies="BOSS_Chrono-Lord_Deios":228195417:Dragonkin

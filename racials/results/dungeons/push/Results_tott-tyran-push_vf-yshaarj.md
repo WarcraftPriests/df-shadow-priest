@@ -1,0 +1,34 @@
+# tott-tyran-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|201295|1.21%|
+|Mechagnome|200699|0.91%|
+|Goblin|200626|0.87%|
+|Night_Elf_Haste|200594|0.86%|
+|Gnome|200543|0.83%|
+|Void_Elf|200483|0.80%|
+|Kul_Tiran|200428|0.78%|
+|Highmountain_Tauren|200356|0.74%|
+|Tauren|200290|0.71%|
+|Blood_Elf|200273|0.70%|
+|Nightborne|200221|0.67%|
+|Troll|200201|0.66%|
+|Dwarf|200177|0.65%|
+|Night_Elf_Crit|200134|0.63%|
+|Zandalari_Troll_Paku|200058|0.59%|
+|Worgen|200012|0.57%|
+|Orc|199974|0.55%|
+|Draenei|199926|0.52%|
+|Panda_Vers|199734|0.43%|
+|Panda_Haste|199620|0.37%|
+|Panda_Fortune_Cookie|199618|0.37%|
+|Panda_Crit|199598|0.36%|
+|Dark_Iron_Dwarf|199524|0.32%|
+|Maghar_Orc|199451|0.28%|
+|Panda_Mastery|199356|0.24%|
+|Undead|199074|0.09%|
+|Zandalari_Troll_Bwonsamdi|199058|0.09%|
+|Zandalari_Troll_Kimbul|199038|0.08%|
+|Base|198886|0.00%|
+|Lightforged_Draenei|198835|-0.03%|
+|Vulpera|198735|-0.08%|

@@ -1,0 +1,34 @@
+# everbloom-tyran-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|180415|0.88%|
+|Tauren|180220|0.78%|
+|Mechagnome|180171|0.75%|
+|Dwarf|180168|0.75%|
+|Troll|180134|0.73%|
+|Night_Elf_Haste|180058|0.68%|
+|Gnome|180026|0.67%|
+|Goblin|180008|0.66%|
+|Highmountain_Tauren|179962|0.63%|
+|Kul_Tiran|179944|0.62%|
+|Void_Elf|179935|0.62%|
+|Nightborne|179876|0.58%|
+|Zandalari_Troll_Paku|179844|0.57%|
+|Blood_Elf|179783|0.53%|
+|Worgen|179775|0.53%|
+|Night_Elf_Crit|179750|0.51%|
+|Orc|179746|0.51%|
+|Draenei|179615|0.44%|
+|Dark_Iron_Dwarf|179495|0.37%|
+|Panda_Vers|179420|0.33%|
+|Panda_Crit|179370|0.30%|
+|Panda_Fortune_Cookie|179299|0.26%|
+|Maghar_Orc|179294|0.26%|
+|Panda_Haste|179249|0.23%|
+|Panda_Mastery|179211|0.21%|
+|Zandalari_Troll_Bwonsamdi|179007|0.10%|
+|Zandalari_Troll_Kimbul|178964|0.07%|
+|Undead|178937|0.06%|
+|Base|178833|0.00%|
+|Lightforged_Draenei|178743|-0.05%|
+|Vulpera|178731|-0.06%|

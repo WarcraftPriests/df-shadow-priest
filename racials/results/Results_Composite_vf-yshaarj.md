@@ -1,0 +1,34 @@
+# Composite - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|215612|1.60%|
+|Troll|214694|1.17%|
+|Gnome|214617|1.13%|
+|Night_Elf_Haste|214606|1.12%|
+|Goblin|214586|1.11%|
+|Void_Elf|214490|1.07%|
+|Blood_Elf|214423|1.04%|
+|Dwarf|214373|1.01%|
+|Tauren|214351|1.00%|
+|Mechagnome|214273|0.97%|
+|Kul_Tiran|214237|0.95%|
+|Highmountain_Tauren|214179|0.92%|
+|Zandalari_Troll_Paku|214166|0.92%|
+|Nightborne|214083|0.88%|
+|Orc|214080|0.88%|
+|Worgen|213942|0.81%|
+|Night_Elf_Crit|213939|0.81%|
+|Draenei|213714|0.70%|
+|Dark_Iron_Dwarf|213599|0.65%|
+|Panda_Haste|213347|0.53%|
+|Maghar_Orc|213299|0.51%|
+|Panda_Crit|213285|0.50%|
+|Panda_Vers|213250|0.49%|
+|Panda_Fortune_Cookie|213135|0.43%|
+|Panda_Mastery|213043|0.39%|
+|Zandalari_Troll_Bwonsamdi|212634|0.20%|
+|Undead|212583|0.17%|
+|Zandalari_Troll_Kimbul|212575|0.17%|
+|Vulpera|212275|0.03%|
+|Base|212220|0.00%|
+|Lightforged_Draenei|212217|0.00%|

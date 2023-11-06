@@ -60,10 +60,40 @@ weights_aberrus_the_shadowed_crucible = {
     'hm_na_4': 0.00000000,
 }
 
+weights_amirdrassil_the_dreams_hope = {
+    'pw_ba_1': 0.00000000,
+    'pw_sa_1': 0.25555556,
+    'pw_na_1': 0.41111111,
+    'lm_ba_1': 0.00000000,
+    'lm_sa_1': 0.10000000,
+    'lm_na_1': 0.07777778,
+    'hm_ba_1': 0.00000000,
+    'hm_sa_1': 0.01111111,
+    'hm_na_1': 0.03333333,
+    'pw_ba_2': 0.00000000,
+    'pw_sa_2': 0.00000000,
+    'pw_na_2': 0.00000000,
+    'lm_ba_2': 0.00000000,
+    'lm_sa_2': 0.00000000,
+    'lm_na_2': 0.00000000,
+    'hm_ba_2': 0.00000000,
+    'hm_sa_2': 0.00000000,
+    'hm_na_2': 0.00000000,
+    'pw_ba_3': 0.00000000,
+    'pw_sa_3': 0.00000000,
+    'pw_na_3': 0.05555556,
+    'lm_ba_3': 0.00000000,
+    'lm_sa_3': 0.00000000,
+    'lm_na_3': 0.05555556,
+    'hm_ba_3': 0.00000000,
+    'hm_sa_3': 0.00000000,
+    'hm_na_3': 0.00000000,
+}
+
 weights_single = {
-    'pw_na_1': 0.59595959596,
-    'lm_na_1': 0.29292929293,
-    'hm_na_1': 0.11111111111,
+    'pw_na_1': 0.78723404255,
+    'lm_na_1': 0.14893617021,
+    'hm_na_1': 0.06382978723,
 }
 
 weights_two_targets = {
@@ -76,6 +106,18 @@ weights_two_targets = {
     'hm_ba_2': 0.000,
     'hm_sa_2': 0.000,
     'hm_na_2': 0.000,
+}
+
+weights_three_targets = {
+    'pw_ba_3': 0.000,
+    'pw_sa_3': 0.000,
+    'pw_na_3': 0.800,
+    'lm_ba_3': 0.000,
+    'lm_sa_3': 0.000,
+    'lm_na_3': 0.200,
+    'hm_ba_3': 0.000,
+    'hm_sa_3': 0.000,
+    'hm_na_3': 0.000,
 }
 
 weights_four_targets = {
@@ -148,6 +190,44 @@ weights_push_season_two = {
     "vtp-tyran-push": 0.0675,
 }
 
+weights_standard_season_three = {
+    "atal-fort-push": 0.0625,
+    "atal-tyran-push": 0.0625,
+    "brh-fort-push": 0.0625,
+    "brh-tyran-push": 0.0625,
+    "dht-fort-push": 0.0625,
+    "dht-tyran-push": 0.0625,
+    "everbloom-fort-push": 0.0625,
+    "everbloom-tyran-push": 0.0625,
+    "galakrond-fort-push": 0.0625,
+    "galakrond-tyran-push": 0.0625,
+    "murozond-fort-push": 0.0625,
+    "murozond-tyran-push": 0.0625,
+    "tott-fort-push": 0.0625,
+    "tott-tyran-push": 0.0625,
+    "waycrest-fort-push": 0.0625,
+    "waycrest-tyran-push": 0.0625,
+}
+
+weights_push_season_three = {
+    "atal-fort-standard": 0.0625,
+    "atal-tyran-standard": 0.0625,
+    "brh-fort-standard": 0.0625,
+    "brh-tyran-standard": 0.0625,
+    "dht-fort-standard": 0.0625,
+    "dht-tyran-standard": 0.0625,
+    "everbloom-fort-standard": 0.0625,
+    "everbloom-tyran-standard": 0.0625,
+    "galakrond-fort-standard": 0.0625,
+    "galakrond-tyran-standard": 0.0625,
+    "murozond-fort-standard": 0.0625,
+    "murozond-tyran-standard": 0.0625,
+    "tott-fort-standard": 0.0625,
+    "tott-tyran-standard": 0.0625,
+    "waycrest-fort-standard": 0.0625,
+    "waycrest-tyran-standard": 0.0625,
+}
+
 
 def find_weights(key):
     """return the matching dict"""
@@ -155,6 +235,8 @@ def find_weights(key):
         return weights_single
     if key == 'weightsTwoTargets':
         return weights_two_targets
+    if key == 'weightsThreeTargets':
+        return weights_three_targets
     if key == 'weightsFourTargets':
         return weights_four_targets
     if key == 'weightsVaultOfTheIncarnates':
@@ -167,4 +249,10 @@ def find_weights(key):
         return weights_standard_season_two
     if key == 'weightsPushSeasonTwo':
         return weights_push_season_two
+    if key == 'weightsAmirdrassilTheDreamsHope':
+        return weights_amirdrassil_the_dreams_hope
+    if key == 'weightsStandardSeasonThree':
+        return weights_standard_season_three
+    if key == 'weightsPushSeasonThree':
+        return weights_push_season_three
     return None
