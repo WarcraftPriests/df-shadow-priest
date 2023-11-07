@@ -1,18 +1,18 @@
 # everbloom-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|200318|4.47%|
-|Iced_Phial_of_Corrupting_Rage_85_3|199516|4.05%|
-|Phial_of_Static_Empowerment_3|198488|3.51%|
-|Phial_of_Charged_Isolation_3|198186|3.36%|
-|Phial_of_Tepid_Versatility_3|198099|3.31%|
-|Iced_Phial_of_Corrupting_Rage_70_3|198075|3.30%|
-|Phial_of_Elemental_Chaos_3|197126|2.80%|
-|Iced_Phial_of_Corrupting_Rage_50_3|196244|2.34%|
-|Iced_Phial_of_Corrupting_Rage_40_3|195457|1.93%|
-|Phial_of_Glacial_Fury_3|193794|1.07%|
-|Elemental_Potion_of_Ultimate_Power_3|192703|0.50%|
-|Elemental_Potion_of_Power_3|192423|0.35%|
-|Bottled_Putrescence_3|192227|0.25%|
-|Potion_of_Shocking_Disclosure_3|192205|0.24%|
-|Base|191751|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|200361|4.54%|
+|Iced_Phial_of_Corrupting_Rage_85_3|199478|4.08%|
+|Phial_of_Static_Empowerment_3|198567|3.61%|
+|Phial_of_Charged_Isolation_3|198201|3.42%|
+|Iced_Phial_of_Corrupting_Rage_70_3|198105|3.37%|
+|Phial_of_Tepid_Versatility_3|197994|3.31%|
+|Phial_of_Elemental_Chaos_3|197102|2.84%|
+|Iced_Phial_of_Corrupting_Rage_50_3|196247|2.40%|
+|Iced_Phial_of_Corrupting_Rage_40_3|195518|2.02%|
+|Phial_of_Glacial_Fury_3|193733|1.08%|
+|Elemental_Potion_of_Ultimate_Power_3|192777|0.59%|
+|Elemental_Potion_of_Power_3|192502|0.44%|
+|Bottled_Putrescence_3|192314|0.34%|
+|Potion_of_Shocking_Disclosure_3|192243|0.31%|
+|Base|191655|0.00%|
