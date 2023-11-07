@@ -213,9 +213,15 @@ profileset."2h_Illuminating_Pillar_of_the_Isles_486"+=off_hand=disabled
 profileset."2h_Weathered_Explorers_Stave_486"+=main_hand=weathered_explorers_stave,id=194894,ilevel=486,enchant_id=${enchants.main_hand}
 profileset."2h_Weathered_Explorers_Stave_486"+=off_hand=disabled
 
-profileset."MH_Jagged_Iris_Sica_489-OH_Crackling_Codex_of_the_Isles_486"+=main_hand=jagged_iris_sica,id=159133,ilevel=489,enchant_id=${enchants.main_hand}
-profileset."MH_Jagged_Iris_Sica_489-OH_Crackling_Codex_of_the_Isles_486"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=486,crafted_stats=49/36
+profileset."MH_Wand_of_Zealous_Purification_489-OH_Crackling_Codex_of_the_Isles_486"+=main_hand=wand_of_zealous_purification,id=158321,ilevel=489,enchant_id=${enchants.main_hand}
+profileset."MH_Wand_of_Zealous_Purification_489-OH_Crackling_Codex_of_the_Isles_486"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=486,crafted_stats=49/36
+
+profileset."MH_Morchies_Distorted_Spellblade_489-OH_Crackling_Codex_of_the_Isles_486"+=main_hand=morchies_distorted_spellblade,id=207997,ilevel=489,enchant_id=${enchants.main_hand}
+profileset."MH_Morchies_Distorted_Spellblade_489-OH_Crackling_Codex_of_the_Isles_486"+=off_hand=crackling_codex_of_the_isles,id=194879,ilevel=486,crafted_stats=49/36
 
 ## Leatherworking
-profileset."MH_Jagged_Iris_Sica_489-OH_Witherrot_Tome_486"+=main_hand=jagged_iris_sica,id=159133,ilevel=489,enchant_id=${enchants.main_hand}
-profileset."MH_Jagged_Iris_Sica_489-OH_Witherrot_Tome_486"+=off_hand=witherrot_tome,id=193496,ilevel=486,crafted_stats=49/36
+profileset."MH_Wand_of_Zealous_Purification_489-OH_Witherrot_Tome_486"+=main_hand=wand_of_zealous_purification,id=158321,ilevel=489,enchant_id=${enchants.main_hand}
+profileset."MH_Wand_of_Zealous_Purification_489-OH_Witherrot_Tome_486"+=off_hand=witherrot_tome,id=193496,ilevel=486,crafted_stats=49/36
+
+profileset."MH_Morchies_Distorted_Spellblade_489-OH_Witherrot_Tome_486"+=main_hand=morchies_distorted_spellblade,id=207997,ilevel=489,enchant_id=${enchants.main_hand}
+profileset."MH_Morchies_Distorted_Spellblade_489-OH_Witherrot_Tome_486"+=off_hand=witherrot_tome,id=193496,ilevel=486,crafted_stats=49/36
