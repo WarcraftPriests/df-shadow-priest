@@ -1,4 +1,4 @@
-# !TnvxVXniqW)sMV8hV2evP(cnsoTs9LvY3DqKtCTRUdNM8VVSlgm4R6Kob4Hz2zyxGbpd9lNE1C2DZV0b9)1yEd0mOF4YLL5FAUEBCzg0sEvf0VoEb6R)8TFXNF4R)4vf0FEzA56tdtgNZ8Tz7cY3WQB5b88X5xGVCaZLp8KHc5mF4))rJDyDYV4YO1oE2V8tqZ9s9(W0Qbz7861RMz3tRtt(6QjDq)6PjZ7MjQyVoADF3AVziBOzKxCjSpUo)IzzMeNPqTn)glUtq)nZK38OhP7Hk4V3F8QLys3g)M)tAwv2UG3GERvySwq3vGuTTRZBj6Iyn5xINYYrk22GAtQLRdpthuLodOJmljMfi(Um4AgprpcGWqWsIf1xeLC)UvjYlnOWSRISqffjrDGFzb)HkuLRIGoswOLQWKDfHPkWRI6gILJ9ewomrwm6Wsix7MuzTxQT0znhYupxo80NlmmM0PhXCYKX8k4o(MPub7YdbIarRz1HRwrs77UWUbwlzDnRlu2TzcJLd6(KWScjzHNt)EuswiH9XakP)kKKXITLW0fGuLcYUcB2fcY6YGC7HrwKA1eFnz8P7GyJEEGsddoi8sepEGr5CQnODVZGPUVBzpKda5nHqoyhEnjVyBMIEEpomMyTTGpX2aHimuij(erFV1qfGw)FBwW2c5DiYKOSnxl2CuSfKYmzwZTUU4kXf3n9ftQJdk8CFkZ2GxOgUFSP5WJDZH(pedVQau4h8Vp
+# !TrvtVnkmq0Frvc)by4y7UQs9cBLC0EypyfcyNYgkolyA7Ej)2xpEaIjzvqeZm2V3BE2Eue1oLSP1yARN6C)vvstuYP2gL0M(456xE08R)8Psw10y7)PEyS12Rk50eMswB7SdVw1PDo9l9glGu1KZ(niEB)r1t3mNMV8lv5uYpQ6M0W0h1D6AhG5ovjzoB90WGU3jNo0P)q3bjKNN66gXjD9vjn8q8lY)pgAnkZpobqSmfYZ2KplKNgsZG08nPdHsxd5MRdL0yyAJzLVfsrSeHbzXSXdjsJzGoZBedu4JSnwashqwHocWy6cshXErhf3ivM(kUSzVch4a5UlwxaqZFEL(cOAdZCXjUkBmw2CP7JtwQN81Q(QymhaXqwyJHYHHBumowobzuYsqyfblLMJawaLxjnlwZrKNFh3ZEASxgKqwu1CvZuCfyPUDVIfE4ZNLGhKAcliqcnWQFrGajaYjbGJH)2dr4UA(n6dm71Le7SRhpXG(7OHZ3IGMi5OOkW1GQIYrVGG2wkQk6Czwa4LFZXPyfwGBx0nUkQLLDEHcVjfa0dECPeULag0MdoHLUmPkcUFqtUB)Wf(T0h47t9h12(q3dFAPtRFh6UCyDgV6BoafGCO14(HXmQDR9kMXYP)Y)MMCzVPA4DFZTd)234zDwYEOzvd(5ZP0KCkvqyzCgLwWvMh4bt65hsZifubpVirKre5uifErmC19jyNqE0Ez)q7X3Cx232p60vn(bMl77T(i6E70X3US)uB9Pr0xO3PG8mrskJW5fP8uQ)YcsdOabtKMKr8zfcssEX)vbJNApJCE2oo26BKUyeFQ1NqVw9V)
 fight_style=DungeonRoute
 override.windfury_totem=0
 override.arcane_intellect=0
@@ -8,27 +8,21 @@ override.mark_of_the_wild=0
 override.mystic_touch=0
 override.chaos_brand=0
 override.bleeding=0
-single_actor_batch=0
+single_actor_batch=1
 max_time=2700
 enemy="Atal'Dazar 20 Tyrannical"
-enemy_health=9999999
+enemy_health=999999
 keystone_level=20
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=014,enemies="Shadowblade_Stalker_1":1152409:Humanoid|"Reanimation_Totem_1":256090:Not_specified|"Reanimated_Honor_Guard_1":1536545:Undead
-raid_events+=/pull,pull=02,bloodlust=0,delay=008,enemies="Zanchuli_Witch-Doctor_1":1024363:Humanoid|"Reanimation_Totem_1":256090:Not_specified|"Reanimated_Honor_Guard_1":1536545:Undead|"Shieldbearer_of_Zul_1":1408500:Undead|"Shieldbearer_of_Zul_2":1408500:Undead|"Shieldbearer_of_Zul_3":1408500:Undead
-raid_events+=/pull,pull=03,bloodlust=0,delay=009,enemies="Zanchuli_Witch-Doctor_1":1024363:Humanoid|"Shadowblade_Stalker_1":1152409:Humanoid|"Reanimation_Totem_1":256090:Not_specified|"Reanimated_Honor_Guard_1":1536545:Undead|"Shieldbearer_of_Zul_1":1408500:Undead|"Shieldbearer_of_Zul_2":1408500:Undead
-raid_events+=/pull,pull=04,bloodlust=0,delay=012,enemies="Zanchuli_Witch-Doctor_1":1024363:Humanoid|"Zanchuli_Witch-Doctor_2":1024363:Humanoid|"Shadowblade_Stalker_1":1152409:Humanoid|"Shadowblade_Stalker_2":1152409:Humanoid|"Reanimation_Totem_1":256090:Not_specified|"Reanimated_Honor_Guard_1":1536545:Undead
-raid_events+=/pull,pull=05,bloodlust=0,delay=007,enemies="BOSS_Vol'kaal":10503729:Undead
-raid_events+=/pull,pull=06,bloodlust=0,delay=010,enemies="Zanchuli_Witch-Doctor_1":1024363:Humanoid|"Zanchuli_Witch-Doctor_2":1024363:Humanoid|"Shieldbearer_of_Zul_1":1408500:Undead|"Shieldbearer_of_Zul_2":1408500:Undead
-raid_events+=/pull,pull=07,bloodlust=0,delay=015,enemies="Feasting_Skyscreamer_1":1280454:Beast|"Feasting_Skyscreamer_2":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast|"Toxic_Saurid_6":256090:Beast|"Toxic_Saurid_7":256090:Beast|"Toxic_Saurid_8":256090:Beast|"Toxic_Saurid_9":256090:Beast|"Toxic_Saurid_10":256090:Beast
-raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Feasting_Skyscreamer_1":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast|"Toxic_Saurid_6":256090:Beast|"Toxic_Saurid_7":256090:Beast|"Toxic_Saurid_8":256090:Beast|"Toxic_Saurid_9":256090:Beast|"Toxic_Saurid_10":256090:Beast
-raid_events+=/pull,pull=09,bloodlust=0,delay=006,enemies="BOSS_Rezan":11670809:Undead
-raid_events+=/pull,pull=10,bloodlust=0,delay=015,enemies="Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast
-raid_events+=/pull,pull=11,bloodlust=0,delay=007,enemies="Feasting_Skyscreamer_1":1280454:Beast|"Feasting_Skyscreamer_2":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast
-raid_events+=/pull,pull=12,bloodlust=0,delay=006,enemies="Feasting_Skyscreamer_1":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast
-raid_events+=/pull,pull=13,bloodlust=0,delay=013,enemies="Dazar'ai_Honor_Guard_1":1280454:Humanoid|"Dazar'ai_Honor_Guard_2":1280454:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid|"Dazar'ai_Augur_2":1152409:Humanoid
-raid_events+=/pull,pull=14,bloodlust=0,delay=006,enemies="Dazar'ai_Honor_Guard_1":1280454:Humanoid|"Dazar'ai_Honor_Guard_2":1280454:Humanoid|"Dazar'ai_Honor_Guard_3":1280454:Humanoid|"Dazar'ai_Juggernaut_1":1472523:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid|"Gilded_Priestess_1":1280454:Humanoid|"Gilded_Priestess_2":1280454:Humanoid|"Gilded_Priestess_3":1280454:Humanoid
-raid_events+=/pull,pull=15,bloodlust=0,delay=006,enemies="Dazar'ai_Juggernaut_1":1472523:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid
-raid_events+=/pull,pull=16,bloodlust=0,delay=014,enemies="BOSS_Priestess_Alun'za":15005325:Humanoid
-raid_events+=/pull,pull=17,bloodlust=0,delay=009,enemies="BOSS_Yazma":13338067:Humanoid
+raid_events+=/pull,pull=01,bloodlust=0,delay=007,enemies="Dazar'ai_Honor_Guard_1":1280454:Humanoid|"Dazar'ai_Honor_Guard_2":1280454:Humanoid|"Dazar'ai_Juggernaut_1":1472523:Humanoid|"Dazar'ai_Juggernaut_2":1472523:Humanoid|"Dazar'ai_Juggernaut_3":1472523:Humanoid|"Dazar'ai_Confessor_1":1024363:Humanoid|"Dazar'ai_Confessor_2":1024363:Humanoid|"Dazar'ai_Confessor_3":1024363:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid|"Dazar'ai_Augur_2":1152409:Humanoid|"Dazar'ai_Colossus_1":2176773:Mechanical
+raid_events+=/pull,pull=02,bloodlust=0,delay=014,enemies="Dazar'ai_Juggernaut_1":1472523:Humanoid|"Dazar'ai_Juggernaut_2":1472523:Humanoid|"Dazar'ai_Juggernaut_3":1472523:Humanoid|"Dazar'ai_Confessor_1":1024363:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid|"Dazar'ai_Augur_2":1152409:Humanoid|"Dazar'ai_Colossus_1":2176773:Mechanical
+raid_events+=/pull,pull=03,bloodlust=0,delay=007,enemies="Dazar'ai_Honor_Guard_1":1280454:Humanoid|"Dazar'ai_Honor_Guard_2":1280454:Humanoid|"Dazar'ai_Honor_Guard_3":1280454:Humanoid|"Dazar'ai_Juggernaut_1":1472523:Humanoid|"Gilded_Priestess_1":1280454:Humanoid|"Gilded_Priestess_2":1280454:Humanoid|"Gilded_Priestess_3":1280454:Humanoid|"Dazar'ai_Augur_1":1152409:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=014,enemies="BOSS_Priestess_Alun'za":15005325:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=006,enemies="Dazar'ai_Honor_Guard_1":1280454:Humanoid|"Dazar'ai_Honor_Guard_2":1280454:Humanoid|"Feasting_Skyscreamer_1":1280454:Beast|"Feasting_Skyscreamer_2":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast|"Toxic_Saurid_6":256090:Beast|"Toxic_Saurid_7":256090:Beast|"Toxic_Saurid_8":256090:Beast|"Toxic_Saurid_9":256090:Beast|"Dazar'ai_Augur_1":1152409:Humanoid|"Dazar'ai_Augur_2":1152409:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=009,enemies="BOSS_Rezan":11670809:Undead|"Feasting_Skyscreamer_1":1280454:Beast
+raid_events+=/pull,pull=07,bloodlust=0,delay=007,enemies="Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast|"Toxic_Saurid_6":256090:Beast|"Toxic_Saurid_7":256090:Beast|"Toxic_Saurid_8":256090:Beast|"Toxic_Saurid_9":256090:Beast|"Toxic_Saurid_10":256090:Beast|"Feasting_Skyscreamer_1":1280454:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=005,enemies="Feasting_Skyscreamer_1":1280454:Beast|"Feasting_Skyscreamer_2":1280454:Beast|"Toxic_Saurid_1":256090:Beast|"Toxic_Saurid_2":256090:Beast|"Toxic_Saurid_3":256090:Beast|"Toxic_Saurid_4":256090:Beast|"Toxic_Saurid_5":256090:Beast|"Toxic_Saurid_6":256090:Beast|"Toxic_Saurid_7":256090:Beast|"Toxic_Saurid_8":256090:Beast|"Toxic_Saurid_9":256090:Beast|"Toxic_Saurid_10":256090:Beast
+raid_events+=/pull,pull=09,bloodlust=0,delay=010,enemies="Shadowblade_Stalker_1":1152409:Humanoid|"Shadowblade_Stalker_2":1152409:Humanoid|"Shieldbearer_of_Zul_1":1408500:Undead|"Shieldbearer_of_Zul_2":1408500:Undead|"Zanchuli_Witch-Doctor_1":1152409:Humanoid|"Zanchuli_Witch-Doctor_2":1152409:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=009,enemies="BOSS_Vol'kaal":10497054:Undead
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,enemies="BOSS_Yazma":13329592:Humanoid
