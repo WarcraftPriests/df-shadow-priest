@@ -23,9 +23,9 @@ main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # 10.1.5 Time Rift Trinkets
-# profileset."Paracausal_Fragment_of_Azzinoth_424"+=trinket1=paracausal_fragment_of_azzinoth,id=206972,ilevel=424
-# profileset."Paracausal_Fragment_of_Thunderfin_Humid_Blade_of_the_Tideseeker_424"+=trinket1=paracausal_fragment_of_thunderfin_humid_blade_of_the_tideseeker,id=207005,ilevel=424
-# profileset."Paracausal_Fragment_of_Frostmourne_424"+=trinket1=paracausal_fragment_of_frostmourne,id=206983,ilevel=424
+profileset."Paracausal_Fragment_of_Azzinoth_450"+=trinket1=paracausal_fragment_of_azzinoth,id=206972,ilevel=450
+profileset."Paracausal_Fragment_of_Thunderfin_Humid_Blade_of_the_Tideseeker_450"+=trinket1=paracausal_fragment_of_thunderfin_humid_blade_of_the_tideseeker,id=207005,ilevel=450
+profileset."Paracausal_Fragment_of_Frostmourne_450"+=trinket1=paracausal_fragment_of_frostmourne,id=206983,ilevel=450
 
 # Darkmoon Cards
 # Emberscale Sigil (8858) - Your Darkmoon Deck no longer has Even cards.
@@ -96,27 +96,26 @@ profileset."Idol_of_the_Life_Binder_486"+=finger1=${gear.finger1},enchant_id=655
 profileset."Idol_of_the_Life_Binder_486"+=finger2=${gear.finger2},enchant_id=6556,gem_id=192919
 
 # Questing Trinkets
-# profileset."Primal_Ritual_Shell_Wind_424"+=trinket1=primal_ritual_shell,id=200563,ilevel=424
-# profileset."Primal_Ritual_Shell_Wind_424"+=dragonflight.primal_ritual_shell_blessing=wind
+profileset."Primal_Ritual_Shell_Wind_450"+=trinket1=primal_ritual_shell,id=200563,ilevel=450
+profileset."Primal_Ritual_Shell_Wind_450"+=dragonflight.primal_ritual_shell_blessing=wind
 
-# profileset."Primal_Ritual_Shell_Flame_385"+=dragonflight.primal_ritual_shell_blessing=flame
-# profileset."Primal_Ritual_Shell_Flame_424"+=trinket1=primal_ritual_shell,id=200563,ilevel=424
-# profileset."Primal_Ritual_Shell_Flame_424"+=dragonflight.primal_ritual_shell_blessing=flame
+profileset."Primal_Ritual_Shell_Flame_450"+=trinket1=primal_ritual_shell,id=200563,ilevel=450
+profileset."Primal_Ritual_Shell_Flame_450"+=dragonflight.primal_ritual_shell_blessing=flame
 
-# profileset."Bottomless_Reliquary_Satchel_424"+=trinket1=bottomless_reliquary_satchel,id=198695,ilevel=424
-# profileset."Razorwind_Talisman_424"+=trinket1=razorwind_talisman,id=200161,ilevel=424
-# profileset."Grals_Discarded_Tooth_424"+=trinket1=grals_discarded_tooth,id=192797,ilevel=424
-# profileset."Azure_Arcanic_Amplifier_424"+=trinket1=azure_arcanic_amplifier,id=198407,ilevel=424
-# profileset."Breath_of_the_Plains_424"+=trinket1=breath_of_the_plains,id=198539,ilevel=424
+profileset."Bottomless_Reliquary_Satchel_450"+=trinket1=bottomless_reliquary_satchel,id=198695,ilevel=450
+profileset."Razorwind_Talisman_450"+=trinket1=razorwind_talisman,id=200161,ilevel=450
+profileset."Grals_Discarded_Tooth_450"+=trinket1=grals_discarded_tooth,id=192797,ilevel=450
+profileset."Azure_Arcanic_Amplifier_450"+=trinket1=azure_arcanic_amplifier,id=198407,ilevel=450
+profileset."Breath_of_the_Plains_450"+=trinket1=breath_of_the_plains,id=198539,ilevel=450
 
-# profileset."Underlight_Globe_424"+=trinket1=underlight_globe,id=205191,ilevel=424
-# profileset."Suspended_Sulfuric_Droplet_424"+=trinket1=suspended_sulfuric_droplet,id=204805,ilevel=424
-# profileset."Buzzing_Orb_Core_424"+=trinket1=buzzing_orb_core,id=204387,ilevel=424
-# profileset."Pocket_Darkened_Elemental_Core_424"+=trinket1=pocket_darkened_elemental_core,id=204386,ilevel=424
-# profileset."Volatile_Crystal_Shard_424"+=trinket1=volatile_crystal_shard,id=205192,ilevel=424
-# profileset."Firecallers_Focus_424"+=trinket1=firecallers_focus,id=204901,ilevel=424
-# profileset."Smoldering_Howler_Horn_424"+=trinket1=smoldering_howler_horn,id=205201,ilevel=424
-# profileset."Stirring_Twilight_Ember_424"+=trinket1=stirring_twilight_ember,id=205200,ilevel=424
+profileset."Underlight_Globe_450"+=trinket1=underlight_globe,id=205191,ilevel=450
+profileset."Suspended_Sulfuric_Droplet_450"+=trinket1=suspended_sulfuric_droplet,id=204805,ilevel=450
+profileset."Buzzing_Orb_Core_450"+=trinket1=buzzing_orb_core,id=204387,ilevel=450
+profileset."Pocket_Darkened_Elemental_Core_450"+=trinket1=pocket_darkened_elemental_core,id=204386,ilevel=450
+profileset."Volatile_Crystal_Shard_450"+=trinket1=volatile_crystal_shard,id=205192,ilevel=450
+profileset."Firecallers_Focus_450"+=trinket1=firecallers_focus,id=204901,ilevel=450
+profileset."Smoldering_Howler_Horn_450"+=trinket1=smoldering_howler_horn,id=205201,ilevel=450
+profileset."Stirring_Twilight_Ember_450"+=trinket1=stirring_twilight_ember,id=205200,ilevel=450
 
 ## 10.2 Questing Trinkets (463 cap w/Drake crests)
 profileset."Dancing_Dream_Blossoms_463"+=trinket1=dancing_dream_blossoms,id=209953,ilevel=463
