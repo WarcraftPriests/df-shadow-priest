@@ -1,18 +1,18 @@
 # Composite - da-yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|211551|5.07%|
-|Iced_Phial_of_Corrupting_Rage_85_3|210461|4.53%|
-|Iced_Phial_of_Corrupting_Rage_70_3|208862|3.73%|
-|Phial_of_Charged_Isolation_3|208814|3.71%|
-|Phial_of_Static_Empowerment_3|208668|3.63%|
-|Phial_of_Tepid_Versatility_3|208356|3.48%|
-|Phial_of_Elemental_Chaos_3|207521|3.07%|
-|Iced_Phial_of_Corrupting_Rage_50_3|206648|2.63%|
-|Iced_Phial_of_Corrupting_Rage_40_3|205399|2.01%|
-|Elemental_Potion_of_Ultimate_Power_3|203408|1.02%|
-|Phial_of_Glacial_Fury_3|203389|1.01%|
-|Elemental_Potion_of_Power_3|202893|0.77%|
-|Bottled_Putrescence_3|201977|0.31%|
-|Potion_of_Shocking_Disclosure_3|201831|0.24%|
-|Base|201349|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|211586|5.07%|
+|Iced_Phial_of_Corrupting_Rage_85_3|210492|4.53%|
+|Iced_Phial_of_Corrupting_Rage_70_3|208853|3.72%|
+|Phial_of_Charged_Isolation_3|208768|3.67%|
+|Phial_of_Static_Empowerment_3|208685|3.63%|
+|Phial_of_Tepid_Versatility_3|208335|3.46%|
+|Phial_of_Elemental_Chaos_3|207509|3.05%|
+|Iced_Phial_of_Corrupting_Rage_50_3|206639|2.62%|
+|Iced_Phial_of_Corrupting_Rage_40_3|205430|2.02%|
+|Elemental_Potion_of_Ultimate_Power_3|203362|0.99%|
+|Phial_of_Glacial_Fury_3|203291|0.95%|
+|Elemental_Potion_of_Power_3|202892|0.76%|
+|Bottled_Putrescence_3|201980|0.30%|
+|Potion_of_Shocking_Disclosure_3|201844|0.24%|
+|Base|201371|0.00%|

@@ -1,19 +1,19 @@
 # galakrond-fort-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sizzling_Seafood_Medley|166036|0.57%|
-|Aromatic_Seafood_Platter|166023|0.56%|
-|Great_Cerulean_Sea|165966|0.53%|
-|Revenge_Served_Cold|165964|0.53%|
-|Feisty_Fish_Sticks|165936|0.51%|
-|Thousandbone_Tongueslicer|165853|0.46%|
-|Dreambound_Augment_Rune|165839|0.45%|
-|Seamoth_Surprise|165761|0.41%|
-|Filet_of_Fangs|165727|0.38%|
-|Draconic_Augment_Rune|165724|0.38%|
-|Fated_Fortune_Cookie|165722|0.38%|
-|Timely_Demise|165686|0.36%|
-|Salt_Baked_Fishcake|165629|0.33%|
-|Roast_Duck_Delight|165343|0.15%|
-|Thrice_Spiced_Mammoth_Kabob|165190|0.06%|
-|Base|165092|0.00%|
+|Aromatic_Seafood_Platter|190677|0.56%|
+|Feisty_Fish_Sticks|190669|0.55%|
+|Revenge_Served_Cold|190641|0.54%|
+|Sizzling_Seafood_Medley|190597|0.52%|
+|Great_Cerulean_Sea|190580|0.51%|
+|Thousandbone_Tongueslicer|190513|0.47%|
+|Dreambound_Augment_Rune|190491|0.46%|
+|Seamoth_Surprise|190463|0.45%|
+|Draconic_Augment_Rune|190434|0.43%|
+|Fated_Fortune_Cookie|190430|0.43%|
+|Salt_Baked_Fishcake|190378|0.40%|
+|Filet_of_Fangs|190373|0.40%|
+|Timely_Demise|190372|0.40%|
+|Roast_Duck_Delight|190041|0.22%|
+|Thrice_Spiced_Mammoth_Kabob|189852|0.12%|
+|Base|189619|0.00%|

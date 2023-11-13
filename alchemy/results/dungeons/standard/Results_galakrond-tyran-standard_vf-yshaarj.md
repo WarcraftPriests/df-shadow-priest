@@ -1,18 +1,18 @@
 # galakrond-tyran-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|166764|4.29%|
-|Iced_Phial_of_Corrupting_Rage_85_3|166146|3.90%|
-|Phial_of_Static_Empowerment_3|165248|3.34%|
-|Phial_of_Charged_Isolation_3|165061|3.23%|
-|Phial_of_Tepid_Versatility_3|164900|3.13%|
-|Iced_Phial_of_Corrupting_Rage_70_3|164889|3.12%|
-|Phial_of_Elemental_Chaos_3|164149|2.66%|
-|Iced_Phial_of_Corrupting_Rage_50_3|163393|2.18%|
-|Iced_Phial_of_Corrupting_Rage_40_3|162650|1.72%|
-|Phial_of_Glacial_Fury_3|161847|1.22%|
-|Elemental_Potion_of_Ultimate_Power_3|160659|0.47%|
-|Elemental_Potion_of_Power_3|160503|0.38%|
-|Potion_of_Shocking_Disclosure_3|160173|0.17%|
-|Bottled_Putrescence_3|160156|0.16%|
-|Base|159902|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|191418|4.35%|
+|Iced_Phial_of_Corrupting_Rage_85_3|190563|3.88%|
+|Phial_of_Static_Empowerment_3|189851|3.50%|
+|Phial_of_Charged_Isolation_3|189610|3.36%|
+|Phial_of_Tepid_Versatility_3|189397|3.25%|
+|Iced_Phial_of_Corrupting_Rage_70_3|189332|3.21%|
+|Phial_of_Elemental_Chaos_3|188455|2.73%|
+|Iced_Phial_of_Corrupting_Rage_50_3|187622|2.28%|
+|Iced_Phial_of_Corrupting_Rage_40_3|186876|1.87%|
+|Phial_of_Glacial_Fury_3|185663|1.21%|
+|Elemental_Potion_of_Ultimate_Power_3|184583|0.62%|
+|Elemental_Potion_of_Power_3|184191|0.41%|
+|Bottled_Putrescence_3|183964|0.29%|
+|Potion_of_Shocking_Disclosure_3|183905|0.25%|
+|Base|183439|0.00%|

@@ -1,19 +1,19 @@
 # waycrest-fort-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|164572|0.46%|
-|Feisty_Fish_Sticks|164513|0.43%|
-|Sizzling_Seafood_Medley|164485|0.41%|
-|Thousandbone_Tongueslicer|164474|0.40%|
-|Dreambound_Augment_Rune|164472|0.40%|
-|Revenge_Served_Cold|164469|0.40%|
-|Great_Cerulean_Sea|164452|0.39%|
-|Draconic_Augment_Rune|164387|0.35%|
-|Timely_Demise|164370|0.34%|
-|Filet_of_Fangs|164368|0.34%|
-|Seamoth_Surprise|164367|0.34%|
-|Salt_Baked_Fishcake|164289|0.29%|
-|Fated_Fortune_Cookie|164262|0.27%|
-|Roast_Duck_Delight|164040|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|164035|0.13%|
-|Base|163815|0.00%|
+|Feisty_Fish_Sticks|188879|0.59%|
+|Aromatic_Seafood_Platter|188849|0.57%|
+|Sizzling_Seafood_Medley|188838|0.56%|
+|Revenge_Served_Cold|188801|0.54%|
+|Timely_Demise|188715|0.50%|
+|Great_Cerulean_Sea|188675|0.48%|
+|Thousandbone_Tongueslicer|188675|0.48%|
+|Draconic_Augment_Rune|188585|0.43%|
+|Dreambound_Augment_Rune|188560|0.42%|
+|Seamoth_Surprise|188551|0.41%|
+|Filet_of_Fangs|188489|0.38%|
+|Fated_Fortune_Cookie|188421|0.34%|
+|Salt_Baked_Fishcake|188385|0.32%|
+|Roast_Duck_Delight|188103|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|187925|0.08%|
+|Base|187779|0.00%|

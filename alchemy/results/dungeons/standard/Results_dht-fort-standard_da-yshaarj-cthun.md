@@ -1,18 +1,18 @@
 # dht-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|146443|2.88%|
-|Iced_Phial_of_Corrupting_Rage_85_3|145992|2.56%|
-|Phial_of_Static_Empowerment_3|145502|2.22%|
-|Phial_of_Charged_Isolation_3|145454|2.18%|
-|Iced_Phial_of_Corrupting_Rage_40_3|145427|2.17%|
-|Iced_Phial_of_Corrupting_Rage_70_3|145408|2.15%|
-|Phial_of_Tepid_Versatility_3|145354|2.11%|
-|Phial_of_Elemental_Chaos_3|144967|1.84%|
-|Iced_Phial_of_Corrupting_Rage_50_3|144814|1.73%|
-|Phial_of_Glacial_Fury_3|143682|0.94%|
-|Elemental_Potion_of_Ultimate_Power_3|142871|0.37%|
-|Elemental_Potion_of_Power_3|142781|0.31%|
-|Potion_of_Shocking_Disclosure_3|142666|0.23%|
-|Bottled_Putrescence_3|142562|0.15%|
-|Base|142345|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|182514|3.33%|
+|Iced_Phial_of_Corrupting_Rage_85_3|181924|2.99%|
+|Phial_of_Static_Empowerment_3|180961|2.45%|
+|Iced_Phial_of_Corrupting_Rage_70_3|180911|2.42%|
+|Phial_of_Charged_Isolation_3|180820|2.37%|
+|Phial_of_Tepid_Versatility_3|180751|2.33%|
+|Phial_of_Elemental_Chaos_3|180058|1.94%|
+|Iced_Phial_of_Corrupting_Rage_50_3|179594|1.68%|
+|Iced_Phial_of_Corrupting_Rage_40_3|179190|1.45%|
+|Phial_of_Glacial_Fury_3|177971|0.76%|
+|Elemental_Potion_of_Ultimate_Power_3|177276|0.36%|
+|Bottled_Putrescence_3|177199|0.32%|
+|Potion_of_Shocking_Disclosure_3|177152|0.29%|
+|Elemental_Potion_of_Power_3|177049|0.23%|
+|Base|176635|0.00%|

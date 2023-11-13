@@ -41,7 +41,7 @@ profileset."Caged_Horror_489"+=trinket1=caged_horror,id=136716,ilevel=489
 ## Darkheart Thicket
 profileset."Corrupted_Starlight_470"+=trinket1=corrupted_starlight,id=137301,ilevel=470
 profileset."Corrupted_Starlight_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_488"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+profileset."Corrupted_Starlight_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
 
 
 profileset."Oakhearts_Gnarled_Root_470"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=470
@@ -68,12 +68,12 @@ profileset."Lady_Waycrests_Music_Box_470"+=trinket1=lady_waycrests_music_box,id=
 profileset."Lady_Waycrests_Music_Box_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
 profileset."Lady_Waycrests_Music_Box_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
 
-# profileset."Lady_Waycrests_Music_Box_Signet_470"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=470
-# profileset."Lady_Waycrests_Music_Box_Signet_470"+=finger1=lord_waycrests_signet,id=158362,ilevel=470
-# profileset."Lady_Waycrests_Music_Box_Signet_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
-# profileset."Lady_Waycrests_Music_Box_Signet_483"+=finger1=lord_waycrests_signet,id=158362,ilevel=483
-# profileset."Lady_Waycrests_Music_Box_Signet_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
-# profileset."Lady_Waycrests_Music_Box_Signet_489"+=finger1=lord_waycrests_signet,id=158362,ilevel=489
+# profileset."Lady_Waycrests_Music_Box_Signet1_470"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=470
+# profileset."Lady_Waycrests_Music_Box_Signet1_470"+=finger1=lord_waycrests_signet,id=158362,ilevel=470
+# profileset."Lady_Waycrests_Music_Box_Signet1_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
+# profileset."Lady_Waycrests_Music_Box_Signet1_483"+=finger1=lord_waycrests_signet,id=158362,ilevel=483
+# profileset."Lady_Waycrests_Music_Box_Signet1_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
+# profileset."Lady_Waycrests_Music_Box_Signet1_489"+=finger1=lord_waycrests_signet,id=158362,ilevel=489
 
 # Dawn of the Infinite
 profileset."Mirror_of_Fractured_Tomorrows_470"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=470
@@ -97,13 +97,13 @@ profileset."Erupting_Spear_Fragment_447"+=trinket1=erupting_spear_fragment,id=19
 profileset."Spoils_of_Neltharus_441"+=trinket1=spoils_of_neltharus,id=193773,ilevel=441
 profileset."Spoils_of_Neltharus_447"+=trinket1=spoils_of_neltharus,id=193773,ilevel=447
 
-profileset."Time_Breaching_Talon_441"+=trinket1=time_breaching_talon,id=193791,ilevel=441
-profileset."Time_Breaching_Talon_447"+=trinket1=time_breaching_talon,id=193791,ilevel=447
+# profileset."Time_Breaching_Talon_441"+=trinket1=time_breaching_talon,id=193791,ilevel=441
+# profileset."Time_Breaching_Talon_447"+=trinket1=time_breaching_talon,id=193791,ilevel=447
 
-profileset."Naraxas_Spiked_Tongue_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
-profileset."Naraxas_Spiked_Tongue_441"+=distance=20
-profileset."Naraxas_Spiked_Tongue_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
-profileset."Naraxas_Spiked_Tongue_447"+=distance=20
+# profileset."Naraxas_Spiked_Tongue_441"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=441
+# profileset."Naraxas_Spiked_Tongue_441"+=distance=20
+# profileset."Naraxas_Spiked_Tongue_447"+=trinket1=naraxas_spiked_tongue,id=137349,ilevel=447
+# profileset."Naraxas_Spiked_Tongue_447"+=distance=20
 
 profileset."Rotcrusted_Voodoo_Doll_441"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=441
 profileset."Rotcrusted_Voodoo_Doll_447"+=trinket1=rotcrusted_voodoo_doll,id=159624,ilevel=447

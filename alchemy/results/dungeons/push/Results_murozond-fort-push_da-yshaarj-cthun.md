@@ -1,18 +1,18 @@
 # murozond-fort-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|180560|2.95%|
-|Iced_Phial_of_Corrupting_Rage_85_3|180034|2.65%|
-|Phial_of_Static_Empowerment_3|179341|2.25%|
-|Iced_Phial_of_Corrupting_Rage_70_3|179156|2.15%|
-|Phial_of_Charged_Isolation_3|179152|2.15%|
-|Phial_of_Tepid_Versatility_3|178964|2.04%|
-|Phial_of_Elemental_Chaos_3|178597|1.83%|
-|Iced_Phial_of_Corrupting_Rage_40_3|178165|1.58%|
-|Iced_Phial_of_Corrupting_Rage_50_3|178069|1.53%|
-|Phial_of_Glacial_Fury_3|176575|0.68%|
-|Elemental_Potion_of_Ultimate_Power_3|176428|0.59%|
-|Elemental_Potion_of_Power_3|176178|0.45%|
-|Bottled_Putrescence_3|175760|0.21%|
-|Potion_of_Shocking_Disclosure_3|175729|0.19%|
-|Base|175388|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|187898|3.74%|
+|Iced_Phial_of_Corrupting_Rage_85_3|187078|3.29%|
+|Phial_of_Static_Empowerment_3|186219|2.82%|
+|Phial_of_Charged_Isolation_3|186032|2.71%|
+|Iced_Phial_of_Corrupting_Rage_70_3|186029|2.71%|
+|Phial_of_Tepid_Versatility_3|185867|2.62%|
+|Phial_of_Elemental_Chaos_3|185427|2.38%|
+|Iced_Phial_of_Corrupting_Rage_50_3|184609|1.93%|
+|Iced_Phial_of_Corrupting_Rage_40_3|184520|1.88%|
+|Phial_of_Glacial_Fury_3|182592|0.81%|
+|Elemental_Potion_of_Ultimate_Power_3|182265|0.63%|
+|Elemental_Potion_of_Power_3|181935|0.45%|
+|Bottled_Putrescence_3|181527|0.23%|
+|Potion_of_Shocking_Disclosure_3|181507|0.22%|
+|Base|181116|0.00%|

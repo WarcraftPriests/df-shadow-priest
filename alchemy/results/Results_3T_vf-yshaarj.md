@@ -1,18 +1,18 @@
 # 3T - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|306226|4.94%|
-|Iced_Phial_of_Corrupting_Rage_85_3|304655|4.40%|
-|Phial_of_Static_Empowerment_3|303058|3.85%|
-|Phial_of_Charged_Isolation_3|302887|3.79%|
-|Iced_Phial_of_Corrupting_Rage_70_3|302379|3.62%|
-|Phial_of_Tepid_Versatility_3|301932|3.47%|
-|Phial_of_Elemental_Chaos_3|300927|3.12%|
-|Iced_Phial_of_Corrupting_Rage_50_3|299204|2.53%|
-|Iced_Phial_of_Corrupting_Rage_40_3|297659|2.00%|
-|Elemental_Potion_of_Ultimate_Power_3|294848|1.04%|
-|Elemental_Potion_of_Power_3|293990|0.75%|
-|Phial_of_Glacial_Fury_3|293764|0.67%|
-|Bottled_Putrescence_3|293364|0.53%|
-|Potion_of_Shocking_Disclosure_3|293002|0.41%|
-|Base|291815|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|306124|4.93%|
+|Iced_Phial_of_Corrupting_Rage_85_3|304634|4.42%|
+|Phial_of_Static_Empowerment_3|302949|3.84%|
+|Phial_of_Charged_Isolation_3|302909|3.83%|
+|Iced_Phial_of_Corrupting_Rage_70_3|302444|3.67%|
+|Phial_of_Tepid_Versatility_3|301770|3.44%|
+|Phial_of_Elemental_Chaos_3|300984|3.17%|
+|Iced_Phial_of_Corrupting_Rage_50_3|299305|2.59%|
+|Iced_Phial_of_Corrupting_Rage_40_3|297604|2.01%|
+|Elemental_Potion_of_Ultimate_Power_3|294805|1.05%|
+|Elemental_Potion_of_Power_3|294154|0.83%|
+|Phial_of_Glacial_Fury_3|293767|0.70%|
+|Bottled_Putrescence_3|293234|0.51%|
+|Potion_of_Shocking_Disclosure_3|293002|0.43%|
+|Base|291737|0.00%|

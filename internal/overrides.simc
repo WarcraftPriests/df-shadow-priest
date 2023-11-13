@@ -1,2 +1,5 @@
 
 # Overrides are added below here
+override.spell_data=effect.1098889.coefficient=308.267505
+override.spell_data=effect.1105783.period=2000
+override.spell_data=effect.1098692.coefficient=4.1097225

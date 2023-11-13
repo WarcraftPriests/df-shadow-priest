@@ -1,18 +1,18 @@
 # galakrond-fort-push - da-yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|177639|3.31%|
-|Iced_Phial_of_Corrupting_Rage_85_3|177121|3.01%|
-|Phial_of_Static_Empowerment_3|176357|2.56%|
-|Phial_of_Charged_Isolation_3|176198|2.47%|
-|Iced_Phial_of_Corrupting_Rage_70_3|176158|2.45%|
-|Phial_of_Tepid_Versatility_3|176051|2.38%|
-|Phial_of_Elemental_Chaos_3|175567|2.10%|
-|Iced_Phial_of_Corrupting_Rage_40_3|174987|1.77%|
-|Iced_Phial_of_Corrupting_Rage_50_3|174981|1.76%|
-|Phial_of_Glacial_Fury_3|173492|0.90%|
-|Elemental_Potion_of_Ultimate_Power_3|172903|0.55%|
-|Elemental_Potion_of_Power_3|172580|0.37%|
-|Bottled_Putrescence_3|172393|0.26%|
-|Potion_of_Shocking_Disclosure_3|172328|0.22%|
-|Base|171950|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|200070|3.37%|
+|Iced_Phial_of_Corrupting_Rage_85_3|199385|3.02%|
+|Phial_of_Static_Empowerment_3|198617|2.62%|
+|Phial_of_Charged_Isolation_3|198418|2.52%|
+|Iced_Phial_of_Corrupting_Rage_70_3|198401|2.51%|
+|Phial_of_Tepid_Versatility_3|198171|2.39%|
+|Phial_of_Elemental_Chaos_3|197707|2.15%|
+|Iced_Phial_of_Corrupting_Rage_50_3|196926|1.75%|
+|Iced_Phial_of_Corrupting_Rage_40_3|196500|1.53%|
+|Phial_of_Glacial_Fury_3|194806|0.65%|
+|Elemental_Potion_of_Ultimate_Power_3|194600|0.54%|
+|Elemental_Potion_of_Power_3|194294|0.39%|
+|Bottled_Putrescence_3|194021|0.24%|
+|Potion_of_Shocking_Disclosure_3|193921|0.19%|
+|Base|193547|0.00%|

@@ -1,19 +1,19 @@
 # brh-fort-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Thousandbone_Tongueslicer|183478|0.47%|
-|Dreambound_Augment_Rune|183454|0.45%|
-|Aromatic_Seafood_Platter|183439|0.45%|
-|Feisty_Fish_Sticks|183437|0.44%|
-|Great_Cerulean_Sea|183423|0.44%|
-|Draconic_Augment_Rune|183418|0.43%|
-|Revenge_Served_Cold|183418|0.43%|
-|Seamoth_Surprise|183406|0.43%|
-|Sizzling_Seafood_Medley|183289|0.36%|
-|Filet_of_Fangs|183271|0.35%|
-|Salt_Baked_Fishcake|183198|0.31%|
-|Fated_Fortune_Cookie|183186|0.31%|
-|Timely_Demise|183110|0.27%|
-|Roast_Duck_Delight|182893|0.15%|
-|Thrice_Spiced_Mammoth_Kabob|182846|0.12%|
-|Base|182625|0.00%|
+|Revenge_Served_Cold|238316|0.55%|
+|Dreambound_Augment_Rune|238239|0.52%|
+|Aromatic_Seafood_Platter|238179|0.49%|
+|Feisty_Fish_Sticks|238145|0.48%|
+|Thousandbone_Tongueslicer|238114|0.47%|
+|Great_Cerulean_Sea|238107|0.46%|
+|Draconic_Augment_Rune|238070|0.45%|
+|Sizzling_Seafood_Medley|238066|0.45%|
+|Seamoth_Surprise|237938|0.39%|
+|Salt_Baked_Fishcake|237898|0.37%|
+|Filet_of_Fangs|237890|0.37%|
+|Fated_Fortune_Cookie|237868|0.36%|
+|Timely_Demise|237737|0.31%|
+|Roast_Duck_Delight|237413|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|237188|0.08%|
+|Base|237010|0.00%|
