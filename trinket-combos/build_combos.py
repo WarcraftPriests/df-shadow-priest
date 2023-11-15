@@ -43,6 +43,8 @@ combos = {
     "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
     "Nymues_Unraveling_Spindle_483": "nymues_unraveling_spindle,id=208615,ilevel=483",
     "Nymues_Unraveling_Spindle_489": "nymues_unraveling_spindle,id=208615,ilevel=489",
+    "Nymues_Unraveling_Spindle_IMMOBILIZED_483": "nymues_unraveling_spindle,id=208615,ilevel=483", # noqa: E501
+    "Nymues_Unraveling_Spindle_IMMOBILIZED_489": "nymues_unraveling_spindle,id=208615,ilevel=489", # noqa: E501
     "Belorrelos_the_Suncaller_483": "belorrelos_the_suncaller,id=207172,ilevel=483",
     "Belorrelos_the_Suncaller_489": "belorrelos_the_suncaller,id=207172,ilevel=489",
     "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
@@ -93,6 +95,8 @@ def build_simc_string(trinkets):
             if "Ominous_Chromatic_Essence" in trinket:
                 dragonflight = trinket.split("_")[3].lower()
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_dragonflight={dragonflight}\n"  # noqa: E501
+            if "IMMOBILIZED" in trinket:
+                result += f"profileset.\"{profileset_name}\"+=dragonflight.nymue_forced_immobilized=1\n" # noqa: E501
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"
         result += f"profileset.\"{profileset_name}\"+=trinket2={trinket_two_value}\n\n"
     return result
