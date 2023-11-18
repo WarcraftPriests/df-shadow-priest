@@ -30,28 +30,20 @@ profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame
 profileset."Augury_of_the_Primal_Flame_496"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
 
 ## 463 / 476 / 483 / 489
-profileset."Ashes_of_the_Embersoul_NODIRE_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
-profileset."Ashes_of_the_Embersoul_NODIRE_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
-profileset."Ashes_of_the_Embersoul_NODIRE_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
-profileset."Ashes_of_the_Embersoul_NODIRE_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Ashes_of_the_Embersoul_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
+profileset."Ashes_of_the_Embersoul_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
+profileset."Ashes_of_the_Embersoul_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
 
-profileset."Ashes_of_the_Embersoul_LATE_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
-profileset."Ashes_of_the_Embersoul_LATE_463"+=dragonflight.embersoul_dire_chance=0.02
-profileset."Ashes_of_the_Embersoul_LATE_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
-profileset."Ashes_of_the_Embersoul_LATE_476"+=dragonflight.embersoul_dire_chance=0.02
-profileset."Ashes_of_the_Embersoul_LATE_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
-profileset."Ashes_of_the_Embersoul_LATE_483"+=dragonflight.embersoul_dire_chance=0.02
-profileset."Ashes_of_the_Embersoul_LATE_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
-profileset."Ashes_of_the_Embersoul_LATE_489"+=dragonflight.embersoul_dire_chance=0.02
-
-profileset."Ashes_of_the_Embersoul_EARLY_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
-profileset."Ashes_of_the_Embersoul_EARLY_463"+=dragonflight.embersoul_dire_chance=0.05
-profileset."Ashes_of_the_Embersoul_EARLY_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
-profileset."Ashes_of_the_Embersoul_EARLY_476"+=dragonflight.embersoul_dire_chance=0.05
-profileset."Ashes_of_the_Embersoul_EARLY_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
-profileset."Ashes_of_the_Embersoul_EARLY_483"+=dragonflight.embersoul_dire_chance=0.05
-profileset."Ashes_of_the_Embersoul_EARLY_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
-profileset."Ashes_of_the_Embersoul_EARLY_489"+=dragonflight.embersoul_dire_chance=0.05
+## Seems to be somewhat bait, this only happens when your raid is literally on the brink of death
+# profileset."Ashes_of_the_Embersoul_LATE_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
+# profileset."Ashes_of_the_Embersoul_LATE_463"+=dragonflight.embersoul_dire_chance=0.02
+# profileset."Ashes_of_the_Embersoul_LATE_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
+# profileset."Ashes_of_the_Embersoul_LATE_476"+=dragonflight.embersoul_dire_chance=0.02
+# profileset."Ashes_of_the_Embersoul_LATE_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
+# profileset."Ashes_of_the_Embersoul_LATE_483"+=dragonflight.embersoul_dire_chance=0.02
+# profileset."Ashes_of_the_Embersoul_LATE_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
+# profileset."Ashes_of_the_Embersoul_LATE_489"+=dragonflight.embersoul_dire_chance=0.02
 
 profileset."Belorrelos_the_Suncaller_463"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=463
 profileset."Belorrelos_the_Suncaller_476"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=476

@@ -60,9 +60,41 @@ profileset."Sea_Star_483"+=trinket1=sea_star,id=133201,ilevel=483
 profileset."Sea_Star_489"+=trinket1=sea_star,id=133201,ilevel=489
 
 ## Waycrest Manor
-profileset."Balefire_Branch_470"+=trinket1=balefire_branch,id=159630,ilevel=470
-profileset."Balefire_Branch_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_FULL_470"+=trinket1=balefire_branch,id=159630,ilevel=470
+profileset."Balefire_Branch_FULL_470"+=dragonflight.balefire_branch_loss_rng_type=percent
+profileset."Balefire_Branch_FULL_470"+=dragonflight.balefire_branch_loss_percent=0.0
+profileset."Balefire_Branch_FULL_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_FULL_483"+=dragonflight.balefire_branch_loss_rng_type=percent
+profileset."Balefire_Branch_FULL_483"+=dragonflight.balefire_branch_loss_percent=0.0
+profileset."Balefire_Branch_FULL_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_FULL_489"+=dragonflight.balefire_branch_loss_rng_type=percent
+profileset."Balefire_Branch_FULL_489"+=dragonflight.balefire_branch_loss_percent=0.0
+
+### This is default currently in dungeon sims
+profileset."Balefire_Branch_2RPPM_470"+=trinket1=balefire_branch,id=159630,ilevel=470
+profileset."Balefire_Branch_2RPPM_470"+=dragonflight.balefire_branch_loss_rng_type=rppm
+profileset."Balefire_Branch_2RPPM_470"+=dragonflight.balefire_branch_loss_rppm=2
+profileset."Balefire_Branch_2RPPM_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_2RPPM_483"+=dragonflight.balefire_branch_loss_rng_type=rppm
+profileset."Balefire_Branch_2RPPM_483"+=dragonflight.balefire_branch_loss_rppm=2
+profileset."Balefire_Branch_2RPPM_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_2RPPM_489"+=dragonflight.balefire_branch_loss_rng_type=rppm
+profileset."Balefire_Branch_2RPPM_489"+=dragonflight.balefire_branch_loss_rppm=2
+
+### This is default currently in non-dungeon sims
+profileset."Balefire_Branch_80%_470"+=trinket1=balefire_branch,id=159630,ilevel=470
+profileset."Balefire_Branch_80%_470"+=dragonflight.balefire_branch_loss_tick=2_s
+profileset."Balefire_Branch_80%_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_80%_483"+=dragonflight.balefire_branch_loss_tick=2_s
+profileset."Balefire_Branch_80%_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_80%_489"+=dragonflight.balefire_branch_loss_tick=2_s
+
+profileset."Balefire_Branch_70%_470"+=trinket1=balefire_branch,id=159630,ilevel=470
+profileset."Balefire_Branch_70%_470"+=dragonflight.balefire_branch_loss_tick=1_s
+profileset."Balefire_Branch_70%_483"+=trinket1=balefire_branch,id=159630,ilevel=483
+profileset."Balefire_Branch_70%_483"+=dragonflight.balefire_branch_loss_tick=1_s
+profileset."Balefire_Branch_70%_489"+=trinket1=balefire_branch,id=159630,ilevel=489
+profileset."Balefire_Branch_70%_489"+=dragonflight.balefire_branch_loss_tick=1_s
 
 profileset."Lady_Waycrests_Music_Box_470"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=470
 profileset."Lady_Waycrests_Music_Box_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
