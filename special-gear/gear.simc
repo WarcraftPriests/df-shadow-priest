@@ -73,7 +73,7 @@ profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_1"+=feet=${gear.feet},
 profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_1"+=feet=${gear.feet},ilevel=486,bonus_id=9532
 profileset."Embellishment_Dreamtenders_Charm_Ysemeralds_0_FULL_1"+=dragonflight.dreamtenders_charm_uptime=1.0
 profileset."Embellishment_Verdant_Conduit_1_Allies_0"+=feet=${gear.feet},ilevel=486,bonus_id=9521
-profileset."Embellishment_Verdant_Conduit_1_Allies_0"+=dragonflight.verdant_conduit_allies=0
+profileset."Embellishment_Verdant_Conduit_1_Allies_0"+=dragonflight.verdant_conduit_allies=03
 profileset."Embellishment_Verdant_Conduit_1_Allies_1"+=feet=${gear.feet},ilevel=486,bonus_id=9521
 profileset."Embellishment_Verdant_Conduit_1_Allies_1"+=dragonflight.verdant_conduit_allies=1
 profileset."Embellishment_Verdant_Conduit_1_Allies_2"+=feet=${gear.feet},ilevel=486,bonus_id=9521
