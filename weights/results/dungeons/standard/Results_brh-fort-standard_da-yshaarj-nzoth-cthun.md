@@ -1,4 +1,4 @@
 # brh-fort-standard - da-yshaarj-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|153513|1.00|0.66|0.72|0.61|0.74|0.18|
+|Base|218564|1.00|0.65|0.69|0.58|0.76|0.10|

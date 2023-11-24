@@ -1,18 +1,18 @@
 # dht-tyran-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|180086|3.28%|
-|Iced_Phial_of_Corrupting_Rage_85_3|179413|2.90%|
-|Phial_of_Static_Empowerment_3|178780|2.53%|
-|Phial_of_Charged_Isolation_3|178514|2.38%|
-|Iced_Phial_of_Corrupting_Rage_70_3|178328|2.27%|
-|Phial_of_Tepid_Versatility_3|178260|2.23%|
-|Phial_of_Elemental_Chaos_3|177631|1.87%|
-|Iced_Phial_of_Corrupting_Rage_50_3|176957|1.49%|
-|Iced_Phial_of_Corrupting_Rage_40_3|176406|1.17%|
-|Phial_of_Glacial_Fury_3|175566|0.69%|
-|Elemental_Potion_of_Ultimate_Power_3|174919|0.32%|
-|Elemental_Potion_of_Power_3|174812|0.26%|
-|Potion_of_Shocking_Disclosure_3|174598|0.13%|
-|Bottled_Putrescence_3|174522|0.09%|
-|Base|174365|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|166735|3.11%|
+|Iced_Phial_of_Corrupting_Rage_85_3|166120|2.73%|
+|Phial_of_Static_Empowerment_3|165726|2.49%|
+|Phial_of_Charged_Isolation_3|165570|2.39%|
+|Phial_of_Tepid_Versatility_3|165415|2.29%|
+|Iced_Phial_of_Corrupting_Rage_70_3|165402|2.29%|
+|Phial_of_Elemental_Chaos_3|164762|1.89%|
+|Iced_Phial_of_Corrupting_Rage_50_3|164338|1.63%|
+|Iced_Phial_of_Corrupting_Rage_40_3|163787|1.29%|
+|Phial_of_Glacial_Fury_3|163184|0.91%|
+|Elemental_Potion_of_Ultimate_Power_3|162319|0.38%|
+|Elemental_Potion_of_Power_3|162198|0.30%|
+|Bottled_Putrescence_3|162161|0.28%|
+|Potion_of_Shocking_Disclosure_3|162107|0.25%|
+|Base|161706|0.00%|

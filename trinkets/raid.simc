@@ -117,4 +117,4 @@ profileset."Neltharions_Call_to_Suffering_457"+=trinket1=neltharions_call_to_suf
 profileset."Beacon_to_the_Beyond_450"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=450
 
 # World Bosses 
-# N/A
+profileset."Hibernation_Crystal_463"+=trinket1=hibernation_crystal,id=150388,ilevel=463

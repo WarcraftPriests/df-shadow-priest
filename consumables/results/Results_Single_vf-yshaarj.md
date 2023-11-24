@@ -1,19 +1,19 @@
 # Single - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|201415|0.74%|
-|Sizzling_Seafood_Medley|201355|0.71%|
-|Feisty_Fish_Sticks|201340|0.71%|
-|Revenge_Served_Cold|201155|0.61%|
-|Thousandbone_Tongueslicer|201096|0.58%|
-|Great_Cerulean_Sea|201078|0.58%|
-|Timely_Demise|201007|0.54%|
-|Filet_of_Fangs|200977|0.52%|
-|Seamoth_Surprise|200967|0.52%|
-|Draconic_Augment_Rune|200960|0.52%|
-|Dreambound_Augment_Rune|200918|0.50%|
-|Fated_Fortune_Cookie|200855|0.46%|
-|Salt_Baked_Fishcake|200745|0.41%|
-|Roast_Duck_Delight|200367|0.22%|
-|Thrice_Spiced_Mammoth_Kabob|200212|0.14%|
-|Base|199928|0.00%|
+|Aromatic_Seafood_Platter|200773|0.75%|
+|Feisty_Fish_Sticks|200683|0.71%|
+|Sizzling_Seafood_Medley|200640|0.69%|
+|Revenge_Served_Cold|200574|0.65%|
+|Thousandbone_Tongueslicer|200485|0.61%|
+|Great_Cerulean_Sea|200341|0.54%|
+|Timely_Demise|200326|0.53%|
+|Draconic_Augment_Rune|200323|0.53%|
+|Dreambound_Augment_Rune|200299|0.52%|
+|Seamoth_Surprise|200277|0.51%|
+|Fated_Fortune_Cookie|200266|0.50%|
+|Filet_of_Fangs|200251|0.49%|
+|Salt_Baked_Fishcake|200036|0.38%|
+|Roast_Duck_Delight|199685|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|199538|0.14%|
+|Base|199269|0.00%|

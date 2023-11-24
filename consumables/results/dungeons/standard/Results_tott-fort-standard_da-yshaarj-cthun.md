@@ -1,19 +1,19 @@
 # tott-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|217833|0.51%|
-|Thousandbone_Tongueslicer|217824|0.51%|
-|Great_Cerulean_Sea|217809|0.50%|
-|Dreambound_Augment_Rune|217695|0.45%|
-|Draconic_Augment_Rune|217691|0.45%|
-|Revenge_Served_Cold|217675|0.44%|
-|Feisty_Fish_Sticks|217646|0.43%|
-|Filet_of_Fangs|217642|0.43%|
-|Seamoth_Surprise|217635|0.42%|
-|Sizzling_Seafood_Medley|217613|0.41%|
-|Fated_Fortune_Cookie|217528|0.37%|
-|Salt_Baked_Fishcake|217494|0.36%|
-|Timely_Demise|217298|0.27%|
-|Roast_Duck_Delight|217174|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|216960|0.11%|
-|Base|216719|0.00%|
+|Revenge_Served_Cold|226589|0.65%|
+|Aromatic_Seafood_Platter|226519|0.62%|
+|Great_Cerulean_Sea|226491|0.61%|
+|Feisty_Fish_Sticks|226447|0.59%|
+|Thousandbone_Tongueslicer|226439|0.58%|
+|Draconic_Augment_Rune|226340|0.54%|
+|Sizzling_Seafood_Medley|226330|0.54%|
+|Filet_of_Fangs|226329|0.53%|
+|Seamoth_Surprise|226258|0.50%|
+|Dreambound_Augment_Rune|226248|0.50%|
+|Fated_Fortune_Cookie|226243|0.50%|
+|Salt_Baked_Fishcake|226132|0.45%|
+|Timely_Demise|225988|0.38%|
+|Roast_Duck_Delight|225586|0.20%|
+|Thrice_Spiced_Mammoth_Kabob|225471|0.15%|
+|Base|225125|0.00%|

@@ -1,4 +1,4 @@
 # everbloom-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|178757|1.00|0.65|0.73|0.62|0.78|0.13|
+|Base|190243|1.00|0.61|0.72|0.61|0.78|0.12|

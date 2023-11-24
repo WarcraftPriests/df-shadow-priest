@@ -1,19 +1,19 @@
 # everbloom-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|197283|0.47%|
-|Thousandbone_Tongueslicer|197273|0.47%|
-|Revenge_Served_Cold|197236|0.45%|
-|Feisty_Fish_Sticks|197183|0.42%|
-|Draconic_Augment_Rune|197167|0.41%|
-|Sizzling_Seafood_Medley|197163|0.41%|
-|Great_Cerulean_Sea|197153|0.41%|
-|Dreambound_Augment_Rune|197091|0.37%|
-|Seamoth_Surprise|197037|0.35%|
-|Filet_of_Fangs|197025|0.34%|
-|Fated_Fortune_Cookie|197010|0.33%|
-|Timely_Demise|196959|0.31%|
-|Salt_Baked_Fishcake|196955|0.31%|
-|Roast_Duck_Delight|196666|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|196565|0.11%|
-|Base|196356|0.00%|
+|Revenge_Served_Cold|189222|0.47%|
+|Draconic_Augment_Rune|189156|0.43%|
+|Thousandbone_Tongueslicer|189150|0.43%|
+|Aromatic_Seafood_Platter|189144|0.42%|
+|Great_Cerulean_Sea|189121|0.41%|
+|Fated_Fortune_Cookie|189114|0.41%|
+|Dreambound_Augment_Rune|189075|0.39%|
+|Seamoth_Surprise|189063|0.38%|
+|Feisty_Fish_Sticks|189047|0.37%|
+|Filet_of_Fangs|189000|0.35%|
+|Sizzling_Seafood_Medley|188946|0.32%|
+|Salt_Baked_Fishcake|188943|0.32%|
+|Timely_Demise|188797|0.24%|
+|Roast_Duck_Delight|188777|0.23%|
+|Thrice_Spiced_Mammoth_Kabob|188614|0.14%|
+|Base|188345|0.00%|

@@ -1,4 +1,4 @@
 # waycrest-tyran-standard - vf-yshaarj
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|164917|1.00|0.70|0.72|0.65|0.79|0.16|
+|Base|176782|1.00|0.73|0.71|0.64|0.77|0.13|

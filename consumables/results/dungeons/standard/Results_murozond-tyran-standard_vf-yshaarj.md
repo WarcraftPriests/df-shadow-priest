@@ -1,19 +1,19 @@
 # murozond-tyran-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|170286|0.58%|
-|Feisty_Fish_Sticks|170245|0.56%|
-|Revenge_Served_Cold|170197|0.53%|
-|Great_Cerulean_Sea|170177|0.52%|
-|Thousandbone_Tongueslicer|170173|0.51%|
-|Sizzling_Seafood_Medley|170122|0.48%|
-|Draconic_Augment_Rune|170033|0.43%|
-|Dreambound_Augment_Rune|170003|0.41%|
-|Timely_Demise|170000|0.41%|
-|Filet_of_Fangs|169992|0.41%|
-|Seamoth_Surprise|169983|0.40%|
-|Salt_Baked_Fishcake|169921|0.37%|
-|Fated_Fortune_Cookie|169907|0.36%|
-|Roast_Duck_Delight|169573|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|169393|0.05%|
-|Base|169303|0.00%|
+|Feisty_Fish_Sticks|157970|0.32%|
+|Aromatic_Seafood_Platter|157966|0.32%|
+|Great_Cerulean_Sea|157954|0.31%|
+|Sizzling_Seafood_Medley|157918|0.29%|
+|Draconic_Augment_Rune|157912|0.29%|
+|Thousandbone_Tongueslicer|157910|0.28%|
+|Revenge_Served_Cold|157909|0.28%|
+|Dreambound_Augment_Rune|157904|0.28%|
+|Filet_of_Fangs|157895|0.27%|
+|Timely_Demise|157882|0.27%|
+|Seamoth_Surprise|157874|0.26%|
+|Fated_Fortune_Cookie|157854|0.25%|
+|Salt_Baked_Fishcake|157820|0.23%|
+|Roast_Duck_Delight|157585|0.08%|
+|Thrice_Spiced_Mammoth_Kabob|157558|0.06%|
+|Base|157462|0.00%|

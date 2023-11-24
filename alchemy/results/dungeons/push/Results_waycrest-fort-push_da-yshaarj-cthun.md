@@ -1,18 +1,18 @@
 # waycrest-fort-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|222613|4.84%|
-|Iced_Phial_of_Corrupting_Rage_85_3|221589|4.36%|
-|Phial_of_Static_Empowerment_3|220406|3.80%|
-|Phial_of_Charged_Isolation_3|220273|3.74%|
-|Iced_Phial_of_Corrupting_Rage_70_3|220036|3.63%|
-|Phial_of_Tepid_Versatility_3|219886|3.55%|
-|Phial_of_Elemental_Chaos_3|218986|3.13%|
-|Iced_Phial_of_Corrupting_Rage_50_3|217871|2.61%|
-|Iced_Phial_of_Corrupting_Rage_40_3|216726|2.07%|
-|Phial_of_Glacial_Fury_3|214679|1.10%|
-|Elemental_Potion_of_Ultimate_Power_3|213642|0.61%|
-|Elemental_Potion_of_Power_3|213345|0.47%|
-|Potion_of_Shocking_Disclosure_3|213042|0.33%|
-|Bottled_Putrescence_3|213009|0.32%|
-|Base|212338|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|221903|4.83%|
+|Iced_Phial_of_Corrupting_Rage_85_3|220899|4.36%|
+|Phial_of_Static_Empowerment_3|219720|3.80%|
+|Phial_of_Charged_Isolation_3|219353|3.63%|
+|Iced_Phial_of_Corrupting_Rage_70_3|219197|3.55%|
+|Phial_of_Tepid_Versatility_3|219064|3.49%|
+|Phial_of_Elemental_Chaos_3|218016|3.00%|
+|Iced_Phial_of_Corrupting_Rage_50_3|216910|2.47%|
+|Iced_Phial_of_Corrupting_Rage_40_3|215741|1.92%|
+|Phial_of_Glacial_Fury_3|213979|1.09%|
+|Elemental_Potion_of_Ultimate_Power_3|213059|0.65%|
+|Elemental_Potion_of_Power_3|212812|0.54%|
+|Bottled_Putrescence_3|212519|0.40%|
+|Potion_of_Shocking_Disclosure_3|212447|0.37%|
+|Base|211673|0.00%|
