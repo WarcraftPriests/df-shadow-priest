@@ -188,7 +188,11 @@ def create_talent_builds():
         talent_string = talent_builds["builds"][build]
         profiles = profiles + \
             f'profileset."{talent_name}"+=talents={talent_string}\n'
-
+    for build in talent_builds["generated"]:
+        talent_name = build
+        talent_string = talent_builds["generated"][build]
+        profiles = profiles + \
+            f'profileset."{talent_name}"+=talents={talent_string}\n'
     return profiles
 
 

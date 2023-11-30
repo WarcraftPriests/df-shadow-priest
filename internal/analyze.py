@@ -328,7 +328,7 @@ def clear_dir(path, talent_string, fight_types):
                     if config["analyze"]["markdown"]:
                         output_files.append(
                             f"{path}/Results_{fight_type}_{talent}.md")
-                    if config["analyze"]["csv"] and dungeonChartsGen:
+                    if config["analyze"]["csv"] and (dungeonChartsGen or path == "talents/"):
                         output_files.append(
                             f"{path}/Results_{fight_type}_{talent}.csv")
                     if config["analyze"]["json"] and dungeonChartsGen:
@@ -441,7 +441,8 @@ def analyze(talents, directory, dungeons, weights, timestamp):
             if config["analyze"]["markdown"]:
                 build_markdown(combo, talent_string, results,
                                weights, base_dps, True)
-            if config["analyze"]["csv"] and config["analyze"]["dungeonCharts"]:
+            # always build talent csv for top.py
+            if config["analyze"]["csv"] and (config["analyze"]["dungeonCharts"] or directory == "talents/"):
                 build_csv(combo, talent_string, results,
                           weights, base_dps, True)
             if config["analyze"]["json"] and config["analyze"]["dungeonCharts"] and not weights:  # noqa: E501

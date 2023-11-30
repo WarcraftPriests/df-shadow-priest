@@ -38,8 +38,8 @@ if __name__ == '__main__':
             if "shadow_crash" in line and "whispering_shadows" not in line:
                 continue
             # Don't add combos that waste points on Inescapable Torment without Y'Shaarj
-            if "inescapable_torment" in line and "yshaarj" not in line:
-                continue
+            # if "inescapable_torment" in line and "yshaarj" not in line:
+            #     continue
 
             # NOTE: Current builds dont need these restrictions
             # # Make sure you are efficiently spending points
