@@ -56,7 +56,7 @@ def filter_dungeon_type(combo):
 
 def get_builds():
     cds = ["VF", "DA"]
-    idols = ["yshaarj_cthun", "yshaarj_nzoth_cthun"]
+    idols = ["yshaarj_cthun", "yshaarj_nzoth_cthun", "nzoth_yogg"]
     combos = [f"{cd}_{idol}" for cd in cds for idol in idols]  # noqa: E501
     return combos
 
