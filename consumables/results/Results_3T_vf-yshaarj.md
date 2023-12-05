@@ -1,19 +1,19 @@
 # 3T - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sizzling_Seafood_Medley|304956|0.84%|
-|Aromatic_Seafood_Platter|304906|0.82%|
-|Feisty_Fish_Sticks|304888|0.81%|
-|Timely_Demise|304432|0.66%|
-|Revenge_Served_Cold|304348|0.64%|
-|Great_Cerulean_Sea|304289|0.62%|
-|Thousandbone_Tongueslicer|304162|0.57%|
-|Draconic_Augment_Rune|304111|0.56%|
-|Dreambound_Augment_Rune|304079|0.55%|
-|Fated_Fortune_Cookie|303991|0.52%|
-|Seamoth_Surprise|303948|0.50%|
-|Salt_Baked_Fishcake|303857|0.47%|
-|Filet_of_Fangs|303843|0.47%|
-|Roast_Duck_Delight|303173|0.25%|
-|Thrice_Spiced_Mammoth_Kabob|302933|0.17%|
-|Base|302425|0.00%|
+|Aromatic_Seafood_Platter|339702|0.75%|
+|Feisty_Fish_Sticks|339468|0.69%|
+|Sizzling_Seafood_Medley|339442|0.68%|
+|Great_Cerulean_Sea|339143|0.59%|
+|Revenge_Served_Cold|339140|0.59%|
+|Timely_Demise|339104|0.58%|
+|Thousandbone_Tongueslicer|339038|0.56%|
+|Draconic_Augment_Rune|338950|0.53%|
+|Dreambound_Augment_Rune|338925|0.52%|
+|Seamoth_Surprise|338869|0.51%|
+|Fated_Fortune_Cookie|338743|0.47%|
+|Filet_of_Fangs|338743|0.47%|
+|Salt_Baked_Fishcake|338633|0.44%|
+|Roast_Duck_Delight|337736|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|337535|0.11%|
+|Base|337157|0.00%|
