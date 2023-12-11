@@ -1,19 +1,19 @@
 # Single - da-yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|211127|0.72%|
-|Revenge_Served_Cold|211035|0.68%|
-|Sizzling_Seafood_Medley|210946|0.64%|
-|Feisty_Fish_Sticks|210924|0.63%|
-|Great_Cerulean_Sea|210890|0.61%|
-|Thousandbone_Tongueslicer|210878|0.60%|
-|Draconic_Augment_Rune|210804|0.57%|
-|Dreambound_Augment_Rune|210788|0.56%|
-|Filet_of_Fangs|210673|0.51%|
-|Seamoth_Surprise|210655|0.50%|
-|Fated_Fortune_Cookie|210645|0.49%|
-|Timely_Demise|210596|0.47%|
-|Salt_Baked_Fishcake|210510|0.43%|
-|Roast_Duck_Delight|210068|0.22%|
-|Thrice_Spiced_Mammoth_Kabob|209953|0.16%|
-|Base|209611|0.00%|
+|Aromatic_Seafood_Platter|212365|0.63%|
+|Feisty_Fish_Sticks|212343|0.62%|
+|Revenge_Served_Cold|212293|0.60%|
+|Sizzling_Seafood_Medley|212289|0.60%|
+|Great_Cerulean_Sea|212175|0.54%|
+|Thousandbone_Tongueslicer|212160|0.54%|
+|Dreambound_Augment_Rune|212149|0.53%|
+|Draconic_Augment_Rune|212077|0.50%|
+|Timely_Demise|212028|0.47%|
+|Fated_Fortune_Cookie|211996|0.46%|
+|Filet_of_Fangs|211988|0.45%|
+|Seamoth_Surprise|211916|0.42%|
+|Salt_Baked_Fishcake|211802|0.37%|
+|Roast_Duck_Delight|211361|0.16%|
+|Thrice_Spiced_Mammoth_Kabob|211303|0.13%|
+|Base|211028|0.00%|

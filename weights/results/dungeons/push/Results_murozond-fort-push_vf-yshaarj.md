@@ -1,4 +1,4 @@
 # murozond-fort-push - vf-yshaarj
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|198823|1.00|0.74|0.72|0.63|0.78|0.09|
+|Base|198427|1.00|0.65|0.73|0.66|0.79|0.09|

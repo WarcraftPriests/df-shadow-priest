@@ -1,19 +1,19 @@
 # tott-fort-push - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|274541|0.65%|
-|Feisty_Fish_Sticks|274540|0.65%|
-|Sizzling_Seafood_Medley|274538|0.65%|
-|Great_Cerulean_Sea|274442|0.62%|
-|Revenge_Served_Cold|274441|0.62%|
-|Thousandbone_Tongueslicer|274352|0.58%|
-|Draconic_Augment_Rune|274294|0.56%|
-|Seamoth_Surprise|274283|0.56%|
-|Filet_of_Fangs|274276|0.56%|
-|Dreambound_Augment_Rune|274235|0.54%|
-|Fated_Fortune_Cookie|274150|0.51%|
-|Timely_Demise|274140|0.51%|
-|Salt_Baked_Fishcake|273952|0.44%|
-|Roast_Duck_Delight|273403|0.24%|
-|Thrice_Spiced_Mammoth_Kabob|273246|0.18%|
-|Base|272760|0.00%|
+|Aromatic_Seafood_Platter|288125|0.63%|
+|Feisty_Fish_Sticks|287887|0.54%|
+|Sizzling_Seafood_Medley|287820|0.52%|
+|Revenge_Served_Cold|287815|0.52%|
+|Dreambound_Augment_Rune|287665|0.46%|
+|Seamoth_Surprise|287623|0.45%|
+|Great_Cerulean_Sea|287619|0.45%|
+|Timely_Demise|287601|0.44%|
+|Draconic_Augment_Rune|287592|0.44%|
+|Filet_of_Fangs|287516|0.41%|
+|Thousandbone_Tongueslicer|287511|0.41%|
+|Fated_Fortune_Cookie|287379|0.36%|
+|Salt_Baked_Fishcake|287316|0.34%|
+|Roast_Duck_Delight|286868|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|286813|0.17%|
+|Base|286335|0.00%|

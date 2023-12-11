@@ -1,18 +1,18 @@
 # tott-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|227373|4.24%|
-|Iced_Phial_of_Corrupting_Rage_85_3|226294|3.74%|
-|Phial_of_Static_Empowerment_3|225198|3.24%|
-|Phial_of_Charged_Isolation_3|224852|3.08%|
-|Iced_Phial_of_Corrupting_Rage_70_3|224761|3.04%|
-|Phial_of_Tepid_Versatility_3|224688|3.01%|
-|Phial_of_Elemental_Chaos_3|223755|2.58%|
-|Iced_Phial_of_Corrupting_Rage_50_3|222576|2.04%|
-|Iced_Phial_of_Corrupting_Rage_40_3|221698|1.64%|
-|Phial_of_Glacial_Fury_3|219968|0.84%|
-|Elemental_Potion_of_Ultimate_Power_3|219309|0.54%|
-|Bottled_Putrescence_3|219124|0.46%|
-|Elemental_Potion_of_Power_3|218974|0.39%|
-|Potion_of_Shocking_Disclosure_3|218846|0.33%|
-|Base|218127|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|239477|3.29%|
+|Iced_Phial_of_Corrupting_Rage_85_3|238643|2.93%|
+|Phial_of_Static_Empowerment_3|237629|2.49%|
+|Phial_of_Charged_Isolation_3|237302|2.35%|
+|Iced_Phial_of_Corrupting_Rage_70_3|237185|2.30%|
+|Phial_of_Tepid_Versatility_3|236971|2.21%|
+|Phial_of_Elemental_Chaos_3|236211|1.88%|
+|Iced_Phial_of_Corrupting_Rage_50_3|235472|1.56%|
+|Iced_Phial_of_Corrupting_Rage_40_3|234744|1.25%|
+|Phial_of_Glacial_Fury_3|233248|0.60%|
+|Elemental_Potion_of_Ultimate_Power_3|232838|0.43%|
+|Elemental_Potion_of_Power_3|232580|0.32%|
+|Bottled_Putrescence_3|232460|0.26%|
+|Potion_of_Shocking_Disclosure_3|232299|0.19%|
+|Base|231847|0.00%|

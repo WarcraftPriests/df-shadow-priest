@@ -1,18 +1,18 @@
 # atal-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|192547|4.18%|
-|Iced_Phial_of_Corrupting_Rage_85_3|191708|3.72%|
-|Phial_of_Static_Empowerment_3|190793|3.23%|
-|Phial_of_Charged_Isolation_3|190561|3.10%|
-|Iced_Phial_of_Corrupting_Rage_70_3|190509|3.08%|
-|Phial_of_Tepid_Versatility_3|190346|2.99%|
-|Phial_of_Elemental_Chaos_3|189675|2.62%|
-|Iced_Phial_of_Corrupting_Rage_50_3|188917|2.21%|
-|Iced_Phial_of_Corrupting_Rage_40_3|188519|2.00%|
-|Phial_of_Glacial_Fury_3|186959|1.15%|
-|Elemental_Potion_of_Ultimate_Power_3|186000|0.64%|
-|Elemental_Potion_of_Power_3|185747|0.50%|
-|Potion_of_Shocking_Disclosure_3|185206|0.21%|
-|Bottled_Putrescence_3|185126|0.16%|
-|Base|184825|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|189969|4.06%|
+|Iced_Phial_of_Corrupting_Rage_85_3|189233|3.66%|
+|Phial_of_Static_Empowerment_3|188344|3.17%|
+|Phial_of_Charged_Isolation_3|188147|3.06%|
+|Iced_Phial_of_Corrupting_Rage_70_3|188075|3.02%|
+|Phial_of_Tepid_Versatility_3|188021|3.00%|
+|Phial_of_Elemental_Chaos_3|187311|2.61%|
+|Iced_Phial_of_Corrupting_Rage_50_3|186532|2.18%|
+|Iced_Phial_of_Corrupting_Rage_40_3|185824|1.79%|
+|Phial_of_Glacial_Fury_3|184313|0.96%|
+|Elemental_Potion_of_Ultimate_Power_3|183894|0.73%|
+|Elemental_Potion_of_Power_3|183578|0.56%|
+|Potion_of_Shocking_Disclosure_3|182967|0.23%|
+|Bottled_Putrescence_3|182900|0.19%|
+|Base|182553|0.00%|

@@ -1,18 +1,18 @@
 # brh-fort-push - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|249226|3.62%|
-|Iced_Phial_of_Corrupting_Rage_85_3|248344|3.25%|
-|Phial_of_Static_Empowerment_3|247530|2.92%|
-|Phial_of_Charged_Isolation_3|247267|2.81%|
-|Phial_of_Tepid_Versatility_3|247036|2.71%|
-|Iced_Phial_of_Corrupting_Rage_70_3|246907|2.66%|
-|Phial_of_Elemental_Chaos_3|245965|2.27%|
-|Iced_Phial_of_Corrupting_Rage_50_3|244979|1.86%|
-|Iced_Phial_of_Corrupting_Rage_40_3|243918|1.41%|
-|Phial_of_Glacial_Fury_3|242378|0.77%|
-|Elemental_Potion_of_Ultimate_Power_3|241507|0.41%|
-|Elemental_Potion_of_Power_3|241262|0.31%|
-|Potion_of_Shocking_Disclosure_3|241261|0.31%|
-|Bottled_Putrescence_3|241226|0.30%|
-|Base|240516|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|259824|3.92%|
+|Iced_Phial_of_Corrupting_Rage_85_3|258677|3.46%|
+|Phial_of_Static_Empowerment_3|257706|3.07%|
+|Phial_of_Charged_Isolation_3|257371|2.94%|
+|Phial_of_Tepid_Versatility_3|257105|2.83%|
+|Iced_Phial_of_Corrupting_Rage_70_3|257057|2.81%|
+|Phial_of_Elemental_Chaos_3|255975|2.38%|
+|Iced_Phial_of_Corrupting_Rage_50_3|254912|1.96%|
+|Iced_Phial_of_Corrupting_Rage_40_3|253740|1.49%|
+|Phial_of_Glacial_Fury_3|251911|0.76%|
+|Elemental_Potion_of_Ultimate_Power_3|251239|0.49%|
+|Elemental_Potion_of_Power_3|250967|0.38%|
+|Bottled_Putrescence_3|250762|0.30%|
+|Potion_of_Shocking_Disclosure_3|250610|0.24%|
+|Base|250019|0.00%|

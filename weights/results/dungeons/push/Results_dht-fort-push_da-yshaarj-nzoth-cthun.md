@@ -1,4 +1,4 @@
 # dht-fort-push - da-yshaarj-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|216895|1.00|0.60|0.65|0.59|0.75|0.10|
+|Base|226546|1.00|0.63|0.71|0.62|0.79|0.09|

@@ -1,19 +1,19 @@
 # atal-fort-push - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|230336|0.58%|
-|Feisty_Fish_Sticks|230156|0.50%|
-|Great_Cerulean_Sea|230147|0.50%|
-|Revenge_Served_Cold|230109|0.48%|
-|Sizzling_Seafood_Medley|230041|0.45%|
-|Timely_Demise|230013|0.44%|
-|Thousandbone_Tongueslicer|229972|0.42%|
-|Fated_Fortune_Cookie|229943|0.41%|
-|Dreambound_Augment_Rune|229912|0.39%|
-|Draconic_Augment_Rune|229899|0.39%|
-|Seamoth_Surprise|229898|0.39%|
-|Filet_of_Fangs|229747|0.32%|
-|Salt_Baked_Fishcake|229740|0.32%|
-|Roast_Duck_Delight|229361|0.15%|
-|Thrice_Spiced_Mammoth_Kabob|229294|0.12%|
-|Base|229011|0.00%|
+|Aromatic_Seafood_Platter|239604|0.43%|
+|Sizzling_Seafood_Medley|239559|0.41%|
+|Revenge_Served_Cold|239464|0.37%|
+|Great_Cerulean_Sea|239460|0.37%|
+|Thousandbone_Tongueslicer|239423|0.35%|
+|Feisty_Fish_Sticks|239419|0.35%|
+|Draconic_Augment_Rune|239349|0.32%|
+|Timely_Demise|239319|0.31%|
+|Dreambound_Augment_Rune|239305|0.30%|
+|Seamoth_Surprise|239294|0.30%|
+|Fated_Fortune_Cookie|239242|0.28%|
+|Filet_of_Fangs|239161|0.24%|
+|Salt_Baked_Fishcake|239161|0.24%|
+|Roast_Duck_Delight|238891|0.13%|
+|Thrice_Spiced_Mammoth_Kabob|238708|0.05%|
+|Base|238581|0.00%|

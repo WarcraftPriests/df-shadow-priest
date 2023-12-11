@@ -1,19 +1,19 @@
 # waycrest-tyran-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|175969|0.49%|
-|Aromatic_Seafood_Platter|175956|0.48%|
-|Sizzling_Seafood_Medley|175927|0.46%|
-|Revenge_Served_Cold|175873|0.43%|
-|Great_Cerulean_Sea|175844|0.42%|
-|Thousandbone_Tongueslicer|175789|0.38%|
-|Draconic_Augment_Rune|175744|0.36%|
-|Dreambound_Augment_Rune|175744|0.36%|
-|Fated_Fortune_Cookie|175697|0.33%|
-|Timely_Demise|175691|0.33%|
-|Salt_Baked_Fishcake|175654|0.31%|
-|Seamoth_Surprise|175624|0.29%|
-|Filet_of_Fangs|175576|0.26%|
-|Thrice_Spiced_Mammoth_Kabob|175323|0.12%|
-|Roast_Duck_Delight|175300|0.11%|
-|Base|175116|0.00%|
+|Sizzling_Seafood_Medley|156688|0.42%|
+|Aromatic_Seafood_Platter|156667|0.41%|
+|Great_Cerulean_Sea|156652|0.40%|
+|Feisty_Fish_Sticks|156645|0.40%|
+|Revenge_Served_Cold|156591|0.36%|
+|Seamoth_Surprise|156551|0.34%|
+|Dreambound_Augment_Rune|156534|0.33%|
+|Timely_Demise|156531|0.32%|
+|Draconic_Augment_Rune|156497|0.30%|
+|Filet_of_Fangs|156496|0.30%|
+|Thousandbone_Tongueslicer|156486|0.30%|
+|Fated_Fortune_Cookie|156410|0.25%|
+|Salt_Baked_Fishcake|156337|0.20%|
+|Roast_Duck_Delight|156219|0.12%|
+|Thrice_Spiced_Mammoth_Kabob|156126|0.06%|
+|Base|156025|0.00%|

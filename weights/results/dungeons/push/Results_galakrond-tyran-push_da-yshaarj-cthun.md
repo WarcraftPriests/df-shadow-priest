@@ -1,4 +1,4 @@
 # galakrond-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|252492|1.00|0.62|0.68|0.59|0.74|0.08|
+|Base|218001|1.00|0.58|0.70|0.64|0.76|0.10|

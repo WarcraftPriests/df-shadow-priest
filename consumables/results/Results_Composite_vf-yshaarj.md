@@ -1,19 +1,19 @@
 # Composite - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|223634|0.67%|
-|Feisty_Fish_Sticks|223541|0.63%|
-|Revenge_Served_Cold|223519|0.62%|
-|Sizzling_Seafood_Medley|223515|0.62%|
-|Great_Cerulean_Sea|223451|0.59%|
-|Thousandbone_Tongueslicer|223401|0.56%|
-|Dreambound_Augment_Rune|223354|0.54%|
-|Draconic_Augment_Rune|223324|0.53%|
-|Seamoth_Surprise|223229|0.49%|
-|Filet_of_Fangs|223196|0.47%|
-|Timely_Demise|223159|0.46%|
-|Fated_Fortune_Cookie|223144|0.45%|
-|Salt_Baked_Fishcake|223067|0.41%|
-|Roast_Duck_Delight|222552|0.18%|
-|Thrice_Spiced_Mammoth_Kabob|222395|0.11%|
-|Base|222149|0.00%|
+|Feisty_Fish_Sticks|224794|0.63%|
+|Aromatic_Seafood_Platter|224782|0.63%|
+|Sizzling_Seafood_Medley|224702|0.59%|
+|Revenge_Served_Cold|224689|0.58%|
+|Thousandbone_Tongueslicer|224626|0.56%|
+|Great_Cerulean_Sea|224581|0.54%|
+|Dreambound_Augment_Rune|224486|0.49%|
+|Draconic_Augment_Rune|224482|0.49%|
+|Filet_of_Fangs|224397|0.45%|
+|Seamoth_Surprise|224392|0.45%|
+|Timely_Demise|224375|0.44%|
+|Fated_Fortune_Cookie|224313|0.41%|
+|Salt_Baked_Fishcake|224243|0.38%|
+|Roast_Duck_Delight|223725|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|223649|0.12%|
+|Base|223386|0.00%|

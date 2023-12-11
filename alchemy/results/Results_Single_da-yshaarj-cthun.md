@@ -1,18 +1,18 @@
 # Single - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|216305|4.94%|
-|Iced_Phial_of_Corrupting_Rage_85_3|215199|4.40%|
-|Phial_of_Static_Empowerment_3|213644|3.65%|
-|Phial_of_Charged_Isolation_3|213632|3.64%|
-|Iced_Phial_of_Corrupting_Rage_70_3|213536|3.60%|
-|Phial_of_Tepid_Versatility_3|213243|3.45%|
-|Phial_of_Elemental_Chaos_3|212328|3.01%|
-|Iced_Phial_of_Corrupting_Rage_50_3|211399|2.56%|
-|Iced_Phial_of_Corrupting_Rage_40_3|210119|1.94%|
-|Elemental_Potion_of_Ultimate_Power_3|208164|0.99%|
-|Phial_of_Glacial_Fury_3|207925|0.87%|
-|Elemental_Potion_of_Power_3|207806|0.82%|
-|Bottled_Putrescence_3|206548|0.21%|
-|Potion_of_Shocking_Disclosure_3|206501|0.18%|
-|Base|206124|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|217560|4.94%|
+|Iced_Phial_of_Corrupting_Rage_85_3|216323|4.34%|
+|Phial_of_Charged_Isolation_3|214992|3.70%|
+|Phial_of_Static_Empowerment_3|214907|3.66%|
+|Iced_Phial_of_Corrupting_Rage_70_3|214865|3.64%|
+|Phial_of_Tepid_Versatility_3|214374|3.40%|
+|Phial_of_Elemental_Chaos_3|213612|3.04%|
+|Iced_Phial_of_Corrupting_Rage_50_3|212519|2.51%|
+|Iced_Phial_of_Corrupting_Rage_40_3|211385|1.96%|
+|Elemental_Potion_of_Ultimate_Power_3|209443|1.03%|
+|Phial_of_Glacial_Fury_3|209083|0.85%|
+|Elemental_Potion_of_Power_3|208875|0.75%|
+|Potion_of_Shocking_Disclosure_3|207781|0.22%|
+|Bottled_Putrescence_3|207690|0.18%|
+|Base|207316|0.00%|

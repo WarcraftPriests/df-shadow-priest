@@ -1,19 +1,19 @@
 # dht-fort-standard - da-yshaarj-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|180146|0.47%|
-|Revenge_Served_Cold|180134|0.47%|
-|Aromatic_Seafood_Platter|180099|0.45%|
-|Dreambound_Augment_Rune|180096|0.44%|
-|Great_Cerulean_Sea|180083|0.44%|
-|Draconic_Augment_Rune|180059|0.42%|
-|Filet_of_Fangs|180025|0.40%|
-|Sizzling_Seafood_Medley|180010|0.40%|
-|Seamoth_Surprise|179996|0.39%|
-|Thousandbone_Tongueslicer|179986|0.38%|
-|Fated_Fortune_Cookie|179981|0.38%|
-|Salt_Baked_Fishcake|179924|0.35%|
-|Timely_Demise|179887|0.33%|
-|Roast_Duck_Delight|179634|0.19%|
-|Thrice_Spiced_Mammoth_Kabob|179549|0.14%|
-|Base|179299|0.00%|
+|Aromatic_Seafood_Platter|188136|0.57%|
+|Feisty_Fish_Sticks|188104|0.56%|
+|Sizzling_Seafood_Medley|188008|0.50%|
+|Great_Cerulean_Sea|187970|0.48%|
+|Revenge_Served_Cold|187932|0.46%|
+|Seamoth_Surprise|187925|0.46%|
+|Thousandbone_Tongueslicer|187924|0.46%|
+|Draconic_Augment_Rune|187892|0.44%|
+|Dreambound_Augment_Rune|187875|0.43%|
+|Fated_Fortune_Cookie|187870|0.43%|
+|Timely_Demise|187841|0.42%|
+|Filet_of_Fangs|187805|0.40%|
+|Salt_Baked_Fishcake|187658|0.32%|
+|Roast_Duck_Delight|187348|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|187267|0.11%|
+|Base|187064|0.00%|

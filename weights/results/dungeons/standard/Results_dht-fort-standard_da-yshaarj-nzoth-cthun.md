@@ -1,4 +1,4 @@
 # dht-fort-standard - da-yshaarj-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|181185|1.00|0.60|0.70|0.60|0.79|0.13|
+|Base|188827|1.00|0.72|0.69|0.57|0.78|0.10|

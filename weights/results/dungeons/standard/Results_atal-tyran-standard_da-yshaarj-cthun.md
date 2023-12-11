@@ -1,4 +1,4 @@
 # atal-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|155227|1.00|0.64|0.72|0.62|0.77|0.19|
+|Base|160593|1.00|0.63|0.75|0.64|0.77|0.17|

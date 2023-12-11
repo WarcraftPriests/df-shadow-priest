@@ -1,4 +1,4 @@
 # atal-tyran-push - vf-yshaarj
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|186364|1.00|0.69|0.69|0.63|0.76|0.12|
+|Base|187272|1.00|0.75|0.73|0.65|0.78|0.11|

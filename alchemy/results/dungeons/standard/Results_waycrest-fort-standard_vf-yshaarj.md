@@ -1,18 +1,18 @@
 # waycrest-fort-standard - vf-yshaarj
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|188815|3.07%|
-|Iced_Phial_of_Corrupting_Rage_85_3|188262|2.77%|
-|Phial_of_Static_Empowerment_3|187636|2.43%|
-|Phial_of_Charged_Isolation_3|187567|2.39%|
-|Phial_of_Tepid_Versatility_3|187362|2.28%|
-|Iced_Phial_of_Corrupting_Rage_70_3|187357|2.28%|
-|Phial_of_Elemental_Chaos_3|186653|1.89%|
-|Iced_Phial_of_Corrupting_Rage_50_3|186078|1.58%|
-|Iced_Phial_of_Corrupting_Rage_40_3|185547|1.29%|
-|Phial_of_Glacial_Fury_3|184604|0.78%|
-|Elemental_Potion_of_Ultimate_Power_3|183823|0.35%|
-|Elemental_Potion_of_Power_3|183617|0.24%|
-|Potion_of_Shocking_Disclosure_3|183595|0.22%|
-|Bottled_Putrescence_3|183548|0.20%|
-|Base|183184|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|192985|3.48%|
+|Iced_Phial_of_Corrupting_Rage_85_3|192273|3.10%|
+|Phial_of_Static_Empowerment_3|191606|2.74%|
+|Phial_of_Charged_Isolation_3|191390|2.63%|
+|Iced_Phial_of_Corrupting_Rage_70_3|191230|2.54%|
+|Phial_of_Tepid_Versatility_3|191195|2.52%|
+|Phial_of_Elemental_Chaos_3|190408|2.10%|
+|Iced_Phial_of_Corrupting_Rage_50_3|189860|1.81%|
+|Iced_Phial_of_Corrupting_Rage_40_3|189158|1.43%|
+|Phial_of_Glacial_Fury_3|187961|0.79%|
+|Elemental_Potion_of_Ultimate_Power_3|187450|0.52%|
+|Elemental_Potion_of_Power_3|187205|0.38%|
+|Bottled_Putrescence_3|187165|0.36%|
+|Potion_of_Shocking_Disclosure_3|186972|0.26%|
+|Base|186489|0.00%|

@@ -1,4 +1,4 @@
 # waycrest-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|181208|1.00|0.69|0.73|0.62|0.78|0.11|
+|Base|158420|1.00|0.63|0.75|0.61|0.79|0.17|
