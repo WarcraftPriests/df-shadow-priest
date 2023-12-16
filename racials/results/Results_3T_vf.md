@@ -1,0 +1,34 @@
+# 3T - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|352912|1.85%|
+|Troll|351409|1.42%|
+|Goblin|351349|1.40%|
+|Night_Elf_Haste|351309|1.39%|
+|Gnome|351245|1.37%|
+|Blood_Elf|350478|1.15%|
+|Kul_Tiran|349852|0.97%|
+|Void_Elf|349801|0.95%|
+|Zandalari_Troll_Paku|349790|0.95%|
+|Mechagnome|349761|0.94%|
+|Highmountain_Tauren|349640|0.91%|
+|Orc|349615|0.90%|
+|Nightborne|349557|0.88%|
+|Tauren|349395|0.84%|
+|Panda_Haste|349320|0.81%|
+|Night_Elf_Crit|349308|0.81%|
+|Dwarf|349273|0.80%|
+|Worgen|349234|0.79%|
+|Draenei|348883|0.69%|
+|Dark_Iron_Dwarf|348693|0.63%|
+|Maghar_Orc|348302|0.52%|
+|Panda_Crit|348234|0.50%|
+|Panda_Fortune_Cookie|348061|0.45%|
+|Panda_Vers|348025|0.44%|
+|Panda_Mastery|347847|0.39%|
+|Zandalari_Troll_Bwonsamdi|346798|0.09%|
+|Undead|346648|0.04%|
+|Zandalari_Troll_Kimbul|346617|0.03%|
+|Base|346498|0.00%|
+|Lightforged_Draenei|346382|-0.03%|
+|Vulpera|346378|-0.03%|

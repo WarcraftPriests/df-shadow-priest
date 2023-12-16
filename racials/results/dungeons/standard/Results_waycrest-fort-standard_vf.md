@@ -1,0 +1,34 @@
+# waycrest-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|197240|0.97%|
+|Dwarf|196821|0.75%|
+|Night_Elf_Haste|196747|0.72%|
+|Gnome|196740|0.71%|
+|Goblin|196732|0.71%|
+|Tauren|196687|0.69%|
+|Mechagnome|196625|0.65%|
+|Void_Elf|196580|0.63%|
+|Kul_Tiran|196555|0.62%|
+|Highmountain_Tauren|196534|0.61%|
+|Nightborne|196457|0.57%|
+|Blood_Elf|196420|0.55%|
+|Zandalari_Troll_Paku|196368|0.52%|
+|Troll|196329|0.50%|
+|Night_Elf_Crit|196311|0.49%|
+|Worgen|196260|0.47%|
+|Orc|196245|0.46%|
+|Draenei|196173|0.42%|
+|Panda_Crit|196037|0.35%|
+|Dark_Iron_Dwarf|196000|0.33%|
+|Panda_Vers|195980|0.32%|
+|Panda_Fortune_Cookie|195898|0.28%|
+|Panda_Haste|195862|0.26%|
+|Maghar_Orc|195839|0.25%|
+|Panda_Mastery|195760|0.21%|
+|Zandalari_Troll_Bwonsamdi|195577|0.12%|
+|Undead|195523|0.09%|
+|Zandalari_Troll_Kimbul|195468|0.06%|
+|Base|195347|0.00%|
+|Lightforged_Draenei|195306|-0.02%|
+|Vulpera|195276|-0.04%|

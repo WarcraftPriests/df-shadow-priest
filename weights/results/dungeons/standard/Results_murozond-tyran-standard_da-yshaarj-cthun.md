@@ -1,4 +1,4 @@
 # murozond-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|148303|1.00|0.62|0.74|0.65|0.81|0.16|
+|Base|145392|1.00|0.69|0.71|0.66|0.79|0.19|

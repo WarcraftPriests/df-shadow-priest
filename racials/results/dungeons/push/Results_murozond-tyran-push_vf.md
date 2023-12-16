@@ -1,0 +1,34 @@
+# murozond-tyran-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|166347|1.28%|
+|Night_Elf_Haste|165825|0.96%|
+|Goblin|165815|0.96%|
+|Mechagnome|165799|0.95%|
+|Dwarf|165747|0.91%|
+|Gnome|165730|0.90%|
+|Void_Elf|165629|0.84%|
+|Kul_Tiran|165609|0.83%|
+|Highmountain_Tauren|165597|0.82%|
+|Zandalari_Troll_Paku|165554|0.80%|
+|Tauren|165544|0.79%|
+|Nightborne|165468|0.74%|
+|Blood_Elf|165404|0.71%|
+|Night_Elf_Crit|165384|0.69%|
+|Troll|165374|0.69%|
+|Worgen|165317|0.65%|
+|Orc|165164|0.56%|
+|Draenei|165141|0.55%|
+|Panda_Haste|165082|0.51%|
+|Panda_Crit|165026|0.48%|
+|Panda_Vers|164943|0.42%|
+|Panda_Fortune_Cookie|164938|0.42%|
+|Maghar_Orc|164923|0.41%|
+|Dark_Iron_Dwarf|164850|0.37%|
+|Panda_Mastery|164726|0.29%|
+|Zandalari_Troll_Bwonsamdi|164641|0.24%|
+|Undead|164527|0.17%|
+|Zandalari_Troll_Kimbul|164446|0.12%|
+|Vulpera|164253|0.00%|
+|Base|164245|0.00%|
+|Lightforged_Draenei|164166|-0.05%|

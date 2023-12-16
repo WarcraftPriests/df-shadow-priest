@@ -1,1 +1,1 @@
-{"name": "Single - da-yshaarj-cthun", "data": {"Base": {"DPS": 198400}, "dp_above_swd": {"DPS": 198310}, "dont_swd_if_capped_on_insanity": {"DPS": 198199}}, "ids": {"dp_above_swd": null, "dont_swd_if_capped_on_insanity": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_above_swd", "dont_swd_if_capped_on_insanity"], "last_updated": "2023-10-15"}
+{"name": "Single - da-yshaarj-cthun", "data": {"PL_25%": {"DPS": 218256}, "Base": {"DPS": 218185}}, "ids": {"PL_25%": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["PL_25%"], "last_updated": "2023-12-14"}

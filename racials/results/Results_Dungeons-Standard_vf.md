@@ -1,0 +1,34 @@
+# Dungeons-Standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|225958|1.27%|
+|Goblin|225196|0.93%|
+|Gnome|225188|0.93%|
+|Night_Elf_Haste|225183|0.93%|
+|Mechagnome|225095|0.89%|
+|Dwarf|225011|0.85%|
+|Tauren|225000|0.84%|
+|Void_Elf|224939|0.82%|
+|Kul_Tiran|224866|0.78%|
+|Highmountain_Tauren|224845|0.78%|
+|Zandalari_Troll_Paku|224794|0.75%|
+|Nightborne|224759|0.74%|
+|Blood_Elf|224722|0.72%|
+|Night_Elf_Crit|224643|0.68%|
+|Worgen|224587|0.66%|
+|Troll|224534|0.64%|
+|Orc|224449|0.60%|
+|Draenei|224349|0.55%|
+|Panda_Vers|224099|0.44%|
+|Panda_Haste|224073|0.43%|
+|Dark_Iron_Dwarf|224070|0.43%|
+|Panda_Crit|224055|0.42%|
+|Panda_Fortune_Cookie|223980|0.39%|
+|Maghar_Orc|223949|0.37%|
+|Panda_Mastery|223755|0.29%|
+|Zandalari_Troll_Bwonsamdi|223476|0.16%|
+|Undead|223416|0.14%|
+|Zandalari_Troll_Kimbul|223374|0.12%|
+|Vulpera|223132|0.01%|
+|Lightforged_Draenei|223122|0.00%|
+|Base|223114|0.00%|

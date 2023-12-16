@@ -1,0 +1,34 @@
+# 2T - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|273658|1.58%|
+|Blood_Elf|272584|1.18%|
+|Gnome|272385|1.11%|
+|Goblin|272347|1.09%|
+|Troll|272321|1.08%|
+|Night_Elf_Haste|272230|1.05%|
+|Void_Elf|272073|0.99%|
+|Mechagnome|272027|0.97%|
+|Highmountain_Tauren|271896|0.92%|
+|Kul_Tiran|271813|0.89%|
+|Nightborne|271743|0.87%|
+|Orc|271647|0.83%|
+|Tauren|271645|0.83%|
+|Zandalari_Troll_Paku|271643|0.83%|
+|Dwarf|271615|0.82%|
+|Night_Elf_Crit|271461|0.76%|
+|Worgen|271339|0.72%|
+|Draenei|271189|0.66%|
+|Dark_Iron_Dwarf|270988|0.59%|
+|Maghar_Orc|270675|0.47%|
+|Panda_Vers|270674|0.47%|
+|Panda_Haste|270594|0.44%|
+|Panda_Fortune_Cookie|270552|0.43%|
+|Panda_Crit|270534|0.42%|
+|Panda_Mastery|270352|0.35%|
+|Zandalari_Troll_Bwonsamdi|269707|0.11%|
+|Zandalari_Troll_Kimbul|269640|0.09%|
+|Undead|269554|0.05%|
+|Base|269406|0.00%|
+|Vulpera|269387|-0.01%|
+|Lightforged_Draenei|269362|-0.02%|

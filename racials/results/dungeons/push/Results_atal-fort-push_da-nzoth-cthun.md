@@ -1,0 +1,34 @@
+# atal-fort-push - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|246678|1.09%|
+|Tauren|246327|0.95%|
+|Dwarf|246298|0.93%|
+|Mechagnome|246232|0.91%|
+|Night_Elf_Haste|246155|0.88%|
+|Gnome|246081|0.85%|
+|Goblin|246067|0.84%|
+|Highmountain_Tauren|246050|0.83%|
+|Troll|246036|0.83%|
+|Void_Elf|246001|0.81%|
+|Kul_Tiran|245975|0.80%|
+|Nightborne|245868|0.76%|
+|Blood_Elf|245864|0.76%|
+|Zandalari_Troll_Paku|245650|0.67%|
+|Night_Elf_Crit|245632|0.66%|
+|Worgen|245602|0.65%|
+|Orc|245578|0.64%|
+|Draenei|245314|0.53%|
+|Dark_Iron_Dwarf|245295|0.52%|
+|Panda_Vers|245195|0.48%|
+|Panda_Crit|245080|0.44%|
+|Panda_Fortune_Cookie|245013|0.41%|
+|Maghar_Orc|245002|0.40%|
+|Panda_Haste|244822|0.33%|
+|Panda_Mastery|244814|0.33%|
+|Zandalari_Troll_Bwonsamdi|244520|0.21%|
+|Undead|244476|0.19%|
+|Zandalari_Troll_Kimbul|244305|0.12%|
+|Vulpera|244171|0.06%|
+|Base|244018|0.00%|
+|Lightforged_Draenei|243977|-0.02%|

@@ -1,0 +1,34 @@
+# everbloom-tyran-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|182538|1.06%|
+|Night_Elf_Haste|182205|0.88%|
+|Goblin|182196|0.87%|
+|Gnome|182148|0.85%|
+|Mechagnome|182023|0.78%|
+|Tauren|181967|0.75%|
+|Dwarf|181922|0.72%|
+|Void_Elf|181815|0.66%|
+|Highmountain_Tauren|181807|0.66%|
+|Nightborne|181780|0.64%|
+|Kul_Tiran|181765|0.63%|
+|Blood_Elf|181755|0.63%|
+|Zandalari_Troll_Paku|181741|0.62%|
+|Night_Elf_Crit|181690|0.59%|
+|Worgen|181657|0.57%|
+|Troll|181625|0.56%|
+|Orc|181452|0.46%|
+|Draenei|181414|0.44%|
+|Panda_Haste|181364|0.41%|
+|Panda_Vers|181285|0.37%|
+|Panda_Crit|181284|0.37%|
+|Panda_Fortune_Cookie|181251|0.35%|
+|Dark_Iron_Dwarf|181201|0.32%|
+|Panda_Mastery|181116|0.28%|
+|Maghar_Orc|181050|0.24%|
+|Zandalari_Troll_Bwonsamdi|181005|0.21%|
+|Undead|180968|0.19%|
+|Zandalari_Troll_Kimbul|180784|0.09%|
+|Lightforged_Draenei|180626|0.00%|
+|Base|180619|0.00%|
+|Vulpera|180573|-0.03%|

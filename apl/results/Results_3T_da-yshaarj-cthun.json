@@ -1,1 +1,1 @@
-{"name": "3T - da-yshaarj-cthun", "data": {"Base": {"DPS": 289026}, "dp_above_swd": {"DPS": 289004}, "dont_swd_if_capped_on_insanity": {"DPS": 288966}}, "ids": {"dp_above_swd": null, "dont_swd_if_capped_on_insanity": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["dp_above_swd", "dont_swd_if_capped_on_insanity"], "last_updated": "2023-10-15"}
+{"name": "3T - da-yshaarj-cthun", "data": {"PL_25%": {"DPS": 362885}, "Base": {"DPS": 334587}}, "ids": {"PL_25%": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["PL_25%"], "last_updated": "2023-12-14"}

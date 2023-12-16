@@ -56,7 +56,13 @@ def filter_dungeon_type(combo):
 
 def get_builds():
     cds = ["VF", "DA"]
-    idols = ["yshaarj_cthun", "yshaarj_nzoth_cthun", "nzoth_yogg"]
+    idols = [
+        "yshaarj_cthun",
+        "yshaarj_nzoth_cthun",
+        "nzoth_yogg",
+        "nzoth_cthun",
+        "yogg_cthun",
+    ]
     combos = [f"{cd}_{idol}" for cd in cds for idol in idols]  # noqa: E501
     return combos
 
@@ -95,34 +101,37 @@ def create_sim_file(base, talent_dictionary, batches):
     for batch in range(batches):
         start = 0 + (199 * batch)
         end = 199 + (199 * batch)
-        with open(f"talents/top/top_talents_{batch}.simc", "w", encoding="utf8") as file:
+        with open(
+            f"talents/top/top_talents_{batch}.simc", "w", encoding="utf8"
+        ) as file:
             file.writelines(base)
             for actor in items[start:end]:
-                file.writelines(
-                    [f'copy="{actor[0]}","Base"\n', f"{actor[1]}\n\n"]
-                )
+                file.writelines([f'copy="{actor[0]}","Base"\n', f"{actor[1]}\n\n"])
             file.write("iterations=1")
         file.close()
 
+
 def populate_talent_strings(name):
     talent_string_dictionary = {}
-    f = open(f'{name}.json')
+    f = open(f"{name}.json")
     data = json.load(f)
     f.close()
-    for player in data['sim']['players']:
-        if player['name'] != 'Base':
-            talent_string_dictionary[player['name']] = player['talents']
+    for player in data["sim"]["players"]:
+        if player["name"] != "Base":
+            talent_string_dictionary[player["name"]] = player["talents"]
     return talent_string_dictionary
 
+
 def populate_talents(talent_string_dictionary):
-    with open('internal/talents.yml', 'r') as file:
+    with open("internal/talents.yml", "r") as file:
         talents = yaml.safe_load(file)
-        custom_builds = talents['builds']
-        full_yaml = {'builds': custom_builds, 'generated': talent_string_dictionary}
+        custom_builds = talents["builds"]
+        full_yaml = {"builds": custom_builds, "generated": talent_string_dictionary}
     file.close()
-    with open('internal/talents.yml', 'w') as file:
+    with open("internal/talents.yml", "w") as file:
         yaml.dump(full_yaml, file)
-    file.close() 
+    file.close()
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -142,9 +151,13 @@ if __name__ == "__main__":
     push_results = list(filter(filter_dungeon_type, utils.get_dungeon_combos()))
 
     # Get aggregate results
-    talent_names = get_top_talents(results, combos, "talents/results", args.top_matches, args.match_jitter)
+    talent_names = get_top_talents(
+        results, combos, "talents/results", args.top_matches, args.match_jitter
+    )
     # Get individual push dungeon results
-    dungeon_talent_names = get_top_talents(push_results, combos, "talents/results/dungeons/push", 2, 1)
+    dungeon_talent_names = get_top_talents(
+        push_results, combos, "talents/results/dungeons/push", 2, 1
+    )
     talent_names.extend(dungeon_talent_names)
     # De-duplicate again
     talent_names = list(set(talent_names))
@@ -160,7 +173,7 @@ if __name__ == "__main__":
     base = get_base_actor()
 
     # Create copy actor files we will run (top_talents_X.simc)
-    batches = math.ceil(len(talent_dictionary)/199)
+    batches = math.ceil(len(talent_dictionary) / 199)
     create_sim_file(base, talent_dictionary, batches)
 
     # run a sim at 1 iteration in raidbots
@@ -182,5 +195,4 @@ if __name__ == "__main__":
         talent_string_dictionary.update(t)
 
     # fill out internal/talents.yml with generated talents
-    populate_talents(talent_string_dictionary) 
-    
+    populate_talents(talent_string_dictionary)

@@ -1,0 +1,34 @@
+# atal-tyran-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|191280|1.41%|
+|Goblin|190679|1.09%|
+|Gnome|190634|1.07%|
+|Night_Elf_Haste|190569|1.03%|
+|Tauren|190372|0.93%|
+|Mechagnome|190366|0.93%|
+|Void_Elf|190325|0.90%|
+|Dwarf|190296|0.89%|
+|Zandalari_Troll_Paku|190179|0.83%|
+|Highmountain_Tauren|190165|0.82%|
+|Kul_Tiran|190141|0.81%|
+|Nightborne|190115|0.79%|
+|Night_Elf_Crit|190051|0.76%|
+|Worgen|190019|0.74%|
+|Blood_Elf|189990|0.73%|
+|Troll|189879|0.67%|
+|Orc|189849|0.65%|
+|Draenei|189707|0.58%|
+|Panda_Haste|189656|0.55%|
+|Dark_Iron_Dwarf|189554|0.50%|
+|Panda_Crit|189529|0.48%|
+|Panda_Vers|189513|0.47%|
+|Panda_Fortune_Cookie|189456|0.44%|
+|Maghar_Orc|189385|0.41%|
+|Panda_Mastery|189241|0.33%|
+|Zandalari_Troll_Bwonsamdi|189135|0.27%|
+|Zandalari_Troll_Kimbul|189039|0.22%|
+|Undead|188955|0.18%|
+|Lightforged_Draenei|188760|0.07%|
+|Vulpera|188712|0.05%|
+|Base|188620|0.00%|

@@ -1,0 +1,34 @@
+# brh-tyran-standard - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|179438|0.96%|
+|Tauren|179295|0.88%|
+|Dwarf|179219|0.84%|
+|Mechagnome|179151|0.80%|
+|Gnome|178999|0.71%|
+|Blood_Elf|178986|0.71%|
+|Nightborne|178952|0.69%|
+|Goblin|178949|0.68%|
+|Highmountain_Tauren|178926|0.67%|
+|Night_Elf_Haste|178901|0.66%|
+|Kul_Tiran|178899|0.66%|
+|Void_Elf|178845|0.63%|
+|Zandalari_Troll_Paku|178833|0.62%|
+|Night_Elf_Crit|178780|0.59%|
+|Worgen|178756|0.58%|
+|Troll|178645|0.51%|
+|Draenei|178604|0.49%|
+|Orc|178513|0.44%|
+|Panda_Vers|178475|0.42%|
+|Panda_Crit|178426|0.39%|
+|Dark_Iron_Dwarf|178383|0.37%|
+|Panda_Fortune_Cookie|178380|0.36%|
+|Maghar_Orc|178234|0.28%|
+|Panda_Haste|178156|0.24%|
+|Panda_Mastery|178153|0.24%|
+|Zandalari_Troll_Bwonsamdi|178054|0.18%|
+|Undead|178006|0.15%|
+|Zandalari_Troll_Kimbul|177992|0.15%|
+|Vulpera|177797|0.04%|
+|Lightforged_Draenei|177761|0.02%|
+|Base|177732|0.00%|

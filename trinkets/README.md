@@ -5,15 +5,15 @@
 - [Dungeons - DA-YSHAARJ-CTHUN](results/Results_Dungeons_da-yshaarj-cthun.md)
 - [2T - DA-YSHAARJ-CTHUN](results/Results_2T_da-yshaarj-cthun.md)
 - [3T - DA-YSHAARJ-CTHUN](results/Results_3T_da-yshaarj-cthun.md)
-## DA-YSHAARJ-NZOTH-CTHUN
-- [Composite - DA-YSHAARJ-NZOTH-CTHUN](results/Results_Composite_da-yshaarj-nzoth-cthun.md)
-- [Single - DA-YSHAARJ-NZOTH-CTHUN](results/Results_Single_da-yshaarj-nzoth-cthun.md)
-- [Dungeons - DA-YSHAARJ-NZOTH-CTHUN](results/Results_Dungeons_da-yshaarj-nzoth-cthun.md)
-- [2T - DA-YSHAARJ-NZOTH-CTHUN](results/Results_2T_da-yshaarj-nzoth-cthun.md)
-- [3T - DA-YSHAARJ-NZOTH-CTHUN](results/Results_3T_da-yshaarj-nzoth-cthun.md)
-## VF-YSHAARJ
-- [Composite - VF-YSHAARJ](results/Results_Composite_vf-yshaarj.md)
-- [Single - VF-YSHAARJ](results/Results_Single_vf-yshaarj.md)
-- [Dungeons - VF-YSHAARJ](results/Results_Dungeons_vf-yshaarj.md)
-- [2T - VF-YSHAARJ](results/Results_2T_vf-yshaarj.md)
-- [3T - VF-YSHAARJ](results/Results_3T_vf-yshaarj.md)
+## DA-NZOTH-CTHUN
+- [Composite - DA-NZOTH-CTHUN](results/Results_Composite_da-nzoth-cthun.md)
+- [Single - DA-NZOTH-CTHUN](results/Results_Single_da-nzoth-cthun.md)
+- [Dungeons - DA-NZOTH-CTHUN](results/Results_Dungeons_da-nzoth-cthun.md)
+- [2T - DA-NZOTH-CTHUN](results/Results_2T_da-nzoth-cthun.md)
+- [3T - DA-NZOTH-CTHUN](results/Results_3T_da-nzoth-cthun.md)
+## VF
+- [Composite - VF](results/Results_Composite_vf.md)
+- [Single - VF](results/Results_Single_vf.md)
+- [Dungeons - VF](results/Results_Dungeons_vf.md)
+- [2T - VF](results/Results_2T_vf.md)
+- [3T - VF](results/Results_3T_vf.md)

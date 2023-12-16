@@ -1,0 +1,34 @@
+# dht-tyran-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|202065|0.95%|
+|Night_Elf_Haste|201602|0.72%|
+|Gnome|201564|0.70%|
+|Goblin|201500|0.67%|
+|Dwarf|201449|0.64%|
+|Tauren|201421|0.63%|
+|Mechagnome|201345|0.59%|
+|Highmountain_Tauren|201322|0.58%|
+|Kul_Tiran|201234|0.53%|
+|Zandalari_Troll_Paku|201230|0.53%|
+|Void_Elf|201229|0.53%|
+|Night_Elf_Crit|201219|0.53%|
+|Blood_Elf|201210|0.52%|
+|Nightborne|201195|0.51%|
+|Worgen|201084|0.46%|
+|Orc|201061|0.45%|
+|Draenei|200952|0.39%|
+|Troll|200925|0.38%|
+|Panda_Haste|200826|0.33%|
+|Panda_Fortune_Cookie|200815|0.32%|
+|Panda_Vers|200779|0.31%|
+|Panda_Crit|200749|0.29%|
+|Maghar_Orc|200724|0.28%|
+|Dark_Iron_Dwarf|200679|0.26%|
+|Panda_Mastery|200546|0.19%|
+|Undead|200469|0.15%|
+|Zandalari_Troll_Bwonsamdi|200419|0.13%|
+|Zandalari_Troll_Kimbul|200331|0.08%|
+|Vulpera|200210|0.02%|
+|Base|200166|0.00%|
+|Lightforged_Draenei|200097|-0.03%|

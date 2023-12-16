@@ -1,0 +1,34 @@
+# everbloom-fort-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|237634|1.28%|
+|Gnome|236918|0.97%|
+|Night_Elf_Haste|236822|0.93%|
+|Goblin|236814|0.93%|
+|Mechagnome|236727|0.89%|
+|Dwarf|236598|0.83%|
+|Tauren|236469|0.78%|
+|Void_Elf|236445|0.77%|
+|Kul_Tiran|236411|0.76%|
+|Nightborne|236291|0.70%|
+|Zandalari_Troll_Paku|236264|0.69%|
+|Highmountain_Tauren|236241|0.68%|
+|Blood_Elf|236169|0.65%|
+|Night_Elf_Crit|236096|0.62%|
+|Worgen|236076|0.61%|
+|Draenei|235961|0.56%|
+|Orc|235933|0.55%|
+|Troll|235877|0.53%|
+|Panda_Haste|235726|0.46%|
+|Panda_Vers|235667|0.44%|
+|Dark_Iron_Dwarf|235666|0.44%|
+|Panda_Crit|235620|0.42%|
+|Panda_Fortune_Cookie|235598|0.41%|
+|Maghar_Orc|235490|0.36%|
+|Panda_Mastery|235269|0.27%|
+|Zandalari_Troll_Bwonsamdi|235031|0.17%|
+|Undead|234939|0.13%|
+|Zandalari_Troll_Kimbul|234932|0.12%|
+|Lightforged_Draenei|234694|0.02%|
+|Vulpera|234648|0.00%|
+|Base|234639|0.00%|

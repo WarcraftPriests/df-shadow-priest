@@ -1,0 +1,34 @@
+# Single - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|216470|1.55%|
+|Troll|215736|1.21%|
+|Void_Elf|215533|1.11%|
+|Dwarf|215417|1.06%|
+|Tauren|215394|1.05%|
+|Gnome|215390|1.05%|
+|Blood_Elf|215336|1.02%|
+|Night_Elf_Haste|215280|1.00%|
+|Goblin|215246|0.98%|
+|Mechagnome|215121|0.92%|
+|Highmountain_Tauren|215110|0.92%|
+|Orc|215058|0.89%|
+|Kul_Tiran|215057|0.89%|
+|Zandalari_Troll_Paku|215020|0.87%|
+|Nightborne|215008|0.87%|
+|Night_Elf_Crit|214889|0.81%|
+|Worgen|214743|0.74%|
+|Draenei|214606|0.68%|
+|Dark_Iron_Dwarf|214486|0.62%|
+|Maghar_Orc|214202|0.49%|
+|Panda_Vers|214155|0.47%|
+|Panda_Crit|214128|0.46%|
+|Panda_Haste|214057|0.42%|
+|Panda_Fortune_Cookie|213978|0.39%|
+|Panda_Mastery|213786|0.30%|
+|Zandalari_Troll_Bwonsamdi|213494|0.16%|
+|Undead|213489|0.16%|
+|Zandalari_Troll_Kimbul|213419|0.12%|
+|Base|213157|0.00%|
+|Vulpera|213137|-0.01%|
+|Lightforged_Draenei|213104|-0.03%|

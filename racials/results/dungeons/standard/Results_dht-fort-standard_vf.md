@@ -1,0 +1,34 @@
+# dht-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|187510|1.08%|
+|Mechagnome|186949|0.78%|
+|Goblin|186945|0.78%|
+|Gnome|186924|0.77%|
+|Tauren|186904|0.76%|
+|Night_Elf_Haste|186899|0.75%|
+|Dwarf|186890|0.75%|
+|Void_Elf|186869|0.74%|
+|Highmountain_Tauren|186821|0.71%|
+|Kul_Tiran|186753|0.67%|
+|Nightborne|186726|0.66%|
+|Blood_Elf|186723|0.66%|
+|Zandalari_Troll_Paku|186694|0.64%|
+|Night_Elf_Crit|186645|0.62%|
+|Orc|186620|0.60%|
+|Worgen|186522|0.55%|
+|Troll|186493|0.53%|
+|Draenei|186427|0.50%|
+|Dark_Iron_Dwarf|186278|0.42%|
+|Panda_Vers|186245|0.40%|
+|Panda_Crit|186213|0.38%|
+|Maghar_Orc|186150|0.35%|
+|Panda_Fortune_Cookie|186079|0.31%|
+|Panda_Haste|186011|0.27%|
+|Panda_Mastery|185865|0.20%|
+|Zandalari_Troll_Bwonsamdi|185838|0.18%|
+|Undead|185789|0.15%|
+|Vulpera|185604|0.05%|
+|Zandalari_Troll_Kimbul|185580|0.04%|
+|Lightforged_Draenei|185521|0.01%|
+|Base|185503|0.00%|

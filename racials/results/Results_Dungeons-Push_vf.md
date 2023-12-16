@@ -1,0 +1,34 @@
+# Dungeons-Push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|193351|1.07%|
+|Goblin|192896|0.83%|
+|Gnome|192887|0.83%|
+|Night_Elf_Haste|192857|0.81%|
+|Mechagnome|192754|0.76%|
+|Dwarf|192737|0.75%|
+|Tauren|192719|0.74%|
+|Void_Elf|192634|0.69%|
+|Highmountain_Tauren|192620|0.69%|
+|Kul_Tiran|192593|0.67%|
+|Nightborne|192550|0.65%|
+|Blood_Elf|192485|0.62%|
+|Zandalari_Troll_Paku|192476|0.61%|
+|Troll|192439|0.59%|
+|Night_Elf_Crit|192408|0.58%|
+|Worgen|192399|0.57%|
+|Orc|192242|0.49%|
+|Draenei|192198|0.47%|
+|Panda_Vers|192047|0.39%|
+|Panda_Crit|192010|0.37%|
+|Dark_Iron_Dwarf|192003|0.36%|
+|Panda_Haste|192000|0.36%|
+|Panda_Fortune_Cookie|191929|0.33%|
+|Maghar_Orc|191894|0.31%|
+|Panda_Mastery|191765|0.24%|
+|Zandalari_Troll_Bwonsamdi|191572|0.14%|
+|Undead|191553|0.13%|
+|Zandalari_Troll_Kimbul|191472|0.09%|
+|Lightforged_Draenei|191332|0.01%|
+|Vulpera|191306|0.00%|
+|Base|191305|0.00%|

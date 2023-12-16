@@ -1,0 +1,34 @@
+# murozond-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|178133|1.04%|
+|Dwarf|177731|0.81%|
+|Goblin|177698|0.79%|
+|Tauren|177697|0.79%|
+|Gnome|177647|0.77%|
+|Night_Elf_Haste|177638|0.76%|
+|Mechagnome|177625|0.75%|
+|Void_Elf|177593|0.74%|
+|Nightborne|177572|0.72%|
+|Kul_Tiran|177491|0.68%|
+|Highmountain_Tauren|177484|0.67%|
+|Blood_Elf|177475|0.67%|
+|Zandalari_Troll_Paku|177446|0.65%|
+|Night_Elf_Crit|177412|0.63%|
+|Troll|177375|0.61%|
+|Worgen|177350|0.60%|
+|Orc|177293|0.56%|
+|Draenei|177209|0.52%|
+|Dark_Iron_Dwarf|177047|0.43%|
+|Panda_Vers|177022|0.41%|
+|Maghar_Orc|176951|0.37%|
+|Panda_Crit|176923|0.36%|
+|Panda_Fortune_Cookie|176875|0.33%|
+|Panda_Haste|176846|0.31%|
+|Panda_Mastery|176712|0.24%|
+|Zandalari_Troll_Bwonsamdi|176575|0.16%|
+|Zandalari_Troll_Kimbul|176528|0.13%|
+|Undead|176526|0.13%|
+|Vulpera|176338|0.02%|
+|Base|176297|0.00%|
+|Lightforged_Draenei|176268|-0.02%|

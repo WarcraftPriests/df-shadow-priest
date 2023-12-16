@@ -1,0 +1,34 @@
+# waycrest-fort-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|235986|1.39%|
+|Night_Elf_Haste|235146|1.03%|
+|Goblin|235142|1.03%|
+|Gnome|235137|1.02%|
+|Mechagnome|235130|1.02%|
+|Dwarf|235051|0.99%|
+|Tauren|235005|0.97%|
+|Void_Elf|234940|0.94%|
+|Kul_Tiran|234845|0.90%|
+|Highmountain_Tauren|234818|0.89%|
+|Zandalari_Troll_Paku|234805|0.88%|
+|Nightborne|234762|0.86%|
+|Night_Elf_Crit|234662|0.82%|
+|Blood_Elf|234625|0.80%|
+|Orc|234546|0.77%|
+|Troll|234532|0.76%|
+|Worgen|234496|0.75%|
+|Draenei|234201|0.62%|
+|Dark_Iron_Dwarf|234117|0.59%|
+|Panda_Vers|233951|0.51%|
+|Panda_Crit|233873|0.48%|
+|Panda_Fortune_Cookie|233803|0.45%|
+|Maghar_Orc|233755|0.43%|
+|Panda_Haste|233698|0.41%|
+|Panda_Mastery|233568|0.35%|
+|Zandalari_Troll_Bwonsamdi|233246|0.21%|
+|Undead|233178|0.18%|
+|Zandalari_Troll_Kimbul|233101|0.15%|
+|Vulpera|232846|0.04%|
+|Lightforged_Draenei|232783|0.01%|
+|Base|232754|0.00%|

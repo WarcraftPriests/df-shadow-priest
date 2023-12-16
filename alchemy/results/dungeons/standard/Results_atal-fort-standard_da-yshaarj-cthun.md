@@ -1,18 +1,18 @@
 # atal-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|206325|4.04%|
-|Iced_Phial_of_Corrupting_Rage_85_3|205445|3.60%|
-|Phial_of_Static_Empowerment_3|204598|3.17%|
-|Phial_of_Charged_Isolation_3|204190|2.96%|
-|Iced_Phial_of_Corrupting_Rage_70_3|204173|2.96%|
-|Phial_of_Tepid_Versatility_3|204030|2.88%|
-|Phial_of_Elemental_Chaos_3|203147|2.44%|
-|Iced_Phial_of_Corrupting_Rage_50_3|202476|2.10%|
-|Iced_Phial_of_Corrupting_Rage_40_3|201816|1.77%|
-|Phial_of_Glacial_Fury_3|200188|0.95%|
-|Bottled_Putrescence_3|199510|0.60%|
-|Elemental_Potion_of_Ultimate_Power_3|199504|0.60%|
-|Potion_of_Shocking_Disclosure_3|199264|0.48%|
-|Elemental_Potion_of_Power_3|199191|0.44%|
-|Base|198311|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|208135|4.09%|
+|Iced_Phial_of_Corrupting_Rage_85_3|207316|3.68%|
+|Phial_of_Static_Empowerment_3|206771|3.41%|
+|Phial_of_Charged_Isolation_3|206492|3.27%|
+|Phial_of_Tepid_Versatility_3|206170|3.11%|
+|Iced_Phial_of_Corrupting_Rage_70_3|206042|3.04%|
+|Phial_of_Elemental_Chaos_3|205307|2.67%|
+|Iced_Phial_of_Corrupting_Rage_50_3|204347|2.19%|
+|Iced_Phial_of_Corrupting_Rage_40_3|203408|1.72%|
+|Phial_of_Glacial_Fury_3|202117|1.08%|
+|Elemental_Potion_of_Ultimate_Power_3|201075|0.56%|
+|Bottled_Putrescence_3|200832|0.44%|
+|Elemental_Potion_of_Power_3|200804|0.42%|
+|Potion_of_Shocking_Disclosure_3|200680|0.36%|
+|Base|199959|0.00%|

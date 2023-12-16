@@ -1,0 +1,34 @@
+# atal-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|207353|1.20%|
+|Goblin|206970|1.01%|
+|Night_Elf_Haste|206870|0.96%|
+|Gnome|206843|0.95%|
+|Troll|206702|0.88%|
+|Tauren|206536|0.80%|
+|Dwarf|206467|0.76%|
+|Nightborne|206425|0.74%|
+|Void_Elf|206418|0.74%|
+|Mechagnome|206414|0.74%|
+|Blood_Elf|206397|0.73%|
+|Highmountain_Tauren|206387|0.72%|
+|Kul_Tiran|206325|0.69%|
+|Night_Elf_Crit|206255|0.66%|
+|Zandalari_Troll_Paku|206237|0.65%|
+|Orc|206168|0.62%|
+|Worgen|206167|0.62%|
+|Draenei|205951|0.51%|
+|Panda_Vers|205841|0.46%|
+|Dark_Iron_Dwarf|205794|0.44%|
+|Maghar_Orc|205731|0.40%|
+|Panda_Haste|205698|0.39%|
+|Panda_Fortune_Cookie|205678|0.38%|
+|Panda_Crit|205623|0.35%|
+|Panda_Mastery|205374|0.23%|
+|Zandalari_Troll_Bwonsamdi|205223|0.16%|
+|Undead|205169|0.13%|
+|Zandalari_Troll_Kimbul|204990|0.04%|
+|Vulpera|204917|0.01%|
+|Base|204902|0.00%|
+|Lightforged_Draenei|204816|-0.04%|

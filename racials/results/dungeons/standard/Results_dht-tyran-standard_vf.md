@@ -1,0 +1,34 @@
+# dht-tyran-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|170127|0.88%|
+|Goblin|169915|0.75%|
+|Night_Elf_Haste|169864|0.72%|
+|Gnome|169863|0.72%|
+|Dwarf|169718|0.63%|
+|Void_Elf|169686|0.61%|
+|Mechagnome|169684|0.61%|
+|Kul_Tiran|169625|0.58%|
+|Tauren|169598|0.56%|
+|Highmountain_Tauren|169575|0.55%|
+|Nightborne|169556|0.54%|
+|Zandalari_Troll_Paku|169506|0.51%|
+|Worgen|169436|0.47%|
+|Night_Elf_Crit|169423|0.46%|
+|Blood_Elf|169388|0.44%|
+|Draenei|169321|0.40%|
+|Orc|169225|0.34%|
+|Panda_Vers|169143|0.29%|
+|Troll|169132|0.29%|
+|Panda_Crit|169112|0.27%|
+|Panda_Haste|169093|0.26%|
+|Panda_Fortune_Cookie|169074|0.25%|
+|Dark_Iron_Dwarf|169066|0.25%|
+|Maghar_Orc|169036|0.23%|
+|Panda_Mastery|168953|0.18%|
+|Zandalari_Troll_Bwonsamdi|168776|0.08%|
+|Zandalari_Troll_Kimbul|168705|0.03%|
+|Undead|168702|0.03%|
+|Base|168649|0.00%|
+|Lightforged_Draenei|168620|-0.02%|
+|Vulpera|168485|-0.10%|

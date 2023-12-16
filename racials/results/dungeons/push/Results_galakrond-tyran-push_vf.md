@@ -1,0 +1,34 @@
+# galakrond-tyran-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|221096|1.22%|
+|Mechagnome|220430|0.91%|
+|Gnome|220421|0.91%|
+|Goblin|220401|0.90%|
+|Night_Elf_Haste|220383|0.89%|
+|Void_Elf|220157|0.79%|
+|Dwarf|220124|0.77%|
+|Tauren|220116|0.77%|
+|Kul_Tiran|220097|0.76%|
+|Highmountain_Tauren|220095|0.76%|
+|Zandalari_Troll_Paku|220075|0.75%|
+|Nightborne|220028|0.73%|
+|Blood_Elf|219937|0.69%|
+|Worgen|219877|0.66%|
+|Night_Elf_Crit|219827|0.64%|
+|Orc|219818|0.63%|
+|Troll|219756|0.60%|
+|Draenei|219629|0.54%|
+|Panda_Haste|219445|0.46%|
+|Dark_Iron_Dwarf|219377|0.43%|
+|Panda_Crit|219354|0.42%|
+|Panda_Vers|219345|0.41%|
+|Maghar_Orc|219315|0.40%|
+|Panda_Fortune_Cookie|219278|0.38%|
+|Panda_Mastery|219129|0.32%|
+|Zandalari_Troll_Bwonsamdi|218789|0.16%|
+|Zandalari_Troll_Kimbul|218738|0.14%|
+|Undead|218734|0.14%|
+|Vulpera|218592|0.07%|
+|Lightforged_Draenei|218489|0.02%|
+|Base|218439|0.00%|

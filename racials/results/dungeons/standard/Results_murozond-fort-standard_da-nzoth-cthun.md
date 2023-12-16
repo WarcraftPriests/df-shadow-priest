@@ -1,0 +1,34 @@
+# murozond-fort-standard - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|178792|1.00%|
+|Dwarf|178777|0.99%|
+|Tauren|178752|0.98%|
+|Mechagnome|178560|0.87%|
+|Void_Elf|178473|0.82%|
+|Highmountain_Tauren|178437|0.80%|
+|Nightborne|178379|0.77%|
+|Kul_Tiran|178339|0.75%|
+|Goblin|178318|0.73%|
+|Zandalari_Troll_Paku|178274|0.71%|
+|Night_Elf_Haste|178254|0.70%|
+|Gnome|178209|0.67%|
+|Worgen|178136|0.63%|
+|Blood_Elf|178123|0.62%|
+|Night_Elf_Crit|178103|0.61%|
+|Orc|178061|0.59%|
+|Draenei|178028|0.57%|
+|Troll|177940|0.52%|
+|Panda_Vers|177823|0.45%|
+|Dark_Iron_Dwarf|177793|0.44%|
+|Panda_Fortune_Cookie|177746|0.41%|
+|Panda_Crit|177702|0.39%|
+|Maghar_Orc|177622|0.34%|
+|Panda_Mastery|177498|0.27%|
+|Panda_Haste|177393|0.21%|
+|Undead|177345|0.18%|
+|Zandalari_Troll_Bwonsamdi|177339|0.18%|
+|Zandalari_Troll_Kimbul|177190|0.10%|
+|Lightforged_Draenei|177080|0.04%|
+|Vulpera|177064|0.03%|
+|Base|177018|0.00%|

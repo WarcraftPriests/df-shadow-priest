@@ -1,0 +1,34 @@
+# atal-fort-standard - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|212207|1.16%|
+|Tauren|211882|1.00%|
+|Dwarf|211807|0.97%|
+|Mechagnome|211781|0.96%|
+|Gnome|211605|0.87%|
+|Troll|211593|0.87%|
+|Night_Elf_Haste|211566|0.85%|
+|Goblin|211535|0.84%|
+|Kul_Tiran|211521|0.83%|
+|Highmountain_Tauren|211505|0.82%|
+|Void_Elf|211489|0.82%|
+|Nightborne|211431|0.79%|
+|Zandalari_Troll_Paku|211375|0.76%|
+|Orc|211345|0.75%|
+|Blood_Elf|211313|0.73%|
+|Night_Elf_Crit|211242|0.70%|
+|Worgen|211189|0.67%|
+|Draenei|211035|0.60%|
+|Dark_Iron_Dwarf|211016|0.59%|
+|Maghar_Orc|210758|0.47%|
+|Panda_Vers|210758|0.47%|
+|Panda_Fortune_Cookie|210633|0.41%|
+|Panda_Crit|210554|0.37%|
+|Panda_Haste|210406|0.30%|
+|Panda_Mastery|210357|0.28%|
+|Zandalari_Troll_Bwonsamdi|210124|0.17%|
+|Zandalari_Troll_Kimbul|210114|0.16%|
+|Undead|210064|0.14%|
+|Lightforged_Draenei|209851|0.04%|
+|Vulpera|209776|0.00%|
+|Base|209775|0.00%|

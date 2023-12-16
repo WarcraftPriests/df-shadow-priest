@@ -1,0 +1,34 @@
+# everbloom-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|202740|1.14%|
+|Gnome|202144|0.84%|
+|Night_Elf_Haste|202129|0.83%|
+|Goblin|202107|0.82%|
+|Mechagnome|202074|0.81%|
+|Tauren|202023|0.78%|
+|Dwarf|202014|0.78%|
+|Void_Elf|201878|0.71%|
+|Nightborne|201800|0.67%|
+|Kul_Tiran|201772|0.66%|
+|Blood_Elf|201738|0.64%|
+|Highmountain_Tauren|201738|0.64%|
+|Troll|201693|0.62%|
+|Zandalari_Troll_Paku|201638|0.59%|
+|Night_Elf_Crit|201631|0.59%|
+|Worgen|201621|0.58%|
+|Draenei|201388|0.46%|
+|Orc|201368|0.45%|
+|Panda_Crit|201264|0.40%|
+|Panda_Haste|201239|0.39%|
+|Panda_Vers|201218|0.38%|
+|Dark_Iron_Dwarf|201166|0.35%|
+|Panda_Fortune_Cookie|201045|0.29%|
+|Maghar_Orc|201000|0.27%|
+|Panda_Mastery|200937|0.24%|
+|Undead|200717|0.13%|
+|Zandalari_Troll_Bwonsamdi|200672|0.11%|
+|Zandalari_Troll_Kimbul|200642|0.09%|
+|Base|200457|0.00%|
+|Lightforged_Draenei|200435|-0.01%|
+|Vulpera|200434|-0.01%|

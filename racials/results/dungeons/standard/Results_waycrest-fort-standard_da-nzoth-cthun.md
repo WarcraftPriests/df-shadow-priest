@@ -1,0 +1,34 @@
+# waycrest-fort-standard - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|199242|1.10%|
+|Dwarf|199052|1.01%|
+|Tauren|198989|0.98%|
+|Mechagnome|198860|0.91%|
+|Kul_Tiran|198716|0.84%|
+|Goblin|198666|0.81%|
+|Gnome|198632|0.80%|
+|Night_Elf_Haste|198607|0.78%|
+|Highmountain_Tauren|198586|0.77%|
+|Nightborne|198563|0.76%|
+|Zandalari_Troll_Paku|198505|0.73%|
+|Void_Elf|198502|0.73%|
+|Troll|198492|0.72%|
+|Blood_Elf|198451|0.70%|
+|Worgen|198423|0.69%|
+|Night_Elf_Crit|198389|0.67%|
+|Orc|198234|0.59%|
+|Draenei|198166|0.56%|
+|Dark_Iron_Dwarf|198007|0.48%|
+|Panda_Vers|197880|0.41%|
+|Panda_Crit|197864|0.41%|
+|Panda_Fortune_Cookie|197761|0.35%|
+|Maghar_Orc|197711|0.33%|
+|Panda_Mastery|197635|0.29%|
+|Panda_Haste|197548|0.25%|
+|Zandalari_Troll_Bwonsamdi|197528|0.23%|
+|Undead|197378|0.16%|
+|Zandalari_Troll_Kimbul|197344|0.14%|
+|Vulpera|197127|0.03%|
+|Base|197065|0.00%|
+|Lightforged_Draenei|197053|-0.01%|

@@ -1,0 +1,34 @@
+# galakrond-tyran-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|192694|1.11%|
+|Gnome|192206|0.85%|
+|Goblin|192200|0.85%|
+|Night_Elf_Haste|192152|0.83%|
+|Mechagnome|192144|0.82%|
+|Tauren|192097|0.80%|
+|Troll|192078|0.79%|
+|Highmountain_Tauren|192059|0.78%|
+|Kul_Tiran|191995|0.74%|
+|Dwarf|191989|0.74%|
+|Zandalari_Troll_Paku|191935|0.71%|
+|Void_Elf|191894|0.69%|
+|Nightborne|191845|0.66%|
+|Night_Elf_Crit|191741|0.61%|
+|Blood_Elf|191680|0.58%|
+|Worgen|191610|0.54%|
+|Draenei|191545|0.51%|
+|Orc|191520|0.49%|
+|Panda_Haste|191356|0.41%|
+|Dark_Iron_Dwarf|191318|0.39%|
+|Panda_Vers|191309|0.38%|
+|Panda_Fortune_Cookie|191282|0.37%|
+|Panda_Crit|191256|0.36%|
+|Maghar_Orc|191173|0.31%|
+|Panda_Mastery|191027|0.24%|
+|Undead|190863|0.15%|
+|Zandalari_Troll_Bwonsamdi|190849|0.14%|
+|Zandalari_Troll_Kimbul|190781|0.11%|
+|Lightforged_Draenei|190647|0.04%|
+|Base|190579|0.00%|
+|Vulpera|190557|-0.01%|

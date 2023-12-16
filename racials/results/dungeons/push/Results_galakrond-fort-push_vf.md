@@ -1,0 +1,34 @@
+# galakrond-fort-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|288904|1.60%|
+|Gnome|287508|1.11%|
+|Goblin|287500|1.11%|
+|Mechagnome|287499|1.11%|
+|Night_Elf_Haste|287453|1.09%|
+|Dwarf|287410|1.08%|
+|Tauren|287307|1.04%|
+|Void_Elf|287262|1.03%|
+|Highmountain_Tauren|287223|1.01%|
+|Kul_Tiran|287211|1.01%|
+|Nightborne|287040|0.95%|
+|Zandalari_Troll_Paku|286957|0.92%|
+|Blood_Elf|286920|0.91%|
+|Night_Elf_Crit|286850|0.88%|
+|Worgen|286828|0.87%|
+|Orc|286427|0.73%|
+|Draenei|286347|0.70%|
+|Troll|286275|0.68%|
+|Panda_Vers|285933|0.56%|
+|Dark_Iron_Dwarf|285799|0.51%|
+|Panda_Haste|285752|0.49%|
+|Panda_Fortune_Cookie|285704|0.48%|
+|Panda_Crit|285653|0.46%|
+|Maghar_Orc|285603|0.44%|
+|Panda_Mastery|285492|0.40%|
+|Zandalari_Troll_Bwonsamdi|284804|0.16%|
+|Undead|284659|0.11%|
+|Zandalari_Troll_Kimbul|284602|0.09%|
+|Vulpera|284412|0.02%|
+|Lightforged_Draenei|284347|0.00%|
+|Base|284346|0.00%|

@@ -1,19 +1,19 @@
 # dht-fort-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|224396|0.38%|
-|Dreambound_Augment_Rune|224323|0.35%|
-|Thousandbone_Tongueslicer|224322|0.35%|
-|Great_Cerulean_Sea|224268|0.32%|
-|Draconic_Augment_Rune|224255|0.32%|
-|Feisty_Fish_Sticks|224246|0.31%|
-|Seamoth_Surprise|224210|0.30%|
-|Aromatic_Seafood_Platter|224208|0.30%|
-|Filet_of_Fangs|224179|0.28%|
-|Sizzling_Seafood_Medley|224176|0.28%|
-|Fated_Fortune_Cookie|224156|0.27%|
-|Salt_Baked_Fishcake|224036|0.22%|
-|Timely_Demise|223942|0.18%|
-|Roast_Duck_Delight|223772|0.10%|
-|Thrice_Spiced_Mammoth_Kabob|223703|0.07%|
-|Base|223544|0.00%|
+|Aromatic_Seafood_Platter|225941|0.61%|
+|Feisty_Fish_Sticks|225921|0.61%|
+|Sizzling_Seafood_Medley|225840|0.57%|
+|Thousandbone_Tongueslicer|225708|0.51%|
+|Great_Cerulean_Sea|225707|0.51%|
+|Revenge_Served_Cold|225679|0.50%|
+|Dreambound_Augment_Rune|225584|0.46%|
+|Timely_Demise|225579|0.45%|
+|Fated_Fortune_Cookie|225528|0.43%|
+|Draconic_Augment_Rune|225519|0.43%|
+|Seamoth_Surprise|225481|0.41%|
+|Filet_of_Fangs|225471|0.40%|
+|Salt_Baked_Fishcake|225389|0.37%|
+|Roast_Duck_Delight|224958|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|224892|0.15%|
+|Base|224562|0.00%|

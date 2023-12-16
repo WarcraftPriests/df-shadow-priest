@@ -1,0 +1,34 @@
+# tott-tyran-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|223522|1.17%|
+|Dwarf|222703|0.80%|
+|Mechagnome|222698|0.80%|
+|Goblin|222695|0.80%|
+|Tauren|222685|0.79%|
+|Gnome|222663|0.78%|
+|Night_Elf_Haste|222649|0.78%|
+|Kul_Tiran|222581|0.75%|
+|Troll|222580|0.75%|
+|Void_Elf|222565|0.74%|
+|Nightborne|222537|0.73%|
+|Highmountain_Tauren|222533|0.73%|
+|Blood_Elf|222474|0.70%|
+|Zandalari_Troll_Paku|222374|0.65%|
+|Night_Elf_Crit|222326|0.63%|
+|Worgen|222292|0.62%|
+|Orc|222200|0.57%|
+|Draenei|222017|0.49%|
+|Dark_Iron_Dwarf|221851|0.42%|
+|Panda_Vers|221811|0.40%|
+|Panda_Crit|221749|0.37%|
+|Panda_Haste|221714|0.35%|
+|Maghar_Orc|221702|0.35%|
+|Panda_Fortune_Cookie|221685|0.34%|
+|Panda_Mastery|221583|0.30%|
+|Zandalari_Troll_Bwonsamdi|221262|0.15%|
+|Zandalari_Troll_Kimbul|221191|0.12%|
+|Undead|221126|0.09%|
+|Base|220931|0.00%|
+|Vulpera|220897|-0.02%|
+|Lightforged_Draenei|220873|-0.03%|

@@ -1,0 +1,34 @@
+# tott-fort-standard - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|249848|1.20%|
+|Gnome|249212|0.94%|
+|Goblin|249156|0.92%|
+|Night_Elf_Haste|249095|0.89%|
+|Mechagnome|249075|0.89%|
+|Dwarf|249066|0.88%|
+|Tauren|249034|0.87%|
+|Void_Elf|248962|0.84%|
+|Kul_Tiran|248917|0.82%|
+|Highmountain_Tauren|248869|0.80%|
+|Zandalari_Troll_Paku|248703|0.73%|
+|Nightborne|248672|0.72%|
+|Worgen|248668|0.72%|
+|Blood_Elf|248659|0.72%|
+|Night_Elf_Crit|248439|0.63%|
+|Orc|248398|0.61%|
+|Troll|248392|0.61%|
+|Draenei|248175|0.52%|
+|Dark_Iron_Dwarf|248113|0.50%|
+|Panda_Vers|247980|0.44%|
+|Maghar_Orc|247928|0.42%|
+|Panda_Crit|247889|0.41%|
+|Panda_Haste|247873|0.40%|
+|Panda_Fortune_Cookie|247829|0.38%|
+|Panda_Mastery|247713|0.33%|
+|Zandalari_Troll_Bwonsamdi|247309|0.17%|
+|Undead|247274|0.16%|
+|Zandalari_Troll_Kimbul|247177|0.12%|
+|Lightforged_Draenei|247073|0.07%|
+|Vulpera|246910|0.01%|
+|Base|246889|0.00%|

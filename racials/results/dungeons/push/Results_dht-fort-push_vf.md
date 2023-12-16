@@ -1,0 +1,34 @@
+# dht-fort-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|227320|1.19%|
+|Goblin|226667|0.90%|
+|Night_Elf_Haste|226619|0.88%|
+|Gnome|226562|0.85%|
+|Tauren|226528|0.84%|
+|Mechagnome|226469|0.81%|
+|Void_Elf|226414|0.79%|
+|Dwarf|226364|0.76%|
+|Kul_Tiran|226333|0.75%|
+|Nightborne|226257|0.72%|
+|Highmountain_Tauren|226240|0.71%|
+|Zandalari_Troll_Paku|226225|0.70%|
+|Blood_Elf|226180|0.68%|
+|Night_Elf_Crit|226025|0.61%|
+|Worgen|225960|0.58%|
+|Troll|225912|0.56%|
+|Orc|225844|0.53%|
+|Draenei|225836|0.53%|
+|Panda_Vers|225580|0.42%|
+|Dark_Iron_Dwarf|225554|0.40%|
+|Panda_Crit|225506|0.38%|
+|Panda_Haste|225479|0.37%|
+|Panda_Fortune_Cookie|225376|0.32%|
+|Maghar_Orc|225317|0.30%|
+|Panda_Mastery|225244|0.27%|
+|Undead|224902|0.11%|
+|Zandalari_Troll_Bwonsamdi|224884|0.11%|
+|Zandalari_Troll_Kimbul|224785|0.06%|
+|Vulpera|224723|0.03%|
+|Base|224646|0.00%|
+|Lightforged_Draenei|224632|-0.01%|

@@ -1,0 +1,34 @@
+# atal-fort-push - vf
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|243155|1.22%|
+|Goblin|242424|0.92%|
+|Gnome|242398|0.91%|
+|Night_Elf_Haste|242338|0.88%|
+|Mechagnome|242256|0.85%|
+|Dwarf|242189|0.82%|
+|Troll|242189|0.82%|
+|Tauren|242152|0.80%|
+|Void_Elf|242066|0.77%|
+|Kul_Tiran|241999|0.74%|
+|Highmountain_Tauren|241987|0.74%|
+|Nightborne|241982|0.73%|
+|Blood_Elf|241953|0.72%|
+|Zandalari_Troll_Paku|241948|0.72%|
+|Night_Elf_Crit|241859|0.68%|
+|Orc|241704|0.62%|
+|Worgen|241667|0.60%|
+|Draenei|241484|0.53%|
+|Panda_Haste|241280|0.44%|
+|Dark_Iron_Dwarf|241229|0.42%|
+|Panda_Crit|241228|0.42%|
+|Maghar_Orc|241191|0.40%|
+|Panda_Vers|241119|0.37%|
+|Panda_Fortune_Cookie|241048|0.34%|
+|Panda_Mastery|240732|0.21%|
+|Zandalari_Troll_Bwonsamdi|240562|0.14%|
+|Undead|240534|0.13%|
+|Zandalari_Troll_Kimbul|240436|0.09%|
+|Base|240221|0.00%|
+|Lightforged_Draenei|240172|-0.02%|
+|Vulpera|240093|-0.05%|

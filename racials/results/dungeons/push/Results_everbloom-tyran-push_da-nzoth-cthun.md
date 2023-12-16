@@ -1,0 +1,34 @@
+# everbloom-tyran-push - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|210979|1.02%|
+|Dwarf|210932|1.00%|
+|Tauren|210867|0.96%|
+|Mechagnome|210773|0.92%|
+|Kul_Tiran|210550|0.81%|
+|Void_Elf|210532|0.80%|
+|Highmountain_Tauren|210514|0.80%|
+|Nightborne|210333|0.71%|
+|Goblin|210319|0.70%|
+|Gnome|210311|0.70%|
+|Zandalari_Troll_Paku|210308|0.70%|
+|Night_Elf_Haste|210298|0.69%|
+|Blood_Elf|210249|0.67%|
+|Troll|210175|0.63%|
+|Worgen|210174|0.63%|
+|Night_Elf_Crit|210167|0.63%|
+|Draenei|210083|0.59%|
+|Orc|210052|0.57%|
+|Panda_Vers|209801|0.45%|
+|Dark_Iron_Dwarf|209783|0.45%|
+|Panda_Crit|209695|0.40%|
+|Panda_Fortune_Cookie|209688|0.40%|
+|Maghar_Orc|209620|0.37%|
+|Panda_Mastery|209461|0.29%|
+|Zandalari_Troll_Bwonsamdi|209297|0.21%|
+|Zandalari_Troll_Kimbul|209156|0.15%|
+|Undead|209145|0.14%|
+|Panda_Haste|209125|0.13%|
+|Lightforged_Draenei|208898|0.02%|
+|Base|208853|0.00%|
+|Vulpera|208845|0.00%|

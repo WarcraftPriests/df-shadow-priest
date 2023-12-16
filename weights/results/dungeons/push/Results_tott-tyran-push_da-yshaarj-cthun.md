@@ -1,4 +1,4 @@
 # tott-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|219044|1.00|0.53|0.75|0.64|0.80|0.09|
+|Base|219974|1.00|0.58|0.71|0.65|0.79|0.09|

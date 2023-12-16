@@ -1,0 +1,34 @@
+# tott-tyran-push - da-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|225128|1.09%|
+|Tauren|224829|0.96%|
+|Dwarf|224814|0.95%|
+|Troll|224715|0.91%|
+|Mechagnome|224697|0.90%|
+|Kul_Tiran|224538|0.83%|
+|Highmountain_Tauren|224518|0.82%|
+|Orc|224413|0.77%|
+|Nightborne|224395|0.76%|
+|Void_Elf|224364|0.75%|
+|Zandalari_Troll_Paku|224353|0.75%|
+|Blood_Elf|224322|0.73%|
+|Gnome|224294|0.72%|
+|Night_Elf_Haste|224283|0.71%|
+|Goblin|224211|0.68%|
+|Night_Elf_Crit|224188|0.67%|
+|Worgen|224150|0.65%|
+|Dark_Iron_Dwarf|223980|0.58%|
+|Draenei|223979|0.58%|
+|Maghar_Orc|223698|0.45%|
+|Panda_Vers|223628|0.42%|
+|Panda_Crit|223516|0.37%|
+|Panda_Fortune_Cookie|223456|0.34%|
+|Zandalari_Troll_Bwonsamdi|223372|0.30%|
+|Panda_Mastery|223222|0.24%|
+|Undead|223091|0.18%|
+|Panda_Haste|222960|0.12%|
+|Zandalari_Troll_Kimbul|222883|0.09%|
+|Base|222693|0.00%|
+|Lightforged_Draenei|222639|-0.02%|
+|Vulpera|222537|-0.07%|
