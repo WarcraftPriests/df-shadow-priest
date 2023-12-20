@@ -1,19 +1,19 @@
 # Single - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|213027|0.71%|
-|Feisty_Fish_Sticks|213013|0.70%|
-|Revenge_Served_Cold|212857|0.63%|
-|Great_Cerulean_Sea|212852|0.62%|
-|Sizzling_Seafood_Medley|212841|0.62%|
-|Thousandbone_Tongueslicer|212775|0.59%|
-|Draconic_Augment_Rune|212626|0.52%|
-|Timely_Demise|212622|0.51%|
-|Dreambound_Augment_Rune|212617|0.51%|
-|Filet_of_Fangs|212604|0.51%|
-|Fated_Fortune_Cookie|212538|0.47%|
-|Seamoth_Surprise|212509|0.46%|
-|Salt_Baked_Fishcake|212348|0.39%|
-|Roast_Duck_Delight|211935|0.19%|
-|Thrice_Spiced_Mammoth_Kabob|211803|0.13%|
-|Base|211534|0.00%|
+|Feisty_Fish_Sticks|213047|0.73%|
+|Aromatic_Seafood_Platter|213030|0.72%|
+|Sizzling_Seafood_Medley|212992|0.71%|
+|Revenge_Served_Cold|212842|0.64%|
+|Great_Cerulean_Sea|212799|0.62%|
+|Thousandbone_Tongueslicer|212779|0.61%|
+|Timely_Demise|212661|0.55%|
+|Seamoth_Surprise|212613|0.53%|
+|Draconic_Augment_Rune|212596|0.52%|
+|Dreambound_Augment_Rune|212592|0.52%|
+|Filet_of_Fangs|212547|0.50%|
+|Salt_Baked_Fishcake|212498|0.47%|
+|Fated_Fortune_Cookie|212479|0.46%|
+|Roast_Duck_Delight|211935|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|211822|0.15%|
+|Base|211498|0.00%|

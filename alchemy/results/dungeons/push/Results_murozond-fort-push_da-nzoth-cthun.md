@@ -1,18 +1,18 @@
 # murozond-fort-push - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|202728|4.94%|
-|Iced_Phial_of_Corrupting_Rage_85_3|201832|4.48%|
-|Phial_of_Static_Empowerment_3|200646|3.86%|
-|Phial_of_Charged_Isolation_3|200296|3.68%|
-|Iced_Phial_of_Corrupting_Rage_70_3|200237|3.65%|
-|Phial_of_Tepid_Versatility_3|200088|3.57%|
-|Phial_of_Elemental_Chaos_3|198933|2.98%|
-|Iced_Phial_of_Corrupting_Rage_50_3|198263|2.63%|
-|Iced_Phial_of_Corrupting_Rage_40_3|197927|2.46%|
-|Phial_of_Glacial_Fury_3|194968|0.92%|
-|Elemental_Potion_of_Ultimate_Power_3|194577|0.72%|
-|Elemental_Potion_of_Power_3|194179|0.52%|
-|Bottled_Putrescence_3|193810|0.33%|
-|Potion_of_Shocking_Disclosure_3|193759|0.30%|
-|Base|193182|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|219145|3.84%|
+|Iced_Phial_of_Corrupting_Rage_85_3|218293|3.43%|
+|Phial_of_Static_Empowerment_3|217146|2.89%|
+|Phial_of_Charged_Isolation_3|217022|2.83%|
+|Iced_Phial_of_Corrupting_Rage_70_3|216920|2.78%|
+|Phial_of_Tepid_Versatility_3|216813|2.73%|
+|Phial_of_Elemental_Chaos_3|215925|2.31%|
+|Iced_Phial_of_Corrupting_Rage_50_3|215290|2.01%|
+|Iced_Phial_of_Corrupting_Rage_40_3|214911|1.83%|
+|Phial_of_Glacial_Fury_3|212910|0.88%|
+|Elemental_Potion_of_Ultimate_Power_3|212094|0.50%|
+|Elemental_Potion_of_Power_3|211838|0.37%|
+|Bottled_Putrescence_3|211577|0.25%|
+|Potion_of_Shocking_Disclosure_3|211447|0.19%|
+|Base|211049|0.00%|

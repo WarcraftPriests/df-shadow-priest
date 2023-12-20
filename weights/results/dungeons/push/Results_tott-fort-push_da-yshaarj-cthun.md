@@ -1,4 +1,4 @@
 # tott-fort-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|286965|1.00|0.57|0.69|0.59|0.76|0.06|
+|Base|292801|1.00|0.60|0.71|0.61|0.75|0.07|

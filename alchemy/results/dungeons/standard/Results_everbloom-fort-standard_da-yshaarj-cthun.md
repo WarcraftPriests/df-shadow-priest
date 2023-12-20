@@ -1,18 +1,18 @@
 # everbloom-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|201427|3.13%|
-|Iced_Phial_of_Corrupting_Rage_85_3|200773|2.79%|
-|Phial_of_Static_Empowerment_3|200322|2.56%|
-|Phial_of_Charged_Isolation_3|200313|2.56%|
-|Phial_of_Tepid_Versatility_3|199981|2.39%|
-|Iced_Phial_of_Corrupting_Rage_70_3|199841|2.31%|
-|Phial_of_Elemental_Chaos_3|199236|2.00%|
-|Iced_Phial_of_Corrupting_Rage_50_3|198533|1.64%|
-|Iced_Phial_of_Corrupting_Rage_40_3|197915|1.33%|
-|Phial_of_Glacial_Fury_3|196958|0.84%|
-|Elemental_Potion_of_Ultimate_Power_3|196302|0.50%|
-|Elemental_Potion_of_Power_3|196018|0.36%|
-|Potion_of_Shocking_Disclosure_3|195790|0.24%|
-|Bottled_Putrescence_3|195668|0.18%|
-|Base|195320|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|206397|3.68%|
+|Iced_Phial_of_Corrupting_Rage_85_3|205627|3.29%|
+|Phial_of_Static_Empowerment_3|204824|2.89%|
+|Phial_of_Charged_Isolation_3|204546|2.75%|
+|Iced_Phial_of_Corrupting_Rage_70_3|204420|2.69%|
+|Phial_of_Tepid_Versatility_3|204203|2.58%|
+|Phial_of_Elemental_Chaos_3|203636|2.29%|
+|Iced_Phial_of_Corrupting_Rage_50_3|202797|1.87%|
+|Iced_Phial_of_Corrupting_Rage_40_3|202198|1.57%|
+|Phial_of_Glacial_Fury_3|200948|0.94%|
+|Elemental_Potion_of_Ultimate_Power_3|200004|0.47%|
+|Elemental_Potion_of_Power_3|199780|0.35%|
+|Potion_of_Shocking_Disclosure_3|199578|0.25%|
+|Bottled_Putrescence_3|199388|0.16%|
+|Base|199074|0.00%|

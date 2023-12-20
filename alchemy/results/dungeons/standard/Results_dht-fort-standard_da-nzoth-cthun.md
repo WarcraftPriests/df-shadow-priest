@@ -1,18 +1,18 @@
 # dht-fort-standard - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|190873|4.41%|
-|Iced_Phial_of_Corrupting_Rage_85_3|190065|3.97%|
-|Phial_of_Static_Empowerment_3|189153|3.47%|
-|Phial_of_Charged_Isolation_3|188902|3.33%|
-|Iced_Phial_of_Corrupting_Rage_70_3|188775|3.26%|
-|Phial_of_Tepid_Versatility_3|188578|3.15%|
-|Phial_of_Elemental_Chaos_3|187667|2.66%|
-|Iced_Phial_of_Corrupting_Rage_50_3|187139|2.37%|
-|Iced_Phial_of_Corrupting_Rage_40_3|186586|2.06%|
-|Phial_of_Glacial_Fury_3|185037|1.22%|
-|Bottled_Putrescence_3|183767|0.52%|
-|Elemental_Potion_of_Ultimate_Power_3|183704|0.49%|
-|Potion_of_Shocking_Disclosure_3|183568|0.41%|
-|Elemental_Potion_of_Power_3|183549|0.40%|
-|Base|182813|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|195976|3.34%|
+|Iced_Phial_of_Corrupting_Rage_85_3|195372|3.02%|
+|Phial_of_Static_Empowerment_3|194668|2.65%|
+|Phial_of_Charged_Isolation_3|194390|2.51%|
+|Iced_Phial_of_Corrupting_Rage_70_3|194314|2.47%|
+|Phial_of_Tepid_Versatility_3|194174|2.39%|
+|Phial_of_Elemental_Chaos_3|193578|2.08%|
+|Iced_Phial_of_Corrupting_Rage_50_3|192991|1.77%|
+|Iced_Phial_of_Corrupting_Rage_40_3|192524|1.52%|
+|Phial_of_Glacial_Fury_3|191235|0.84%|
+|Elemental_Potion_of_Ultimate_Power_3|190140|0.26%|
+|Elemental_Potion_of_Power_3|190039|0.21%|
+|Bottled_Putrescence_3|190035|0.21%|
+|Potion_of_Shocking_Disclosure_3|189887|0.13%|
+|Base|189639|0.00%|

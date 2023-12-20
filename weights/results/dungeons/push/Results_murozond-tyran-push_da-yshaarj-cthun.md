@@ -1,4 +1,4 @@
 # murozond-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|160915|1.00|0.67|0.74|0.66|0.80|0.11|
+|Base|177627|1.00|0.64|0.75|0.67|0.78|0.11|

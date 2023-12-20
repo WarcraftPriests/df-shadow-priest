@@ -1,19 +1,19 @@
 # atal-fort-standard - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|209119|0.48%|
-|Great_Cerulean_Sea|209072|0.46%|
-|Thousandbone_Tongueslicer|209031|0.44%|
-|Dreambound_Augment_Rune|209029|0.44%|
-|Draconic_Augment_Rune|209004|0.43%|
-|Seamoth_Surprise|208981|0.42%|
-|Fated_Fortune_Cookie|208961|0.41%|
-|Aromatic_Seafood_Platter|208934|0.39%|
-|Sizzling_Seafood_Medley|208929|0.39%|
-|Feisty_Fish_Sticks|208925|0.39%|
-|Salt_Baked_Fishcake|208797|0.33%|
-|Filet_of_Fangs|208793|0.33%|
-|Roast_Duck_Delight|208448|0.16%|
-|Timely_Demise|208438|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|208299|0.09%|
-|Base|208115|0.00%|
+|Thousandbone_Tongueslicer|213021|0.48%|
+|Revenge_Served_Cold|213005|0.47%|
+|Feisty_Fish_Sticks|212987|0.46%|
+|Aromatic_Seafood_Platter|212961|0.45%|
+|Sizzling_Seafood_Medley|212932|0.44%|
+|Great_Cerulean_Sea|212926|0.43%|
+|Dreambound_Augment_Rune|212903|0.42%|
+|Draconic_Augment_Rune|212889|0.42%|
+|Seamoth_Surprise|212855|0.40%|
+|Salt_Baked_Fishcake|212729|0.34%|
+|Timely_Demise|212726|0.34%|
+|Fated_Fortune_Cookie|212718|0.34%|
+|Filet_of_Fangs|212716|0.34%|
+|Roast_Duck_Delight|212337|0.16%|
+|Thrice_Spiced_Mammoth_Kabob|212211|0.10%|
+|Base|212004|0.00%|

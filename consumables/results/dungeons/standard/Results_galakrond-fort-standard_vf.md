@@ -1,19 +1,19 @@
 # galakrond-fort-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|256084|0.54%|
-|Feisty_Fish_Sticks|255972|0.50%|
-|Aromatic_Seafood_Platter|255944|0.48%|
-|Sizzling_Seafood_Medley|255870|0.46%|
-|Great_Cerulean_Sea|255855|0.45%|
-|Dreambound_Augment_Rune|255756|0.41%|
-|Draconic_Augment_Rune|255748|0.41%|
-|Filet_of_Fangs|255742|0.41%|
-|Thousandbone_Tongueslicer|255741|0.40%|
-|Seamoth_Surprise|255641|0.37%|
-|Fated_Fortune_Cookie|255616|0.36%|
-|Timely_Demise|255556|0.33%|
-|Salt_Baked_Fishcake|255494|0.31%|
-|Roast_Duck_Delight|255084|0.15%|
-|Thrice_Spiced_Mammoth_Kabob|254908|0.08%|
-|Base|254710|0.00%|
+|Revenge_Served_Cold|259417|0.54%|
+|Great_Cerulean_Sea|259312|0.50%|
+|Aromatic_Seafood_Platter|259301|0.49%|
+|Thousandbone_Tongueslicer|259249|0.47%|
+|Draconic_Augment_Rune|259240|0.47%|
+|Feisty_Fish_Sticks|259175|0.45%|
+|Dreambound_Augment_Rune|259129|0.43%|
+|Sizzling_Seafood_Medley|259084|0.41%|
+|Filet_of_Fangs|259023|0.39%|
+|Fated_Fortune_Cookie|259003|0.38%|
+|Seamoth_Surprise|258972|0.37%|
+|Salt_Baked_Fishcake|258936|0.35%|
+|Timely_Demise|258771|0.29%|
+|Roast_Duck_Delight|258486|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|258334|0.12%|
+|Base|258026|0.00%|

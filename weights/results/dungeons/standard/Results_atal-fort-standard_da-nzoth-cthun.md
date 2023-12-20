@@ -1,4 +1,4 @@
 # atal-fort-standard - da-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|209800|1.00|0.66|0.74|0.60|0.79|0.09|
+|Base|213655|1.00|0.65|0.71|0.64|0.76|0.10|

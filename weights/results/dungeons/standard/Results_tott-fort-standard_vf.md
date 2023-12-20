@@ -1,4 +1,4 @@
 # tott-fort-standard - vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|246981|1.00|0.61|0.76|0.62|0.79|0.08|
+|Base|255719|1.00|0.68|0.76|0.64|0.80|0.08|

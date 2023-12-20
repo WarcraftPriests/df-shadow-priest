@@ -1,4 +1,4 @@
 # tott-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|249712|1.00|0.57|0.71|0.61|0.78|0.08|
+|Base|254923|1.00|0.63|0.74|0.62|0.77|0.09|

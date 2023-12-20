@@ -1,19 +1,19 @@
 # waycrest-fort-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|194897|0.47%|
-|Aromatic_Seafood_Platter|194879|0.46%|
-|Revenge_Served_Cold|194828|0.44%|
-|Great_Cerulean_Sea|194799|0.42%|
-|Thousandbone_Tongueslicer|194754|0.40%|
-|Sizzling_Seafood_Medley|194750|0.40%|
-|Dreambound_Augment_Rune|194690|0.37%|
-|Timely_Demise|194682|0.36%|
-|Fated_Fortune_Cookie|194674|0.36%|
-|Draconic_Augment_Rune|194635|0.34%|
-|Seamoth_Surprise|194629|0.33%|
-|Filet_of_Fangs|194627|0.33%|
-|Salt_Baked_Fishcake|194465|0.25%|
-|Roast_Duck_Delight|194309|0.17%|
-|Thrice_Spiced_Mammoth_Kabob|194255|0.14%|
-|Base|193980|0.00%|
+|Revenge_Served_Cold|201325|0.45%|
+|Great_Cerulean_Sea|201303|0.44%|
+|Draconic_Augment_Rune|201285|0.43%|
+|Dreambound_Augment_Rune|201223|0.40%|
+|Feisty_Fish_Sticks|201221|0.40%|
+|Fated_Fortune_Cookie|201210|0.40%|
+|Filet_of_Fangs|201208|0.40%|
+|Aromatic_Seafood_Platter|201193|0.39%|
+|Sizzling_Seafood_Medley|201192|0.39%|
+|Seamoth_Surprise|201181|0.38%|
+|Thousandbone_Tongueslicer|201157|0.37%|
+|Salt_Baked_Fishcake|200992|0.29%|
+|Timely_Demise|200972|0.28%|
+|Roast_Duck_Delight|200770|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|200705|0.14%|
+|Base|200416|0.00%|

@@ -1,18 +1,18 @@
 # atal-tyran-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|160326|3.46%|
-|Iced_Phial_of_Corrupting_Rage_85_3|159840|3.14%|
-|Phial_of_Static_Empowerment_3|158948|2.57%|
-|Iced_Phial_of_Corrupting_Rage_70_3|158938|2.56%|
-|Phial_of_Charged_Isolation_3|158884|2.53%|
-|Phial_of_Tepid_Versatility_3|158745|2.44%|
-|Phial_of_Elemental_Chaos_3|158221|2.10%|
-|Iced_Phial_of_Corrupting_Rage_40_3|158136|2.04%|
-|Iced_Phial_of_Corrupting_Rage_50_3|158032|1.98%|
-|Phial_of_Glacial_Fury_3|156380|0.91%|
-|Elemental_Potion_of_Ultimate_Power_3|155754|0.51%|
-|Elemental_Potion_of_Power_3|155545|0.37%|
-|Bottled_Putrescence_3|155279|0.20%|
-|Potion_of_Shocking_Disclosure_3|155242|0.18%|
-|Base|154967|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|162898|3.49%|
+|Iced_Phial_of_Corrupting_Rage_85_3|162424|3.19%|
+|Phial_of_Static_Empowerment_3|161652|2.69%|
+|Phial_of_Charged_Isolation_3|161457|2.57%|
+|Iced_Phial_of_Corrupting_Rage_70_3|161444|2.56%|
+|Phial_of_Tepid_Versatility_3|161349|2.50%|
+|Phial_of_Elemental_Chaos_3|160740|2.12%|
+|Iced_Phial_of_Corrupting_Rage_40_3|160728|2.11%|
+|Iced_Phial_of_Corrupting_Rage_50_3|160508|1.97%|
+|Phial_of_Glacial_Fury_3|158915|0.96%|
+|Elemental_Potion_of_Ultimate_Power_3|158190|0.50%|
+|Elemental_Potion_of_Power_3|158060|0.41%|
+|Potion_of_Shocking_Disclosure_3|157735|0.21%|
+|Bottled_Putrescence_3|157709|0.19%|
+|Base|157410|0.00%|

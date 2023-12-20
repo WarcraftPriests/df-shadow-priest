@@ -1,19 +1,19 @@
 # murozond-fort-push - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|202660|0.70%|
-|Aromatic_Seafood_Platter|202640|0.69%|
-|Sizzling_Seafood_Medley|202505|0.63%|
-|Revenge_Served_Cold|202408|0.58%|
-|Draconic_Augment_Rune|202314|0.53%|
-|Great_Cerulean_Sea|202263|0.51%|
-|Thousandbone_Tongueslicer|202246|0.50%|
-|Timely_Demise|202245|0.50%|
-|Seamoth_Surprise|202215|0.48%|
-|Filet_of_Fangs|202180|0.46%|
-|Dreambound_Augment_Rune|202160|0.45%|
-|Fated_Fortune_Cookie|202007|0.38%|
-|Salt_Baked_Fishcake|201993|0.37%|
-|Roast_Duck_Delight|201667|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|201509|0.13%|
-|Base|201245|0.00%|
+|Revenge_Served_Cold|212419|0.49%|
+|Thousandbone_Tongueslicer|212321|0.45%|
+|Feisty_Fish_Sticks|212278|0.43%|
+|Draconic_Augment_Rune|212267|0.42%|
+|Great_Cerulean_Sea|212246|0.41%|
+|Aromatic_Seafood_Platter|212209|0.39%|
+|Sizzling_Seafood_Medley|212207|0.39%|
+|Dreambound_Augment_Rune|212172|0.38%|
+|Seamoth_Surprise|212167|0.37%|
+|Filet_of_Fangs|212088|0.34%|
+|Fated_Fortune_Cookie|212021|0.31%|
+|Salt_Baked_Fishcake|212017|0.30%|
+|Timely_Demise|211889|0.24%|
+|Roast_Duck_Delight|211632|0.12%|
+|Thrice_Spiced_Mammoth_Kabob|211547|0.08%|
+|Base|211376|0.00%|

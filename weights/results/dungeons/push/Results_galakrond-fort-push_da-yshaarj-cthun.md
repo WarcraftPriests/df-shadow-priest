@@ -1,4 +1,4 @@
 # galakrond-fort-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|289156|1.00|0.58|0.68|0.61|0.77|0.06|
+|Base|292579|1.00|0.64|0.73|0.63|0.77|0.06|

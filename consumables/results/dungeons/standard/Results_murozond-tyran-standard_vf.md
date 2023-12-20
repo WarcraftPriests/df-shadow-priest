@@ -1,19 +1,19 @@
 # murozond-tyran-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|146463|0.44%|
-|Feisty_Fish_Sticks|146434|0.42%|
-|Sizzling_Seafood_Medley|146369|0.37%|
-|Dreambound_Augment_Rune|146348|0.36%|
-|Great_Cerulean_Sea|146336|0.35%|
-|Revenge_Served_Cold|146328|0.35%|
-|Draconic_Augment_Rune|146322|0.34%|
-|Timely_Demise|146255|0.30%|
-|Seamoth_Surprise|146250|0.29%|
-|Thousandbone_Tongueslicer|146248|0.29%|
-|Fated_Fortune_Cookie|146226|0.28%|
-|Filet_of_Fangs|146216|0.27%|
-|Salt_Baked_Fishcake|146124|0.21%|
-|Roast_Duck_Delight|145959|0.09%|
-|Thrice_Spiced_Mammoth_Kabob|145930|0.07%|
-|Base|145823|0.00%|
+|Revenge_Served_Cold|151387|0.43%|
+|Great_Cerulean_Sea|151365|0.41%|
+|Dreambound_Augment_Rune|151297|0.37%|
+|Thousandbone_Tongueslicer|151279|0.36%|
+|Aromatic_Seafood_Platter|151274|0.35%|
+|Seamoth_Surprise|151257|0.34%|
+|Draconic_Augment_Rune|151246|0.34%|
+|Feisty_Fish_Sticks|151232|0.33%|
+|Sizzling_Seafood_Medley|151225|0.32%|
+|Fated_Fortune_Cookie|151205|0.31%|
+|Filet_of_Fangs|151189|0.30%|
+|Salt_Baked_Fishcake|151108|0.24%|
+|Timely_Demise|151081|0.23%|
+|Thrice_Spiced_Mammoth_Kabob|150920|0.12%|
+|Roast_Duck_Delight|150882|0.09%|
+|Base|150740|0.00%|

@@ -1,18 +1,18 @@
 # atal-fort-push - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|243800|4.33%|
-|Iced_Phial_of_Corrupting_Rage_85_3|242889|3.94%|
-|Phial_of_Static_Empowerment_3|241771|3.46%|
-|Phial_of_Charged_Isolation_3|241527|3.36%|
-|Iced_Phial_of_Corrupting_Rage_70_3|241421|3.31%|
-|Phial_of_Tepid_Versatility_3|241356|3.29%|
-|Phial_of_Elemental_Chaos_3|240227|2.80%|
-|Iced_Phial_of_Corrupting_Rage_50_3|239119|2.33%|
-|Iced_Phial_of_Corrupting_Rage_40_3|238115|1.90%|
-|Phial_of_Glacial_Fury_3|235825|0.92%|
-|Elemental_Potion_of_Ultimate_Power_3|235550|0.80%|
-|Bottled_Putrescence_3|234949|0.54%|
-|Elemental_Potion_of_Power_3|234926|0.53%|
-|Potion_of_Shocking_Disclosure_3|234788|0.48%|
-|Base|233677|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|248940|3.54%|
+|Iced_Phial_of_Corrupting_Rage_85_3|248047|3.17%|
+|Phial_of_Static_Empowerment_3|247069|2.76%|
+|Phial_of_Charged_Isolation_3|246728|2.62%|
+|Iced_Phial_of_Corrupting_Rage_70_3|246542|2.55%|
+|Phial_of_Tepid_Versatility_3|246512|2.53%|
+|Phial_of_Elemental_Chaos_3|245709|2.20%|
+|Iced_Phial_of_Corrupting_Rage_50_3|244903|1.86%|
+|Iced_Phial_of_Corrupting_Rage_40_3|244243|1.59%|
+|Phial_of_Glacial_Fury_3|242273|0.77%|
+|Elemental_Potion_of_Ultimate_Power_3|242149|0.72%|
+|Elemental_Potion_of_Power_3|241746|0.55%|
+|Bottled_Putrescence_3|241467|0.43%|
+|Potion_of_Shocking_Disclosure_3|241347|0.38%|
+|Base|240423|0.00%|

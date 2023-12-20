@@ -1,19 +1,19 @@
 # everbloom-fort-push - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|234259|0.56%|
-|Sizzling_Seafood_Medley|234168|0.52%|
-|Feisty_Fish_Sticks|234139|0.51%|
-|Great_Cerulean_Sea|234027|0.46%|
-|Revenge_Served_Cold|234009|0.45%|
-|Dreambound_Augment_Rune|233908|0.41%|
-|Thousandbone_Tongueslicer|233895|0.40%|
-|Timely_Demise|233887|0.40%|
-|Draconic_Augment_Rune|233817|0.37%|
-|Filet_of_Fangs|233775|0.35%|
-|Fated_Fortune_Cookie|233768|0.35%|
-|Seamoth_Surprise|233762|0.35%|
-|Salt_Baked_Fishcake|233669|0.31%|
-|Roast_Duck_Delight|233283|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|233220|0.11%|
-|Base|232957|0.00%|
+|Feisty_Fish_Sticks|236933|0.48%|
+|Thousandbone_Tongueslicer|236906|0.47%|
+|Great_Cerulean_Sea|236845|0.44%|
+|Sizzling_Seafood_Medley|236810|0.43%|
+|Revenge_Served_Cold|236800|0.43%|
+|Aromatic_Seafood_Platter|236799|0.42%|
+|Draconic_Augment_Rune|236794|0.42%|
+|Dreambound_Augment_Rune|236755|0.41%|
+|Seamoth_Surprise|236699|0.38%|
+|Filet_of_Fangs|236625|0.35%|
+|Fated_Fortune_Cookie|236581|0.33%|
+|Salt_Baked_Fishcake|236531|0.31%|
+|Timely_Demise|236444|0.27%|
+|Roast_Duck_Delight|236159|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|235979|0.08%|
+|Base|235797|0.00%|

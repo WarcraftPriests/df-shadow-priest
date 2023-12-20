@@ -1,19 +1,19 @@
 # waycrest-fort-push - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|229801|0.60%|
-|Sizzling_Seafood_Medley|229755|0.58%|
-|Aromatic_Seafood_Platter|229746|0.58%|
-|Revenge_Served_Cold|229684|0.55%|
-|Great_Cerulean_Sea|229615|0.52%|
-|Dreambound_Augment_Rune|229551|0.49%|
-|Thousandbone_Tongueslicer|229493|0.47%|
-|Fated_Fortune_Cookie|229488|0.46%|
-|Seamoth_Surprise|229474|0.46%|
-|Draconic_Augment_Rune|229463|0.45%|
-|Filet_of_Fangs|229460|0.45%|
-|Timely_Demise|229423|0.43%|
-|Salt_Baked_Fishcake|229276|0.37%|
-|Roast_Duck_Delight|228788|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|228685|0.11%|
-|Base|228430|0.00%|
+|Revenge_Served_Cold|240510|0.50%|
+|Aromatic_Seafood_Platter|240474|0.48%|
+|Great_Cerulean_Sea|240474|0.48%|
+|Thousandbone_Tongueslicer|240446|0.47%|
+|Feisty_Fish_Sticks|240436|0.47%|
+|Sizzling_Seafood_Medley|240403|0.46%|
+|Dreambound_Augment_Rune|240392|0.45%|
+|Draconic_Augment_Rune|240376|0.44%|
+|Seamoth_Surprise|240327|0.42%|
+|Filet_of_Fangs|240283|0.40%|
+|Fated_Fortune_Cookie|240202|0.37%|
+|Timely_Demise|240187|0.36%|
+|Salt_Baked_Fishcake|240151|0.35%|
+|Roast_Duck_Delight|239684|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|239622|0.13%|
+|Base|239314|0.00%|

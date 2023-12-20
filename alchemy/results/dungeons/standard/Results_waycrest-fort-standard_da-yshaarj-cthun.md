@@ -1,18 +1,18 @@
 # waycrest-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|193267|3.47%|
-|Iced_Phial_of_Corrupting_Rage_85_3|192663|3.14%|
-|Phial_of_Static_Empowerment_3|192108|2.85%|
-|Phial_of_Charged_Isolation_3|191933|2.75%|
-|Phial_of_Tepid_Versatility_3|191666|2.61%|
-|Iced_Phial_of_Corrupting_Rage_70_3|191599|2.57%|
-|Phial_of_Elemental_Chaos_3|190809|2.15%|
-|Iced_Phial_of_Corrupting_Rage_50_3|190154|1.80%|
-|Iced_Phial_of_Corrupting_Rage_40_3|189380|1.39%|
-|Phial_of_Glacial_Fury_3|188401|0.86%|
-|Elemental_Potion_of_Ultimate_Power_3|187491|0.37%|
-|Bottled_Putrescence_3|187430|0.34%|
-|Elemental_Potion_of_Power_3|187347|0.30%|
-|Potion_of_Shocking_Disclosure_3|187238|0.24%|
-|Base|186791|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|207962|3.71%|
+|Iced_Phial_of_Corrupting_Rage_85_3|207277|3.37%|
+|Phial_of_Static_Empowerment_3|206251|2.86%|
+|Iced_Phial_of_Corrupting_Rage_70_3|206074|2.77%|
+|Phial_of_Charged_Isolation_3|206064|2.77%|
+|Phial_of_Tepid_Versatility_3|205809|2.64%|
+|Phial_of_Elemental_Chaos_3|205137|2.30%|
+|Iced_Phial_of_Corrupting_Rage_50_3|204331|1.90%|
+|Iced_Phial_of_Corrupting_Rage_40_3|203682|1.58%|
+|Phial_of_Glacial_Fury_3|202194|0.84%|
+|Elemental_Potion_of_Ultimate_Power_3|201496|0.49%|
+|Elemental_Potion_of_Power_3|201129|0.30%|
+|Bottled_Putrescence_3|201039|0.26%|
+|Potion_of_Shocking_Disclosure_3|200856|0.17%|
+|Base|200518|0.00%|

@@ -1,4 +1,4 @@
 # waycrest-fort-standard - da-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|197160|1.00|0.57|0.71|0.61|0.77|0.10|
+|Base|209596|1.00|0.67|0.74|0.62|0.79|0.10|

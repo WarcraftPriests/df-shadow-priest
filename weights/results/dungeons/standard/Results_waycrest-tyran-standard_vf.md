@@ -1,4 +1,4 @@
 # waycrest-tyran-standard - vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|158496|1.00|0.74|0.78|0.63|0.81|0.16|
+|Base|161045|1.00|0.63|0.72|0.63|0.77|0.15|

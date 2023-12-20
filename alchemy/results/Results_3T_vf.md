@@ -1,18 +1,18 @@
 # 3T - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|345722|5.24%|
-|Iced_Phial_of_Corrupting_Rage_85_3|343637|4.60%|
-|Phial_of_Static_Empowerment_3|341020|3.80%|
-|Iced_Phial_of_Corrupting_Rage_70_3|340894|3.77%|
-|Phial_of_Charged_Isolation_3|340621|3.68%|
-|Phial_of_Tepid_Versatility_3|339750|3.42%|
-|Phial_of_Elemental_Chaos_3|338563|3.06%|
-|Iced_Phial_of_Corrupting_Rage_50_3|337225|2.65%|
-|Iced_Phial_of_Corrupting_Rage_40_3|335312|2.07%|
-|Elemental_Potion_of_Ultimate_Power_3|332054|1.08%|
-|Elemental_Potion_of_Power_3|331162|0.80%|
-|Phial_of_Glacial_Fury_3|330381|0.57%|
-|Bottled_Putrescence_3|329835|0.40%|
-|Potion_of_Shocking_Disclosure_3|329587|0.32%|
-|Base|328520|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|353882|5.31%|
+|Iced_Phial_of_Corrupting_Rage_85_3|351909|4.72%|
+|Iced_Phial_of_Corrupting_Rage_70_3|349098|3.89%|
+|Phial_of_Static_Empowerment_3|349088|3.89%|
+|Phial_of_Charged_Isolation_3|348887|3.83%|
+|Phial_of_Tepid_Versatility_3|347807|3.50%|
+|Phial_of_Elemental_Chaos_3|346995|3.26%|
+|Iced_Phial_of_Corrupting_Rage_50_3|345196|2.73%|
+|Iced_Phial_of_Corrupting_Rage_40_3|343109|2.11%|
+|Elemental_Potion_of_Ultimate_Power_3|339572|1.05%|
+|Elemental_Potion_of_Power_3|338736|0.80%|
+|Phial_of_Glacial_Fury_3|338185|0.64%|
+|Bottled_Putrescence_3|337627|0.47%|
+|Potion_of_Shocking_Disclosure_3|337281|0.37%|
+|Base|336031|0.00%|

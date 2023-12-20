@@ -1,4 +1,4 @@
 # galakrond-fort-standard - da-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|253318|1.00|0.57|0.74|0.60|0.79|0.09|
+|Base|264947|1.00|0.64|0.73|0.64|0.78|0.09|
