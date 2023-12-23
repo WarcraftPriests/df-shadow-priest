@@ -77,8 +77,8 @@ if __name__ == '__main__':
             line = line.replace(
                 f'profileset."{TALENT}', f'profileset."{TALENT}{IDOLS_USED}')
 
-            # ONLY ALLOW 2 IDOL BUILDS
-            if IDOLS_COUNT > 1 and line not in lines_seen:
+            # ONLY ALLOW 1+ IDOL BUILDS
+            if IDOLS_COUNT > 0 and line not in lines_seen:
                 lines_seen.add(line)
                 OUTPUT_FILE = OUTPUT_FILE + line
 
