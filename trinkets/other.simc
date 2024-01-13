@@ -132,7 +132,6 @@ profileset."Verdant_Gladiators_Badge_of_Ferocity_463"+=trinket1=verdant_gladiato
 profileset."Verdant_Gladiators_Insignia_of_Alacrity_463"+=trinket1=verdant_gladiators_insignia_of_alacrity,id=209344,ilevel=463
 
 # TODO: Timewalking Item Level
-# Guessing this is 476
 # Ulduar Timewalking
 profileset."Energy_Siphon_476"+=trinket1=energy_siphon,id=156021,ilevel=476
 profileset."Eye_of_the_Broodmother_476"+=trinket1=eye_of_the_broodmother,id=156036,ilevel=476

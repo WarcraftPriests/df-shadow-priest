@@ -19,25 +19,28 @@ builds:
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAEQSOQAAAAAAAAAAAAASkWEJSjIJRSSigUIJJRaEIiQKSLkEUgA # VF_nzoth_cthun_98187077982127_Flay_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAEikIBAAAAAAAAAAAAQolEh0gkkkEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_59604915181487_Spike_DR
 gear:
-  head: "crest_of_lunar_communion,id=207281,ilevel=489" # mastery/crit
-  neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
-  shoulders: "shoulderguardians_of_lunar_communion,id=207279,ilevel=489" # crit/mastery
-  back: "mantle_of_blazing_sacrifice,id=207161,ilevel=489" # mastery/crit
-  chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=489" # haste/crit
-  wrists: "fading_flame_wristbands,id=210204,ilevel=489" # mastery/haste
-  hands: "touch_of_lunar_communion,id=207282,ilevel=489" # haste/crit
-  waist: "blooming_redeemers_sash,id=207124,ilevel=489" # haste/mastery
-  legs: "leggings_of_lunar_communion,id=207280,ilevel=489" # haste/mastery
-  feet: "slippers_of_heedless_sacrifice,id=134419,ilevel=489" # crit/haste
-  finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
-  finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
-  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
-  trinket2: "nymues_unraveling_spindle,id=208615,ilevel=489"
-  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=489" # haste/mastery
+  # TODO: adjust this to be more well rounded once we know full gear sources
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=500" # haste/crit
+  neck: "eye_of_the_rising_flame,id=207163,ilevel=500" # mastery/haste
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=500" # haste/mastery
+  back: "fireproof_drape,id=193763,ilevel=500" # haste/mastery
+  chest: "command_of_the_furnace_seraph,id=202545,ilevel=500" # crit/vers
+  wrists: "fading_flame_wristbands,id=210204,ilevel=500" # mastery/haste
+  hands: "twisting_shadow_claws,id=207115,ilevel=500" # mastery/haste
+  waist: "blooming_redeemers_sash,id=207124,ilevel=500" # haste/mastery
+  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=500" # mastery/crit
+  feet: "lifewoven_slippers,id=207123,ilevel=500" # mastery/haste
+  finger1: "band_of_burning_thorns,id=207159,ilevel=500" # haste/mastery
+  finger2: "entropic_convergence_loop,id=202572,ilevel=500" # mastery/haste
+  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=500"
+  trinket2: "whispering_incarnate_icon,id=194301,ilevel=500"
+  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=500" # haste/mastery
   off_hand: ""
+# TODO: adjust this as needed
 gems:
   meta: "192985"
   main: "192925"
+# TODO: adjust this as needed
 enchants:
   head: "7052"
   chest: "6625"

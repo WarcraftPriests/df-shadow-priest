@@ -90,46 +90,85 @@ weights_amirdrassil_the_dreams_hope = {
     'hm_na_3': 0.00000000,
 }
 
+weights_fated_raids = {
+    'pw_ba_1': 0.04444444,
+    'pw_sa_1': 0.18611111,
+    'pw_na_1': 0.32962963,
+    'lm_ba_1': 0.03703704,
+    'lm_sa_1': 0.10601852,
+    'lm_na_1': 0.10462963,
+    'hm_ba_1': 0.00416667,
+    'hm_sa_1': 0.01203704,
+    'hm_na_1': 0.03564815,
+    'pw_ba_2': 0.00555556,
+    'pw_sa_2': 0.00000000,
+    'pw_na_2': 0.03657407,
+    'lm_ba_2': 0.00000000,
+    'lm_sa_2': 0.00000000,
+    'lm_na_2': 0.01759259,
+    'hm_ba_2': 0.00000000,
+    'hm_sa_2': 0.00000000,
+    'hm_na_2': 0.00185185,
+    'pw_ba_4': 0.00000000,
+    'pw_sa_4': 0.00000000,
+    'pw_na_4': 0.02916667,
+    'lm_ba_4': 0.00000000,
+    'lm_sa_4': 0.00000000,
+    'lm_na_4': 0.01250000,
+    'hm_ba_4': 0.00000000,
+    'hm_sa_4': 0.00000000,
+    'hm_na_4': 0.00000000,
+    'pw_ba_3': 0.00000000,
+    'pw_sa_3': 0.00000000,
+    'pw_na_3': 0.01851852,
+    'lm_ba_3': 0.00000000,
+    'lm_sa_3': 0.00000000,
+    'lm_na_3': 0.01851852,
+    'hm_ba_3': 0.00000000,
+    'hm_sa_3': 0.00000000,
+    'hm_na_3': 0.00000000,
+}
+
 weights_single = {
-    'pw_na_1': 0.78723404255,
-    'lm_na_1': 0.14893617021,
-    'hm_na_1': 0.06382978723,
+    'pw_na_1': 0.7014778,
+    'lm_na_1': 0.2226601,
+    'hm_na_1': 0.0758621,
 }
 
 weights_two_targets = {
-    'pw_ba_2': 0.000,
-    'pw_sa_2': 0.000,
-    'pw_na_2': 0.800,
-    'lm_ba_2': 0.000,
-    'lm_sa_2': 0.000,
-    'lm_na_2': 0.200,
-    'hm_ba_2': 0.000,
-    'hm_sa_2': 0.000,
-    'hm_na_2': 0.000,
+    'pw_ba_2': 0.0902256,
+    'pw_sa_2': 0.0000000,
+    'pw_na_2': 0.5939850,
+    'lm_ba_2': 0.0000000,
+    'lm_sa_2': 0.0000000,
+    'lm_na_2': 0.2857143,
+    'hm_ba_2': 0.0000000,
+    'hm_sa_2': 0.0000000,
+    'hm_na_2': 0.0300752,
 }
 
 weights_three_targets = {
-    'pw_ba_3': 0.000,
-    'pw_sa_3': 0.000,
-    'pw_na_3': 0.800,
-    'lm_ba_3': 0.000,
-    'lm_sa_3': 0.000,
-    'lm_na_3': 0.200,
-    'hm_ba_3': 0.000,
-    'hm_sa_3': 0.000,
-    'hm_na_3': 0.000,
+    'pw_ba_3': 0.0,
+    'pw_sa_3': 0.0,
+    'pw_na_3': 0.5,
+    'lm_ba_3': 0.0,
+    'lm_sa_3': 0.0,
+    'lm_na_3': 0.5,
+    'hm_ba_3': 0.0,
+    'hm_sa_3': 0.0,
+    'hm_na_3': 0.0,
 }
 
 weights_four_targets = {
-    'pw_ba_4': 0.000,
-    'pw_sa_4': 0.000,
-    'pw_na_4': 0.800,
-    'lm_ba_4': 0.000,
-    'lm_sa_4': 0.000,
-    'lm_na_4': 0.200,
-    'hm_ba_4': 0.000,
-    'hm_sa_4': 0.000,
-    'hm_na_4': 0.000,
+    'pw_ba_4': 0.0,
+    'pw_sa_4': 0.0,
+    'pw_na_4': 0.7,
+    'lm_ba_4': 0.0,
+    'lm_sa_4': 0.0,
+    'lm_na_4': 0.3,
+    'hm_ba_4': 0.0,
+    'hm_sa_4': 0.0,
+    'hm_na_4': 0.0,
 }
 
 weights_season_one = {
@@ -228,6 +267,44 @@ weights_push_season_three = {
     "waycrest-tyran-standard": 0.0625,
 }
 
+weights_standard_season_four = {
+    "algethar-fort": 0.0625,
+    "algethar-tyran": 0.0625,
+    "azure-fort": 0.0625,
+    "azure-tyran": 0.0625,
+    "bhh-fort-standard": 0.0625,
+    "bhh-tyran-standard": 0.0625,
+    "hoi-fort-standard": 0.0625,
+    "hoi-tyran-standard": 0.0625,
+    "neltharus-fort-standard": 0.0625,
+    "neltharus-tyran-standard": 0.0625,
+    "nokhud-fort": 0.0625,
+    "nokhud-tyran": 0.0625,
+    "rlp-fort": 0.0625,
+    "rlp-tyran": 0.0625,
+    "ulda-fort-standard": 0.0625,
+    "ulda-tyran-standard": 0.0625,
+}
+
+weights_push_season_four = {
+    "algethar-fort": 0.0625,
+    "algethar-tyran": 0.0625,
+    "azure-fort": 0.0625,
+    "azure-tyran": 0.0625,
+    "bhh-fort-standard": 0.0625,
+    "bhh-tyran-standard": 0.0625,
+    "hoi-fort-standard": 0.0625,
+    "hoi-tyran-standard": 0.0625,
+    "neltharus-fort-standard": 0.0625,
+    "neltharus-tyran-standard": 0.0625,
+    "nokhud-fort": 0.0625,
+    "nokhud-tyran": 0.0625,
+    "rlp-fort": 0.0625,
+    "rlp-tyran": 0.0625,
+    "ulda-fort-standard": 0.0625,
+    "ulda-tyran-standard": 0.0625,
+}
+
 
 def find_weights(key):
     """return the matching dict"""
@@ -255,4 +332,10 @@ def find_weights(key):
         return weights_standard_season_three
     if key == 'weightsPushSeasonThree':
         return weights_push_season_three
+    if key == 'weights_fated_raids':
+        return weights_fated_raids
+    if key == 'weightsStandardSeasonFour':
+        return weights_standard_season_four
+    if key == 'weightsPushSeasonFour':
+        return weights_push_season_four
     return None

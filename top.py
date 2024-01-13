@@ -58,10 +58,10 @@ def get_builds():
     cds = ["VF", "DA"]
     idols = [
         "yshaarj_cthun",
-        "yshaarj_nzoth_cthun",
         "nzoth_yogg",
         "nzoth_cthun",
         "yogg_cthun",
+        "nzoth_yogg_cthun",
     ]
     combos = [f"{cd}_{idol}" for cd in cds for idol in idols]  # noqa: E501
     return combos
@@ -147,7 +147,15 @@ if __name__ == "__main__":
         for cd in build_configs
         for filler in ["Spike", "Flay", "Spike_DR", "Flay_DR"]
     ]  # noqa: E501
-    results = ["Single", "2T", "3T", "Composite", "Dungeons-Push", "Dungeons-Standard"]
+    results = [
+        "Single",
+        "2T",
+        "3T",
+        "4T",
+        "Composite",
+        "Dungeons-Push",
+        "Dungeons-Standard",
+    ]
     push_results = list(filter(filter_dungeon_type, utils.get_dungeon_combos()))
 
     # Get aggregate results
