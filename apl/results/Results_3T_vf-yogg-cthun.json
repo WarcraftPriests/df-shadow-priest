@@ -1,0 +1,1 @@
+{"name": "3T - vf-yogg-cthun", "data": {"Base": {"DPS": 418674}, "voidform_gigachads": {"DPS": 418566}, "no_degen": {"DPS": 418540}}, "ids": {"voidform_gigachads": null, "no_degen": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["voidform_gigachads", "no_degen"], "last_updated": "2024-01-15"}

@@ -201,7 +201,7 @@ def build_profiles(talent_string, apl_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2", "3"]
+    targets = ["1", "2", "3", "4"]
     overrides = ""
     with open("internal/overrides.simc", "r", encoding="utf8") as overrides_file:
         overrides = overrides_file.read()

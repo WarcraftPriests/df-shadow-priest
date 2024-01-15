@@ -268,41 +268,41 @@ weights_push_season_three = {
 }
 
 weights_standard_season_four = {
-    "algethar-fort": 0.0625,
-    "algethar-tyran": 0.0625,
-    "azure-fort": 0.0625,
-    "azure-tyran": 0.0625,
-    "bhh-fort-standard": 0.0625,
-    "bhh-tyran-standard": 0.0625,
-    "hoi-fort-standard": 0.0625,
-    "hoi-tyran-standard": 0.0625,
-    "neltharus-fort-standard": 0.0625,
-    "neltharus-tyran-standard": 0.0625,
-    "nokhud-fort": 0.0625,
-    "nokhud-tyran": 0.0625,
-    "rlp-fort": 0.0625,
-    "rlp-tyran": 0.0625,
-    "ulda-fort-standard": 0.0625,
-    "ulda-tyran-standard": 0.0625,
+    "algethar-fort-standard": 0.06,
+    "algethar-tyran-standard": 0.067,
+    "azure-fort-standard": 0.056,
+    "azure-tyran-standard": 0.063,
+    "bhh-fort-standard": 0.041,
+    "bhh-tyran-standard": 0.047,
+    "hoi-fort-standard": 0.069,
+    "hoi-tyran-standard": 0.075,
+    "neltharus-fort-standard": 0.058,
+    "neltharus-tyran-standard": 0.065,
+    "nokhud-fort-standard": 0.066,
+    "nokhud-tyran-standard": 0.071,
+    "rlp-fort-standard": 0.067,
+    "rlp-tyran-standard": 0.071,
+    "ulda-fort-standard": 0.059,
+    "ulda-tyran-standard": 0.065,
 }
 
 weights_push_season_four = {
-    "algethar-fort": 0.0625,
-    "algethar-tyran": 0.0625,
-    "azure-fort": 0.0625,
-    "azure-tyran": 0.0625,
-    "bhh-fort-standard": 0.0625,
-    "bhh-tyran-standard": 0.0625,
-    "hoi-fort-standard": 0.0625,
-    "hoi-tyran-standard": 0.0625,
-    "neltharus-fort-standard": 0.0625,
-    "neltharus-tyran-standard": 0.0625,
-    "nokhud-fort": 0.0625,
-    "nokhud-tyran": 0.0625,
-    "rlp-fort": 0.0625,
-    "rlp-tyran": 0.0625,
-    "ulda-fort-standard": 0.0625,
-    "ulda-tyran-standard": 0.0625,
+    "algethar-fort-push": 0.06,
+    "algethar-tyran-push": 0.067,
+    "azure-fort-push": 0.056,
+    "azure-tyran-push": 0.063,
+    "bhh-fort-push": 0.041,
+    "bhh-tyran-push": 0.047,
+    "hoi-fort-push": 0.069,
+    "hoi-tyran-push": 0.075,
+    "neltharus-fort-push": 0.058,
+    "neltharus-tyran-push": 0.065,
+    "nokhud-fort-push": 0.066,
+    "nokhud-tyran-push": 0.071,
+    "rlp-fort-push": 0.067,
+    "rlp-tyran-push": 0.071,
+    "ulda-fort-push": 0.059,
+    "ulda-tyran-push": 0.065,
 }
 
 
@@ -332,7 +332,7 @@ def find_weights(key):
         return weights_standard_season_three
     if key == 'weightsPushSeasonThree':
         return weights_push_season_three
-    if key == 'weights_fated_raids':
+    if key == 'weightsFatedRaids':
         return weights_fated_raids
     if key == 'weightsStandardSeasonFour':
         return weights_standard_season_four

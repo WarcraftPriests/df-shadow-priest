@@ -1,0 +1,1 @@
+{"name": "Single - da-cthun", "data": {"no_degen": {"DPS": 240564}, "Base": {"DPS": 240525}, "voidform_gigachads": {"DPS": 240500}}, "ids": {"no_degen": null, "voidform_gigachads": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["no_degen", "voidform_gigachads"], "last_updated": "2024-01-15"}
