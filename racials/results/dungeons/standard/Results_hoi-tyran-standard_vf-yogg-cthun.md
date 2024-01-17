@@ -1,0 +1,34 @@
+# hoi-tyran-standard - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|54241|2.67%|
+|Gnome|54157|2.51%|
+|Night_Elf_Haste|54153|2.51%|
+|Goblin|54118|2.44%|
+|Panda_Haste|53808|1.85%|
+|Mechagnome|53368|1.02%|
+|Kul_Tiran|53344|0.97%|
+|Nightborne|53343|0.97%|
+|Void_Elf|53331|0.95%|
+|Highmountain_Tauren|53324|0.94%|
+|Zandalari_Troll_Bwonsamdi|53319|0.93%|
+|Dwarf|53287|0.87%|
+|Blood_Elf|53276|0.85%|
+|Tauren|53276|0.85%|
+|Undead|53264|0.82%|
+|Night_Elf_Crit|53255|0.81%|
+|Zandalari_Troll_Paku|53255|0.81%|
+|Worgen|53247|0.79%|
+|Zandalari_Troll_Kimbul|53201|0.70%|
+|Draenei|53171|0.65%|
+|Panda_Vers|53133|0.58%|
+|Panda_Crit|53081|0.48%|
+|Troll|53075|0.47%|
+|Panda_Fortune_Cookie|53040|0.40%|
+|Orc|52953|0.23%|
+|Maghar_Orc|52928|0.19%|
+|Dark_Iron_Dwarf|52923|0.18%|
+|Panda_Mastery|52901|0.14%|
+|Vulpera|52866|0.07%|
+|Lightforged_Draenei|52855|0.05%|
+|Base|52829|0.00%|

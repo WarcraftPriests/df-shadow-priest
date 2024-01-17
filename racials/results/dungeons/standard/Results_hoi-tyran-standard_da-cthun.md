@@ -1,0 +1,34 @@
+# hoi-tyran-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|54229|2.59%|
+|Gnome|54163|2.46%|
+|Goblin|54154|2.44%|
+|Night_Elf_Haste|54130|2.40%|
+|Panda_Haste|53821|1.81%|
+|Mechagnome|53369|0.96%|
+|Nightborne|53356|0.93%|
+|Void_Elf|53341|0.91%|
+|Kul_Tiran|53320|0.87%|
+|Highmountain_Tauren|53317|0.86%|
+|Tauren|53295|0.82%|
+|Dwarf|53274|0.78%|
+|Zandalari_Troll_Paku|53265|0.76%|
+|Zandalari_Troll_Bwonsamdi|53262|0.76%|
+|Blood_Elf|53258|0.75%|
+|Night_Elf_Crit|53253|0.74%|
+|Undead|53246|0.73%|
+|Worgen|53241|0.72%|
+|Zandalari_Troll_Kimbul|53214|0.67%|
+|Draenei|53153|0.55%|
+|Panda_Vers|53138|0.52%|
+|Panda_Crit|53104|0.46%|
+|Troll|53070|0.39%|
+|Panda_Fortune_Cookie|53060|0.37%|
+|Panda_Mastery|52930|0.13%|
+|Orc|52926|0.12%|
+|Dark_Iron_Dwarf|52922|0.11%|
+|Maghar_Orc|52910|0.09%|
+|Base|52862|0.00%|
+|Lightforged_Draenei|52860|0.00%|
+|Vulpera|52855|-0.01%|

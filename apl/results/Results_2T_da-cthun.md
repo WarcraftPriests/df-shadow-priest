@@ -1,6 +1,6 @@
 # 2T - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|317515|0.00%|
-|voidform_gigachads|317506|0.00%|
-|no_degen|317469|-0.01%|
+|Base|317426|0.00%|
+|no_degen|316990|-0.14%|
+|voidform_gigachads|316900|-0.17%|

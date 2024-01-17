@@ -1,6 +1,6 @@
 # 2T - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|no_degen|324212|0.03%|
-|voidform_gigachads|324205|0.03%|
-|Base|324103|0.00%|
+|Base|324208|0.00%|
+|voidform_gigachads|323834|-0.12%|
+|no_degen|323681|-0.16%|

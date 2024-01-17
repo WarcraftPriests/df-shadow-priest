@@ -1,0 +1,34 @@
+# nokhud-tyran-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|58075|2.58%|
+|Night_Elf_Haste|58003|2.45%|
+|Goblin|57998|2.44%|
+|Gnome|57974|2.40%|
+|Panda_Haste|57306|1.22%|
+|Nightborne|57142|0.93%|
+|Mechagnome|57112|0.88%|
+|Void_Elf|57108|0.87%|
+|Highmountain_Tauren|57098|0.85%|
+|Kul_Tiran|57085|0.83%|
+|Blood_Elf|57043|0.76%|
+|Dwarf|57029|0.73%|
+|Tauren|57021|0.72%|
+|Zandalari_Troll_Bwonsamdi|57014|0.70%|
+|Night_Elf_Crit|57005|0.69%|
+|Zandalari_Troll_Paku|57004|0.69%|
+|Undead|56990|0.66%|
+|Worgen|56988|0.66%|
+|Zandalari_Troll_Kimbul|56947|0.59%|
+|Draenei|56906|0.51%|
+|Troll|56890|0.49%|
+|Panda_Crit|56793|0.31%|
+|Panda_Vers|56788|0.31%|
+|Panda_Fortune_Cookie|56766|0.27%|
+|Orc|56743|0.23%|
+|Dark_Iron_Dwarf|56700|0.15%|
+|Maghar_Orc|56690|0.13%|
+|Panda_Mastery|56632|0.03%|
+|Base|56615|0.00%|
+|Vulpera|56606|-0.02%|
+|Lightforged_Draenei|56585|-0.05%|

@@ -22,758 +22,1477 @@ finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
 main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
-profileset."Energy_Siphon_476-Living_Flame_476"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Living_Flame_476"+=trinket2=living_flame,id=155947,ilevel=476
+profileset."Spoils_of_Neltharus_500-Tome_of_Unstable_Power_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Tome_of_Unstable_Power_500"+=trinket2=tome_of_unstable_power,id=193628,ilevel=500
 
-profileset."Energy_Siphon_476-Coagulated_Genesaur_Blood_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
+profileset."Spoils_of_Neltharus_500-Umbrelskuls_Fractured_Heart_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Umbrelskuls_Fractured_Heart_500"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=500
 
-profileset."Energy_Siphon_476-Coagulated_Genesaur_Blood_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Spoils_of_Neltharus_500-Furious_Ragefeather_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Furious_Ragefeather_500"+=trinket2=furious_ragefeather,id=193677,ilevel=500
 
-profileset."Energy_Siphon_476-Sea_Star_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
+profileset."Spoils_of_Neltharus_500-Irideus_Fragment_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Irideus_Fragment_500"+=trinket2=irideus_fragment,id=193743,ilevel=500
 
-profileset."Energy_Siphon_476-Sea_Star_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
+profileset."Spoils_of_Neltharus_500-Idol_of_Pure_Decay_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Idol_of_Pure_Decay_500"+=trinket2=idol_of_pure_decay,id=193660,ilevel=500
 
-profileset."Energy_Siphon_476-Balefire_Branch_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Spoils_of_Neltharus_500-Erupting_Spear_Fragment_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Energy_Siphon_476-Balefire_Branch_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Spoils_of_Neltharus_500-Time_Breaching_Talon_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Spoils_of_Neltharus_500-Emerald_Coachs_Whistle_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Spoils_of_Neltharus_500-Conjured_Chillglobe_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Energy_Siphon_476-Time_Thiefs_Gambit_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Spoils_of_Neltharus_500-Iceblood_Deathsnare_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Energy_Siphon_476-Time_Thiefs_Gambit_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_0_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_1_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_2_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Spoils_of_Neltharus_500-Desperate_Invokers_Codex_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Spoils_of_Neltharus_500-Spiteful_Storm_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Spoils_of_Neltharus_500-Screaming_Black_Dragonscale_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Spoils_of_Neltharus_500-Vessel_of_Searing_Shadow_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Energy_Siphon_476-Augury_of_the_Primal_Flame_496"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_483"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Spoils_of_Neltharus_500-Neltharions_Call_to_Suffering_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_489"+=trinket1=energy_siphon,id=156021,ilevel=476
-profileset."Energy_Siphon_476-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Spoils_of_Neltharus_500-Igneous_Flowstone_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Living_Flame_476-Coagulated_Genesaur_Blood_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Coagulated_Genesaur_Blood_483"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=483
+profileset."Spoils_of_Neltharus_500-Beacon_to_the_Beyond_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Living_Flame_476-Coagulated_Genesaur_Blood_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Coagulated_Genesaur_Blood_489"+=trinket2=coagulated_genesaur_blood,id=110004,ilevel=489
+profileset."Spoils_of_Neltharus_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Living_Flame_476-Sea_Star_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
+profileset."Spoils_of_Neltharus_500-Nymues_Unraveling_Spindle_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Living_Flame_476-Sea_Star_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
+profileset."Spoils_of_Neltharus_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Spoils_of_Neltharus_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Living_Flame_476-Balefire_Branch_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Spoils_of_Neltharus_500-Belorrelos_the_Suncaller_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Living_Flame_476-Balefire_Branch_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Spoils_of_Neltharus_500-Augury_of_the_Primal_Flame_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Spoils_of_Neltharus_500-Ashes_of_the_Embersoul_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Umbrelskuls_Fractured_Heart_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Umbrelskuls_Fractured_Heart_500"+=trinket2=umbrelskuls_fractured_heart,id=193639,ilevel=500
 
-profileset."Living_Flame_476-Time_Thiefs_Gambit_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Furious_Ragefeather_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Furious_Ragefeather_500"+=trinket2=furious_ragefeather,id=193677,ilevel=500
 
-profileset."Living_Flame_476-Time_Thiefs_Gambit_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Irideus_Fragment_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Irideus_Fragment_500"+=trinket2=irideus_fragment,id=193743,ilevel=500
 
-profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Idol_of_Pure_Decay_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Idol_of_Pure_Decay_500"+=trinket2=idol_of_pure_decay,id=193660,ilevel=500
 
-profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Erupting_Spear_Fragment_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Time_Breaching_Talon_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Emerald_Coachs_Whistle_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Conjured_Chillglobe_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Iceblood_Deathsnare_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Living_Flame_476-Belorrelos_the_Suncaller_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_0_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Living_Flame_476-Belorrelos_the_Suncaller_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_1_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Living_Flame_476-Augury_of_the_Primal_Flame_496"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_2_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Living_Flame_476-Ashes_of_the_Embersoul_483"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Desperate_Invokers_Codex_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Living_Flame_476-Ashes_of_the_Embersoul_489"+=trinket1=living_flame,id=155947,ilevel=476
-profileset."Living_Flame_476-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Spiteful_Storm_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Screaming_Black_Dragonscale_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Vessel_of_Searing_Shadow_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Neltharions_Call_to_Suffering_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Igneous_Flowstone_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Beacon_to_the_Beyond_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Nymues_Unraveling_Spindle_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Tome_of_Unstable_Power_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Belorrelos_the_Suncaller_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Tome_of_Unstable_Power_500-Augury_of_the_Primal_Flame_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Tome_of_Unstable_Power_500-Ashes_of_the_Embersoul_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Suncaller_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Furious_Ragefeather_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Furious_Ragefeather_500"+=trinket2=furious_ragefeather,id=193677,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Suncaller_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Irideus_Fragment_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Irideus_Fragment_500"+=trinket2=irideus_fragment,id=193743,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_496"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Umbrelskuls_Fractured_Heart_500-Idol_of_Pure_Decay_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Idol_of_Pure_Decay_500"+=trinket2=idol_of_pure_decay,id=193660,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Erupting_Spear_Fragment_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Time_Breaching_Talon_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Sea_Star_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Sea_Star_483"+=trinket2=sea_star,id=133201,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Emerald_Coachs_Whistle_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Sea_Star_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Sea_Star_489"+=trinket2=sea_star,id=133201,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Conjured_Chillglobe_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Iceblood_Deathsnare_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_0_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_1_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_2_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Desperate_Invokers_Codex_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Spiteful_Storm_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Screaming_Black_Dragonscale_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Vessel_of_Searing_Shadow_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Neltharions_Call_to_Suffering_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Belorrelos_the_Suncaller_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Igneous_Flowstone_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Belorrelos_the_Suncaller_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Beacon_to_the_Beyond_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Augury_of_the_Primal_Flame_496"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Umbrelskuls_Fractured_Heart_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Ashes_of_the_Embersoul_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Nymues_Unraveling_Spindle_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Coagulated_Genesaur_Blood_489-Ashes_of_the_Embersoul_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
-profileset."Coagulated_Genesaur_Blood_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Umbrelskuls_Fractured_Heart_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Sea_Star_483-Balefire_Branch_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Belorrelos_the_Suncaller_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Sea_Star_483-Balefire_Branch_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Umbrelskuls_Fractured_Heart_500-Augury_of_the_Primal_Flame_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Umbrelskuls_Fractured_Heart_500-Ashes_of_the_Embersoul_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Furious_Ragefeather_500-Irideus_Fragment_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Irideus_Fragment_500"+=trinket2=irideus_fragment,id=193743,ilevel=500
 
-profileset."Sea_Star_483-Time_Thiefs_Gambit_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Furious_Ragefeather_500-Idol_of_Pure_Decay_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Idol_of_Pure_Decay_500"+=trinket2=idol_of_pure_decay,id=193660,ilevel=500
 
-profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Furious_Ragefeather_500-Erupting_Spear_Fragment_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Furious_Ragefeather_500-Time_Breaching_Talon_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Furious_Ragefeather_500-Emerald_Coachs_Whistle_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Furious_Ragefeather_500-Conjured_Chillglobe_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Furious_Ragefeather_500-Iceblood_Deathsnare_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_0_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_1_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Sea_Star_483-Belorrelos_the_Suncaller_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_2_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Sea_Star_483-Belorrelos_the_Suncaller_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Furious_Ragefeather_500-Desperate_Invokers_Codex_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Sea_Star_483-Augury_of_the_Primal_Flame_496"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Furious_Ragefeather_500-Spiteful_Storm_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Sea_Star_483-Ashes_of_the_Embersoul_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Furious_Ragefeather_500-Screaming_Black_Dragonscale_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Sea_Star_483-Ashes_of_the_Embersoul_489"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Furious_Ragefeather_500-Vessel_of_Searing_Shadow_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Sea_Star_489-Balefire_Branch_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Balefire_Branch_483"+=trinket2=balefire_branch,id=159630,ilevel=483
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Sea_Star_489-Balefire_Branch_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Balefire_Branch_489"+=trinket2=balefire_branch,id=159630,ilevel=489
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Furious_Ragefeather_500-Neltharions_Call_to_Suffering_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Sea_Star_489-Time_Thiefs_Gambit_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Furious_Ragefeather_500-Igneous_Flowstone_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Furious_Ragefeather_500-Beacon_to_the_Beyond_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Furious_Ragefeather_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Furious_Ragefeather_500-Nymues_Unraveling_Spindle_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Furious_Ragefeather_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Furious_Ragefeather_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Furious_Ragefeather_500-Belorrelos_the_Suncaller_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Furious_Ragefeather_500-Augury_of_the_Primal_Flame_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Furious_Ragefeather_500-Ashes_of_the_Embersoul_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Sea_Star_489-Belorrelos_the_Suncaller_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Irideus_Fragment_500-Idol_of_Pure_Decay_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Idol_of_Pure_Decay_500"+=trinket2=idol_of_pure_decay,id=193660,ilevel=500
 
-profileset."Sea_Star_489-Belorrelos_the_Suncaller_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Irideus_Fragment_500-Erupting_Spear_Fragment_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Sea_Star_489-Augury_of_the_Primal_Flame_496"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Irideus_Fragment_500-Time_Breaching_Talon_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Sea_Star_489-Ashes_of_the_Embersoul_483"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Irideus_Fragment_500-Emerald_Coachs_Whistle_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Sea_Star_489-Ashes_of_the_Embersoul_489"+=trinket1=sea_star,id=133201,ilevel=489
-profileset."Sea_Star_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Irideus_Fragment_500-Conjured_Chillglobe_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Irideus_Fragment_500-Iceblood_Deathsnare_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_0_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_483-Time_Thiefs_Gambit_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_1_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_2_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Irideus_Fragment_500-Desperate_Invokers_Codex_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Irideus_Fragment_500-Spiteful_Storm_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Irideus_Fragment_500-Screaming_Black_Dragonscale_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Irideus_Fragment_500-Vessel_of_Searing_Shadow_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Irideus_Fragment_500-Neltharions_Call_to_Suffering_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Balefire_Branch_483-Augury_of_the_Primal_Flame_496"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Irideus_Fragment_500-Igneous_Flowstone_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Irideus_Fragment_500-Beacon_to_the_Beyond_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_489"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Irideus_Fragment_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_483"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=483
+profileset."Irideus_Fragment_500-Nymues_Unraveling_Spindle_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Mirror_of_Fractured_Tomorrows_489"+=trinket2=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Irideus_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Irideus_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Balefire_Branch_489-Time_Thiefs_Gambit_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Irideus_Fragment_500-Belorrelos_the_Suncaller_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Irideus_Fragment_500-Augury_of_the_Primal_Flame_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Irideus_Fragment_500-Ashes_of_the_Embersoul_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Erupting_Spear_Fragment_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Erupting_Spear_Fragment_500"+=trinket2=erupting_spear_fragment,id=193769,ilevel=500
 
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Time_Breaching_Talon_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Emerald_Coachs_Whistle_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Conjured_Chillglobe_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Iceblood_Deathsnare_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_0_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_1_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_489-Augury_of_the_Primal_Flame_496"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_2_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_483"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Desperate_Invokers_Codex_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Spiteful_Storm_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Screaming_Black_Dragonscale_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Vessel_of_Searing_Shadow_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Neltharions_Call_to_Suffering_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Igneous_Flowstone_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Beacon_to_the_Beyond_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Nymues_Unraveling_Spindle_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Augury_of_the_Primal_Flame_496"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Idol_of_Pure_Decay_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Idol_of_Pure_Decay_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Belorrelos_the_Suncaller_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Idol_of_Pure_Decay_500-Augury_of_the_Primal_Flame_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_483"+=trinket2=timethiefs_gambit,id=207579,ilevel=483
+profileset."Idol_of_Pure_Decay_500-Ashes_of_the_Embersoul_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+profileset."Idol_of_Pure_Decay_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Time_Thiefs_Gambit_489"+=trinket2=timethiefs_gambit,id=207579,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Time_Breaching_Talon_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Time_Breaching_Talon_500"+=trinket2=time_breaching_talon,id=193791,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Emerald_Coachs_Whistle_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Conjured_Chillglobe_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Iceblood_Deathsnare_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_0_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_1_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_2_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Desperate_Invokers_Codex_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Spiteful_Storm_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Augury_of_the_Primal_Flame_496"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Erupting_Spear_Fragment_500-Screaming_Black_Dragonscale_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Vessel_of_Searing_Shadow_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-profileset."Mirror_of_Fractured_Tomorrows_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Neltharions_Call_to_Suffering_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Igneous_Flowstone_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Beacon_to_the_Beyond_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Nymues_Unraveling_Spindle_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Erupting_Spear_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_496"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Erupting_Spear_Fragment_500-Belorrelos_the_Suncaller_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Erupting_Spear_Fragment_500-Augury_of_the_Primal_Flame_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Erupting_Spear_Fragment_500-Ashes_of_the_Embersoul_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_483"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=483
+profileset."Time_Breaching_Talon_500-Emerald_Coachs_Whistle_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Emerald_Coachs_Whistle_500"+=trinket2=emerald_coachs_whistle,id=193718,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Pips_Emerald_Friendship_Badge_489"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Time_Breaching_Talon_500-Conjured_Chillglobe_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Time_Breaching_Talon_500-Iceblood_Deathsnare_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_0_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_1_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_2_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Time_Breaching_Talon_500-Desperate_Invokers_Codex_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Time_Breaching_Talon_500-Spiteful_Storm_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_496"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Time_Breaching_Talon_500-Screaming_Black_Dragonscale_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Time_Breaching_Talon_500-Vessel_of_Searing_Shadow_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
-profileset."Time_Thiefs_Gambit_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Time_Breaching_Talon_500-Neltharions_Call_to_Suffering_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Time_Breaching_Talon_500-Igneous_Flowstone_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Time_Breaching_Talon_500-Beacon_to_the_Beyond_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Time_Breaching_Talon_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_496"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Time_Breaching_Talon_500-Nymues_Unraveling_Spindle_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Time_Breaching_Talon_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Time_Breaching_Talon_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
-profileset."Pips_Emerald_Friendship_Badge_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Time_Breaching_Talon_500-Belorrelos_the_Suncaller_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Time_Breaching_Talon_500-Augury_of_the_Primal_Flame_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Time_Breaching_Talon_500-Ashes_of_the_Embersoul_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Conjured_Chillglobe_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Conjured_Chillglobe_500"+=trinket2=conjured_chillglobe,id=194300,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Iceblood_Deathsnare_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_0_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_1_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_496"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_2_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Desperate_Invokers_Codex_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
-profileset."Pips_Emerald_Friendship_Badge_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Spiteful_Storm_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Screaming_Black_Dragonscale_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Vessel_of_Searing_Shadow_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_483-Augury_of_the_Primal_Flame_496"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Neltharions_Call_to_Suffering_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Igneous_Flowstone_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_489-Augury_of_the_Primal_Flame_496"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Emerald_Coachs_Whistle_500-Beacon_to_the_Beyond_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Nymues_Unraveling_Spindle_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Emerald_Coachs_Whistle_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Emerald_Coachs_Whistle_500-Belorrelos_the_Suncaller_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Augury_of_the_Primal_Flame_496"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Augury_of_the_Primal_Flame_496"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Emerald_Coachs_Whistle_500-Augury_of_the_Primal_Flame_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Emerald_Coachs_Whistle_500-Ashes_of_the_Embersoul_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Conjured_Chillglobe_500-Iceblood_Deathsnare_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Iceblood_Deathsnare_500"+=trinket2=iceblood_deathsnare,id=194304,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_483"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=483
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_0_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Belorrelos_the_Suncaller_489"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_1_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Augury_of_the_Primal_Flame_496"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Augury_of_the_Primal_Flame_496"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_2_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_483"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Conjured_Chillglobe_500-Desperate_Invokers_Codex_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_489"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Conjured_Chillglobe_500-Spiteful_Storm_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
-profileset."Belorrelos_the_Suncaller_483-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Conjured_Chillglobe_500-Screaming_Black_Dragonscale_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
-profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Conjured_Chillglobe_500-Vessel_of_Searing_Shadow_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
-profileset."Belorrelos_the_Suncaller_483-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_496"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
-profileset."Belorrelos_the_Suncaller_489-Augury_of_the_Primal_Flame_496"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
-profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
 
-profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
-profileset."Belorrelos_the_Suncaller_489-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Conjured_Chillglobe_500-Neltharions_Call_to_Suffering_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Augury_of_the_Primal_Flame_496-Ashes_of_the_Embersoul_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
-profileset."Augury_of_the_Primal_Flame_496-Ashes_of_the_Embersoul_483"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=483
+profileset."Conjured_Chillglobe_500-Igneous_Flowstone_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Augury_of_the_Primal_Flame_496-Ashes_of_the_Embersoul_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
-profileset."Augury_of_the_Primal_Flame_496-Ashes_of_the_Embersoul_489"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Conjured_Chillglobe_500-Beacon_to_the_Beyond_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Nymues_Unraveling_Spindle_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Conjured_Chillglobe_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Belorrelos_the_Suncaller_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Augury_of_the_Primal_Flame_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Conjured_Chillglobe_500-Ashes_of_the_Embersoul_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+profileset."Conjured_Chillglobe_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_0_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_0_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_1_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_1_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_2_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Whispering_Incarnate_Icon_2_500"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Desperate_Invokers_Codex_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Spiteful_Storm_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Screaming_Black_Dragonscale_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Vessel_of_Searing_Shadow_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Neltharions_Call_to_Suffering_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Igneous_Flowstone_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Beacon_to_the_Beyond_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Nymues_Unraveling_Spindle_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Iceblood_Deathsnare_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Belorrelos_the_Suncaller_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Augury_of_the_Primal_Flame_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Iceblood_Deathsnare_500-Ashes_of_the_Embersoul_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+profileset."Iceblood_Deathsnare_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Desperate_Invokers_Codex_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Desperate_Invokers_Codex_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Spiteful_Storm_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Spiteful_Storm_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Screaming_Black_Dragonscale_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Screaming_Black_Dragonscale_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Vessel_of_Searing_Shadow_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Vessel_of_Searing_Shadow_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Neltharions_Call_to_Suffering_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Neltharions_Call_to_Suffering_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Igneous_Flowstone_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Igneous_Flowstone_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Beacon_to_the_Beyond_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Beacon_to_the_Beyond_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Belorrelos_the_Suncaller_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Belorrelos_the_Suncaller_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Augury_of_the_Primal_Flame_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Augury_of_the_Primal_Flame_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500-Ashes_of_the_Embersoul_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_0_500-Ashes_of_the_Embersoul_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Desperate_Invokers_Codex_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Desperate_Invokers_Codex_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Spiteful_Storm_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Spiteful_Storm_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Screaming_Black_Dragonscale_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Screaming_Black_Dragonscale_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Vessel_of_Searing_Shadow_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Vessel_of_Searing_Shadow_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Neltharions_Call_to_Suffering_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Neltharions_Call_to_Suffering_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Igneous_Flowstone_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Igneous_Flowstone_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Beacon_to_the_Beyond_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Beacon_to_the_Beyond_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Belorrelos_the_Suncaller_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Belorrelos_the_Suncaller_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Augury_of_the_Primal_Flame_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Augury_of_the_Primal_Flame_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_1_500-Ashes_of_the_Embersoul_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_1_500-Ashes_of_the_Embersoul_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Desperate_Invokers_Codex_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Desperate_Invokers_Codex_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Desperate_Invokers_Codex_500"+=trinket2=desperate_invokers_codex,id=194310,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Spiteful_Storm_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Spiteful_Storm_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Screaming_Black_Dragonscale_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Screaming_Black_Dragonscale_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Vessel_of_Searing_Shadow_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Vessel_of_Searing_Shadow_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Neltharions_Call_to_Suffering_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Neltharions_Call_to_Suffering_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Igneous_Flowstone_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Igneous_Flowstone_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Beacon_to_the_Beyond_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Beacon_to_the_Beyond_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Belorrelos_the_Suncaller_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Belorrelos_the_Suncaller_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Augury_of_the_Primal_Flame_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Augury_of_the_Primal_Flame_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_2_500-Ashes_of_the_Embersoul_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_2_500-Ashes_of_the_Embersoul_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Spiteful_Storm_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Spiteful_Storm_500"+=trinket2=spiteful_storm,id=194309,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Screaming_Black_Dragonscale_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Vessel_of_Searing_Shadow_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Neltharions_Call_to_Suffering_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Igneous_Flowstone_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Beacon_to_the_Beyond_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Nymues_Unraveling_Spindle_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Desperate_Invokers_Codex_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Belorrelos_the_Suncaller_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Augury_of_the_Primal_Flame_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Desperate_Invokers_Codex_500-Ashes_of_the_Embersoul_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+profileset."Desperate_Invokers_Codex_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Spiteful_Storm_500-Screaming_Black_Dragonscale_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Screaming_Black_Dragonscale_500"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=500
+
+profileset."Spiteful_Storm_500-Vessel_of_Searing_Shadow_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Spiteful_Storm_500-Neltharions_Call_to_Suffering_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Spiteful_Storm_500-Igneous_Flowstone_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Spiteful_Storm_500-Beacon_to_the_Beyond_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Spiteful_Storm_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Spiteful_Storm_500-Nymues_Unraveling_Spindle_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Spiteful_Storm_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Spiteful_Storm_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Spiteful_Storm_500-Belorrelos_the_Suncaller_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Spiteful_Storm_500-Augury_of_the_Primal_Flame_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Spiteful_Storm_500-Ashes_of_the_Embersoul_500"+=trinket1=spiteful_storm,id=194309,ilevel=500
+profileset."Spiteful_Storm_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Vessel_of_Searing_Shadow_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Vessel_of_Searing_Shadow_500"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Neltharions_Call_to_Suffering_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Igneous_Flowstone_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Beacon_to_the_Beyond_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Nymues_Unraveling_Spindle_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Screaming_Black_Dragonscale_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Belorrelos_the_Suncaller_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Augury_of_the_Primal_Flame_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Screaming_Black_Dragonscale_500-Ashes_of_the_Embersoul_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
+profileset."Screaming_Black_Dragonscale_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Bronze_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Azure_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Azure_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Ominous_Chromatic_Essence_Emerald_500"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Neltharions_Call_to_Suffering_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Igneous_Flowstone_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Beacon_to_the_Beyond_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Nymues_Unraveling_Spindle_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Vessel_of_Searing_Shadow_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Belorrelos_the_Suncaller_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Augury_of_the_Primal_Flame_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Vessel_of_Searing_Shadow_500-Ashes_of_the_Embersoul_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
+profileset."Vessel_of_Searing_Shadow_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Neltharions_Call_to_Suffering_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Neltharions_Call_to_Suffering_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Igneous_Flowstone_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Igneous_Flowstone_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Beacon_to_the_Beyond_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Beacon_to_the_Beyond_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Belorrelos_the_Suncaller_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Belorrelos_the_Suncaller_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Augury_of_the_Primal_Flame_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Augury_of_the_Primal_Flame_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Bronze_500-Ashes_of_the_Embersoul_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500-Ashes_of_the_Embersoul_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Neltharions_Call_to_Suffering_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Neltharions_Call_to_Suffering_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Igneous_Flowstone_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Igneous_Flowstone_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Beacon_to_the_Beyond_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Beacon_to_the_Beyond_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Belorrelos_the_Suncaller_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Belorrelos_the_Suncaller_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Augury_of_the_Primal_Flame_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Augury_of_the_Primal_Flame_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Azure_500-Ashes_of_the_Embersoul_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500-Ashes_of_the_Embersoul_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Neltharions_Call_to_Suffering_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Neltharions_Call_to_Suffering_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Neltharions_Call_to_Suffering_500"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Igneous_Flowstone_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Igneous_Flowstone_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Beacon_to_the_Beyond_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Beacon_to_the_Beyond_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Pips_Emerald_Friendship_Badge_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Belorrelos_the_Suncaller_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Belorrelos_the_Suncaller_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Augury_of_the_Primal_Flame_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Augury_of_the_Primal_Flame_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Ominous_Chromatic_Essence_Emerald_500-Ashes_of_the_Embersoul_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500-Ashes_of_the_Embersoul_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Igneous_Flowstone_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Igneous_Flowstone_500"+=trinket2=igneous_flowstone,id=203996,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Beacon_to_the_Beyond_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Nymues_Unraveling_Spindle_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Neltharions_Call_to_Suffering_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Belorrelos_the_Suncaller_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Augury_of_the_Primal_Flame_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Neltharions_Call_to_Suffering_500-Ashes_of_the_Embersoul_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
+profileset."Neltharions_Call_to_Suffering_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Igneous_Flowstone_500-Beacon_to_the_Beyond_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Beacon_to_the_Beyond_500"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=500
+
+profileset."Igneous_Flowstone_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Igneous_Flowstone_500-Nymues_Unraveling_Spindle_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Igneous_Flowstone_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Igneous_Flowstone_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Igneous_Flowstone_500-Belorrelos_the_Suncaller_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Igneous_Flowstone_500-Augury_of_the_Primal_Flame_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Igneous_Flowstone_500-Ashes_of_the_Embersoul_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
+profileset."Igneous_Flowstone_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Pips_Emerald_Friendship_Badge_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Pips_Emerald_Friendship_Badge_500"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Nymues_Unraveling_Spindle_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Beacon_to_the_Beyond_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Belorrelos_the_Suncaller_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Augury_of_the_Primal_Flame_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Beacon_to_the_Beyond_500-Ashes_of_the_Embersoul_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+profileset."Beacon_to_the_Beyond_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Pips_Emerald_Friendship_Badge_500-Nymues_Unraveling_Spindle_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
+profileset."Pips_Emerald_Friendship_Badge_500-Nymues_Unraveling_Spindle_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Pips_Emerald_Friendship_Badge_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Pips_Emerald_Friendship_Badge_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
+profileset."Pips_Emerald_Friendship_Badge_500-Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=500
+
+profileset."Pips_Emerald_Friendship_Badge_500-Belorrelos_the_Suncaller_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
+profileset."Pips_Emerald_Friendship_Badge_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Pips_Emerald_Friendship_Badge_500-Augury_of_the_Primal_Flame_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
+profileset."Pips_Emerald_Friendship_Badge_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Pips_Emerald_Friendship_Badge_500-Ashes_of_the_Embersoul_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
+profileset."Pips_Emerald_Friendship_Badge_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_500-Belorrelos_the_Suncaller_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_500-Augury_of_the_Primal_Flame_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_500-Ashes_of_the_Embersoul_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Belorrelos_the_Suncaller_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Belorrelos_the_Suncaller_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Belorrelos_the_Suncaller_500"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Augury_of_the_Primal_Flame_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Augury_of_the_Primal_Flame_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Ashes_of_the_Embersoul_500"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Ashes_of_the_Embersoul_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Belorrelos_the_Suncaller_500-Augury_of_the_Primal_Flame_500"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=500
+profileset."Belorrelos_the_Suncaller_500-Augury_of_the_Primal_Flame_500"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=500
+
+profileset."Belorrelos_the_Suncaller_500-Ashes_of_the_Embersoul_500"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=500
+profileset."Belorrelos_the_Suncaller_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
+
+profileset."Augury_of_the_Primal_Flame_500-Ashes_of_the_Embersoul_500"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=500
+profileset."Augury_of_the_Primal_Flame_500-Ashes_of_the_Embersoul_500"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=500
 

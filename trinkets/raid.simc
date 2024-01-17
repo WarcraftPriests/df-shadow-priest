@@ -23,95 +23,87 @@ main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # Amirdrassil: The Dream's Hope
-## 476 / 483 / 489 / 496 (Fyrakk Only)
-profileset."Augury_of_the_Primal_Flame_476"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=476
-profileset."Augury_of_the_Primal_Flame_483"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=483
-profileset."Augury_of_the_Primal_Flame_489"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=489
 profileset."Augury_of_the_Primal_Flame_496"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
+profileset."Augury_of_the_Primal_Flame_500"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=500
 
-## 463 / 476 / 483 / 489
-profileset."Ashes_of_the_Embersoul_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
-profileset."Ashes_of_the_Embersoul_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
-profileset."Ashes_of_the_Embersoul_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
 profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
+profileset."Ashes_of_the_Embersoul_500"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=500
 
-## Seems to be somewhat bait, this only happens when your raid is literally on the brink of death
-# profileset."Ashes_of_the_Embersoul_LATE_463"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=463
-# profileset."Ashes_of_the_Embersoul_LATE_463"+=dragonflight.embersoul_dire_chance=0.02
-# profileset."Ashes_of_the_Embersoul_LATE_476"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=476
-# profileset."Ashes_of_the_Embersoul_LATE_476"+=dragonflight.embersoul_dire_chance=0.02
-# profileset."Ashes_of_the_Embersoul_LATE_483"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=483
-# profileset."Ashes_of_the_Embersoul_LATE_483"+=dragonflight.embersoul_dire_chance=0.02
-# profileset."Ashes_of_the_Embersoul_LATE_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
-# profileset."Ashes_of_the_Embersoul_LATE_489"+=dragonflight.embersoul_dire_chance=0.02
-
-profileset."Belorrelos_the_Suncaller_463"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=463
-profileset."Belorrelos_the_Suncaller_476"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=476
-profileset."Belorrelos_the_Suncaller_483"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=483
 profileset."Belorrelos_the_Suncaller_489"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=489
+profileset."Belorrelos_the_Suncaller_500"+=trinket1=belorrelos_the_suncaller,id=207172,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_463"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=463
-profileset."Nymues_Unraveling_Spindle_476"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=476
-profileset."Nymues_Unraveling_Spindle_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
 profileset."Nymues_Unraveling_Spindle_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
+profileset."Nymues_Unraveling_Spindle_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
 
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_463"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=463
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_463"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_476"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=476
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_476"+=dragonflight.nymue_forced_immobilized=1
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=483
-profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_483"+=dragonflight.nymue_forced_immobilized=1
 profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=489
 profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_489"+=dragonflight.nymue_forced_immobilized=1
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=trinket1=nymues_unraveling_spindle,id=208615,ilevel=500
+profileset."Nymues_Unraveling_Spindle_IMMOBILIZED_500"+=dragonflight.nymue_forced_immobilized=1
 
-profileset."Pips_Emerald_Friendship_Badge_463"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=463
-profileset."Pips_Emerald_Friendship_Badge_476"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=476
-profileset."Pips_Emerald_Friendship_Badge_483"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=483
 profileset."Pips_Emerald_Friendship_Badge_489"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=489
+profileset."Pips_Emerald_Friendship_Badge_500"+=trinket1=pips_emerald_friendship_badge,id=207168,ilevel=500
 
-# Aberrus, the Shadowed Crucible - Capped Item Level
-profileset."Screaming_Black_Dragonscale_447"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=447
+# Aberrus, the Shadowed Crucible
+profileset."Screaming_Black_Dragonscale_500"+=trinket1=screaming_black_dragonscale,id=202612,ilevel=500
 
-profileset."Vessel_of_Searing_Shadow_447"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=447
+profileset."Vessel_of_Searing_Shadow_500"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=500
 
-# ominous_chromatic_essence_dragonflight = obsidian (default) | ruby | bronze | azure | emerald
-profileset."Ominous_Chromatic_Essence_Obsidian_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Obsidian_447"+=dragonflight.ominous_chromatic_essence_dragonflight=obsidian
+## ominous_chromatic_essence_dragonflight = obsidian (default) | ruby | bronze | azure | emerald
+profileset."Ominous_Chromatic_Essence_Obsidian_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Obsidian_500"+=dragonflight.ominous_chromatic_essence_dragonflight=obsidian
 
-profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_dragonflight=obsidian
-profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
+profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_dragonflight=obsidian
+profileset."Ominous_Chromatic_Essence_Obsidian_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
 
-profileset."Ominous_Chromatic_Essence_Ruby_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Ruby_447"+=dragonflight.ominous_chromatic_essence_dragonflight=ruby
+profileset."Ominous_Chromatic_Essence_Ruby_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Ruby_500"+=dragonflight.ominous_chromatic_essence_dragonflight=ruby
 
-profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_dragonflight=ruby
-profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
+profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_dragonflight=ruby
+profileset."Ominous_Chromatic_Essence_Ruby_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
 
-profileset."Ominous_Chromatic_Essence_Bronze_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
 
-profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
+profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Ominous_Chromatic_Essence_Bronze_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
 
-profileset."Ominous_Chromatic_Essence_Azure_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
 
-profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
+profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Ominous_Chromatic_Essence_Azure_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
 
-profileset."Ominous_Chromatic_Essence_Emerald_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
 
-profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_447"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=447
-profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_447"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
+profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_500"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=500
+profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_500"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby
 
-profileset."Igneous_Flowstone_447"+=trinket1=igneous_flowstone,id=203996,ilevel=447
+profileset."Igneous_Flowstone_500"+=trinket1=igneous_flowstone,id=203996,ilevel=500
 
-profileset."Neltharions_Call_to_Suffering_457"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=457
+profileset."Neltharions_Call_to_Suffering_500"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=500
 
-profileset."Beacon_to_the_Beyond_450"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=450
+profileset."Beacon_to_the_Beyond_500"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=500
+
+# Vault of the Incarnates
+profileset."Conjured_Chillglobe_500"+=trinket1=conjured_chillglobe,id=194300,ilevel=500
+
+profileset."Iceblood_Deathsnare_500"+=trinket1=iceblood_deathsnare,id=194304,ilevel=500
+
+profileset."Whispering_Incarnate_Icon_0_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_0_500"+=dragonflight.whispering_incarnate_icon_roles=dps
+
+profileset."Whispering_Incarnate_Icon_1_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_1_500"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+
+profileset."Whispering_Incarnate_Icon_2_500"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=500
+profileset."Whispering_Incarnate_Icon_2_500"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+
+profileset."Desperate_Invokers_Codex_500"+=trinket1=desperate_invokers_codex,id=194310,ilevel=500
+
+profileset."Spiteful_Storm_500"+=trinket1=spiteful_storm,id=194309,ilevel=500

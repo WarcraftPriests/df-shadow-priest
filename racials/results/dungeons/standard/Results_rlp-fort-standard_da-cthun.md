@@ -1,0 +1,34 @@
+# rlp-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|57837|2.22%|
+|Gnome|57758|2.08%|
+|Night_Elf_Haste|57727|2.03%|
+|Goblin|57721|2.02%|
+|Panda_Haste|57367|1.39%|
+|Mechagnome|57074|0.87%|
+|Kul_Tiran|57066|0.86%|
+|Nightborne|57065|0.86%|
+|Highmountain_Tauren|57045|0.82%|
+|Void_Elf|57041|0.82%|
+|Tauren|57031|0.80%|
+|Blood_Elf|57006|0.75%|
+|Dwarf|57000|0.74%|
+|Night_Elf_Crit|56981|0.71%|
+|Zandalari_Troll_Paku|56978|0.71%|
+|Zandalari_Troll_Bwonsamdi|56967|0.69%|
+|Worgen|56960|0.67%|
+|Undead|56959|0.67%|
+|Zandalari_Troll_Kimbul|56891|0.55%|
+|Draenei|56872|0.52%|
+|Panda_Vers|56849|0.48%|
+|Panda_Crit|56818|0.42%|
+|Panda_Fortune_Cookie|56772|0.34%|
+|Troll|56698|0.21%|
+|Orc|56629|0.09%|
+|Dark_Iron_Dwarf|56618|0.07%|
+|Panda_Mastery|56612|0.06%|
+|Maghar_Orc|56599|0.04%|
+|Base|56579|0.00%|
+|Vulpera|56578|0.00%|
+|Lightforged_Draenei|56575|-0.01%|

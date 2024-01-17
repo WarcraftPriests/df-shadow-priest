@@ -1,0 +1,34 @@
+# Composite - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|268743|1.56%|
+|Void_Elf|268109|1.32%|
+|Dwarf|267767|1.19%|
+|Troll|267728|1.17%|
+|Tauren|267693|1.16%|
+|Goblin|267578|1.12%|
+|Gnome|267530|1.10%|
+|Night_Elf_Haste|267524|1.10%|
+|Blood_Elf|267143|0.95%|
+|Mechagnome|267014|0.90%|
+|Highmountain_Tauren|267012|0.90%|
+|Nightborne|266975|0.89%|
+|Kul_Tiran|266951|0.88%|
+|Zandalari_Troll_Paku|266836|0.84%|
+|Orc|266782|0.82%|
+|Night_Elf_Crit|266662|0.77%|
+|Worgen|266517|0.72%|
+|Dark_Iron_Dwarf|266240|0.61%|
+|Draenei|266199|0.60%|
+|Maghar_Orc|266019|0.53%|
+|Panda_Vers|265902|0.48%|
+|Panda_Mastery|265748|0.43%|
+|Panda_Crit|265728|0.42%|
+|Panda_Fortune_Cookie|265724|0.42%|
+|Panda_Haste|265664|0.39%|
+|Zandalari_Troll_Bwonsamdi|265076|0.17%|
+|Zandalari_Troll_Kimbul|265038|0.16%|
+|Undead|264992|0.14%|
+|Base|264619|0.00%|
+|Vulpera|264563|-0.02%|
+|Lightforged_Draenei|264536|-0.03%|

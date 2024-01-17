@@ -1,0 +1,34 @@
+# algethar-tyran-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|57739|2.25%|
+|Night_Elf_Haste|57649|2.09%|
+|Goblin|57645|2.09%|
+|Gnome|57624|2.05%|
+|Panda_Haste|57310|1.49%|
+|Nightborne|56980|0.91%|
+|Kul_Tiran|56935|0.83%|
+|Highmountain_Tauren|56930|0.82%|
+|Mechagnome|56929|0.82%|
+|Void_Elf|56925|0.81%|
+|Tauren|56924|0.81%|
+|Blood_Elf|56897|0.76%|
+|Dwarf|56891|0.75%|
+|Zandalari_Troll_Bwonsamdi|56883|0.74%|
+|Zandalari_Troll_Paku|56868|0.71%|
+|Night_Elf_Crit|56836|0.65%|
+|Undead|56829|0.64%|
+|Worgen|56827|0.64%|
+|Draenei|56786|0.56%|
+|Zandalari_Troll_Kimbul|56775|0.55%|
+|Panda_Vers|56752|0.50%|
+|Panda_Crit|56713|0.44%|
+|Panda_Fortune_Cookie|56680|0.38%|
+|Troll|56551|0.15%|
+|Panda_Mastery|56486|0.03%|
+|Vulpera|56486|0.03%|
+|Maghar_Orc|56483|0.03%|
+|Orc|56482|0.03%|
+|Base|56467|0.00%|
+|Dark_Iron_Dwarf|56467|0.00%|
+|Lightforged_Draenei|56441|-0.05%|

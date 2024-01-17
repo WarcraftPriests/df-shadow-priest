@@ -1,6 +1,6 @@
 # Single - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|no_degen|242855|0.01%|
-|Base|242822|0.00%|
-|voidform_gigachads|242731|-0.04%|
+|voidform_gigachads|244604|0.71%|
+|no_degen|244559|0.69%|
+|Base|242878|0.00%|

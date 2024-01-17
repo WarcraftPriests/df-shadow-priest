@@ -1,6 +1,6 @@
 # Single - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|no_degen|240564|0.02%|
-|Base|240525|0.00%|
-|voidform_gigachads|240500|-0.01%|
+|no_degen|242312|0.69%|
+|voidform_gigachads|242255|0.67%|
+|Base|240651|0.00%|

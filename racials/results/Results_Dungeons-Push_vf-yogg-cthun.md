@@ -1,0 +1,34 @@
+# Dungeons-Push - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|62990|2.31%|
+|Gnome|62915|2.19%|
+|Goblin|62914|2.19%|
+|Night_Elf_Haste|62898|2.16%|
+|Panda_Haste|62398|1.35%|
+|Nightborne|62126|0.91%|
+|Mechagnome|62125|0.90%|
+|Void_Elf|62122|0.90%|
+|Highmountain_Tauren|62102|0.87%|
+|Kul_Tiran|62102|0.87%|
+|Zandalari_Troll_Paku|62044|0.77%|
+|Dwarf|62040|0.77%|
+|Blood_Elf|62028|0.75%|
+|Tauren|62025|0.74%|
+|Night_Elf_Crit|62013|0.72%|
+|Zandalari_Troll_Bwonsamdi|62001|0.70%|
+|Worgen|61997|0.70%|
+|Undead|61964|0.64%|
+|Draenei|61916|0.56%|
+|Zandalari_Troll_Kimbul|61912|0.56%|
+|Troll|61850|0.46%|
+|Panda_Vers|61844|0.45%|
+|Panda_Crit|61814|0.40%|
+|Panda_Fortune_Cookie|61762|0.31%|
+|Orc|61684|0.19%|
+|Maghar_Orc|61656|0.14%|
+|Dark_Iron_Dwarf|61656|0.14%|
+|Panda_Mastery|61610|0.07%|
+|Vulpera|61577|0.01%|
+|Lightforged_Draenei|61572|0.01%|
+|Base|61568|0.00%|

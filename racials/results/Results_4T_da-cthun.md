@@ -1,0 +1,34 @@
+# 4T - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|534871|1.69%|
+|Goblin|533760|1.48%|
+|Night_Elf_Haste|533741|1.47%|
+|Gnome|533623|1.45%|
+|Troll|532822|1.30%|
+|Blood_Elf|531943|1.13%|
+|Void_Elf|531886|1.12%|
+|Nightborne|530909|0.93%|
+|Zandalari_Troll_Paku|530823|0.92%|
+|Mechagnome|530778|0.91%|
+|Kul_Tiran|530603|0.88%|
+|Dwarf|530596|0.88%|
+|Highmountain_Tauren|530593|0.87%|
+|Tauren|530324|0.82%|
+|Worgen|530214|0.80%|
+|Night_Elf_Crit|530079|0.78%|
+|Orc|529887|0.74%|
+|Panda_Haste|529320|0.63%|
+|Draenei|529089|0.59%|
+|Dark_Iron_Dwarf|528654|0.51%|
+|Maghar_Orc|528641|0.50%|
+|Panda_Vers|528598|0.50%|
+|Panda_Fortune_Cookie|528588|0.49%|
+|Panda_Crit|528413|0.46%|
+|Panda_Mastery|528262|0.43%|
+|Zandalari_Troll_Kimbul|526552|0.11%|
+|Undead|526425|0.08%|
+|Zandalari_Troll_Bwonsamdi|526335|0.07%|
+|Base|525991|0.00%|
+|Vulpera|525989|0.00%|
+|Lightforged_Draenei|525742|-0.05%|

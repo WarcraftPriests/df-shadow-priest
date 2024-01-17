@@ -1,6 +1,6 @@
 # Composite - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|no_degen|264594|0.01%|
-|Base|264564|0.00%|
-|voidform_gigachads|264554|0.00%|
+|no_degen|265825|0.46%|
+|voidform_gigachads|265790|0.45%|
+|Base|264606|0.00%|

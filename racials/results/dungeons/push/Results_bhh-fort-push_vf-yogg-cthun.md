@@ -1,0 +1,34 @@
+# bhh-fort-push - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|76916|2.32%|
+|Goblin|76879|2.27%|
+|Gnome|76842|2.22%|
+|Night_Elf_Haste|76799|2.16%|
+|Panda_Haste|76091|1.22%|
+|Nightborne|76066|1.19%|
+|Void_Elf|76064|1.18%|
+|Mechagnome|76047|1.16%|
+|Highmountain_Tauren|76038|1.15%|
+|Kul_Tiran|76036|1.15%|
+|Zandalari_Troll_Paku|75951|1.03%|
+|Blood_Elf|75949|1.03%|
+|Dwarf|75937|1.01%|
+|Tauren|75928|1.00%|
+|Night_Elf_Crit|75880|0.94%|
+|Worgen|75843|0.89%|
+|Zandalari_Troll_Bwonsamdi|75777|0.80%|
+|Undead|75737|0.75%|
+|Draenei|75724|0.73%|
+|Zandalari_Troll_Kimbul|75596|0.56%|
+|Panda_Vers|75595|0.56%|
+|Troll|75581|0.54%|
+|Panda_Crit|75570|0.53%|
+|Panda_Fortune_Cookie|75492|0.42%|
+|Orc|75394|0.29%|
+|Dark_Iron_Dwarf|75381|0.28%|
+|Maghar_Orc|75340|0.22%|
+|Panda_Mastery|75225|0.07%|
+|Lightforged_Draenei|75193|0.03%|
+|Vulpera|75190|0.02%|
+|Base|75174|0.00%|

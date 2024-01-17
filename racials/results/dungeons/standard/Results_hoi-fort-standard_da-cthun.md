@@ -1,0 +1,34 @@
+# hoi-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|55470|2.60%|
+|Gnome|55392|2.45%|
+|Night_Elf_Haste|55388|2.45%|
+|Goblin|55387|2.44%|
+|Panda_Haste|55050|1.82%|
+|Nightborne|54594|0.98%|
+|Highmountain_Tauren|54590|0.97%|
+|Void_Elf|54584|0.96%|
+|Mechagnome|54576|0.94%|
+|Kul_Tiran|54556|0.91%|
+|Zandalari_Troll_Bwonsamdi|54545|0.89%|
+|Tauren|54521|0.84%|
+|Dwarf|54512|0.82%|
+|Blood_Elf|54508|0.82%|
+|Night_Elf_Crit|54484|0.77%|
+|Zandalari_Troll_Paku|54481|0.77%|
+|Undead|54476|0.76%|
+|Worgen|54459|0.73%|
+|Zandalari_Troll_Kimbul|54430|0.67%|
+|Draenei|54383|0.59%|
+|Panda_Vers|54349|0.52%|
+|Panda_Crit|54306|0.44%|
+|Troll|54292|0.42%|
+|Panda_Fortune_Cookie|54280|0.40%|
+|Orc|54175|0.20%|
+|Maghar_Orc|54139|0.14%|
+|Dark_Iron_Dwarf|54128|0.11%|
+|Panda_Mastery|54100|0.06%|
+|Lightforged_Draenei|54079|0.02%|
+|Vulpera|54076|0.02%|
+|Base|54066|0.00%|

@@ -6,51 +6,41 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
-    # s2 dungeons (441/447)
-    # "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
-    # aberrus the shadowed crucible
-    # "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
-    # "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
-    # timewalking (476)
-    "Energy_Siphon_476": "energy_siphon,id=156021,ilevel=476",
-    "Living_Flame_476": "living_flame,id=155947,ilevel=476",
-    # s3 dungeons (483/489)
-    # "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
-    # "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
-    # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
-    # "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
-    # "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
-    # "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
-    # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
-    # "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
-    "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
-    "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
-    "Sea_Star_483": "sea_star,id=133201,ilevel=483",
-    "Sea_Star_489": "sea_star,id=133201,ilevel=489",
-    "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
-    "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
-    # "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483", # TODO: BROKEN  # noqa: E501
-    # "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
-    "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
-    "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
-    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
-    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
-    # amirdrassil: the dream's hope (483/489)
-    "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
-    "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
-    "Nymues_Unraveling_Spindle_483": "nymues_unraveling_spindle,id=208615,ilevel=483",
-    "Nymues_Unraveling_Spindle_489": "nymues_unraveling_spindle,id=208615,ilevel=489",
-    "Nymues_Unraveling_Spindle_IMMOBILIZED_483": "nymues_unraveling_spindle,id=208615,ilevel=483", # noqa: E501
-    "Nymues_Unraveling_Spindle_IMMOBILIZED_489": "nymues_unraveling_spindle,id=208615,ilevel=489", # noqa: E501
-    "Belorrelos_the_Suncaller_483": "belorrelos_the_suncaller,id=207172,ilevel=483",
-    "Belorrelos_the_Suncaller_489": "belorrelos_the_suncaller,id=207172,ilevel=489",
-    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
-    "Augury_of_the_Primal_Flame_496": "augury_of_the_primal_flame,id=208614,ilevel=496",
-    "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
-    "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"
+    # s4 dungeons (500?)
+    "Spoils_of_Neltharus_500": "spoils_of_neltharus,id=193773,ilevel=500",
+    # "Ruby_Whelp_Shell_500": "ruby_whelp_shell,id=193757,ilevel=500", # TODO: add combos?
+    "Tome_of_Unstable_Power_500": "tome_of_unstable_power,id=193628,ilevel=500",
+    "Umbrelskuls_Fractured_Heart_500": "umbrelskuls_fractured_heart,id=193639,ilevel=500",
+    "Furious_Ragefeather_500": "furious_ragefeather,id=193677,ilevel=500",
+    "Irideus_Fragment_500": "irideus_fragment,id=193743,ilevel=500",
+    "Idol_of_Pure_Decay_500": "idol_of_pure_decay,id=193660,ilevel=500",
+    "Erupting_Spear_Fragment_500": "erupting_spear_fragment,id=193769,ilevel=500",
+    "Time_Breaching_Talon_500": "time_breaching_talon,id=193791,ilevel=500",
+    "Emerald_Coachs_Whistle_500": "emerald_coachs_whistle,id=193718,ilevel=500",
+    # vault of the incarnates (500?)
+    "Conjured_Chillglobe_500": "conjured_chillglobe,id=194300,ilevel=500",
+    "Iceblood_Deathsnare_500": "iceblood_deathsnare,id=194304,ilevel=500",
+    "Whispering_Incarnate_Icon_0_500": "whispering_incarnate_icon,id=194301,ilevel=500",
+    "Whispering_Incarnate_Icon_1_500": "whispering_incarnate_icon,id=194301,ilevel=500",
+    "Whispering_Incarnate_Icon_2_500": "whispering_incarnate_icon,id=194301,ilevel=500",
+    "Desperate_Invokers_Codex_500": "desperate_invokers_codex,id=194310,ilevel=500",
+    "Spiteful_Storm_500": "spiteful_storm,id=194309,ilevel=500",
+    # aberrus the shadowed crucible (500?)
+    "Screaming_Black_Dragonscale_500": "screaming_black_dragonscale,id=202612,ilevel=500",
+    "Vessel_of_Searing_Shadow_500": "vessel_of_searing_shadow,id=202615,ilevel=500",
+    "Ominous_Chromatic_Essence_Bronze_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
+    "Ominous_Chromatic_Essence_Azure_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
+    "Ominous_Chromatic_Essence_Emerald_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
+    "Neltharions_Call_to_Suffering_500": "neltharions_call_to_suffering,id=204211,ilevel=500",  # noqa: E501
+    "Igneous_Flowstone_500": "igneous_flowstone,id=203996,ilevel=500",
+    "Beacon_to_the_Beyond_500": "beacon_to_the_beyond,id=203963,ilevel=500",
+    # amirdrassil: the dream's hope (500?)
+    "Pips_Emerald_Friendship_Badge_500": "pips_emerald_friendship_badge,id=207168,ilevel=500", # noqa: E501
+    "Nymues_Unraveling_Spindle_500": "nymues_unraveling_spindle,id=208615,ilevel=500",
+    "Nymues_Unraveling_Spindle_IMMOBILIZED_500": "nymues_unraveling_spindle,id=208615,ilevel=500", # noqa: E501
+    "Belorrelos_the_Suncaller_500": "belorrelos_the_suncaller,id=207172,ilevel=500",
+    "Augury_of_the_Primal_Flame_500": "augury_of_the_primal_flame,id=208614,ilevel=500",
+    "Ashes_of_the_Embersoul_500": "ashes_of_the_embersoul,id=207167,ilevel=500"
 }
 
 

@@ -1,12 +1,5 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  da-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144713041839_Spike_DR
-    dungeons:  # 
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIIROQAAAAAAAAAAAAASiWEJSJIJRkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144613401519_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_nzoth_cthun_98187143272367_Spike_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
   vf-yogg-cthun:
     composite: BIQAAAAAAAAAAAAAAAAAAAAAAggkEAAAAAAAAAAAAgQKOQkk04ASSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_119242148517807_Flay
     dungeons:  # 
@@ -14,6 +7,13 @@ builds:
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
     3t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAg4ApJRSSDSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962385840047_Flay_DR
     4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAg4ApJRSSDSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962385840047_Flay_DR
+  da-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144713041839_Spike_DR
+    dungeons:  # 
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAIIROQAAAAAAAAAAAAASiWEJSJIJRkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144613401519_Spike_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_nzoth_cthun_98187143272367_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
 gear:
   # TODO: adjust this to be more well rounded once we know full gear sources
   head: "mask_of_the_furnace_seraph,id=202542,ilevel=500" # haste/crit
@@ -188,18 +188,12 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 437
-      - 441
-      - 447
-      - 450
-      - 457
-      - 463
-      - 470
-      - 476
       - 483
       - 486
       - 489
       - 496
+      - 497
+      - 500
     files:
       - raid.simc
       - dungeons.simc
