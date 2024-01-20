@@ -1,19 +1,19 @@
 # nokhud-tyran-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Timely_Demise|56956|1.22%|
-|Feisty_Fish_Sticks|56954|1.22%|
-|Aromatic_Seafood_Platter|56947|1.21%|
-|Sizzling_Seafood_Medley|56945|1.20%|
-|Revenge_Served_Cold|56506|0.42%|
-|Seamoth_Surprise|56497|0.41%|
-|Great_Cerulean_Sea|56458|0.34%|
-|Filet_of_Fangs|56454|0.33%|
-|Dreambound_Augment_Rune|56436|0.30%|
-|Thousandbone_Tongueslicer|56428|0.29%|
-|Draconic_Augment_Rune|56425|0.28%|
-|Fated_Fortune_Cookie|56396|0.23%|
-|Salt_Baked_Fishcake|56388|0.22%|
-|Roast_Duck_Delight|56319|0.09%|
-|Thrice_Spiced_Mammoth_Kabob|56302|0.06%|
-|Base|56267|0.00%|
+|Revenge_Served_Cold|256346|0.56%|
+|Aromatic_Seafood_Platter|256261|0.52%|
+|Feisty_Fish_Sticks|256247|0.52%|
+|Great_Cerulean_Sea|256215|0.50%|
+|Thousandbone_Tongueslicer|256166|0.49%|
+|Sizzling_Seafood_Medley|256137|0.47%|
+|Draconic_Augment_Rune|256048|0.44%|
+|Seamoth_Surprise|256013|0.43%|
+|Filet_of_Fangs|255987|0.42%|
+|Dreambound_Augment_Rune|255958|0.40%|
+|Fated_Fortune_Cookie|255930|0.39%|
+|Timely_Demise|255922|0.39%|
+|Salt_Baked_Fishcake|255869|0.37%|
+|Roast_Duck_Delight|255453|0.21%|
+|Thrice_Spiced_Mammoth_Kabob|255223|0.12%|
+|Base|254928|0.00%|

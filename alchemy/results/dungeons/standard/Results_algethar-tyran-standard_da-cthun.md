@@ -1,18 +1,18 @@
 # algethar-tyran-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|56699|3.41%|
-|Iced_Phial_of_Corrupting_Rage_85_3|56505|3.05%|
-|Phial_of_Glacial_Fury_3|56336|2.74%|
-|Iced_Phial_of_Corrupting_Rage_70_3|56223|2.54%|
-|Phial_of_Tepid_Versatility_3|56193|2.48%|
-|Phial_of_Static_Empowerment_3|56185|2.47%|
-|Phial_of_Charged_Isolation_3|56120|2.35%|
-|Phial_of_Elemental_Chaos_3|56080|2.28%|
-|Iced_Phial_of_Corrupting_Rage_50_3|55786|1.74%|
-|Iced_Phial_of_Corrupting_Rage_40_3|55563|1.34%|
-|Potion_of_Shocking_Disclosure_3|55049|0.40%|
-|Bottled_Putrescence_3|54963|0.24%|
-|Elemental_Potion_of_Ultimate_Power_3|54918|0.16%|
-|Elemental_Potion_of_Power_3|54917|0.16%|
-|Base|54831|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|197173|2.60%|
+|Iced_Phial_of_Corrupting_Rage_85_3|196655|2.33%|
+|Iced_Phial_of_Corrupting_Rage_70_3|195994|1.99%|
+|Phial_of_Static_Empowerment_3|195986|1.99%|
+|Phial_of_Charged_Isolation_3|195876|1.93%|
+|Phial_of_Tepid_Versatility_3|195843|1.91%|
+|Phial_of_Elemental_Chaos_3|195496|1.73%|
+|Iced_Phial_of_Corrupting_Rage_50_3|194878|1.41%|
+|Iced_Phial_of_Corrupting_Rage_40_3|194291|1.10%|
+|Phial_of_Glacial_Fury_3|193524|0.70%|
+|Potion_of_Shocking_Disclosure_3|192775|0.31%|
+|Bottled_Putrescence_3|192710|0.28%|
+|Elemental_Potion_of_Ultimate_Power_3|192587|0.22%|
+|Elemental_Potion_of_Power_3|192509|0.18%|
+|Base|192170|0.00%|

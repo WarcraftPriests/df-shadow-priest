@@ -1,19 +1,19 @@
 # algethar-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|67489|1.55%|
-|Feisty_Fish_Sticks|67483|1.54%|
-|Timely_Demise|67425|1.46%|
-|Sizzling_Seafood_Medley|67415|1.44%|
-|Revenge_Served_Cold|66867|0.62%|
-|Dreambound_Augment_Rune|66799|0.51%|
-|Seamoth_Surprise|66785|0.49%|
-|Filet_of_Fangs|66765|0.46%|
-|Draconic_Augment_Rune|66762|0.46%|
-|Great_Cerulean_Sea|66762|0.46%|
-|Thousandbone_Tongueslicer|66746|0.43%|
-|Fated_Fortune_Cookie|66741|0.43%|
-|Salt_Baked_Fishcake|66634|0.27%|
-|Roast_Duck_Delight|66596|0.21%|
-|Thrice_Spiced_Mammoth_Kabob|66557|0.15%|
-|Base|66457|0.00%|
+|Revenge_Served_Cold|302442|0.46%|
+|Feisty_Fish_Sticks|302385|0.44%|
+|Great_Cerulean_Sea|302312|0.42%|
+|Thousandbone_Tongueslicer|302302|0.42%|
+|Sizzling_Seafood_Medley|302296|0.41%|
+|Aromatic_Seafood_Platter|302254|0.40%|
+|Draconic_Augment_Rune|302211|0.39%|
+|Dreambound_Augment_Rune|302211|0.39%|
+|Seamoth_Surprise|302202|0.38%|
+|Salt_Baked_Fishcake|302177|0.38%|
+|Fated_Fortune_Cookie|302107|0.35%|
+|Filet_of_Fangs|302071|0.34%|
+|Timely_Demise|302036|0.33%|
+|Roast_Duck_Delight|301322|0.09%|
+|Thrice_Spiced_Mammoth_Kabob|301283|0.08%|
+|Base|301048|0.00%|

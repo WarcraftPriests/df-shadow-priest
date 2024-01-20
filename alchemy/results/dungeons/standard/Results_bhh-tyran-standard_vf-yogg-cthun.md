@@ -1,18 +1,18 @@
 # bhh-tyran-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|65609|2.74%|
-|Iced_Phial_of_Corrupting_Rage_85_3|65405|2.42%|
-|Phial_of_Glacial_Fury_3|65237|2.15%|
-|Iced_Phial_of_Corrupting_Rage_70_3|65132|1.99%|
-|Phial_of_Static_Empowerment_3|65096|1.93%|
-|Phial_of_Tepid_Versatility_3|65093|1.93%|
-|Phial_of_Charged_Isolation_3|65019|1.81%|
-|Phial_of_Elemental_Chaos_3|64976|1.75%|
-|Iced_Phial_of_Corrupting_Rage_50_3|64703|1.32%|
-|Iced_Phial_of_Corrupting_Rage_40_3|64539|1.06%|
-|Potion_of_Shocking_Disclosure_3|64140|0.44%|
-|Bottled_Putrescence_3|64070|0.33%|
-|Elemental_Potion_of_Ultimate_Power_3|63962|0.16%|
-|Elemental_Potion_of_Power_3|63932|0.11%|
-|Base|63861|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|286028|3.28%|
+|Iced_Phial_of_Corrupting_Rage_85_3|285229|2.99%|
+|Iced_Phial_of_Corrupting_Rage_70_3|283846|2.49%|
+|Phial_of_Static_Empowerment_3|283712|2.44%|
+|Phial_of_Tepid_Versatility_3|283413|2.33%|
+|Phial_of_Charged_Isolation_3|283392|2.33%|
+|Phial_of_Elemental_Chaos_3|283173|2.25%|
+|Iced_Phial_of_Corrupting_Rage_50_3|281938|1.80%|
+|Iced_Phial_of_Corrupting_Rage_40_3|280794|1.39%|
+|Phial_of_Glacial_Fury_3|279256|0.83%|
+|Elemental_Potion_of_Ultimate_Power_3|278407|0.53%|
+|Elemental_Potion_of_Power_3|278178|0.44%|
+|Potion_of_Shocking_Disclosure_3|277823|0.31%|
+|Bottled_Putrescence_3|277775|0.30%|
+|Base|276952|0.00%|

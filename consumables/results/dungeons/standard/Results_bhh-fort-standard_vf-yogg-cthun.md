@@ -1,19 +1,19 @@
 # bhh-fort-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|67574|1.22%|
-|Aromatic_Seafood_Platter|67571|1.21%|
-|Timely_Demise|67496|1.10%|
-|Sizzling_Seafood_Medley|67475|1.07%|
-|Revenge_Served_Cold|67088|0.49%|
-|Filet_of_Fangs|67051|0.43%|
-|Great_Cerulean_Sea|67046|0.43%|
-|Seamoth_Surprise|67026|0.40%|
-|Draconic_Augment_Rune|67010|0.37%|
-|Dreambound_Augment_Rune|67007|0.37%|
-|Fated_Fortune_Cookie|67002|0.36%|
-|Thousandbone_Tongueslicer|67002|0.36%|
-|Roast_Duck_Delight|66874|0.17%|
-|Salt_Baked_Fishcake|66870|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|66830|0.10%|
-|Base|66761|0.00%|
+|Aromatic_Seafood_Platter|323005|0.47%|
+|Sizzling_Seafood_Medley|322892|0.44%|
+|Feisty_Fish_Sticks|322846|0.42%|
+|Revenge_Served_Cold|322726|0.39%|
+|Thousandbone_Tongueslicer|322568|0.34%|
+|Great_Cerulean_Sea|322532|0.33%|
+|Timely_Demise|322493|0.31%|
+|Dreambound_Augment_Rune|322439|0.30%|
+|Draconic_Augment_Rune|322393|0.28%|
+|Filet_of_Fangs|322378|0.28%|
+|Seamoth_Surprise|322367|0.27%|
+|Fated_Fortune_Cookie|322281|0.25%|
+|Salt_Baked_Fishcake|322269|0.24%|
+|Roast_Duck_Delight|321877|0.12%|
+|Thrice_Spiced_Mammoth_Kabob|321743|0.08%|
+|Base|321487|0.00%|

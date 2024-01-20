@@ -1,19 +1,19 @@
 # azure-tyran-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|62920|1.64%|
-|Feisty_Fish_Sticks|62910|1.63%|
-|Timely_Demise|62881|1.58%|
-|Sizzling_Seafood_Medley|62858|1.54%|
-|Revenge_Served_Cold|62313|0.66%|
-|Seamoth_Surprise|62226|0.52%|
-|Dreambound_Augment_Rune|62217|0.51%|
-|Thousandbone_Tongueslicer|62213|0.50%|
-|Draconic_Augment_Rune|62204|0.49%|
-|Great_Cerulean_Sea|62197|0.48%|
-|Filet_of_Fangs|62195|0.47%|
-|Fated_Fortune_Cookie|62155|0.41%|
-|Salt_Baked_Fishcake|62059|0.25%|
-|Roast_Duck_Delight|62012|0.18%|
-|Thrice_Spiced_Mammoth_Kabob|61992|0.15%|
-|Base|61902|0.00%|
+|Aromatic_Seafood_Platter|288284|0.60%|
+|Revenge_Served_Cold|288213|0.58%|
+|Feisty_Fish_Sticks|288188|0.57%|
+|Great_Cerulean_Sea|288124|0.55%|
+|Thousandbone_Tongueslicer|288062|0.52%|
+|Sizzling_Seafood_Medley|288042|0.52%|
+|Timely_Demise|287985|0.50%|
+|Seamoth_Surprise|287896|0.47%|
+|Draconic_Augment_Rune|287892|0.46%|
+|Dreambound_Augment_Rune|287892|0.46%|
+|Filet_of_Fangs|287877|0.46%|
+|Fated_Fortune_Cookie|287789|0.43%|
+|Salt_Baked_Fishcake|287767|0.42%|
+|Roast_Duck_Delight|287146|0.20%|
+|Thrice_Spiced_Mammoth_Kabob|286971|0.14%|
+|Base|286562|0.00%|

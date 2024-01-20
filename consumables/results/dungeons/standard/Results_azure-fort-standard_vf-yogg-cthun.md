@@ -1,19 +1,19 @@
 # azure-fort-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|57018|1.42%|
-|Aromatic_Seafood_Platter|57000|1.39%|
-|Timely_Demise|56970|1.33%|
-|Sizzling_Seafood_Medley|56950|1.30%|
-|Revenge_Served_Cold|56514|0.52%|
-|Draconic_Augment_Rune|56469|0.44%|
-|Seamoth_Surprise|56465|0.43%|
-|Great_Cerulean_Sea|56461|0.43%|
-|Filet_of_Fangs|56449|0.41%|
-|Dreambound_Augment_Rune|56447|0.40%|
-|Thousandbone_Tongueslicer|56444|0.40%|
-|Fated_Fortune_Cookie|56395|0.31%|
-|Salt_Baked_Fishcake|56347|0.22%|
-|Roast_Duck_Delight|56311|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|56288|0.12%|
-|Base|56221|0.00%|
+|Aromatic_Seafood_Platter|206199|0.42%|
+|Sizzling_Seafood_Medley|206175|0.41%|
+|Feisty_Fish_Sticks|206127|0.39%|
+|Timely_Demise|206021|0.33%|
+|Draconic_Augment_Rune|205920|0.29%|
+|Revenge_Served_Cold|205892|0.27%|
+|Thousandbone_Tongueslicer|205891|0.27%|
+|Great_Cerulean_Sea|205885|0.27%|
+|Fated_Fortune_Cookie|205836|0.24%|
+|Dreambound_Augment_Rune|205763|0.21%|
+|Filet_of_Fangs|205731|0.19%|
+|Seamoth_Surprise|205709|0.18%|
+|Salt_Baked_Fishcake|205666|0.16%|
+|Roast_Duck_Delight|205527|0.09%|
+|Thrice_Spiced_Mammoth_Kabob|205423|0.04%|
+|Base|205334|0.00%|

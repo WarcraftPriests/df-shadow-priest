@@ -1,18 +1,18 @@
 # neltharus-tyran-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|60071|1.84%|
-|Iced_Phial_of_Corrupting_Rage_85_3|59948|1.63%|
-|Phial_of_Glacial_Fury_3|59819|1.41%|
-|Iced_Phial_of_Corrupting_Rage_70_3|59773|1.33%|
-|Phial_of_Tepid_Versatility_3|59754|1.30%|
-|Phial_of_Elemental_Chaos_3|59738|1.27%|
-|Phial_of_Static_Empowerment_3|59733|1.26%|
-|Phial_of_Charged_Isolation_3|59713|1.23%|
-|Iced_Phial_of_Corrupting_Rage_50_3|59527|0.91%|
-|Iced_Phial_of_Corrupting_Rage_40_3|59435|0.76%|
-|Potion_of_Shocking_Disclosure_3|59433|0.75%|
-|Bottled_Putrescence_3|59374|0.65%|
-|Elemental_Potion_of_Ultimate_Power_3|59140|0.26%|
-|Elemental_Potion_of_Power_3|59095|0.18%|
-|Base|58988|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|282074|3.21%|
+|Iced_Phial_of_Corrupting_Rage_85_3|281275|2.92%|
+|Iced_Phial_of_Corrupting_Rage_70_3|280003|2.46%|
+|Phial_of_Static_Empowerment_3|279843|2.40%|
+|Phial_of_Charged_Isolation_3|279582|2.30%|
+|Phial_of_Tepid_Versatility_3|279561|2.30%|
+|Phial_of_Elemental_Chaos_3|279318|2.21%|
+|Iced_Phial_of_Corrupting_Rage_50_3|278274|1.82%|
+|Iced_Phial_of_Corrupting_Rage_40_3|277143|1.41%|
+|Phial_of_Glacial_Fury_3|275413|0.78%|
+|Elemental_Potion_of_Ultimate_Power_3|274914|0.59%|
+|Elemental_Potion_of_Power_3|274584|0.47%|
+|Potion_of_Shocking_Disclosure_3|274066|0.28%|
+|Bottled_Putrescence_3|273928|0.23%|
+|Base|273289|0.00%|
