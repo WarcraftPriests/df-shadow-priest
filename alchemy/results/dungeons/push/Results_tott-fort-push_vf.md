@@ -1,18 +1,18 @@
 # tott-fort-push - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|294514|3.87%|
-|Iced_Phial_of_Corrupting_Rage_85_3|293430|3.49%|
-|Phial_of_Static_Empowerment_3|291955|2.97%|
-|Iced_Phial_of_Corrupting_Rage_70_3|291623|2.85%|
-|Phial_of_Charged_Isolation_3|291444|2.79%|
-|Phial_of_Tepid_Versatility_3|291135|2.68%|
-|Phial_of_Elemental_Chaos_3|290025|2.29%|
-|Iced_Phial_of_Corrupting_Rage_50_3|289038|1.94%|
-|Iced_Phial_of_Corrupting_Rage_40_3|287582|1.43%|
-|Phial_of_Glacial_Fury_3|285201|0.59%|
-|Elemental_Potion_of_Ultimate_Power_3|284691|0.41%|
-|Elemental_Potion_of_Power_3|284364|0.29%|
-|Bottled_Putrescence_3|284256|0.25%|
-|Potion_of_Shocking_Disclosure_3|284101|0.20%|
-|Base|283538|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|310581|4.51%|
+|Iced_Phial_of_Corrupting_Rage_85_3|309315|4.09%|
+|Phial_of_Static_Empowerment_3|307265|3.40%|
+|Iced_Phial_of_Corrupting_Rage_70_3|307074|3.33%|
+|Phial_of_Charged_Isolation_3|306965|3.30%|
+|Phial_of_Tepid_Versatility_3|306378|3.10%|
+|Phial_of_Elemental_Chaos_3|305127|2.68%|
+|Iced_Phial_of_Corrupting_Rage_50_3|304178|2.36%|
+|Iced_Phial_of_Corrupting_Rage_40_3|302685|1.86%|
+|Phial_of_Glacial_Fury_3|299886|0.91%|
+|Elemental_Potion_of_Ultimate_Power_3|298284|0.38%|
+|Elemental_Potion_of_Power_3|298224|0.36%|
+|Bottled_Putrescence_3|297730|0.19%|
+|Potion_of_Shocking_Disclosure_3|297656|0.16%|
+|Base|297168|0.00%|

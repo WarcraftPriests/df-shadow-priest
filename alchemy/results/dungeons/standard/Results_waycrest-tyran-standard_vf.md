@@ -1,18 +1,18 @@
 # waycrest-tyran-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|161256|3.28%|
-|Iced_Phial_of_Corrupting_Rage_85_3|160735|2.94%|
-|Phial_of_Static_Empowerment_3|160029|2.49%|
-|Iced_Phial_of_Corrupting_Rage_70_3|159901|2.41%|
-|Phial_of_Charged_Isolation_3|159841|2.37%|
-|Phial_of_Tepid_Versatility_3|159686|2.27%|
-|Iced_Phial_of_Corrupting_Rage_40_3|159437|2.11%|
-|Phial_of_Elemental_Chaos_3|159252|1.99%|
-|Iced_Phial_of_Corrupting_Rage_50_3|159066|1.87%|
-|Phial_of_Glacial_Fury_3|157544|0.90%|
-|Elemental_Potion_of_Ultimate_Power_3|156621|0.31%|
-|Elemental_Potion_of_Power_3|156556|0.27%|
-|Potion_of_Shocking_Disclosure_3|156460|0.20%|
-|Bottled_Putrescence_3|156355|0.14%|
-|Base|156140|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|164144|2.86%|
+|Iced_Phial_of_Corrupting_Rage_85_3|163613|2.53%|
+|Iced_Phial_of_Corrupting_Rage_40_3|163544|2.48%|
+|Iced_Phial_of_Corrupting_Rage_70_3|162924|2.09%|
+|Phial_of_Static_Empowerment_3|162866|2.06%|
+|Phial_of_Charged_Isolation_3|162755|1.99%|
+|Phial_of_Tepid_Versatility_3|162635|1.91%|
+|Iced_Phial_of_Corrupting_Rage_50_3|162402|1.77%|
+|Phial_of_Elemental_Chaos_3|162355|1.74%|
+|Phial_of_Glacial_Fury_3|160851|0.80%|
+|Elemental_Potion_of_Ultimate_Power_3|159960|0.24%|
+|Elemental_Potion_of_Power_3|159880|0.19%|
+|Potion_of_Shocking_Disclosure_3|159749|0.11%|
+|Bottled_Putrescence_3|159692|0.07%|
+|Base|159581|0.00%|

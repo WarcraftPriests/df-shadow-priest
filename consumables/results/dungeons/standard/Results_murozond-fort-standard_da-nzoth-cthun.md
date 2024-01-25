@@ -1,19 +1,19 @@
 # murozond-fort-standard - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Draconic_Augment_Rune|187360|0.37%|
-|Great_Cerulean_Sea|187342|0.36%|
-|Thousandbone_Tongueslicer|187332|0.35%|
-|Aromatic_Seafood_Platter|187325|0.35%|
-|Revenge_Served_Cold|187309|0.34%|
-|Dreambound_Augment_Rune|187241|0.30%|
-|Feisty_Fish_Sticks|187238|0.30%|
-|Seamoth_Surprise|187214|0.29%|
-|Filet_of_Fangs|187206|0.28%|
-|Fated_Fortune_Cookie|187197|0.28%|
-|Sizzling_Seafood_Medley|187165|0.26%|
-|Salt_Baked_Fishcake|187142|0.25%|
-|Timely_Demise|187038|0.19%|
-|Roast_Duck_Delight|186863|0.10%|
-|Thrice_Spiced_Mammoth_Kabob|186781|0.06%|
-|Base|186678|0.00%|
+|Revenge_Served_Cold|183652|0.33%|
+|Feisty_Fish_Sticks|183632|0.32%|
+|Thousandbone_Tongueslicer|183617|0.31%|
+|Dreambound_Augment_Rune|183608|0.30%|
+|Seamoth_Surprise|183581|0.29%|
+|Draconic_Augment_Rune|183547|0.27%|
+|Aromatic_Seafood_Platter|183510|0.25%|
+|Great_Cerulean_Sea|183506|0.25%|
+|Filet_of_Fangs|183478|0.23%|
+|Sizzling_Seafood_Medley|183466|0.23%|
+|Salt_Baked_Fishcake|183401|0.19%|
+|Fated_Fortune_Cookie|183366|0.17%|
+|Timely_Demise|183324|0.15%|
+|Roast_Duck_Delight|183226|0.10%|
+|Thrice_Spiced_Mammoth_Kabob|183139|0.05%|
+|Base|183050|0.00%|

@@ -1,4 +1,4 @@
 # tott-tyran-standard - vf
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|194966|1.00|0.60|0.73|0.62|0.78|0.12|
+|Base|196027|1.00|0.68|0.76|0.65|0.78|0.12|

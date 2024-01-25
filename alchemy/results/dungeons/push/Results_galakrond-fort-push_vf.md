@@ -1,18 +1,18 @@
 # galakrond-fort-push - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|292484|4.70%|
-|Iced_Phial_of_Corrupting_Rage_85_3|291059|4.19%|
-|Phial_of_Static_Empowerment_3|289606|3.67%|
-|Iced_Phial_of_Corrupting_Rage_70_3|289283|3.55%|
-|Phial_of_Charged_Isolation_3|289252|3.54%|
-|Phial_of_Tepid_Versatility_3|288856|3.40%|
-|Phial_of_Elemental_Chaos_3|287403|2.88%|
-|Iced_Phial_of_Corrupting_Rage_50_3|286188|2.45%|
-|Iced_Phial_of_Corrupting_Rage_40_3|284706|1.92%|
-|Phial_of_Glacial_Fury_3|281820|0.88%|
-|Elemental_Potion_of_Ultimate_Power_3|280978|0.58%|
-|Elemental_Potion_of_Power_3|280648|0.46%|
-|Bottled_Putrescence_3|280165|0.29%|
-|Potion_of_Shocking_Disclosure_3|280042|0.25%|
-|Base|279353|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|308972|4.06%|
+|Iced_Phial_of_Corrupting_Rage_85_3|307728|3.64%|
+|Phial_of_Static_Empowerment_3|306001|3.05%|
+|Iced_Phial_of_Corrupting_Rage_70_3|305778|2.98%|
+|Phial_of_Charged_Isolation_3|305747|2.97%|
+|Phial_of_Tepid_Versatility_3|305198|2.78%|
+|Phial_of_Elemental_Chaos_3|304198|2.45%|
+|Iced_Phial_of_Corrupting_Rage_50_3|303074|2.07%|
+|Iced_Phial_of_Corrupting_Rage_40_3|301925|1.68%|
+|Phial_of_Glacial_Fury_3|299037|0.71%|
+|Elemental_Potion_of_Ultimate_Power_3|298333|0.47%|
+|Elemental_Potion_of_Power_3|298106|0.40%|
+|Bottled_Putrescence_3|297825|0.30%|
+|Potion_of_Shocking_Disclosure_3|297652|0.24%|
+|Base|296930|0.00%|

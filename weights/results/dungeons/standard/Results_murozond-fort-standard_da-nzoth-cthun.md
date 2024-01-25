@@ -1,4 +1,4 @@
 # murozond-fort-standard - da-nzoth-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|187823|1.00|0.61|0.74|0.62|0.77|0.13|
+|Base|185976|1.00|0.60|0.73|0.61|0.78|0.13|

@@ -1,18 +1,18 @@
 # brh-tyran-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|180602|3.05%|
-|Iced_Phial_of_Corrupting_Rage_85_3|180015|2.72%|
-|Phial_of_Static_Empowerment_3|179376|2.35%|
-|Phial_of_Charged_Isolation_3|179248|2.28%|
-|Iced_Phial_of_Corrupting_Rage_70_3|179205|2.26%|
-|Phial_of_Tepid_Versatility_3|179099|2.20%|
-|Phial_of_Elemental_Chaos_3|178586|1.90%|
-|Iced_Phial_of_Corrupting_Rage_40_3|178263|1.72%|
-|Iced_Phial_of_Corrupting_Rage_50_3|178230|1.70%|
-|Phial_of_Glacial_Fury_3|176630|0.79%|
-|Elemental_Potion_of_Ultimate_Power_3|175938|0.39%|
-|Elemental_Potion_of_Power_3|175730|0.27%|
-|Potion_of_Shocking_Disclosure_3|175666|0.24%|
-|Bottled_Putrescence_3|175607|0.20%|
-|Base|175250|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|186162|3.48%|
+|Iced_Phial_of_Corrupting_Rage_85_3|185419|3.07%|
+|Phial_of_Static_Empowerment_3|184471|2.54%|
+|Iced_Phial_of_Corrupting_Rage_70_3|184449|2.53%|
+|Phial_of_Charged_Isolation_3|184295|2.44%|
+|Iced_Phial_of_Corrupting_Rage_40_3|184043|2.30%|
+|Phial_of_Tepid_Versatility_3|184043|2.30%|
+|Phial_of_Elemental_Chaos_3|183606|2.06%|
+|Iced_Phial_of_Corrupting_Rage_50_3|183480|1.99%|
+|Phial_of_Glacial_Fury_3|181369|0.82%|
+|Elemental_Potion_of_Ultimate_Power_3|180322|0.24%|
+|Bottled_Putrescence_3|180159|0.14%|
+|Elemental_Potion_of_Power_3|180145|0.14%|
+|Potion_of_Shocking_Disclosure_3|180027|0.07%|
+|Base|179899|0.00%|

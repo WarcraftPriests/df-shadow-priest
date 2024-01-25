@@ -1,19 +1,19 @@
 # everbloom-tyran-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|185596|0.37%|
-|Dreambound_Augment_Rune|185517|0.33%|
-|Thousandbone_Tongueslicer|185514|0.33%|
-|Great_Cerulean_Sea|185512|0.33%|
-|Draconic_Augment_Rune|185505|0.32%|
-|Aromatic_Seafood_Platter|185486|0.31%|
-|Seamoth_Surprise|185482|0.31%|
-|Filet_of_Fangs|185468|0.30%|
-|Feisty_Fish_Sticks|185463|0.30%|
-|Sizzling_Seafood_Medley|185381|0.26%|
-|Fated_Fortune_Cookie|185380|0.26%|
-|Timely_Demise|185310|0.22%|
-|Salt_Baked_Fishcake|185297|0.21%|
-|Roast_Duck_Delight|185104|0.11%|
-|Thrice_Spiced_Mammoth_Kabob|185014|0.06%|
-|Base|184905|0.00%|
+|Aromatic_Seafood_Platter|187532|0.48%|
+|Feisty_Fish_Sticks|187528|0.48%|
+|Sizzling_Seafood_Medley|187447|0.43%|
+|Revenge_Served_Cold|187422|0.42%|
+|Great_Cerulean_Sea|187414|0.41%|
+|Thousandbone_Tongueslicer|187308|0.36%|
+|Dreambound_Augment_Rune|187303|0.36%|
+|Seamoth_Surprise|187302|0.35%|
+|Draconic_Augment_Rune|187272|0.34%|
+|Timely_Demise|187253|0.33%|
+|Filet_of_Fangs|187221|0.31%|
+|Fated_Fortune_Cookie|187194|0.30%|
+|Salt_Baked_Fishcake|187120|0.26%|
+|Roast_Duck_Delight|186946|0.16%|
+|Thrice_Spiced_Mammoth_Kabob|186931|0.16%|
+|Base|186640|0.00%|

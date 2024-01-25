@@ -1,18 +1,18 @@
 # murozond-fort-standard - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|184393|3.62%|
-|Iced_Phial_of_Corrupting_Rage_85_3|183628|3.19%|
-|Phial_of_Static_Empowerment_3|182805|2.72%|
-|Iced_Phial_of_Corrupting_Rage_70_3|182718|2.67%|
-|Phial_of_Charged_Isolation_3|182654|2.64%|
-|Phial_of_Tepid_Versatility_3|182522|2.56%|
-|Iced_Phial_of_Corrupting_Rage_40_3|181864|2.19%|
-|Phial_of_Elemental_Chaos_3|181812|2.17%|
-|Iced_Phial_of_Corrupting_Rage_50_3|181559|2.02%|
-|Phial_of_Glacial_Fury_3|179594|0.92%|
-|Elemental_Potion_of_Ultimate_Power_3|178628|0.38%|
-|Bottled_Putrescence_3|178562|0.34%|
-|Elemental_Potion_of_Power_3|178408|0.25%|
-|Potion_of_Shocking_Disclosure_3|178330|0.21%|
-|Base|177959|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|182719|3.56%|
+|Iced_Phial_of_Corrupting_Rage_85_3|181995|3.15%|
+|Phial_of_Static_Empowerment_3|181155|2.68%|
+|Iced_Phial_of_Corrupting_Rage_70_3|181062|2.62%|
+|Phial_of_Charged_Isolation_3|180916|2.54%|
+|Phial_of_Tepid_Versatility_3|180825|2.49%|
+|Iced_Phial_of_Corrupting_Rage_40_3|180789|2.47%|
+|Phial_of_Elemental_Chaos_3|180255|2.17%|
+|Iced_Phial_of_Corrupting_Rage_50_3|180118|2.09%|
+|Phial_of_Glacial_Fury_3|178150|0.97%|
+|Elemental_Potion_of_Ultimate_Power_3|176983|0.31%|
+|Elemental_Potion_of_Power_3|176830|0.22%|
+|Bottled_Putrescence_3|176761|0.18%|
+|Potion_of_Shocking_Disclosure_3|176605|0.10%|
+|Base|176435|0.00%|

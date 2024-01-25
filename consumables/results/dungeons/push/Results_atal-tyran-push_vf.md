@@ -1,19 +1,19 @@
 # atal-tyran-push - vf
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|190676|0.54%|
-|Great_Cerulean_Sea|190559|0.48%|
-|Aromatic_Seafood_Platter|190518|0.46%|
-|Thousandbone_Tongueslicer|190486|0.44%|
-|Draconic_Augment_Rune|190485|0.44%|
-|Feisty_Fish_Sticks|190480|0.44%|
-|Dreambound_Augment_Rune|190451|0.42%|
-|Sizzling_Seafood_Medley|190447|0.42%|
-|Seamoth_Surprise|190411|0.40%|
-|Fated_Fortune_Cookie|190350|0.37%|
-|Filet_of_Fangs|190338|0.36%|
-|Salt_Baked_Fishcake|190280|0.33%|
-|Timely_Demise|190159|0.27%|
-|Roast_Duck_Delight|189942|0.15%|
-|Thrice_Spiced_Mammoth_Kabob|189914|0.14%|
-|Base|189653|0.00%|
+|Feisty_Fish_Sticks|195780|0.72%|
+|Aromatic_Seafood_Platter|195752|0.71%|
+|Sizzling_Seafood_Medley|195637|0.65%|
+|Timely_Demise|195421|0.54%|
+|Revenge_Served_Cold|195371|0.51%|
+|Great_Cerulean_Sea|195328|0.49%|
+|Thousandbone_Tongueslicer|195274|0.46%|
+|Filet_of_Fangs|195196|0.42%|
+|Draconic_Augment_Rune|195171|0.41%|
+|Fated_Fortune_Cookie|195148|0.40%|
+|Dreambound_Augment_Rune|195145|0.40%|
+|Seamoth_Surprise|195129|0.39%|
+|Salt_Baked_Fishcake|195033|0.34%|
+|Roast_Duck_Delight|194720|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|194591|0.11%|
+|Base|194374|0.00%|

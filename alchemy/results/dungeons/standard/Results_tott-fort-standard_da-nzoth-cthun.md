@@ -1,18 +1,18 @@
 # tott-fort-standard - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|259760|3.66%|
-|Iced_Phial_of_Corrupting_Rage_85_3|258806|3.28%|
-|Phial_of_Static_Empowerment_3|257957|2.94%|
-|Iced_Phial_of_Corrupting_Rage_70_3|257526|2.77%|
-|Phial_of_Charged_Isolation_3|257512|2.77%|
-|Phial_of_Tepid_Versatility_3|257394|2.72%|
-|Phial_of_Elemental_Chaos_3|256338|2.30%|
-|Iced_Phial_of_Corrupting_Rage_50_3|255400|1.92%|
-|Iced_Phial_of_Corrupting_Rage_40_3|254420|1.53%|
-|Elemental_Potion_of_Ultimate_Power_3|252216|0.65%|
-|Phial_of_Glacial_Fury_3|252202|0.65%|
-|Elemental_Potion_of_Power_3|251819|0.49%|
-|Bottled_Putrescence_3|251726|0.46%|
-|Potion_of_Shocking_Disclosure_3|251352|0.31%|
-|Base|250583|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|269369|3.95%|
+|Iced_Phial_of_Corrupting_Rage_85_3|268176|3.49%|
+|Phial_of_Static_Empowerment_3|267322|3.16%|
+|Iced_Phial_of_Corrupting_Rage_70_3|266747|2.94%|
+|Phial_of_Charged_Isolation_3|266733|2.93%|
+|Phial_of_Tepid_Versatility_3|266517|2.85%|
+|Phial_of_Elemental_Chaos_3|265441|2.44%|
+|Iced_Phial_of_Corrupting_Rage_50_3|264615|2.12%|
+|Iced_Phial_of_Corrupting_Rage_40_3|263676|1.75%|
+|Phial_of_Glacial_Fury_3|262040|1.12%|
+|Elemental_Potion_of_Ultimate_Power_3|260314|0.46%|
+|Elemental_Potion_of_Power_3|259992|0.33%|
+|Potion_of_Shocking_Disclosure_3|259873|0.29%|
+|Bottled_Putrescence_3|259821|0.27%|
+|Base|259129|0.00%|

@@ -1,4 +1,4 @@
 # brh-tyran-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|221644|1.00|0.59|0.73|0.63|0.78|0.10|
+|Base|229341|1.00|0.61|0.72|0.64|0.77|0.09|

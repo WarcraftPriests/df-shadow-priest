@@ -1,18 +1,18 @@
 # brh-tyran-push - da-nzoth-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|224765|4.03%|
-|Iced_Phial_of_Corrupting_Rage_85_3|223848|3.61%|
-|Phial_of_Static_Empowerment_3|222859|3.15%|
-|Phial_of_Charged_Isolation_3|222641|3.05%|
-|Iced_Phial_of_Corrupting_Rage_70_3|222458|2.97%|
-|Phial_of_Tepid_Versatility_3|222241|2.87%|
-|Phial_of_Elemental_Chaos_3|221429|2.49%|
-|Iced_Phial_of_Corrupting_Rage_50_3|220624|2.12%|
-|Iced_Phial_of_Corrupting_Rage_40_3|220273|1.95%|
-|Phial_of_Glacial_Fury_3|217944|0.88%|
-|Elemental_Potion_of_Ultimate_Power_3|217041|0.46%|
-|Elemental_Potion_of_Power_3|216724|0.31%|
-|Bottled_Putrescence_3|216446|0.18%|
-|Potion_of_Shocking_Disclosure_3|216348|0.14%|
-|Base|216051|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|228144|3.62%|
+|Iced_Phial_of_Corrupting_Rage_85_3|227352|3.26%|
+|Phial_of_Static_Empowerment_3|226480|2.86%|
+|Phial_of_Charged_Isolation_3|226268|2.77%|
+|Iced_Phial_of_Corrupting_Rage_70_3|226134|2.71%|
+|Phial_of_Tepid_Versatility_3|225919|2.61%|
+|Phial_of_Elemental_Chaos_3|225198|2.28%|
+|Iced_Phial_of_Corrupting_Rage_50_3|224611|2.01%|
+|Iced_Phial_of_Corrupting_Rage_40_3|224246|1.85%|
+|Phial_of_Glacial_Fury_3|222124|0.88%|
+|Elemental_Potion_of_Ultimate_Power_3|221271|0.50%|
+|Elemental_Potion_of_Power_3|220885|0.32%|
+|Bottled_Putrescence_3|220661|0.22%|
+|Potion_of_Shocking_Disclosure_3|220455|0.13%|
+|Base|220176|0.00%|

@@ -1,4 +1,4 @@
 # everbloom-fort-push - da-yshaarj-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|240008|1.00|0.67|0.73|0.64|0.78|0.09|
+|Base|247933|1.00|0.62|0.72|0.65|0.77|0.08|

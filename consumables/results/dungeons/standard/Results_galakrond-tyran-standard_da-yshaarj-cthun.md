@@ -1,19 +1,19 @@
 # galakrond-tyran-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|194571|0.45%|
-|Aromatic_Seafood_Platter|194459|0.39%|
-|Feisty_Fish_Sticks|194459|0.39%|
-|Great_Cerulean_Sea|194459|0.39%|
-|Draconic_Augment_Rune|194425|0.37%|
-|Dreambound_Augment_Rune|194385|0.35%|
-|Thousandbone_Tongueslicer|194380|0.35%|
-|Filet_of_Fangs|194307|0.31%|
-|Sizzling_Seafood_Medley|194307|0.31%|
-|Seamoth_Surprise|194302|0.31%|
-|Fated_Fortune_Cookie|194285|0.30%|
-|Salt_Baked_Fishcake|194220|0.26%|
-|Timely_Demise|194180|0.24%|
-|Roast_Duck_Delight|193932|0.12%|
-|Thrice_Spiced_Mammoth_Kabob|193886|0.09%|
-|Base|193707|0.00%|
+|Revenge_Served_Cold|202552|0.44%|
+|Great_Cerulean_Sea|202536|0.43%|
+|Dreambound_Augment_Rune|202475|0.40%|
+|Seamoth_Surprise|202475|0.40%|
+|Thousandbone_Tongueslicer|202475|0.40%|
+|Sizzling_Seafood_Medley|202470|0.40%|
+|Draconic_Augment_Rune|202467|0.40%|
+|Feisty_Fish_Sticks|202414|0.37%|
+|Aromatic_Seafood_Platter|202408|0.37%|
+|Filet_of_Fangs|202368|0.35%|
+|Salt_Baked_Fishcake|202321|0.33%|
+|Fated_Fortune_Cookie|202311|0.32%|
+|Timely_Demise|202097|0.22%|
+|Roast_Duck_Delight|202005|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|201875|0.11%|
+|Base|201661|0.00%|

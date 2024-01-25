@@ -1,19 +1,19 @@
 # murozond-fort-standard - da-yshaarj-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Great_Cerulean_Sea|186069|0.45%|
-|Revenge_Served_Cold|185993|0.41%|
-|Aromatic_Seafood_Platter|185972|0.40%|
-|Thousandbone_Tongueslicer|185953|0.38%|
-|Draconic_Augment_Rune|185935|0.38%|
-|Dreambound_Augment_Rune|185911|0.36%|
-|Sizzling_Seafood_Medley|185910|0.36%|
-|Feisty_Fish_Sticks|185887|0.35%|
-|Seamoth_Surprise|185869|0.34%|
-|Filet_of_Fangs|185864|0.34%|
-|Fated_Fortune_Cookie|185849|0.33%|
-|Salt_Baked_Fishcake|185742|0.27%|
-|Timely_Demise|185600|0.19%|
-|Roast_Duck_Delight|185537|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|185444|0.11%|
-|Base|185240|0.00%|
+|Great_Cerulean_Sea|183565|0.32%|
+|Revenge_Served_Cold|183541|0.31%|
+|Dreambound_Augment_Rune|183537|0.30%|
+|Sizzling_Seafood_Medley|183504|0.29%|
+|Aromatic_Seafood_Platter|183465|0.26%|
+|Feisty_Fish_Sticks|183460|0.26%|
+|Seamoth_Surprise|183438|0.25%|
+|Draconic_Augment_Rune|183403|0.23%|
+|Filet_of_Fangs|183380|0.22%|
+|Thousandbone_Tongueslicer|183371|0.21%|
+|Fated_Fortune_Cookie|183342|0.20%|
+|Salt_Baked_Fishcake|183339|0.20%|
+|Timely_Demise|183334|0.19%|
+|Thrice_Spiced_Mammoth_Kabob|183126|0.08%|
+|Roast_Duck_Delight|183109|0.07%|
+|Base|182981|0.00%|
