@@ -1,11 +1,2 @@
 
 # Overrides are added below here
-## Mind Blast by 10%
-override.spell_data=effect.3283.sp_coefficient=0.861696
-## Devouring Plague by 10%
-override.spell_data=effect.832086.sp_coefficient=1.912449
-override.spell_data=effect.832087.sp_coefficient=0.908303
-# Shadowy Apparition by 20%
-override.spell_data=effect.1081317.sp_coefficient=0.24684
-# Psychic Link now 30%
-override.spell_data=effect.293563.base_value=30
