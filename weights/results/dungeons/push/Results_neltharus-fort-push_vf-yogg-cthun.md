@@ -1,4 +1,4 @@
 # neltharus-fort-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|61968|1.00|1.21|0.81|0.43|0.86|0.38|
+|Base|334233|1.00|0.96|0.78|0.69|0.80|0.06|

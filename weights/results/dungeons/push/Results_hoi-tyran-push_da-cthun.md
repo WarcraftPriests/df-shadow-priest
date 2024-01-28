@@ -1,4 +1,4 @@
 # hoi-tyran-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|55225|1.00|1.34|0.80|0.42|0.85|0.36|
+|Base|259851|1.00|0.70|0.74|0.72|0.82|0.08|

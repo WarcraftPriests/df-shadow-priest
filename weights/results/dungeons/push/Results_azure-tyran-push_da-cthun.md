@@ -1,4 +1,4 @@
 # azure-tyran-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|62480|1.00|1.10|0.84|0.45|0.88|0.31|
+|Base|308484|1.00|0.69|0.72|0.67|0.80|0.06|

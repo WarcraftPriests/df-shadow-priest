@@ -1,19 +1,19 @@
 # neltharus-fort-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|316307|0.75%|
-|Aromatic_Seafood_Platter|316227|0.73%|
-|Sizzling_Seafood_Medley|316207|0.72%|
-|Timely_Demise|315475|0.49%|
-|Revenge_Served_Cold|315461|0.48%|
-|Thousandbone_Tongueslicer|315419|0.47%|
-|Great_Cerulean_Sea|315301|0.43%|
-|Seamoth_Surprise|315220|0.41%|
-|Draconic_Augment_Rune|315210|0.40%|
-|Filet_of_Fangs|315140|0.38%|
-|Dreambound_Augment_Rune|315127|0.38%|
-|Salt_Baked_Fishcake|314960|0.32%|
-|Fated_Fortune_Cookie|314926|0.31%|
-|Roast_Duck_Delight|314320|0.12%|
-|Thrice_Spiced_Mammoth_Kabob|314229|0.09%|
-|Base|313941|0.00%|
+|Aromatic_Seafood_Platter|334385|0.79%|
+|Feisty_Fish_Sticks|334196|0.73%|
+|Sizzling_Seafood_Medley|334029|0.68%|
+|Timely_Demise|333591|0.55%|
+|Revenge_Served_Cold|333333|0.47%|
+|Thousandbone_Tongueslicer|333305|0.46%|
+|Great_Cerulean_Sea|333190|0.43%|
+|Dreambound_Augment_Rune|333149|0.41%|
+|Filet_of_Fangs|333006|0.37%|
+|Seamoth_Surprise|332979|0.36%|
+|Draconic_Augment_Rune|332938|0.35%|
+|Fated_Fortune_Cookie|332908|0.34%|
+|Salt_Baked_Fishcake|332845|0.32%|
+|Roast_Duck_Delight|332065|0.09%|
+|Thrice_Spiced_Mammoth_Kabob|331933|0.05%|
+|Base|331779|0.00%|

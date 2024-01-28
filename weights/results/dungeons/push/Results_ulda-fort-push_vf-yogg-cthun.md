@@ -1,4 +1,4 @@
 # ulda-fort-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|60334|1.00|1.21|0.80|0.40|0.85|0.39|
+|Base|329871|1.00|0.96|0.79|0.71|0.81|0.06|

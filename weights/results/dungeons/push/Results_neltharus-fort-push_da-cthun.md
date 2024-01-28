@@ -1,4 +1,4 @@
 # neltharus-fort-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|61965|1.00|1.21|0.81|0.42|0.86|0.38|
+|Base|331205|1.00|0.69|0.73|0.69|0.80|0.06|

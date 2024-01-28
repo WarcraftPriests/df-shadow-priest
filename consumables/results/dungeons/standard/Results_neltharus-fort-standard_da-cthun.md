@@ -1,19 +1,19 @@
 # neltharus-fort-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|234477|0.50%|
-|Aromatic_Seafood_Platter|234323|0.43%|
-|Thousandbone_Tongueslicer|234314|0.43%|
-|Great_Cerulean_Sea|234267|0.41%|
-|Fated_Fortune_Cookie|234225|0.39%|
-|Draconic_Augment_Rune|234224|0.39%|
-|Feisty_Fish_Sticks|234219|0.39%|
-|Dreambound_Augment_Rune|234218|0.39%|
-|Sizzling_Seafood_Medley|234188|0.38%|
-|Seamoth_Surprise|234153|0.36%|
-|Filet_of_Fangs|234124|0.35%|
-|Salt_Baked_Fishcake|234033|0.31%|
-|Timely_Demise|234029|0.31%|
-|Roast_Duck_Delight|233709|0.17%|
-|Thrice_Spiced_Mammoth_Kabob|233691|0.16%|
-|Base|233311|0.00%|
+|Thousandbone_Tongueslicer|246717|0.39%|
+|Aromatic_Seafood_Platter|246689|0.37%|
+|Revenge_Served_Cold|246652|0.36%|
+|Great_Cerulean_Sea|246596|0.34%|
+|Salt_Baked_Fishcake|246582|0.33%|
+|Sizzling_Seafood_Medley|246552|0.32%|
+|Seamoth_Surprise|246519|0.31%|
+|Filet_of_Fangs|246517|0.30%|
+|Draconic_Augment_Rune|246508|0.30%|
+|Feisty_Fish_Sticks|246489|0.29%|
+|Dreambound_Augment_Rune|246485|0.29%|
+|Fated_Fortune_Cookie|246469|0.28%|
+|Timely_Demise|246441|0.27%|
+|Roast_Duck_Delight|246143|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|245949|0.07%|
+|Base|245769|0.00%|

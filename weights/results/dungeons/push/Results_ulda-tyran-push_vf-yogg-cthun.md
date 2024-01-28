@@ -1,4 +1,4 @@
 # ulda-tyran-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|59003|1.00|1.24|0.80|0.42|0.85|0.38|
+|Base|298583|1.00|0.96|0.79|0.69|0.79|0.06|

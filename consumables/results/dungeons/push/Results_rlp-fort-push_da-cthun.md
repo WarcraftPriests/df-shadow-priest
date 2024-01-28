@@ -1,19 +1,19 @@
 # rlp-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|269712|0.48%|
-|Aromatic_Seafood_Platter|269703|0.48%|
-|Thousandbone_Tongueslicer|269678|0.47%|
-|Feisty_Fish_Sticks|269657|0.46%|
-|Great_Cerulean_Sea|269646|0.46%|
-|Sizzling_Seafood_Medley|269592|0.44%|
-|Dreambound_Augment_Rune|269471|0.39%|
-|Filet_of_Fangs|269465|0.39%|
-|Timely_Demise|269426|0.38%|
-|Seamoth_Surprise|269400|0.37%|
-|Draconic_Augment_Rune|269353|0.35%|
-|Fated_Fortune_Cookie|269321|0.34%|
-|Salt_Baked_Fishcake|269201|0.29%|
-|Roast_Duck_Delight|268755|0.13%|
-|Thrice_Spiced_Mammoth_Kabob|268732|0.12%|
-|Base|268419|0.00%|
+|Great_Cerulean_Sea|288334|0.56%|
+|Aromatic_Seafood_Platter|288323|0.56%|
+|Thousandbone_Tongueslicer|288278|0.54%|
+|Feisty_Fish_Sticks|288201|0.51%|
+|Sizzling_Seafood_Medley|288176|0.51%|
+|Dreambound_Augment_Rune|288171|0.50%|
+|Revenge_Served_Cold|288160|0.50%|
+|Seamoth_Surprise|288056|0.46%|
+|Fated_Fortune_Cookie|287966|0.43%|
+|Draconic_Augment_Rune|287912|0.41%|
+|Filet_of_Fangs|287881|0.40%|
+|Salt_Baked_Fishcake|287871|0.40%|
+|Timely_Demise|287841|0.39%|
+|Thrice_Spiced_Mammoth_Kabob|287147|0.15%|
+|Roast_Duck_Delight|287130|0.14%|
+|Base|286728|0.00%|

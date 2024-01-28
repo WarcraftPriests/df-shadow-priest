@@ -1,19 +1,19 @@
 # Dungeons-Standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Revenge_Served_Cold|214675|0.38%|
-|Aromatic_Seafood_Platter|214639|0.37%|
-|Great_Cerulean_Sea|214624|0.36%|
-|Thousandbone_Tongueslicer|214605|0.35%|
-|Feisty_Fish_Sticks|214603|0.35%|
-|Sizzling_Seafood_Medley|214581|0.34%|
-|Seamoth_Surprise|214528|0.31%|
-|Dreambound_Augment_Rune|214528|0.31%|
-|Draconic_Augment_Rune|214517|0.31%|
-|Salt_Baked_Fishcake|214459|0.28%|
-|Filet_of_Fangs|214449|0.28%|
-|Timely_Demise|214433|0.27%|
-|Fated_Fortune_Cookie|214430|0.27%|
-|Roast_Duck_Delight|214103|0.12%|
-|Thrice_Spiced_Mammoth_Kabob|214022|0.08%|
-|Base|213856|0.00%|
+|Revenge_Served_Cold|224761|0.37%|
+|Aromatic_Seafood_Platter|224747|0.36%|
+|Great_Cerulean_Sea|224708|0.34%|
+|Sizzling_Seafood_Medley|224707|0.34%|
+|Feisty_Fish_Sticks|224702|0.34%|
+|Thousandbone_Tongueslicer|224660|0.32%|
+|Draconic_Augment_Rune|224609|0.30%|
+|Seamoth_Surprise|224592|0.29%|
+|Dreambound_Augment_Rune|224584|0.29%|
+|Filet_of_Fangs|224559|0.28%|
+|Timely_Demise|224519|0.26%|
+|Fated_Fortune_Cookie|224513|0.26%|
+|Salt_Baked_Fishcake|224509|0.25%|
+|Roast_Duck_Delight|224176|0.10%|
+|Thrice_Spiced_Mammoth_Kabob|224110|0.08%|
+|Base|223941|0.00%|

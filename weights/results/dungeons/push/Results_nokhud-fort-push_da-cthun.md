@@ -1,4 +1,4 @@
 # nokhud-fort-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|57397|1.00|1.27|0.79|0.42|0.84|0.36|
+|Base|294381|1.00|0.64|0.72|0.68|0.80|0.08|

@@ -1,18 +1,18 @@
 # ulda-tyran-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|203514|3.00%|
-|Iced_Phial_of_Corrupting_Rage_85_3|202868|2.67%|
-|Iced_Phial_of_Corrupting_Rage_70_3|201965|2.21%|
-|Phial_of_Static_Empowerment_3|201896|2.18%|
-|Phial_of_Tepid_Versatility_3|201784|2.12%|
-|Phial_of_Charged_Isolation_3|201717|2.09%|
-|Phial_of_Elemental_Chaos_3|201444|1.95%|
-|Iced_Phial_of_Corrupting_Rage_50_3|200661|1.55%|
-|Iced_Phial_of_Corrupting_Rage_40_3|199968|1.20%|
-|Phial_of_Glacial_Fury_3|199461|0.95%|
-|Elemental_Potion_of_Ultimate_Power_3|198148|0.28%|
-|Elemental_Potion_of_Power_3|198039|0.23%|
-|Bottled_Putrescence_3|197929|0.17%|
-|Potion_of_Shocking_Disclosure_3|197871|0.14%|
-|Base|197593|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|212643|2.96%|
+|Iced_Phial_of_Corrupting_Rage_85_3|212131|2.72%|
+|Iced_Phial_of_Corrupting_Rage_70_3|211133|2.23%|
+|Phial_of_Static_Empowerment_3|211077|2.21%|
+|Phial_of_Charged_Isolation_3|210932|2.14%|
+|Phial_of_Tepid_Versatility_3|210910|2.13%|
+|Phial_of_Elemental_Chaos_3|210738|2.04%|
+|Iced_Phial_of_Corrupting_Rage_50_3|209813|1.59%|
+|Iced_Phial_of_Corrupting_Rage_40_3|209082|1.24%|
+|Phial_of_Glacial_Fury_3|208583|1.00%|
+|Elemental_Potion_of_Ultimate_Power_3|207101|0.28%|
+|Elemental_Potion_of_Power_3|206977|0.22%|
+|Potion_of_Shocking_Disclosure_3|206870|0.17%|
+|Bottled_Putrescence_3|206860|0.16%|
+|Base|206521|0.00%|

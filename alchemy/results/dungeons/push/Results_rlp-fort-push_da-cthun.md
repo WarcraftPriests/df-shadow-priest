@@ -1,18 +1,18 @@
 # rlp-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|270842|3.41%|
-|Iced_Phial_of_Corrupting_Rage_85_3|269843|3.03%|
-|Phial_of_Static_Empowerment_3|268503|2.52%|
-|Phial_of_Charged_Isolation_3|268438|2.50%|
-|Iced_Phial_of_Corrupting_Rage_70_3|268382|2.47%|
-|Phial_of_Tepid_Versatility_3|268231|2.42%|
-|Phial_of_Elemental_Chaos_3|267520|2.15%|
-|Iced_Phial_of_Corrupting_Rage_50_3|266501|1.76%|
-|Iced_Phial_of_Corrupting_Rage_40_3|265556|1.40%|
-|Phial_of_Glacial_Fury_3|264359|0.94%|
-|Elemental_Potion_of_Ultimate_Power_3|262520|0.24%|
-|Potion_of_Shocking_Disclosure_3|262062|0.06%|
-|Elemental_Potion_of_Power_3|262060|0.06%|
-|Bottled_Putrescence_3|262025|0.05%|
-|Base|261902|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|289130|4.17%|
+|Iced_Phial_of_Corrupting_Rage_85_3|287947|3.74%|
+|Phial_of_Static_Empowerment_3|286333|3.16%|
+|Phial_of_Charged_Isolation_3|286139|3.09%|
+|Iced_Phial_of_Corrupting_Rage_70_3|286131|3.09%|
+|Phial_of_Tepid_Versatility_3|286010|3.05%|
+|Phial_of_Elemental_Chaos_3|285094|2.72%|
+|Iced_Phial_of_Corrupting_Rage_50_3|283646|2.19%|
+|Iced_Phial_of_Corrupting_Rage_40_3|282298|1.71%|
+|Phial_of_Glacial_Fury_3|280324|1.00%|
+|Elemental_Potion_of_Ultimate_Power_3|279397|0.66%|
+|Elemental_Potion_of_Power_3|278992|0.52%|
+|Bottled_Putrescence_3|278724|0.42%|
+|Potion_of_Shocking_Disclosure_3|278668|0.40%|
+|Base|277558|0.00%|

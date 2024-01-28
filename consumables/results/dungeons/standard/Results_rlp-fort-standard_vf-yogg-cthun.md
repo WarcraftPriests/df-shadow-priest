@@ -1,19 +1,19 @@
 # rlp-fort-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|193721|0.50%|
-|Feisty_Fish_Sticks|193694|0.49%|
-|Sizzling_Seafood_Medley|193692|0.48%|
-|Revenge_Served_Cold|193482|0.38%|
-|Great_Cerulean_Sea|193478|0.37%|
-|Thousandbone_Tongueslicer|193478|0.37%|
-|Timely_Demise|193470|0.37%|
-|Draconic_Augment_Rune|193402|0.33%|
-|Filet_of_Fangs|193333|0.30%|
-|Seamoth_Surprise|193305|0.28%|
-|Dreambound_Augment_Rune|193265|0.26%|
-|Salt_Baked_Fishcake|193249|0.25%|
-|Fated_Fortune_Cookie|193206|0.23%|
-|Roast_Duck_Delight|193060|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|192962|0.11%|
-|Base|192758|0.00%|
+|Aromatic_Seafood_Platter|201683|0.46%|
+|Sizzling_Seafood_Medley|201656|0.45%|
+|Feisty_Fish_Sticks|201494|0.37%|
+|Timely_Demise|201468|0.36%|
+|Thousandbone_Tongueslicer|201387|0.32%|
+|Great_Cerulean_Sea|201371|0.31%|
+|Revenge_Served_Cold|201358|0.30%|
+|Dreambound_Augment_Rune|201262|0.25%|
+|Filet_of_Fangs|201255|0.25%|
+|Seamoth_Surprise|201203|0.22%|
+|Draconic_Augment_Rune|201197|0.22%|
+|Salt_Baked_Fishcake|201110|0.18%|
+|Fated_Fortune_Cookie|201103|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|200881|0.06%|
+|Roast_Duck_Delight|200868|0.06%|
+|Base|200753|0.00%|

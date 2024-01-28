@@ -1,4 +1,4 @@
 # azure-fort-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|56656|1.00|1.13|0.79|0.41|0.86|0.37|
+|Base|227172|1.00|0.70|0.75|0.68|0.83|0.14|

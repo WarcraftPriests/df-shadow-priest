@@ -1,4 +1,4 @@
 # rlp-tyran-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|55686|1.00|1.22|0.79|0.41|0.85|0.38|
+|Base|204820|1.00|0.71|0.75|0.68|0.82|0.15|

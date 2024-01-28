@@ -1,4 +1,4 @@
 # algethar-tyran-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|56456|1.00|1.18|0.79|0.41|0.86|0.36|
+|Base|203994|1.00|0.68|0.72|0.66|0.78|0.14|

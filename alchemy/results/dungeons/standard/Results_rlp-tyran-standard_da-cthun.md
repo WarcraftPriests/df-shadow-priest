@@ -1,18 +1,18 @@
 # rlp-tyran-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|196077|2.73%|
-|Iced_Phial_of_Corrupting_Rage_85_3|195538|2.44%|
-|Phial_of_Static_Empowerment_3|194843|2.08%|
-|Iced_Phial_of_Corrupting_Rage_70_3|194751|2.03%|
-|Phial_of_Charged_Isolation_3|194707|2.01%|
-|Phial_of_Tepid_Versatility_3|194697|2.00%|
-|Phial_of_Elemental_Chaos_3|194197|1.74%|
-|Iced_Phial_of_Corrupting_Rage_50_3|193618|1.44%|
-|Iced_Phial_of_Corrupting_Rage_40_3|193054|1.14%|
-|Phial_of_Glacial_Fury_3|192438|0.82%|
-|Elemental_Potion_of_Ultimate_Power_3|191638|0.40%|
-|Elemental_Potion_of_Power_3|191479|0.32%|
-|Bottled_Putrescence_3|191293|0.22%|
-|Potion_of_Shocking_Disclosure_3|191284|0.21%|
-|Base|190874|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|205089|2.81%|
+|Iced_Phial_of_Corrupting_Rage_85_3|204557|2.54%|
+|Phial_of_Static_Empowerment_3|203859|2.19%|
+|Iced_Phial_of_Corrupting_Rage_70_3|203676|2.10%|
+|Phial_of_Tepid_Versatility_3|203609|2.07%|
+|Phial_of_Charged_Isolation_3|203555|2.04%|
+|Phial_of_Elemental_Chaos_3|203155|1.84%|
+|Iced_Phial_of_Corrupting_Rage_50_3|202496|1.51%|
+|Iced_Phial_of_Corrupting_Rage_40_3|202006|1.26%|
+|Phial_of_Glacial_Fury_3|201003|0.76%|
+|Elemental_Potion_of_Ultimate_Power_3|200097|0.31%|
+|Potion_of_Shocking_Disclosure_3|199984|0.25%|
+|Elemental_Potion_of_Power_3|199965|0.24%|
+|Bottled_Putrescence_3|199734|0.12%|
+|Base|199487|0.00%|

@@ -1,18 +1,18 @@
 # ulda-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|306865|3.49%|
-|Iced_Phial_of_Corrupting_Rage_85_3|305777|3.13%|
-|Phial_of_Static_Empowerment_3|304217|2.60%|
-|Phial_of_Tepid_Versatility_3|303927|2.50%|
-|Phial_of_Charged_Isolation_3|303826|2.47%|
-|Iced_Phial_of_Corrupting_Rage_70_3|303778|2.45%|
-|Phial_of_Elemental_Chaos_3|303183|2.25%|
-|Iced_Phial_of_Corrupting_Rage_50_3|301673|1.74%|
-|Iced_Phial_of_Corrupting_Rage_40_3|300499|1.34%|
-|Phial_of_Glacial_Fury_3|298606|0.71%|
-|Elemental_Potion_of_Ultimate_Power_3|297975|0.49%|
-|Elemental_Potion_of_Power_3|297662|0.39%|
-|Bottled_Putrescence_3|297261|0.25%|
-|Potion_of_Shocking_Disclosure_3|297188|0.23%|
-|Base|296511|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|328764|3.97%|
+|Iced_Phial_of_Corrupting_Rage_85_3|327421|3.55%|
+|Phial_of_Static_Empowerment_3|325917|3.07%|
+|Phial_of_Charged_Isolation_3|325432|2.92%|
+|Phial_of_Tepid_Versatility_3|325327|2.89%|
+|Iced_Phial_of_Corrupting_Rage_70_3|325254|2.86%|
+|Phial_of_Elemental_Chaos_3|324378|2.59%|
+|Iced_Phial_of_Corrupting_Rage_50_3|322571|2.01%|
+|Iced_Phial_of_Corrupting_Rage_40_3|321203|1.58%|
+|Phial_of_Glacial_Fury_3|318478|0.72%|
+|Elemental_Potion_of_Ultimate_Power_3|317955|0.56%|
+|Elemental_Potion_of_Power_3|317349|0.36%|
+|Potion_of_Shocking_Disclosure_3|316834|0.20%|
+|Bottled_Putrescence_3|316789|0.19%|
+|Base|316200|0.00%|

@@ -1,18 +1,18 @@
 # azure-tyran-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|286388|4.13%|
-|Iced_Phial_of_Corrupting_Rage_85_3|285187|3.70%|
-|Iced_Phial_of_Corrupting_Rage_70_3|283295|3.01%|
-|Phial_of_Static_Empowerment_3|283159|2.96%|
-|Phial_of_Tepid_Versatility_3|282731|2.80%|
-|Phial_of_Charged_Isolation_3|282646|2.77%|
-|Phial_of_Elemental_Chaos_3|282260|2.63%|
-|Iced_Phial_of_Corrupting_Rage_50_3|280611|2.03%|
-|Iced_Phial_of_Corrupting_Rage_40_3|279344|1.57%|
-|Phial_of_Glacial_Fury_3|277769|1.00%|
-|Elemental_Potion_of_Ultimate_Power_3|275727|0.26%|
-|Elemental_Potion_of_Power_3|275551|0.19%|
-|Bottled_Putrescence_3|275502|0.17%|
-|Potion_of_Shocking_Disclosure_3|275309|0.10%|
-|Base|275022|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|303863|4.51%|
+|Iced_Phial_of_Corrupting_Rage_85_3|302433|4.01%|
+|Iced_Phial_of_Corrupting_Rage_70_3|300332|3.29%|
+|Phial_of_Static_Empowerment_3|300219|3.25%|
+|Phial_of_Charged_Isolation_3|299802|3.11%|
+|Phial_of_Tepid_Versatility_3|299743|3.09%|
+|Phial_of_Elemental_Chaos_3|299285|2.93%|
+|Iced_Phial_of_Corrupting_Rage_50_3|297495|2.31%|
+|Iced_Phial_of_Corrupting_Rage_40_3|295903|1.77%|
+|Phial_of_Glacial_Fury_3|294158|1.17%|
+|Elemental_Potion_of_Ultimate_Power_3|291649|0.30%|
+|Elemental_Potion_of_Power_3|291518|0.26%|
+|Potion_of_Shocking_Disclosure_3|291171|0.14%|
+|Bottled_Putrescence_3|291162|0.14%|
+|Base|290764|0.00%|

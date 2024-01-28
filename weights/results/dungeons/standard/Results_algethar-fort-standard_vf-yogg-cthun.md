@@ -1,4 +1,4 @@
 # algethar-fort-standard - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|58587|1.00|1.13|0.78|0.40|0.84|0.35|
+|Base|212538|1.00|0.89|0.79|0.70|0.80|0.14|

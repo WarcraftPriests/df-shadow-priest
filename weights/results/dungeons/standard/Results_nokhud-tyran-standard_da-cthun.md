@@ -1,4 +1,4 @@
 # nokhud-tyran-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|52345|1.00|1.19|0.80|0.43|0.85|0.38|
+|Base|199546|1.00|0.73|0.71|0.68|0.80|0.16|
