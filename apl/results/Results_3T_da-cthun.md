@@ -1,6 +1,5 @@
 # 3T - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|voidform_gigachads|402907|0.02%|
-|Base|402836|0.00%|
-|no_degen|402762|-0.02%|
+|new|446182|0.06%|
+|Base|445898|0.00%|

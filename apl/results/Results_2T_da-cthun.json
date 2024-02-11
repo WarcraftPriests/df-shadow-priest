@@ -1,1 +1,1 @@
-{"name": "2T - da-cthun", "data": {"Base": {"DPS": 317426}, "no_degen": {"DPS": 316990}, "voidform_gigachads": {"DPS": 316900}}, "ids": {"no_degen": null, "voidform_gigachads": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["no_degen", "voidform_gigachads"], "last_updated": "2024-01-15"}
+{"name": "2T - da-cthun", "data": {"new": {"DPS": 347270}, "Base": {"DPS": 347237}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2024-02-03"}

@@ -1,1 +1,1 @@
-{"name": "4T - vf-yogg-cthun", "data": {"no_degen": {"DPS": 550739}, "Base": {"DPS": 550478}, "voidform_gigachads": {"DPS": 550385}}, "ids": {"no_degen": null, "voidform_gigachads": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["no_degen", "voidform_gigachads"], "last_updated": "2024-01-15"}
+{"name": "4T - vf-yogg-cthun", "data": {"Base": {"DPS": 609008}, "new": {"DPS": 607571}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2024-02-03"}

@@ -1,1 +1,1 @@
-{"name": "Composite - vf-yogg-cthun", "data": {"voidform_gigachads": {"DPS": 266214}, "no_degen": {"DPS": 266170}, "Base": {"DPS": 265068}}, "ids": {"voidform_gigachads": null, "no_degen": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["voidform_gigachads", "no_degen"], "last_updated": "2024-01-15"}
+{"name": "Composite - vf-yogg-cthun", "data": {"new": {"DPS": 283799}, "Base": {"DPS": 283668}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2024-02-03"}

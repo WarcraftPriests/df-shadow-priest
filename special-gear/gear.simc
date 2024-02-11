@@ -58,6 +58,21 @@ profileset."Back_Voice_of_the_Silent_Star_500"+=back=voice_of_the_silent_star,id
 profileset."MH_Spore_Keepers_Baton_497-OH_Tricksters_Captivating_Chime_500"+=main_hand=spore_keepers_baton,id=204401,ilevel=497,enchant_id=${enchants.main_hand}
 profileset."MH_Spore_Keepers_Baton_497-OH_Tricksters_Captivating_Chime_500"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=500
 
+# Season 4 Items
+profileset."Finger1_Seal_of_Diurnas_Chosen_500-STAP_1"+=finger1=seal_of_diurnas_chosen,id=195480,enchant_id=${enchants.ring},gem_id=192948,ilevel=500
+profileset."Finger1_Seal_of_Diurnas_Chosen_500-STAP_1"+=feet=${gear.feet},ilevel=497,bonus_id=9379
+
+profileset."Finger2_Seal_of_Diurnas_Chosen_500-STAP_1"+=finger2=seal_of_diurnas_chosen,id=195480,enchant_id=${enchants.ring},gem_id=192948,ilevel=500
+profileset."Finger2_Seal_of_Diurnas_Chosen_500-STAP_1"+=feet=${gear.feet},ilevel=497,bonus_id=9379
+
+profileset."Finger1_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=finger1=seal_of_diurnas_chosen,id=195480,enchant_id=${enchants.ring},gem_id=192948,ilevel=500
+profileset."Finger1_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=main_hand=ph_fyrakk_cantrip_1h_mace_int,id=207788,ilevel=500,enchant_id=${enchants.main_hand}
+profileset."Finger1_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=500
+
+profileset."Finger2_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=finger2=seal_of_diurnas_chosen,id=195480,enchant_id=${enchants.ring},gem_id=192948,ilevel=500
+profileset."Finger2_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=main_hand=ph_fyrakk_cantrip_1h_mace_int,id=207788,ilevel=500,enchant_id=${enchants.main_hand}
+profileset."Finger2_Seal_of_Diurnas_Chosen_500-Vakash_500_Tricksters_Captivating_Chime_500"+=off_hand=tricksters_captivating_chime,id=207796,ilevel=500
+
 # Embellishments
 ## Blue Silken Lining - 8932
 ## Potion Absorption Inhibitor - 8175
