@@ -23,40 +23,55 @@ main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
 # Season 4
-# Mythic+ Trinkets (End of Run): ?/?/?/?/?/?/?/?/?/?
-# Mythic+ Trinkets (Great Vault): ?/?/?/?/?
-# Highest from key: ? // Upgrade: ? // Highest from vault: ?->?
-profileset."Idol_of_Pure_Decay_500"+=trinket1=idol_of_pure_decay,id=193660,ilevel=500
+# Highest from key: 509 // Upgrade: 522 // Highest from vault: 522->528
+profileset."Idol_of_Pure_Decay_522"+=trinket1=idol_of_pure_decay,id=193660,ilevel=522
+profileset."Idol_of_Pure_Decay_528"+=trinket1=idol_of_pure_decay,id=193660,ilevel=528
 
-profileset."Irideus_Fragment_500"+=trinket1=irideus_fragment,id=193743,ilevel=500
+profileset."Irideus_Fragment_522"+=trinket1=irideus_fragment,id=193743,ilevel=522
+profileset."Irideus_Fragment_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
 
-profileset."Erupting_Spear_Fragment_500"+=trinket1=erupting_spear_fragment,id=193769,ilevel=500
+profileset."Erupting_Spear_Fragment_522"+=trinket1=erupting_spear_fragment,id=193769,ilevel=522
+profileset."Erupting_Spear_Fragment_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
 
-profileset."Spoils_of_Neltharus_500"+=trinket1=spoils_of_neltharus,id=193773,ilevel=500
+profileset."Spoils_of_Neltharus_522"+=trinket1=spoils_of_neltharus,id=193773,ilevel=522
+profileset."Spoils_of_Neltharus_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
 
-profileset."Time_Breaching_Talon_500"+=trinket1=time_breaching_talon,id=193791,ilevel=500
+profileset."Time_Breaching_Talon_522"+=trinket1=time_breaching_talon,id=193791,ilevel=522
+profileset."Time_Breaching_Talon_528"+=trinket1=time_breaching_talon,id=193791,ilevel=528
 
-profileset."Emerald_Coachs_Whistle_500"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=500
+profileset."Emerald_Coachs_Whistle_522"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=522
+profileset."Emerald_Coachs_Whistle_528"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=528
 
-profileset."Tome_of_Unstable_Power_500"+=trinket1=tome_of_unstable_power,id=193628,ilevel=500
+profileset."Tome_of_Unstable_Power_522"+=trinket1=tome_of_unstable_power,id=193628,ilevel=522
+profileset."Tome_of_Unstable_Power_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
 
-profileset."Umbrelskuls_Fractured_Heart_500"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=500
+profileset."Umbrelskuls_Fractured_Heart_522"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=522
+profileset."Umbrelskuls_Fractured_Heart_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
 
-profileset."Furious_Ragefeather_500"+=trinket1=furious_ragefeather,id=193677,ilevel=500
+profileset."Furious_Ragefeather_522"+=trinket1=furious_ragefeather,id=193677,ilevel=522
+profileset."Furious_Ragefeather_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
 
-profileset."Ruby_Whelp_Shell_FS6_500"+=trinket1=ruby_whelp_shell,id=193757,ilevel=500
-profileset."Ruby_Whelp_Shell_FS6_500"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
+profileset."Ruby_Whelp_Shell_FS6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
+profileset."Ruby_Whelp_Shell_FS6_522"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
+profileset."Ruby_Whelp_Shell_FS6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
+profileset."Ruby_Whelp_Shell_FS6_528"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
 
-profileset."Ruby_Whelp_Shell_LFN6_500"+=trinket1=ruby_whelp_shell,id=193757,ilevel=500
-profileset."Ruby_Whelp_Shell_LFN6_500"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
+profileset."Ruby_Whelp_Shell_LFN6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
+profileset."Ruby_Whelp_Shell_LFN6_522"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
+profileset."Ruby_Whelp_Shell_LFN6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
+profileset."Ruby_Whelp_Shell_LFN6_528"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
 
-profileset."Ruby_Whelp_Shell_SRW6_500"+=trinket1=ruby_whelp_shell,id=193757,ilevel=500
-profileset."Ruby_Whelp_Shell_SRW6_500"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
+profileset."Ruby_Whelp_Shell_SRW6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
+profileset."Ruby_Whelp_Shell_SRW6_522"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
+profileset."Ruby_Whelp_Shell_SRW6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
+profileset."Ruby_Whelp_Shell_SRW6_528"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
 
-profileset."Ruby_Whelp_Shell_URW6_500"+=trinket1=ruby_whelp_shell,id=193757,ilevel=500
-profileset."Ruby_Whelp_Shell_URW6_500"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
+profileset."Ruby_Whelp_Shell_URW6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
+profileset."Ruby_Whelp_Shell_URW6_522"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
+profileset."Ruby_Whelp_Shell_URW6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
+profileset."Ruby_Whelp_Shell_URW6_528"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
 
-# Old Season 3 Trinkets (483/500)
+# Old Season 3 Trinkets (483/489)
 ## Atal'Dazar
 profileset."Vessel_of_Skittering_Shadows_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
 profileset."Vessel_of_Skittering_Shadows_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489

@@ -6,41 +6,41 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
-    # s4 dungeons (500?)
-    "Spoils_of_Neltharus_500": "spoils_of_neltharus,id=193773,ilevel=500",
-    # "Ruby_Whelp_Shell_500": "ruby_whelp_shell,id=193757,ilevel=500", # TODO: add combos?
-    "Tome_of_Unstable_Power_500": "tome_of_unstable_power,id=193628,ilevel=500",
-    "Umbrelskuls_Fractured_Heart_500": "umbrelskuls_fractured_heart,id=193639,ilevel=500",
-    "Furious_Ragefeather_500": "furious_ragefeather,id=193677,ilevel=500",
-    "Irideus_Fragment_500": "irideus_fragment,id=193743,ilevel=500",
-    "Idol_of_Pure_Decay_500": "idol_of_pure_decay,id=193660,ilevel=500",
-    "Erupting_Spear_Fragment_500": "erupting_spear_fragment,id=193769,ilevel=500",
-    "Time_Breaching_Talon_500": "time_breaching_talon,id=193791,ilevel=500",
-    "Emerald_Coachs_Whistle_500": "emerald_coachs_whistle,id=193718,ilevel=500",
-    # vault of the incarnates (500?)
-    "Conjured_Chillglobe_500": "conjured_chillglobe,id=194300,ilevel=500",
-    "Iceblood_Deathsnare_500": "iceblood_deathsnare,id=194304,ilevel=500",
-    "Whispering_Incarnate_Icon_0_500": "whispering_incarnate_icon,id=194301,ilevel=500",
-    "Whispering_Incarnate_Icon_1_500": "whispering_incarnate_icon,id=194301,ilevel=500",
-    "Whispering_Incarnate_Icon_2_500": "whispering_incarnate_icon,id=194301,ilevel=500",
-    "Desperate_Invokers_Codex_500": "desperate_invokers_codex,id=194310,ilevel=500",
-    "Spiteful_Storm_500": "spiteful_storm,id=194309,ilevel=500",
-    # aberrus the shadowed crucible (500?)
-    "Screaming_Black_Dragonscale_500": "screaming_black_dragonscale,id=202612,ilevel=500",
-    "Vessel_of_Searing_Shadow_500": "vessel_of_searing_shadow,id=202615,ilevel=500",
-    "Ominous_Chromatic_Essence_Bronze_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
-    "Ominous_Chromatic_Essence_Azure_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
-    "Ominous_Chromatic_Essence_Emerald_500": "ominous_chromatic_essence,id=203729,ilevel=500",  # noqa: E501
-    "Neltharions_Call_to_Suffering_500": "neltharions_call_to_suffering,id=204211,ilevel=500",  # noqa: E501
-    "Igneous_Flowstone_500": "igneous_flowstone,id=203996,ilevel=500",
-    "Beacon_to_the_Beyond_500": "beacon_to_the_beyond,id=203963,ilevel=500",
-    # amirdrassil: the dream's hope (500?)
-    "Pips_Emerald_Friendship_Badge_500": "pips_emerald_friendship_badge,id=207168,ilevel=500", # noqa: E501
-    "Nymues_Unraveling_Spindle_500": "nymues_unraveling_spindle,id=208615,ilevel=500",
-    "Nymues_Unraveling_Spindle_IMMOBILIZED_500": "nymues_unraveling_spindle,id=208615,ilevel=500", # noqa: E501
-    "Belorrelos_the_Suncaller_500": "belorrelos_the_suncaller,id=207172,ilevel=500",
-    "Augury_of_the_Primal_Flame_500": "augury_of_the_primal_flame,id=208614,ilevel=500",
-    "Ashes_of_the_Embersoul_500": "ashes_of_the_embersoul,id=207167,ilevel=500"
+    # s4 dungeons (528)
+    "Spoils_of_Neltharus_528": "spoils_of_neltharus,id=193773,ilevel=528",
+    # "Ruby_Whelp_Shell_528": "ruby_whelp_shell,id=193757,ilevel=528", # TODO: add combos?
+    "Tome_of_Unstable_Power_528": "tome_of_unstable_power,id=193628,ilevel=528",
+    "Umbrelskuls_Fractured_Heart_528": "umbrelskuls_fractured_heart,id=193639,ilevel=528",
+    "Furious_Ragefeather_528": "furious_ragefeather,id=193677,ilevel=528",
+    "Irideus_Fragment_528": "irideus_fragment,id=193743,ilevel=528",
+    "Idol_of_Pure_Decay_528": "idol_of_pure_decay,id=193660,ilevel=528",
+    "Erupting_Spear_Fragment_528": "erupting_spear_fragment,id=193769,ilevel=528",
+    "Time_Breaching_Talon_528": "time_breaching_talon,id=193791,ilevel=528",
+    "Emerald_Coachs_Whistle_528": "emerald_coachs_whistle,id=193718,ilevel=528",
+    # vault of the incarnates (528)
+    "Conjured_Chillglobe_528": "conjured_chillglobe,id=194300,ilevel=528",
+    "Iceblood_Deathsnare_528": "iceblood_deathsnare,id=194304,ilevel=528",
+    "Whispering_Incarnate_Icon_0_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_1_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_2_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Desperate_Invokers_Codex_528": "desperate_invokers_codex,id=194310,ilevel=528",
+    "Spiteful_Storm_528": "spiteful_storm,id=194309,ilevel=528",
+    # aberrus the shadowed crucible (528)
+    "Screaming_Black_Dragonscale_528": "screaming_black_dragonscale,id=202612,ilevel=528",
+    "Vessel_of_Searing_Shadow_528": "vessel_of_searing_shadow,id=202615,ilevel=528",
+    "Ominous_Chromatic_Essence_Bronze_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
+    "Ominous_Chromatic_Essence_Azure_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
+    "Ominous_Chromatic_Essence_Emerald_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
+    "Neltharions_Call_to_Suffering_528": "neltharions_call_to_suffering,id=204211,ilevel=528",  # noqa: E501
+    "Igneous_Flowstone_528": "igneous_flowstone,id=203996,ilevel=528",
+    "Beacon_to_the_Beyond_528": "beacon_to_the_beyond,id=203963,ilevel=528",
+    # amirdrassil: the dream's hope (528)
+    "Pips_Emerald_Friendship_Badge_528": "pips_emerald_friendship_badge,id=207168,ilevel=528", # noqa: E501
+    "Nymues_Unraveling_Spindle_528": "nymues_unraveling_spindle,id=208615,ilevel=528",
+    "Nymues_Unraveling_Spindle_IMMOBILIZED_528": "nymues_unraveling_spindle,id=208615,ilevel=528", # noqa: E501
+    "Belorrelos_the_Suncaller_528": "belorrelos_the_suncaller,id=207172,ilevel=528",
+    "Augury_of_the_Primal_Flame_528": "augury_of_the_primal_flame,id=208614,ilevel=528",
+    "Ashes_of_the_Embersoul_528": "ashes_of_the_embersoul,id=207167,ilevel=528"
 }
 
 

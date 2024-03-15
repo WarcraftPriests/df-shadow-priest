@@ -1,36 +1,57 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   vf-yogg-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAggkEAAAAAAAAAAAAgQKOQkk04ASSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_119242148517807_Flay
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk04ASSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962386888623_Flay_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgISOQAAAAAAAAAAAAACaOQkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_yogg_cthun_119242012489647_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_ME
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkk0gkkkEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962385069999_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAg4ApJRSSDSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962385840047_Flay_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAg4AaSkItgkkERigUIJJRaEIiQKSLkEUQSA # VF_yogg_cthun_121432581043119_Spike_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAggIBAAAAAAAAAAAAIOQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_112370199803823_Flay_DR
   da-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144713041839_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJHAAAAAAAAAAAAAIhWEJSJIJRSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98186874845103_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIIROQAAAAAAAAAAAAASiWEJSJIJRkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144613401519_Spike_DR
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEISOQAAAAAAAAAAAAASoFRiUCSSSSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98189156546479_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
     2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaOQkkUCSSSEJCShkkEpRgICpItQSQBJB # DA_yogg_cthun_119242146935727_Spike_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
-    4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiISAAAAAAAAAAAAACaSkkUgkkkEJCShkkEpRgICpItQSQBJB # DA_nzoth_yogg_cthun_129962385069999_Spike_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkkUCSSSEJCShkkEpRgICpItQSQBJA # DA_nzoth_yogg_cthun_129962419368879_Flay_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkkUCSSSSkIIFSSSkGBiIki0CJBFkA # DA_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-nzoth-yogg-cthun-dr:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkk0CSSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962419368879_Flay_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-nzoth-yogg-cthun-me:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAECCBAAAAAAAAAAAAISKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962280990639_Flay_ME
+  vf-cthun:
+    composite: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkmDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_DR
+    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAASSSAAAAAAAAAAAAACaEJJtgkkkkkIIFSSSkGBiIki0CJBFIB # VF_cthun_80589588527023_Spike_DR
+    single: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkiDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_ME
+    2t: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkmDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_DR
+    3t: BIQAAAAAAAAAAAAAAAAAAAAAAAikEAAAAAAAAAAAAgEaRkItgkkkkkIIFSSSkGBiIki0CJBFIB # VF_cthun_80597104719791_Spike_DR
+    4t: BIQAAAAAAAAAAAAAAAAAAAAAAAIJBAAAAAAAAAAAAIRa5ARSSLOgkkkEJCShkkEpRgICpItQSQBC # VF_cthun_79540544583599_Flay_DR
 gear:
   # TODO: adjust this to be more well rounded once we know full gear sources
-  head: "mask_of_the_furnace_seraph,id=202542,ilevel=500" # haste/crit
-  neck: "eye_of_the_rising_flame,id=207163,ilevel=500" # mastery/haste
-  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=500" # haste/mastery
-  back: "fireproof_drape,id=193763,ilevel=500" # haste/mastery
-  chest: "command_of_the_furnace_seraph,id=202545,ilevel=500" # crit/vers
-  wrists: "fading_flame_wristbands,id=210204,ilevel=500" # mastery/haste
-  hands: "twisting_shadow_claws,id=207115,ilevel=500" # mastery/haste
-  waist: "blooming_redeemers_sash,id=207124,ilevel=500" # haste/mastery
-  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=500" # mastery/crit
-  feet: "lifewoven_slippers,id=207123,ilevel=500" # mastery/haste
-  finger1: "band_of_burning_thorns,id=207159,ilevel=500" # haste/mastery
-  finger2: "entropic_convergence_loop,id=202572,ilevel=500" # mastery/haste
-  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=500"
-  trinket2: "whispering_incarnate_icon,id=194301,ilevel=500"
-  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=500" # haste/mastery
+  head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
+  neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
+  shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
+  back: "fireproof_drape,id=193763,ilevel=528" # haste/mastery
+  chest: "command_of_the_furnace_seraph,id=202545,ilevel=528" # crit/vers
+  wrists: "fading_flame_wristbands,id=210204,ilevel=528" # mastery/haste
+  hands: "twisting_shadow_claws,id=207115,ilevel=528" # mastery/haste
+  waist: "blooming_redeemers_sash,id=207124,ilevel=528" # haste/mastery
+  legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
+  feet: "lifewoven_slippers,id=207123,ilevel=528" # mastery/haste
+  finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
+  finger2: "entropic_convergence_loop,id=202572,ilevel=528" # mastery/haste
+  trinket1: "spoils_of_neltharus,id=193773,ilevel=528" # TODO: change this later
+  trinket2: "neltharions_call_to_suffering,id=204211,ilevel=528" # TODO: change this later
+  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=528" # haste/mastery
   off_hand: ""
 # TODO: adjust this as needed
 gems:
@@ -153,6 +174,7 @@ sims:
       - VF-Flay_DR.simc
   talents-top:
     description: "Shows top talents."
+    iterations: 20000
     builds: false
     weights: false
     chart: true
@@ -189,11 +211,11 @@ sims:
     lookupType: item
     steps:
       - 483
-      - 486
       - 489
       - 496
-      - 497
-      - 500
+      - 522
+      - 525
+      - 528
     files:
       - raid.simc
       - dungeons.simc
@@ -234,11 +256,11 @@ analyze:
 stats:
   base: 2000
   steps: 500
-  total: 16000
+  total: 18000
   min:
     haste: 5000
-    mastery: 5000
-    crit: 0
+    mastery: 5500
+    crit: 1000
     vers: 0
   include:
     - mastery

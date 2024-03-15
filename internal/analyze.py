@@ -81,6 +81,14 @@ def find_weight(sim_type, profile_name, dungeons):
     return weight
 
 
+def get_number_of_profiles(dir_name):
+    """support talents having a dynamic number of base profiles"""
+    if dir_name == "talents":
+        return len(os.listdir("builds/"))
+    else:
+        return len(config["sims"][dir_name]["files"])
+
+
 def build_results(data, weights, sim_type, directory, dungeons):
     """create results dict from sim data"""
     results = {}
@@ -114,7 +122,7 @@ def build_results(data, weights, sim_type, directory, dungeons):
         else:
             results[actor] = results.get(actor, 0) + weighted_dps
     # Each profile sims "Base" again so we need to divide that to get the real average
-    number_of_profiles = len(config["sims"][directory[:-1]]["files"])
+    number_of_profiles = get_number_of_profiles(directory[:-1])
     base_actor = results.get("Base")
     if weights:
         base_dps = {}
@@ -239,6 +247,7 @@ def lookup_spell_id(spell_name, directory):
     return None
 
 
+# TODO: this will break on talents/ having dynamic files
 def lookup_item_id(item_name, directory):
     """
     get the list of sim files from config

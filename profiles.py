@@ -197,6 +197,14 @@ def create_talent_builds():
     return profiles
 
 
+def get_sim_files(sim_dir):
+    # talents use generated files in the builds/ dir
+    if sim_dir == "talents":
+        return os.listdir("talents/builds/")
+    else:
+        return config["sims"][sim_dir]["files"]
+
+
 def build_profiles(talent_string, apl_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
@@ -212,10 +220,14 @@ def build_profiles(talent_string, apl_string):
         for add in add_types
         for tar in targets  # noqa: E501
     ]
-    sim_files = config["sims"][args.dir[:-1]]["files"]
+    sim_files = get_sim_files(args.dir[:-1])
 
     for sim_file in sim_files:
-        with open(f"{args.dir}{sim_file}", "r", encoding="utf8") as contents:
+        full_sim_file = ""
+        if args.dir[:-1] == "talents":
+            full_sim_file += "builds/"
+        full_sim_file += sim_file
+        with open(f"{args.dir}{full_sim_file}", "r", encoding="utf8") as contents:
             data = contents.read()
             contents.close()
         if args.dungeons:
