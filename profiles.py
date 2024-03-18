@@ -158,18 +158,22 @@ def replace_talents(talent_string, data):
     return data
 
 
-def replace_gear(data):
+def replace_gear(data, talent_string):
     """replaces gear based on the default in config"""
     # replace gear
-    for slot in config["gear"]:
+    gear_setup = config["builds"][talent_string]["gearSetup"]
+    # special-gear should use nonCantrip set
+    if args.dir[:-1] == "special-gear":
+        gear_setup = "noCantrip"
+    for slot in config["gear"][gear_setup]:
         if slot == "off_hand":
-            if config["gear"][slot] != "":
-                replacement_string = "off_hand=" + config["gear"][slot]
+            if config["gear"][gear_setup][slot] != "":
+                replacement_string = "off_hand=" + config["gear"][gear_setup][slot]
             else:
                 replacement_string = ""
             data = data.replace(f"${{gear.{slot}}}", replacement_string)
         else:
-            data = data.replace(f"${{gear.{slot}}}", config["gear"][slot])
+            data = data.replace(f"${{gear.{slot}}}", config["gear"][gear_setup][slot])
     # replace gems
     for gem in config["gems"]:
         data = data.replace(f"${{gems.{gem}}}", config["gems"][gem])
@@ -182,7 +186,6 @@ def replace_gear(data):
 def create_talent_builds():
     """creates profiles from talents.yml"""
     profiles = ""
-
     with open("internal/talents.yml", "r", encoding="utf8") as talent_file:
         talent_builds = yaml.load(talent_file, Loader=yaml.FullLoader)
         talent_file.close()
@@ -234,12 +237,12 @@ def build_profiles(talent_string, apl_string):
             combinations = utils.get_dungeon_combos()
         if talent_string:
             if args.dungeons:
-                talents_expr = config["builds"][talent_string]["dungeons"]
+                talents_expr = config["builds"]["talents"][talent_string]["dungeons"]
             else:
-                talents_expr = config["builds"][talent_string]["composite"]
+                talents_expr = config["builds"]["talents"][talent_string]["composite"]
         else:
             talents_expr = ""
-        data = replace_gear(data)
+        data = replace_gear(data, talent_string)
         # apl override
         data = data.replace("${apl}", apl_string)
         # builds override
@@ -286,16 +289,16 @@ def build_profiles(talent_string, apl_string):
                 else:
                     target_count = int(profile[-1])
                 if profile in config["singleTargetProfiles"]:
-                    new_talents = config["builds"][talent_string]["single"]
+                    new_talents = config["builds"]["talents"][talent_string]["single"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 2:
-                    new_talents = config["builds"][talent_string]["2t"]
+                    new_talents = config["builds"]["talents"][talent_string]["2t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 3:
-                    new_talents = config["builds"][talent_string]["3t"]
+                    new_talents = config["builds"]["talents"][talent_string]["3t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 4:
-                    new_talents = config["builds"][talent_string]["4t"]
+                    new_talents = config["builds"]["talents"][talent_string]["4t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data)

@@ -22,7 +22,7 @@ finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
 main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
 ${gear.off_hand}
 
-gear_intellect=12500
+gear_intellect=18000
 gear_crit_rating=500
 gear_haste_rating=500
 gear_mastery_rating=500
