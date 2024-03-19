@@ -48,6 +48,8 @@ profileset."Screaming_Black_Dragonscale_528"+=trinket1=screaming_black_dragonsca
 
 profileset."Vessel_of_Searing_Shadow_528"+=trinket1=vessel_of_searing_shadow,id=202615,ilevel=528
 
+profileset."Rashoks_Molten_Heart_528"+=trinket1=rashoks_molten_heart,id=202614,ilevel=528
+
 ## ominous_chromatic_essence_dragonflight = obsidian (default) | ruby | bronze | azure | emerald
 profileset."Ominous_Chromatic_Essence_Obsidian_528"+=trinket1=ominous_chromatic_essence,id=203729,ilevel=528
 profileset."Ominous_Chromatic_Essence_Obsidian_528"+=dragonflight.ominous_chromatic_essence_dragonflight=obsidian

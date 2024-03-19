@@ -1,0 +1,91 @@
+# Head
+copy="Head_Lost_Scholars_Timely_Hat_528","Base"
+head=lost_scholars_timely_hat,id=207116,ilevel=528,enchant_id=7052
+
+# Neck
+copy="Neck_Ouroboreal_Necklet_528","Base"
+neck=ouroboreal_necklet,id=210214,ilevel=528,gem_id=192985/192925/192925
+
+copy="Neck_Amulet_of_Eonars_Chosen_528","Base"
+neck=amulet_of_eonars_chosen,id=208445,ilevel=528,gem_id=192985/192925/192925
+
+copy="Neck_Eye_of_the_Rising_Flame_528","Base"
+neck=eye_of_the_rising_flame,id=207163,ilevel=528,gem_id=192985/192925/192925
+
+# Shoulders
+copy="Shoulders_Requiem_Rootmantle_528","Base"
+shoulder=requiem_rootmantle,id=207117,ilevel=528
+
+# Back
+copy="Back_Inflammable_Drapeleaf_528","Base"
+back=inflammable_drapeleaf,id=207160,ilevel=528
+
+copy="Back_Mantle_of_Blazing_Sacrifice_528","Base"
+back=mantle_of_blazing_sacrifice,id=207161,ilevel=528
+
+# Chest
+copy="Chest_Vesture_of_the_Smoldering_Serpent_528","Base"
+chest=vesture_of_the_smoldering_serpent,id=207121,ilevel=528,enchant_id=6625
+
+# Wrists
+copy="Wrists_Anguished_Restraints_528","Base"
+wrists=anguished_restraints,id=207120,ilevel=528,gem_id=192925
+
+copy="Wrists_Fading_Flame_Wristbands_528","Base"
+wrists=fading_flame_wristbands,id=210204,ilevel=528,gem_id=192925
+
+# Hands
+copy="Hands_Twisting_Shadow_Claws_528","Base"
+hands=twisting_shadow_claws,id=207115,ilevel=528
+
+# Waist
+copy="Waist_Urctos_Hibernal_Dial_528","Base"
+waist=urctoss_hibernal_dial,id=207119,ilevel=528,gem_id=192925
+
+copy="Waist_Blooming_Redeemers_Sash_528","Base"
+waist=blooming_redeemers_sash,id=207124,ilevel=528,gem_id=192925
+
+# Legs
+copy="Legs_Elders_Volcanic_Wrap_528","Base"
+legs=elders_volcanic_wrap,id=207118,ilevel=528,enchant_id=6541
+
+copy="Legs_Coattails_of_the_Rightful_Heir_528","Base"
+# TODO
+
+# Feet
+copy="Feet_Lost_Scholars_Belted_Treads_528","Base"
+feet=lost_scholars_belted_treads,id=207122,ilevel=528
+
+copy="Feet_Lifewoven_Slippers_528","Base"
+feet=lifewoven_slippers,id=207123,ilevel=528
+
+# Rings
+copy="Finger1_Signet_of_the_Last_Elder_528","Base"
+finger1=signet_of_the_last_elder,id=207162,ilevel=528,enchant_id=6562,gem_id=192925
+
+copy="Finger2_Signet_of_the_Last_Elder_528","Base"
+finger2=signet_of_the_last_elder,id=207162,ilevel=528,enchant_id=6562,gem_id=192925
+
+copy="Finger1_Band_of_Burning_Thorns_528","Base"
+finger1=band_of_burning_thorns,id=207159,ilevel=528,enchant_id=6562,gem_id=192925
+
+copy="Finger2_Band_of_Burning_Thorns_528","Base"
+finger2=band_of_burning_thorns,id=207159,ilevel=528,enchant_id=6562,gem_id=192925
+
+# 1H + OH
+
+# 2H
+copy="2h_Dreambinder_Loom_of_the_Great_Cycle_528","Base"
+main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=528,enchant_id=6655
+offhand=""
+
+# Season 2 Tier Items
+# head=mask_of_the_furnace_seraph,id=202542,ilevel=528,enchant_id=7052
+# shoulder=devotion_of_the_furnace_seraph,id=202540,ilevel=528
+# back=shroud_of_the_furnace_seraph,id=202537,ilevel=528
+# chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant_id=6625
+# wrists=cuffs_of_the_furnace_seraph,id=202538,ilevel=528,gem_id=192925
+# hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
+# waist=sash_of_the_furnace_seraph,id=202539,ilevel=528,gem_id=192925
+# legs=breeches_of_the_furnace_seraph,id=202541,ilevel=528,enchant_id=6541
+# feet=sabatons_of_the_furnace_seraph,id=202544,ilevel=528

@@ -9,8 +9,8 @@ combos = {
     # s4 dungeons (528)
     "Spoils_of_Neltharus_528": "spoils_of_neltharus,id=193773,ilevel=528",
     # "Ruby_Whelp_Shell_528": "ruby_whelp_shell,id=193757,ilevel=528", # TODO: add combos?
-    "Tome_of_Unstable_Power_528": "tome_of_unstable_power,id=193628,ilevel=528",
-    "Umbrelskuls_Fractured_Heart_528": "umbrelskuls_fractured_heart,id=193639,ilevel=528",
+    # "Tome_of_Unstable_Power_528": "tome_of_unstable_power,id=193628,ilevel=528", # TODO: Check after rework
+    # "Umbrelskuls_Fractured_Heart_528": "umbrelskuls_fractured_heart,id=193639,ilevel=528", # TODO: Check after rework
     "Furious_Ragefeather_528": "furious_ragefeather,id=193677,ilevel=528",
     "Irideus_Fragment_528": "irideus_fragment,id=193743,ilevel=528",
     "Idol_of_Pure_Decay_528": "idol_of_pure_decay,id=193660,ilevel=528",

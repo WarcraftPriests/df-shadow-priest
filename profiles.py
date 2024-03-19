@@ -237,9 +237,9 @@ def build_profiles(talent_string, apl_string):
             combinations = utils.get_dungeon_combos()
         if talent_string:
             if args.dungeons:
-                talents_expr = config["builds"]["talents"][talent_string]["dungeons"]
+                talents_expr = config["builds"][talent_string]["talents"]["dungeons"]
             else:
-                talents_expr = config["builds"]["talents"][talent_string]["composite"]
+                talents_expr = config["builds"][talent_string]["talents"]["composite"]
         else:
             talents_expr = ""
         data = replace_gear(data, talent_string)
@@ -289,16 +289,16 @@ def build_profiles(talent_string, apl_string):
                 else:
                     target_count = int(profile[-1])
                 if profile in config["singleTargetProfiles"]:
-                    new_talents = config["builds"]["talents"][talent_string]["single"]
+                    new_talents = config["builds"][talent_string]["talents"]["single"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 2:
-                    new_talents = config["builds"]["talents"][talent_string]["2t"]
+                    new_talents = config["builds"][talent_string]["talents"]["2t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 3:
-                    new_talents = config["builds"]["talents"][talent_string]["3t"]
+                    new_talents = config["builds"][talent_string]["talents"]["3t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 elif target_count == 4:
-                    new_talents = config["builds"]["talents"][talent_string]["4t"]
+                    new_talents = config["builds"][talent_string]["talents"]["4t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data)
