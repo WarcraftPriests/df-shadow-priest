@@ -46,18 +46,18 @@ builds:
       3t: BIQAAAAAAAAAAAAAAAAAAAAAAAikEAAAAAAAAAAAAgEaRkItgkkkkkIIFSSSkGBiIki0CJBFIB # VF_cthun_80597104719791_Spike_DR
       4t: BIQAAAAAAAAAAAAAAAAAAAAAAAIJBAAAAAAAAAAAAIRa5ARSSLOgkkkEJCShkkEpRgICpItQSQBC # VF_cthun_79540544583599_Flay_DR
 gear:
-  # 6.1k Mastery | 5.6k Haste | 3k Crit | 3.2k Vers
+  # 5.1k Mastery (+2084 from BSL) | 6.7k Haste | 2.6k Crit | 3.5k Vers
   default:
     head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
     neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
     shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
     back: "inflammable_drapeleaf,id=207160,ilevel=528" # crit/vers
-    chest: "command_of_the_furnace_seraph,id=202545,ilevel=528" # crit/vers
-    wrists: "fading_flame_wristbands,id=210204,ilevel=528" # mastery/haste
-    hands: "twisting_shadow_claws,id=207115,ilevel=528" # mastery/haste
+    chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=528" # haste/crit
+    wrists: "vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
+    hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=528" # vers/haste
     waist: "blooming_redeemers_sash,id=207124,ilevel=528" # haste/mastery
     legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
-    feet: "lifewoven_slippers,id=207123,ilevel=528" # mastery/haste
+    feet: "vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
     finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
     finger2: "seal_of_diurnas_chosen,id=195480,ilevel=528" # vers/crit
     trinket1: "spoils_of_neltharus,id=193773,ilevel=528" # TODO: change this later

@@ -1,6 +1,7 @@
 # Head
 copy="Head_Lost_Scholars_Timely_Hat_528","Base"
 head=lost_scholars_timely_hat,id=207116,ilevel=528,enchant_id=7052
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 
 # Neck
 copy="Neck_Ouroboreal_Necklet_528","Base"
@@ -15,6 +16,7 @@ neck=eye_of_the_rising_flame,id=207163,ilevel=528,gem_id=192985/192925/192925
 # Shoulders
 copy="Shoulders_Requiem_Rootmantle_528","Base"
 shoulder=requiem_rootmantle,id=207117,ilevel=528
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 
 # Back
 copy="Back_Inflammable_Drapeleaf_528","Base"
@@ -26,6 +28,7 @@ back=mantle_of_blazing_sacrifice,id=207161,ilevel=528
 # Chest
 copy="Chest_Vesture_of_the_Smoldering_Serpent_528","Base"
 chest=vesture_of_the_smoldering_serpent,id=207121,ilevel=528,enchant_id=6625
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 
 # Wrists
 copy="Wrists_Anguished_Restraints_528","Base"
@@ -48,9 +51,11 @@ waist=blooming_redeemers_sash,id=207124,ilevel=528,gem_id=192925
 # Legs
 copy="Legs_Elders_Volcanic_Wrap_528","Base"
 legs=elders_volcanic_wrap,id=207118,ilevel=528,enchant_id=6541
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 
 copy="Legs_Coattails_of_the_Rightful_Heir_528","Base"
-# TODO
+legs=coattails_of_the_rightful_heir,id=202585,ilevel=528,enchant_id=6541
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 
 # Feet
 copy="Feet_Lost_Scholars_Belted_Treads_528","Base"
@@ -77,7 +82,7 @@ finger2=band_of_burning_thorns,id=207159,ilevel=528,enchant_id=6562,gem_id=19292
 # 2H
 copy="2h_Dreambinder_Loom_of_the_Great_Cycle_528","Base"
 main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=528,enchant_id=6655
-offhand=""
+off_hand=disabled
 
 # Season 2 Tier Items
 # head=mask_of_the_furnace_seraph,id=202542,ilevel=528,enchant_id=7052
