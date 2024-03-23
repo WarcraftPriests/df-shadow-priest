@@ -1,0 +1,34 @@
+# 4T - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|821640|1.79%|
+|Troll|817666|1.30%|
+|Goblin|817400|1.27%|
+|Night_Elf_Haste|817381|1.27%|
+|Gnome|817012|1.22%|
+|Void_Elf|815699|1.06%|
+|Blood_Elf|814866|0.96%|
+|Zandalari_Troll_Paku|814633|0.93%|
+|Nightborne|813806|0.82%|
+|Night_Elf_Crit|813618|0.80%|
+|Tauren|813591|0.80%|
+|Kul_Tiran|813538|0.79%|
+|Worgen|813509|0.79%|
+|Highmountain_Tauren|813292|0.76%|
+|Dwarf|813193|0.75%|
+|Mechagnome|812876|0.71%|
+|Panda_Crit|812052|0.61%|
+|Orc|811961|0.60%|
+|Panda_Mastery|811362|0.52%|
+|Maghar_Orc|811197|0.50%|
+|Panda_Vers|810811|0.45%|
+|Dark_Iron_Dwarf|810661|0.43%|
+|Panda_Haste|810572|0.42%|
+|Draenei|810405|0.40%|
+|Panda_Fortune_Cookie|809540|0.30%|
+|Zandalari_Troll_Bwonsamdi|807530|0.05%|
+|Zandalari_Troll_Kimbul|807394|0.03%|
+|Undead|807234|0.01%|
+|Base|807154|0.00%|
+|Lightforged_Draenei|807044|-0.01%|
+|Vulpera|806966|-0.02%|

@@ -1,0 +1,34 @@
+# Composite - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|400570|1.87%|
+|Gnome|399028|1.48%|
+|Night_Elf_Haste|399007|1.47%|
+|Goblin|398976|1.47%|
+|Troll|398748|1.41%|
+|Void_Elf|398022|1.22%|
+|Blood_Elf|396978|0.96%|
+|Zandalari_Troll_Paku|396879|0.93%|
+|Nightborne|396677|0.88%|
+|Dwarf|396513|0.84%|
+|Highmountain_Tauren|396487|0.83%|
+|Night_Elf_Crit|396448|0.82%|
+|Tauren|396441|0.82%|
+|Worgen|396439|0.82%|
+|Kul_Tiran|396415|0.81%|
+|Mechagnome|396191|0.76%|
+|Orc|396000|0.71%|
+|Panda_Crit|395493|0.58%|
+|Panda_Mastery|395475|0.58%|
+|Panda_Haste|395472|0.58%|
+|Maghar_Orc|395367|0.55%|
+|Panda_Vers|395288|0.53%|
+|Draenei|395233|0.51%|
+|Dark_Iron_Dwarf|395220|0.51%|
+|Panda_Fortune_Cookie|394585|0.35%|
+|Undead|393903|0.18%|
+|Zandalari_Troll_Bwonsamdi|393853|0.16%|
+|Zandalari_Troll_Kimbul|393821|0.16%|
+|Vulpera|393225|0.00%|
+|Lightforged_Draenei|393221|0.00%|
+|Base|393210|0.00%|

@@ -1,19 +1,19 @@
 # Composite - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Great_Cerulean_Sea|281014|0.59%|
-|Sizzling_Seafood_Medley|281013|0.59%|
-|Feisty_Fish_Sticks|280993|0.58%|
-|Revenge_Served_Cold|280984|0.58%|
-|Aromatic_Seafood_Platter|280977|0.57%|
-|Thousandbone_Tongueslicer|280924|0.55%|
-|Dreambound_Augment_Rune|280791|0.51%|
-|Draconic_Augment_Rune|280753|0.49%|
-|Seamoth_Surprise|280702|0.48%|
-|Salt_Baked_Fishcake|280574|0.43%|
-|Timely_Demise|280555|0.42%|
-|Filet_of_Fangs|280545|0.42%|
-|Fated_Fortune_Cookie|280545|0.42%|
-|Roast_Duck_Delight|279865|0.18%|
-|Thrice_Spiced_Mammoth_Kabob|279728|0.13%|
-|Base|279374|0.00%|
+|Feisty_Fish_Sticks|403574|0.58%|
+|Thousandbone_Tongueslicer|403563|0.58%|
+|Revenge_Served_Cold|403545|0.58%|
+|Sizzling_Seafood_Medley|403450|0.55%|
+|Great_Cerulean_Sea|403440|0.55%|
+|Aromatic_Seafood_Platter|403438|0.55%|
+|Filet_of_Fangs|403051|0.45%|
+|Seamoth_Surprise|402957|0.43%|
+|Salt_Baked_Fishcake|402950|0.43%|
+|Timely_Demise|402882|0.41%|
+|Dreambound_Augment_Rune|402867|0.41%|
+|Draconic_Augment_Rune|402765|0.38%|
+|Fated_Fortune_Cookie|402603|0.34%|
+|Roast_Duck_Delight|401907|0.17%|
+|Thrice_Spiced_Mammoth_Kabob|401544|0.08%|
+|Base|401236|0.00%|

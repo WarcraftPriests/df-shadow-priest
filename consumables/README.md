@@ -13,3 +13,17 @@
 - [2T - DA-CTHUN](results/Results_2T_da-cthun.md)
 - [3T - DA-CTHUN](results/Results_3T_da-cthun.md)
 - [4T - DA-CTHUN](results/Results_4T_da-cthun.md)
+## VF-NZOTH-YOGG-CTHUN-DR
+- [Composite - VF-NZOTH-YOGG-CTHUN-DR](results/Results_Composite_vf-nzoth-yogg-cthun-dr.md)
+- [Single - VF-NZOTH-YOGG-CTHUN-DR](results/Results_Single_vf-nzoth-yogg-cthun-dr.md)
+- [Dungeons - VF-NZOTH-YOGG-CTHUN-DR](results/Results_Dungeons_vf-nzoth-yogg-cthun-dr.md)
+- [2T - VF-NZOTH-YOGG-CTHUN-DR](results/Results_2T_vf-nzoth-yogg-cthun-dr.md)
+- [3T - VF-NZOTH-YOGG-CTHUN-DR](results/Results_3T_vf-nzoth-yogg-cthun-dr.md)
+- [4T - VF-NZOTH-YOGG-CTHUN-DR](results/Results_4T_vf-nzoth-yogg-cthun-dr.md)
+## VF-NZOTH-YOGG-CTHUN-ME
+- [Composite - VF-NZOTH-YOGG-CTHUN-ME](results/Results_Composite_vf-nzoth-yogg-cthun-me.md)
+- [Single - VF-NZOTH-YOGG-CTHUN-ME](results/Results_Single_vf-nzoth-yogg-cthun-me.md)
+- [Dungeons - VF-NZOTH-YOGG-CTHUN-ME](results/Results_Dungeons_vf-nzoth-yogg-cthun-me.md)
+- [2T - VF-NZOTH-YOGG-CTHUN-ME](results/Results_2T_vf-nzoth-yogg-cthun-me.md)
+- [3T - VF-NZOTH-YOGG-CTHUN-ME](results/Results_3T_vf-nzoth-yogg-cthun-me.md)
+- [4T - VF-NZOTH-YOGG-CTHUN-ME](results/Results_4T_vf-nzoth-yogg-cthun-me.md)

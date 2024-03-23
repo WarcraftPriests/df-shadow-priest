@@ -161,7 +161,10 @@ def replace_talents(talent_string, data):
 def replace_gear(data, talent_string):
     """replaces gear based on the default in config"""
     # replace gear
-    gear_setup = config["builds"][talent_string]["gearSetup"]
+    if talent_string is None:
+        gear_setup = "default"
+    else:
+        gear_setup = config["builds"][talent_string]["gearSetup"]
     # special-gear should use nonCantrip set
     if args.dir[:-1] == "special-gear":
         gear_setup = "noCantrip"

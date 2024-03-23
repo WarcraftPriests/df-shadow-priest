@@ -1,18 +1,18 @@
 # Composite - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|281649|4.84%|
-|Iced_Phial_of_Corrupting_Rage_85_3|280381|4.36%|
-|Iced_Phial_of_Corrupting_Rage_70_3|278257|3.57%|
-|Phial_of_Charged_Isolation_3|277982|3.47%|
-|Phial_of_Tepid_Versatility_3|277672|3.36%|
-|Phial_of_Static_Empowerment_3|277662|3.35%|
-|Phial_of_Elemental_Chaos_3|277209|3.18%|
-|Iced_Phial_of_Corrupting_Rage_50_3|275309|2.48%|
-|Iced_Phial_of_Corrupting_Rage_40_3|273847|1.93%|
-|Elemental_Potion_of_Ultimate_Power_3|270980|0.86%|
-|Phial_of_Glacial_Fury_3|270715|0.77%|
-|Elemental_Potion_of_Power_3|270432|0.66%|
-|Bottled_Putrescence_3|269205|0.20%|
-|Potion_of_Shocking_Disclosure_3|269132|0.18%|
-|Base|268657|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|400522|4.96%|
+|Iced_Phial_of_Corrupting_Rage_85_3|398582|4.45%|
+|Iced_Phial_of_Corrupting_Rage_70_3|395556|3.65%|
+|Phial_of_Tepid_Versatility_3|392902|2.96%|
+|Phial_of_Elemental_Chaos_3|392713|2.91%|
+|Phial_of_Charged_Isolation_3|392133|2.76%|
+|Phial_of_Static_Empowerment_3|391725|2.65%|
+|Iced_Phial_of_Corrupting_Rage_50_3|391403|2.57%|
+|Iced_Phial_of_Corrupting_Rage_40_3|389122|1.97%|
+|Elemental_Potion_of_Ultimate_Power_3|384416|0.73%|
+|Elemental_Potion_of_Power_3|383716|0.55%|
+|Phial_of_Glacial_Fury_3|383496|0.49%|
+|Potion_of_Shocking_Disclosure_3|382277|0.17%|
+|Bottled_Putrescence_3|382174|0.15%|
+|Base|381612|0.00%|

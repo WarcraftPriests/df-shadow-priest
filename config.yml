@@ -15,7 +15,7 @@ builds:
       composite: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
       dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEISOQAAAAAAAAAAAAASoFRiUCSSSSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98189156546479_Spike_DR
       single: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaOQkkUCSSSEJCShkkEpRgICpItQSQBJB # DA_yogg_cthun_119242146935727_Spike_DR
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaSkIlgkkERigUIJJRaEIiQKSLkEUQSA # DA_yogg_cthun_121432580256687_Spike_DR
       3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkkUCSSSEJCShkkEpRgICpItQSQBJA # DA_nzoth_yogg_cthun_129962419368879_Flay_DR
       4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkkUCSSSSkIIFSSSkGBiIki0CJBFkA # DA_nzoth_yogg_cthun_129962384799663_Flay_DR
   vf-nzoth-yogg-cthun-dr:
@@ -31,20 +31,11 @@ builds:
     gearSetup: default
     talents:
       composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_ME
       single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
       2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
       3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECCBAAAAAAAAAAAAISKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962280990639_Flay_ME
-  vf-cthun:
-    gearSetup: default
-    talents:
-      composite: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkmDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_DR
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAASSSAAAAAAAAAAAAACaEJJtgkkkkkIIFSSSkGBiIki0CJBFIB # VF_cthun_80589588527023_Spike_DR
-      single: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkiDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_ME
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAAEJBAAAAAAAAAAAAIkmDEJJtISSSkkIIFSSSkGBiIki0CJBFIA # VF_cthun_80658376897455_Flay_DR
-      3t: BIQAAAAAAAAAAAAAAAAAAAAAAAikEAAAAAAAAAAAAgEaRkItgkkkkkIIFSSSkGBiIki0CJBFIB # VF_cthun_80597104719791_Spike_DR
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAAIJBAAAAAAAAAAAAIRa5ARSSLOgkkkEJCShkkEpRgICpItQSQBC # VF_cthun_79540544583599_Flay_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
 gear:
   # 5.1k Mastery (+2084 from BSL) | 6.7k Haste | 2.6k Crit | 3.5k Vers
   default:
@@ -60,8 +51,8 @@ gear:
     feet: "vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
     finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
     finger2: "seal_of_diurnas_chosen,id=195480,ilevel=528" # vers/crit
-    trinket1: "spoils_of_neltharus,id=193773,ilevel=528" # TODO: change this later
-    trinket2: "neltharions_call_to_suffering,id=204211,ilevel=528" # TODO: change this later
+    trinket1: "spoils_of_neltharus,id=193773,ilevel=528"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
     main_hand: "vakash_the_shadowed_inferno,id=207788,ilevel=528" # mastery/haste
     off_hand: "tricksters_captivating_chime,id=207796,ilevel=528" # mastery/haste
   # 6.5k Mastery | 5.8k Haste | 3.3k Crit | 2.4k Vers
@@ -78,15 +69,13 @@ gear:
     feet: "lifewoven_slippers,id=207123,ilevel=528" # mastery/haste
     finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
     finger2: "entropic_convergence_loop,id=202572,ilevel=528" # mastery/haste
-    trinket1: "spoils_of_neltharus,id=193773,ilevel=528" # TODO: change this later
-    trinket2: "neltharions_call_to_suffering,id=204211,ilevel=528" # TODO: change this later
+    trinket1: "spoils_of_neltharus,id=193773,ilevel=528"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
     main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=528" # haste/mastery
     off_hand: ""
-# TODO: adjust this as needed
 gems:
-  meta: "192985"
-  main: "192925"
-# TODO: adjust this as needed
+  meta: "192988"
+  main: "192919"
 enchants:
   head: "7052" # Incandescent Essence
   chest: "6625" # Waking Stats

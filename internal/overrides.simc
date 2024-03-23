@@ -1,9 +1,2 @@
 
 # Overrides are added below here
-## Aberrus, the Shadowed Crucible (2) Set Bonus: Increases the damage of Mind Blast by 40% when Shadowy Insight triggers (was 30%).
-override.spell_data=effect.1053895.base_value=40
-## Aberrus, the Shadowed Crucible (4) Set Bonus: Increases Devouring Plague damage by 18% (was 15%).
-override.spell_data=effect.1053896.base_value=18
-override.spell_data=effect.1077001.base_value=18
-## Aberrus, the Shadowed Crucible (4) Set Bonus: Causes every 4 casts of Devouring Plague to increase Shadowy Apparition damage by 100% for 10 seconds (was 80%).
-override.spell_data=effect.1076950.base_value=100

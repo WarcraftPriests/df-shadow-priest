@@ -185,134 +185,146 @@ actions.trinkets+=/use_item,name=desperate_invokers_codex,if=equipped.desperate_
 head=mask_of_the_furnace_seraph,id=202542,ilevel=528,gem_id=192925,enchant_id=7052
 neck=eye_of_the_rising_flame,id=207163,ilevel=528,gem_id=192985/192925/192925
 shoulders=devotion_of_the_furnace_seraph,id=202540,ilevel=528
-back=fireproof_drape,id=193763,ilevel=528
-chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant_id=6625
-wrists=fading_flame_wristbands,id=210204,ilevel=528,gem_id=192925
-hands=twisting_shadow_claws,id=207115,ilevel=528
+back=inflammable_drapeleaf,id=207160,ilevel=528
+chest=vesture_of_the_smoldering_serpent,id=207121,ilevel=528,enchant_id=6625
+wrists=vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525,gem_id=192925
+hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
 waist=blooming_redeemers_sash,id=207124,ilevel=528,gem_id=192925
 legs=breeches_of_the_furnace_seraph,id=202541,ilevel=528,enchant_id=6541
-feet=lifewoven_slippers,id=207123,ilevel=528
+feet=vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525
 finger1=band_of_burning_thorns,id=207159,ilevel=528,enchant_id=6562,gem_id=192925
-finger2=entropic_convergence_loop,id=202572,ilevel=528,enchant_id=6562,gem_id=192925
+finger2=seal_of_diurnas_chosen,id=195480,ilevel=528,enchant_id=6562,gem_id=192925
 trinket1=spoils_of_neltharus,id=193773,ilevel=528
 trinket2=neltharions_call_to_suffering,id=204211,ilevel=528
-main_hand=eternal_kindlers_greatstaff,id=207795,ilevel=528,enchant_id=6643
+main_hand=vakash_the_shadowed_inferno,id=207788,ilevel=528,enchant_id=6655
 
-copy="DA_yshaarj_cthun_81146860255151_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+copy="VF_nzoth_cthun_99323027912623_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
-copy="VF_nzoth_cthun_98189290485679_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
+copy="VF_yogg_cthun_119200136558511_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/mastermind:1/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+
+copy="VF_cthun_80649475848111_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/mind_devourer:2/minds_eye:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/idol_of_cthun:1
+
+copy="VF_cthun_80657996298159_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/malediction:1/idol_of_cthun:1
+
+copy="VF_yshaarj_cthun_81146548828079_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+
+copy="VF_cthun_81756434184111_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/mastermind:1/screams_of_the_void:2/insidious_ire:2/malediction:1/idol_of_cthun:1
+
+copy="DA_cthun_80598975641519_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/distorted_reality:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_cthun:1
+
+copy="DA_nzoth_cthun_98189014202287_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
+
+copy="VF_yogg_cthun_119242148770735_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
+
+copy="VF_cthun_80599044306863_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/distorted_reality:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_cthun:1
+
+copy="VF_cthun_82848429619119_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/minds_eye:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:2/insidious_ire:2/idol_of_cthun:1
+
+copy="VF_nzoth_yogg_cthun_129962419368879_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
+
+copy="VF_cthun_80589588527023_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/insidious_ire:2/malediction:1/idol_of_cthun:1
+
+copy="VF_yogg_cthun_120299111315375_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/mastermind:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+
+copy="VF_cthun_80658032228271_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/malediction:1/idol_of_cthun:1
 
 copy="DA_yshaarj_cthun_73492917106607_Flay_ME","Base"
 spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:1/malediction:1/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="DA_cthun_80657996298159_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/malediction:1/idol_of_cthun:1
-
-copy="DA_yogg_cthun_121432442664879_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_yogg_67523760863151_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/mastermind:2/tormented_spirits:2/insidious_ire:2/idol_of_nzoth:1/idol_of_yoggsaron:1
 
 copy="DA_nzoth_yogg_cthun_129962453971887_Flay_DR","Base"
 spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="VF_cthun_80658100107183_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/malediction:1/idol_of_cthun:1
+copy="VF_nzoth_yogg_cthun_139024230216623_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="DA_nzoth_yogg_67523761370031_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/mastermind:2/tormented_spirits:2/insidious_ire:2/idol_of_nzoth:1/idol_of_yoggsaron:1
+copy="DA_nzoth_yogg_cthun_129962247714735_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="DA_cthun_80599044306863_Flay_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/minds_eye:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_cthun:1
+copy="VF_nzoth_cthun_99322919630767_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/mind_devourer:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
-copy="DA_nzoth_cthun_98189022328751_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:1/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
+copy="DA_nzoth_yogg_cthun_129962385306543_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="DA_yogg_cthun_120299108169647_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/mastermind:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="VF_yshaarj_cthun_82280696984495_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="DA_yshaarj_cthun_81146585806767_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+copy="DA_nzoth_cthun_99323062481839_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
-copy="DA_nzoth_yogg_cthun_129962315593647_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="VF_yogg_cthun_119242146428847_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="VF_yshaarj_cthun_81146760885167_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+copy="VF_yogg_cthun_119173497172911_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="VF_yogg_cthun_119242215601071_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_cthun_98189156546479_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
-copy="VF_yshaarj_cthun_82280355461039_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/mind_devourer:1/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+copy="VF_yogg_cthun_121432445810607_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="VF_cthun_80598879958959_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/phantasmal_pathogen:1/distorted_reality:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_cthun:1
-
-copy="DA_yogg_cthun_119182956689327_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="VF_yshaarj_cthun_80055903925167_Flay_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:1/insidious_ire:2/malediction:1/idol_of_yshaarj:1/idol_of_cthun:1
-
-copy="DA_nzoth_cthun_90535347337135_Flay_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:1/malediction:1/idol_of_nzoth:1/idol_of_cthun:1
-
-copy="VF_yogg_cthun_119242146935727_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="VF_nzoth_cthun_98189014202287_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
-
-copy="DA_yshaarj_cthun_80023518689199_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/distorted_reality:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/insidious_ire:2/malediction:1/idol_of_yshaarj:1/idol_of_cthun:1
-
-copy="DA_yogg_cthun_121432475940783_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="DA_nzoth_yogg_67523760863151_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/mastermind:2/tormented_spirits:2/insidious_ire:2/idol_of_nzoth:1/idol_of_yoggsaron:1
-
-copy="VF_yogg_cthun_119233556772783_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="VF_nzoth_yogg_cthun_129962350162863_Flay_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="VF_nzoth_yogg_cthun_129962387141551_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
-
-copy="DA_nzoth_cthun_98189153400751_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
+copy="DA_nzoth_cthun_98189014988719_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
 copy="VF_cthun_80589658469295_Flay_ME","Base"
 spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/insidious_ire:2/malediction:1/idol_of_cthun:1
 
-copy="DA_yogg_cthun_121432582091695_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_yshaarj_cthun_80049221662639_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/minds_eye:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:1/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="DA_yogg_cthun_119182956689327_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="VF_yshaarj_cthun_81146760885167_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:2/mind_devourer:1/phantasmal_pathogen:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="DA_nzoth_yogg_cthun_129962387141551_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/dark_evangelism:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="VF_yshaarj_cthun_80055938561967_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:1/insidious_ire:2/malediction:1/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="VF_yogg_cthun_119233556772783_Spike_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_cthun_98189014988719_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
 
-copy="VF_yogg_cthun_112645145834415_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:1/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_yogg_58521509689263_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/deathspeaker:1/auspicious_spirits:1/mastermind:2/screams_of_the_void:1/tormented_spirits:2/idol_of_nzoth:1/idol_of_yoggsaron:1
 
-copy="DA_yogg_cthun_119242146428847_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:1/tormented_spirits:2/insidious_ire:2/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_yogg_cthun_129962386092975_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="DA_yshaarj_cthun_80049461474223_Flay_DR","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:1/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+copy="VF_yshaarj_cthun_81146584758191_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/void_eruption:1/mental_decay:1/mind_spike:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
 
-copy="VF_nzoth_yogg_cthun_139024230216623_Spike_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_yogg_cthun_121432581043119_Spike_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/mind_melt:1/maddening_touch:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:2/idol_of_yoggsaron:1/idol_of_cthun:1
 
-copy="DA_yogg_cthun_112645145834415_Flay_ME","Base"
-spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/insidious_ire:1/malediction:1/idol_of_yoggsaron:1/idol_of_cthun:1
+copy="DA_nzoth_yogg_59604914911151_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_devourer:2/phantasmal_pathogen:2/minds_eye:1/mindbender:1/deathspeaker:1/auspicious_spirits:1/inescapable_torment:1/screams_of_the_void:2/tormented_spirits:2/idol_of_nzoth:1/idol_of_yoggsaron:1
+
+copy="DA_nzoth_cthun_98189082867631_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/shadow_crash:1/dark_ascension:1/mental_decay:1/whispering_shadows:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/dark_evangelism:2/mind_devourer:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/mastermind:2/insidious_ire:2/idol_of_nzoth:1/idol_of_cthun:1
+
+copy="DA_yshaarj_cthun_82280558572463_Flay_ME","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/mind_devourer:2/minds_eye:1/mindbender:1/auspicious_spirits:1/void_torrent:1/inescapable_torment:1/screams_of_the_void:2/insidious_ire:2/idol_of_yshaarj:1/idol_of_cthun:1
+
+copy="VF_cthun_80658308232111_Spike_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/void_eruption:1/mental_decay:1/mind_spike:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/mind_melt:1/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/deathspeaker:1/auspicious_spirits:1/void_torrent:1/mastermind:2/screams_of_the_void:1/insidious_ire:2/malediction:1/idol_of_cthun:1
+
+copy="DA_nzoth_yogg_cthun_129962419368879_Flay_DR","Base"
+spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/mind_devourer:2/phantasmal_pathogen:2/distorted_reality:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/tormented_spirits:2/malediction:1/idol_of_nzoth:1/idol_of_yoggsaron:1/idol_of_cthun:1
 
 iterations=1
