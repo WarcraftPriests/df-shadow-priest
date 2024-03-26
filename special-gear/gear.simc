@@ -49,7 +49,7 @@ profileset."2h_Iridal_the_Earths_Master_489"+=main_hand=iridal_the_earths_master
 profileset."2h_Iridal_the_Earths_Master_489"+=off_hand=disabled
 
 # 10.1 Special Items
-profileset."Back_Voice_of_the_Silent_Star_528"+=back=voice_of_the_silent_star,id=204465,ilevel=528
+profileset."Back_Voice_of_the_Silent_Star_535"+=back=voice_of_the_silent_star,id=204465,ilevel=535
 
 # Crafted Gear ilevel=525
 profileset."MH_Spore_Keepers_Baton_525-OH_Tricksters_Captivating_Chime_528"+=main_hand=spore_keepers_baton,id=204401,ilevel=525,enchant_id=${enchants.main_hand}

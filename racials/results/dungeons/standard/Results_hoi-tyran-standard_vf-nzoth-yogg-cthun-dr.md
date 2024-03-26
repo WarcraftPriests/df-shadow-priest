@@ -1,0 +1,34 @@
+# hoi-tyran-standard - vf-nzoth-yogg-cthun-dr
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|243934|1.38%|
+|Night_Elf_Haste|243030|1.00%|
+|Goblin|243016|0.99%|
+|Gnome|242927|0.96%|
+|Blood_Elf|242663|0.85%|
+|Tauren|242551|0.80%|
+|Dwarf|242543|0.80%|
+|Void_Elf|242499|0.78%|
+|Highmountain_Tauren|242276|0.69%|
+|Nightborne|242236|0.67%|
+|Kul_Tiran|242180|0.65%|
+|Troll|242148|0.63%|
+|Zandalari_Troll_Paku|242134|0.63%|
+|Mechagnome|242096|0.61%|
+|Worgen|242054|0.59%|
+|Night_Elf_Crit|242046|0.59%|
+|Panda_Vers|241708|0.45%|
+|Panda_Haste|241694|0.44%|
+|Draenei|241662|0.43%|
+|Panda_Crit|241604|0.41%|
+|Zandalari_Troll_Bwonsamdi|241585|0.40%|
+|Orc|241560|0.39%|
+|Dark_Iron_Dwarf|241527|0.38%|
+|Panda_Mastery|241518|0.37%|
+|Undead|241391|0.32%|
+|Maghar_Orc|241360|0.31%|
+|Panda_Fortune_Cookie|241259|0.26%|
+|Zandalari_Troll_Kimbul|240871|0.10%|
+|Vulpera|240729|0.04%|
+|Lightforged_Draenei|240659|0.01%|
+|Base|240624|0.00%|

@@ -1,0 +1,34 @@
+# rlp-fort-push - vf-nzoth-yogg-cthun-dr
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|386312|1.24%|
+|Goblin|385118|0.92%|
+|Gnome|385029|0.90%|
+|Night_Elf_Haste|384916|0.87%|
+|Dwarf|384220|0.69%|
+|Tauren|384192|0.68%|
+|Void_Elf|384148|0.67%|
+|Troll|384105|0.66%|
+|Zandalari_Troll_Paku|383909|0.61%|
+|Nightborne|383891|0.60%|
+|Highmountain_Tauren|383656|0.54%|
+|Kul_Tiran|383642|0.54%|
+|Blood_Elf|383550|0.51%|
+|Mechagnome|383435|0.48%|
+|Worgen|383357|0.46%|
+|Night_Elf_Crit|383303|0.45%|
+|Orc|382936|0.35%|
+|Draenei|382896|0.34%|
+|Panda_Crit|382884|0.34%|
+|Panda_Haste|382883|0.34%|
+|Panda_Vers|382834|0.33%|
+|Panda_Mastery|382764|0.31%|
+|Dark_Iron_Dwarf|382714|0.29%|
+|Maghar_Orc|382687|0.29%|
+|Panda_Fortune_Cookie|382448|0.22%|
+|Zandalari_Troll_Bwonsamdi|382156|0.15%|
+|Undead|382016|0.11%|
+|Base|381592|0.00%|
+|Zandalari_Troll_Kimbul|381583|0.00%|
+|Vulpera|381344|-0.06%|
+|Lightforged_Draenei|381261|-0.09%|

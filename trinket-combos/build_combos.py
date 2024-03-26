@@ -31,7 +31,7 @@ combos = {
     "Ominous_Chromatic_Essence_Bronze_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
     "Ominous_Chromatic_Essence_Azure_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
     "Ominous_Chromatic_Essence_Emerald_528": "ominous_chromatic_essence,id=203729,ilevel=528",  # noqa: E501
-    "Neltharions_Call_to_Suffering_528": "neltharions_call_to_suffering,id=204211,ilevel=528",  # noqa: E501
+    "Neltharions_Call_to_Suffering_535": "neltharions_call_to_suffering,id=204211,ilevel=535",  # noqa: E501
     "Igneous_Flowstone_528": "igneous_flowstone,id=203996,ilevel=528",
     "Beacon_to_the_Beyond_528": "beacon_to_the_beyond,id=203963,ilevel=528",
     # amirdrassil: the dream's hope (528)
@@ -40,7 +40,7 @@ combos = {
     "Nymues_Unraveling_Spindle_IMMOBILIZED_528": "nymues_unraveling_spindle,id=208615,ilevel=528", # noqa: E501
     "Belorrelos_the_Suncaller_528": "belorrelos_the_suncaller,id=207172,ilevel=528",
     "Augury_of_the_Primal_Flame_528": "augury_of_the_primal_flame,id=208614,ilevel=528",
-    "Ashes_of_the_Embersoul_528": "ashes_of_the_embersoul,id=207167,ilevel=528"
+    "Ashes_of_the_Embersoul_535": "ashes_of_the_embersoul,id=207167,ilevel=535"
 }
 
 

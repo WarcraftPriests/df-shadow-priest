@@ -1,18 +1,18 @@
 # Dungeons-Push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|307158|3.86%|
-|Iced_Phial_of_Corrupting_Rage_85_3|305948|3.45%|
-|Iced_Phial_of_Corrupting_Rage_70_3|304080|2.82%|
-|Phial_of_Static_Empowerment_3|303943|2.77%|
-|Phial_of_Charged_Isolation_3|303591|2.65%|
-|Phial_of_Tepid_Versatility_3|303555|2.64%|
-|Phial_of_Elemental_Chaos_3|303156|2.50%|
-|Iced_Phial_of_Corrupting_Rage_50_3|301551|1.96%|
-|Iced_Phial_of_Corrupting_Rage_40_3|300290|1.53%|
-|Phial_of_Glacial_Fury_3|298191|0.82%|
-|Elemental_Potion_of_Ultimate_Power_3|296971|0.41%|
-|Elemental_Potion_of_Power_3|296604|0.29%|
-|Potion_of_Shocking_Disclosure_3|296219|0.16%|
-|Bottled_Putrescence_3|296213|0.16%|
-|Base|295754|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|414697|3.41%|
+|Iced_Phial_of_Corrupting_Rage_85_3|413273|3.06%|
+|Iced_Phial_of_Corrupting_Rage_70_3|411120|2.52%|
+|Phial_of_Tepid_Versatility_3|410703|2.42%|
+|Phial_of_Elemental_Chaos_3|409927|2.22%|
+|Phial_of_Static_Empowerment_3|409681|2.16%|
+|Phial_of_Charged_Isolation_3|409348|2.08%|
+|Iced_Phial_of_Corrupting_Rage_50_3|408167|1.78%|
+|Iced_Phial_of_Corrupting_Rage_40_3|406643|1.40%|
+|Phial_of_Glacial_Fury_3|403162|0.54%|
+|Elemental_Potion_of_Ultimate_Power_3|402017|0.25%|
+|Elemental_Potion_of_Power_3|401822|0.20%|
+|Potion_of_Shocking_Disclosure_3|401492|0.12%|
+|Bottled_Putrescence_3|401436|0.11%|
+|Base|401015|0.00%|

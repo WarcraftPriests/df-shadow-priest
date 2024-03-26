@@ -1,0 +1,34 @@
+# rlp-tyran-push - vf-nzoth-yogg-cthun-dr
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|359158|1.27%|
+|Goblin|357894|0.91%|
+|Night_Elf_Haste|357863|0.90%|
+|Gnome|357850|0.90%|
+|Dwarf|357403|0.77%|
+|Tauren|357252|0.73%|
+|Void_Elf|357245|0.73%|
+|Nightborne|357012|0.66%|
+|Kul_Tiran|356882|0.63%|
+|Highmountain_Tauren|356794|0.60%|
+|Zandalari_Troll_Paku|356790|0.60%|
+|Mechagnome|356765|0.59%|
+|Blood_Elf|356644|0.56%|
+|Night_Elf_Crit|356436|0.50%|
+|Worgen|356297|0.46%|
+|Troll|356269|0.45%|
+|Panda_Vers|356071|0.40%|
+|Panda_Haste|355969|0.37%|
+|Panda_Mastery|355925|0.36%|
+|Orc|355918|0.36%|
+|Draenei|355875|0.34%|
+|Panda_Crit|355735|0.30%|
+|Maghar_Orc|355535|0.25%|
+|Panda_Fortune_Cookie|355454|0.22%|
+|Dark_Iron_Dwarf|355438|0.22%|
+|Undead|355325|0.19%|
+|Zandalari_Troll_Bwonsamdi|355305|0.18%|
+|Zandalari_Troll_Kimbul|354975|0.09%|
+|Lightforged_Draenei|354695|0.01%|
+|Vulpera|354683|0.01%|
+|Base|354658|0.00%|

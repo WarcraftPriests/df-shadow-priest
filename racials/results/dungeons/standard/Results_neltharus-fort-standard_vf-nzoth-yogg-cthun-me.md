@@ -1,0 +1,34 @@
+# neltharus-fort-standard - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|284766|0.81%|
+|Goblin|284335|0.65%|
+|Night_Elf_Haste|284200|0.61%|
+|Gnome|284195|0.60%|
+|Void_Elf|283901|0.50%|
+|Dwarf|283796|0.46%|
+|Tauren|283726|0.44%|
+|Nightborne|283718|0.43%|
+|Kul_Tiran|283585|0.39%|
+|Blood_Elf|283561|0.38%|
+|Night_Elf_Crit|283460|0.34%|
+|Zandalari_Troll_Paku|283446|0.34%|
+|Worgen|283444|0.34%|
+|Mechagnome|283439|0.34%|
+|Highmountain_Tauren|283419|0.33%|
+|Troll|283352|0.31%|
+|Panda_Haste|283335|0.30%|
+|Orc|283305|0.29%|
+|Panda_Crit|283199|0.25%|
+|Panda_Vers|283187|0.25%|
+|Panda_Mastery|283108|0.22%|
+|Dark_Iron_Dwarf|283035|0.19%|
+|Maghar_Orc|282946|0.16%|
+|Zandalari_Troll_Bwonsamdi|282942|0.16%|
+|Draenei|282937|0.16%|
+|Panda_Fortune_Cookie|282862|0.13%|
+|Undead|282758|0.09%|
+|Zandalari_Troll_Kimbul|282552|0.02%|
+|Lightforged_Draenei|282538|0.02%|
+|Base|282490|0.00%|
+|Vulpera|282265|-0.08%|

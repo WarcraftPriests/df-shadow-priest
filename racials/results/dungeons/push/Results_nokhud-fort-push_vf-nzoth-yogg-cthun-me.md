@@ -1,0 +1,34 @@
+# nokhud-fort-push - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|376198|1.40%|
+|Gnome|374979|1.07%|
+|Night_Elf_Haste|374954|1.06%|
+|Goblin|374939|1.06%|
+|Void_Elf|373963|0.80%|
+|Dwarf|373665|0.72%|
+|Tauren|373657|0.71%|
+|Nightborne|373626|0.71%|
+|Troll|373536|0.68%|
+|Zandalari_Troll_Paku|373426|0.65%|
+|Kul_Tiran|373363|0.63%|
+|Blood_Elf|373339|0.63%|
+|Mechagnome|373295|0.62%|
+|Highmountain_Tauren|373181|0.59%|
+|Night_Elf_Crit|372973|0.53%|
+|Worgen|372940|0.52%|
+|Panda_Haste|372678|0.45%|
+|Panda_Crit|372396|0.37%|
+|Draenei|372356|0.36%|
+|Orc|372347|0.36%|
+|Panda_Mastery|372290|0.35%|
+|Panda_Vers|372204|0.32%|
+|Maghar_Orc|372156|0.31%|
+|Dark_Iron_Dwarf|372071|0.29%|
+|Panda_Fortune_Cookie|372021|0.27%|
+|Zandalari_Troll_Bwonsamdi|371359|0.09%|
+|Undead|371318|0.08%|
+|Zandalari_Troll_Kimbul|371253|0.07%|
+|Lightforged_Draenei|371144|0.04%|
+|Base|371009|0.00%|
+|Vulpera|370985|-0.01%|

@@ -1,19 +1,19 @@
 # Dungeons-Push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Aromatic_Seafood_Platter|306513|0.74%|
-|Feisty_Fish_Sticks|306460|0.73%|
-|Sizzling_Seafood_Medley|306420|0.71%|
-|Timely_Demise|305950|0.56%|
-|Revenge_Served_Cold|305778|0.50%|
-|Great_Cerulean_Sea|305747|0.49%|
-|Thousandbone_Tongueslicer|305679|0.47%|
-|Dreambound_Augment_Rune|305501|0.41%|
-|Draconic_Augment_Rune|305497|0.41%|
-|Seamoth_Surprise|305484|0.41%|
-|Filet_of_Fangs|305421|0.39%|
-|Fated_Fortune_Cookie|305346|0.36%|
-|Salt_Baked_Fishcake|305342|0.36%|
-|Roast_Duck_Delight|304673|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|304585|0.11%|
-|Base|304247|0.00%|
+|Great_Cerulean_Sea|413190|0.44%|
+|Sizzling_Seafood_Medley|413152|0.43%|
+|Aromatic_Seafood_Platter|413131|0.43%|
+|Revenge_Served_Cold|413127|0.43%|
+|Thousandbone_Tongueslicer|413113|0.42%|
+|Feisty_Fish_Sticks|413093|0.42%|
+|Timely_Demise|412774|0.34%|
+|Salt_Baked_Fishcake|412758|0.34%|
+|Seamoth_Surprise|412734|0.33%|
+|Filet_of_Fangs|412687|0.32%|
+|Draconic_Augment_Rune|412587|0.30%|
+|Dreambound_Augment_Rune|412560|0.29%|
+|Fated_Fortune_Cookie|412456|0.26%|
+|Roast_Duck_Delight|411802|0.11%|
+|Thrice_Spiced_Mammoth_Kabob|411632|0.06%|
+|Base|411369|0.00%|

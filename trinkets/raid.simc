@@ -25,6 +25,7 @@ ${gear.off_hand}
 # Amirdrassil: The Dream's Hope
 profileset."Augury_of_the_Primal_Flame_496"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=496
 profileset."Augury_of_the_Primal_Flame_528"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=528
+profileset."Augury_of_the_Primal_Flame_535"+=trinket1=augury_of_the_primal_flame,id=208614,ilevel=535
 
 profileset."Ashes_of_the_Embersoul_489"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=489
 profileset."Ashes_of_the_Embersoul_528"+=trinket1=ashes_of_the_embersoul,id=207167,ilevel=528
@@ -88,7 +89,7 @@ profileset."Ominous_Chromatic_Essence_Emerald_ALL_ALLIES_528"+=dragonflight.omin
 
 profileset."Igneous_Flowstone_528"+=trinket1=igneous_flowstone,id=203996,ilevel=528
 
-profileset."Neltharions_Call_to_Suffering_528"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=528
+profileset."Neltharions_Call_to_Suffering_535"+=trinket1=neltharions_call_to_suffering,id=204211,ilevel=535
 
 profileset."Beacon_to_the_Beyond_528"+=trinket1=beacon_to_the_beyond,id=203963,ilevel=528
 

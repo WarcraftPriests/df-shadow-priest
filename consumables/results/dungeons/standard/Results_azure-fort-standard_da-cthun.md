@@ -1,19 +1,19 @@
 # azure-fort-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|226758|0.36%|
-|Thousandbone_Tongueslicer|226703|0.33%|
-|Revenge_Served_Cold|226661|0.31%|
-|Sizzling_Seafood_Medley|226636|0.30%|
-|Aromatic_Seafood_Platter|226632|0.30%|
-|Draconic_Augment_Rune|226578|0.28%|
-|Great_Cerulean_Sea|226575|0.27%|
-|Seamoth_Surprise|226570|0.27%|
-|Dreambound_Augment_Rune|226520|0.25%|
-|Filet_of_Fangs|226506|0.24%|
-|Fated_Fortune_Cookie|226480|0.23%|
-|Salt_Baked_Fishcake|226440|0.21%|
-|Timely_Demise|226438|0.21%|
-|Roast_Duck_Delight|226168|0.09%|
-|Thrice_Spiced_Mammoth_Kabob|225965|0.00%|
-|Base|225955|0.00%|
+|Great_Cerulean_Sea|267145|0.30%|
+|Feisty_Fish_Sticks|267124|0.29%|
+|Aromatic_Seafood_Platter|267095|0.28%|
+|Sizzling_Seafood_Medley|267052|0.26%|
+|Revenge_Served_Cold|266969|0.23%|
+|Filet_of_Fangs|266961|0.23%|
+|Seamoth_Surprise|266924|0.22%|
+|Thousandbone_Tongueslicer|266894|0.21%|
+|Salt_Baked_Fishcake|266890|0.20%|
+|Timely_Demise|266856|0.19%|
+|Draconic_Augment_Rune|266743|0.15%|
+|Fated_Fortune_Cookie|266737|0.15%|
+|Dreambound_Augment_Rune|266684|0.13%|
+|Thrice_Spiced_Mammoth_Kabob|266445|0.04%|
+|Roast_Duck_Delight|266429|0.03%|
+|Base|266347|0.00%|

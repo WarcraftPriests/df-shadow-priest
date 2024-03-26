@@ -234,6 +234,7 @@ sims:
       - 522
       - 525
       - 528
+      - 535
     files:
       - raid.simc
       - dungeons.simc
