@@ -39,8 +39,8 @@ combos = {
     "Nymues_Unraveling_Spindle_528": "nymues_unraveling_spindle,id=208615,ilevel=528",
     "Nymues_Unraveling_Spindle_IMMOBILIZED_528": "nymues_unraveling_spindle,id=208615,ilevel=528", # noqa: E501
     "Belorrelos_the_Suncaller_528": "belorrelos_the_suncaller,id=207172,ilevel=528",
-    "Augury_of_the_Primal_Flame_528": "augury_of_the_primal_flame,id=208614,ilevel=528",
-    "Ashes_of_the_Embersoul_535": "ashes_of_the_embersoul,id=207167,ilevel=535"
+    "Augury_of_the_Primal_Flame_535": "augury_of_the_primal_flame,id=208614,ilevel=535",
+    "Ashes_of_the_Embersoul_528": "ashes_of_the_embersoul,id=207167,ilevel=528"
 }
 
 
