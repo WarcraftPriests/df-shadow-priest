@@ -422,14 +422,30 @@ def build_readme_md(directory, talent_string):
             for talent in config["builds"]:
                 readme.write(f"## {talent.upper()}\n")
                 file_list = []
-                for fight_type in ["Composite", "Single", "Dungeons", "2T", "3T", "4T"]:
+                for fight_type in [
+                    "Composite",
+                    "Single",
+                    "Dungeons-Standard",
+                    "Dungeons-Push",
+                    "2T",
+                    "3T",
+                    "4T",
+                ]:
                     file_list.append(f"results/Results_{fight_type}_{talent}.md")
                 for result in file_list:
                     result_name = generate_result_name(result, talent)
                     readme.write(f"- [{result_name}]({result})\n")
         else:
             file_list = []
-            for fight_type in ["Composite", "Single", "Dungeons", "2T", "3T", "4T"]:
+            for fight_type in [
+                "Composite",
+                "Single",
+                "Dungeons-Standard",
+                "Dungeons-Push",
+                "2T",
+                "3T",
+                "4T",
+            ]:
                 file_list.append(f"results/Results_{fight_type}.md")
             for result in file_list:
                 readme.write(f"- [{result[16:-3]}]({result})\n")
