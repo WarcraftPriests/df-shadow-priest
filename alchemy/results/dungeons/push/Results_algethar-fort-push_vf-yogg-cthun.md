@@ -1,18 +1,18 @@
 # algethar-fort-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|425397|3.12%|
-|Iced_Phial_of_Corrupting_Rage_85_3|424059|2.80%|
-|Iced_Phial_of_Corrupting_Rage_70_3|422094|2.32%|
-|Phial_of_Tepid_Versatility_3|421620|2.20%|
-|Phial_of_Elemental_Chaos_3|421027|2.06%|
-|Phial_of_Static_Empowerment_3|420557|1.95%|
-|Phial_of_Charged_Isolation_3|420180|1.86%|
-|Iced_Phial_of_Corrupting_Rage_50_3|419229|1.63%|
-|Iced_Phial_of_Corrupting_Rage_40_3|417870|1.30%|
-|Phial_of_Glacial_Fury_3|414258|0.42%|
-|Elemental_Potion_of_Ultimate_Power_3|413718|0.29%|
-|Elemental_Potion_of_Power_3|413534|0.24%|
-|Potion_of_Shocking_Disclosure_3|413134|0.15%|
-|Bottled_Putrescence_3|413129|0.15%|
-|Base|412524|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|433667|3.26%|
+|Iced_Phial_of_Corrupting_Rage_85_3|431949|2.85%|
+|Iced_Phial_of_Corrupting_Rage_70_3|429820|2.35%|
+|Phial_of_Tepid_Versatility_3|429307|2.22%|
+|Phial_of_Elemental_Chaos_3|428754|2.09%|
+|Phial_of_Static_Empowerment_3|428194|1.96%|
+|Phial_of_Charged_Isolation_3|427890|1.89%|
+|Iced_Phial_of_Corrupting_Rage_50_3|427024|1.68%|
+|Iced_Phial_of_Corrupting_Rage_40_3|425515|1.32%|
+|Phial_of_Glacial_Fury_3|421768|0.43%|
+|Elemental_Potion_of_Ultimate_Power_3|421011|0.25%|
+|Elemental_Potion_of_Power_3|420729|0.18%|
+|Potion_of_Shocking_Disclosure_3|420588|0.15%|
+|Bottled_Putrescence_3|420421|0.11%|
+|Base|419968|0.00%|

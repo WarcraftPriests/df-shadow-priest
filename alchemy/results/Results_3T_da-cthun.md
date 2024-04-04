@@ -1,18 +1,18 @@
 # 3T - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|623404|5.16%|
-|Iced_Phial_of_Corrupting_Rage_85_3|620486|4.67%|
-|Iced_Phial_of_Corrupting_Rage_70_3|615228|3.78%|
-|Phial_of_Elemental_Chaos_3|610763|3.03%|
-|Phial_of_Tepid_Versatility_3|610138|2.93%|
-|Phial_of_Charged_Isolation_3|609248|2.78%|
-|Iced_Phial_of_Corrupting_Rage_50_3|608797|2.70%|
-|Phial_of_Static_Empowerment_3|608322|2.62%|
-|Iced_Phial_of_Corrupting_Rage_40_3|605452|2.13%|
-|Elemental_Potion_of_Ultimate_Power_3|596817|0.68%|
-|Elemental_Potion_of_Power_3|596556|0.63%|
-|Phial_of_Glacial_Fury_3|594472|0.28%|
-|Bottled_Putrescence_3|593849|0.18%|
-|Potion_of_Shocking_Disclosure_3|593732|0.16%|
-|Base|592796|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|652819|4.93%|
+|Iced_Phial_of_Corrupting_Rage_85_3|649522|4.40%|
+|Iced_Phial_of_Corrupting_Rage_70_3|644718|3.63%|
+|Phial_of_Tepid_Versatility_3|640892|3.01%|
+|Phial_of_Elemental_Chaos_3|640794|3.00%|
+|Phial_of_Charged_Isolation_3|639264|2.75%|
+|Phial_of_Static_Empowerment_3|638758|2.67%|
+|Iced_Phial_of_Corrupting_Rage_50_3|638210|2.58%|
+|Iced_Phial_of_Corrupting_Rage_40_3|634278|1.95%|
+|Elemental_Potion_of_Ultimate_Power_3|626004|0.62%|
+|Elemental_Potion_of_Power_3|624890|0.44%|
+|Phial_of_Glacial_Fury_3|623712|0.25%|
+|Bottled_Putrescence_3|623462|0.21%|
+|Potion_of_Shocking_Disclosure_3|622934|0.13%|
+|Base|622146|0.00%|

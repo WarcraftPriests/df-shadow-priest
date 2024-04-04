@@ -1,18 +1,18 @@
 # hoi-fort-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|380132|3.45%|
-|Iced_Phial_of_Corrupting_Rage_85_3|378916|3.12%|
-|Iced_Phial_of_Corrupting_Rage_70_3|377179|2.65%|
-|Phial_of_Tepid_Versatility_3|376614|2.49%|
-|Phial_of_Elemental_Chaos_3|375924|2.31%|
-|Phial_of_Static_Empowerment_3|375858|2.29%|
-|Phial_of_Charged_Isolation_3|375626|2.23%|
-|Iced_Phial_of_Corrupting_Rage_50_3|374371|1.88%|
-|Iced_Phial_of_Corrupting_Rage_40_3|372999|1.51%|
-|Phial_of_Glacial_Fury_3|369748|0.63%|
-|Elemental_Potion_of_Ultimate_Power_3|368627|0.32%|
-|Elemental_Potion_of_Power_3|368506|0.29%|
-|Bottled_Putrescence_3|368064|0.17%|
-|Potion_of_Shocking_Disclosure_3|367978|0.14%|
-|Base|367450|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|386879|3.33%|
+|Iced_Phial_of_Corrupting_Rage_85_3|385459|2.95%|
+|Iced_Phial_of_Corrupting_Rage_70_3|383844|2.52%|
+|Phial_of_Tepid_Versatility_3|383210|2.35%|
+|Phial_of_Elemental_Chaos_3|382730|2.22%|
+|Phial_of_Static_Empowerment_3|382344|2.12%|
+|Phial_of_Charged_Isolation_3|382226|2.08%|
+|Iced_Phial_of_Corrupting_Rage_50_3|381140|1.79%|
+|Iced_Phial_of_Corrupting_Rage_40_3|379828|1.44%|
+|Phial_of_Glacial_Fury_3|376422|0.53%|
+|Elemental_Potion_of_Ultimate_Power_3|375697|0.34%|
+|Elemental_Potion_of_Power_3|375199|0.21%|
+|Potion_of_Shocking_Disclosure_3|375002|0.15%|
+|Bottled_Putrescence_3|374873|0.12%|
+|Base|374424|0.00%|

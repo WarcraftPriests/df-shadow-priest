@@ -1,19 +1,19 @@
 # neltharus-tyran-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|264474|0.31%|
-|Revenge_Served_Cold|264415|0.29%|
-|Aromatic_Seafood_Platter|264373|0.27%|
-|Great_Cerulean_Sea|264360|0.27%|
-|Thousandbone_Tongueslicer|264324|0.25%|
-|Sizzling_Seafood_Medley|264322|0.25%|
-|Timely_Demise|264278|0.23%|
-|Filet_of_Fangs|264267|0.23%|
-|Salt_Baked_Fishcake|264159|0.19%|
-|Seamoth_Surprise|264130|0.18%|
-|Fated_Fortune_Cookie|264123|0.18%|
-|Draconic_Augment_Rune|264120|0.17%|
-|Dreambound_Augment_Rune|264107|0.17%|
-|Thrice_Spiced_Mammoth_Kabob|263898|0.09%|
-|Roast_Duck_Delight|263893|0.09%|
-|Base|263661|0.00%|
+|Aromatic_Seafood_Platter|265259|0.35%|
+|Revenge_Served_Cold|265245|0.35%|
+|Thousandbone_Tongueslicer|265162|0.32%|
+|Sizzling_Seafood_Medley|265160|0.31%|
+|Feisty_Fish_Sticks|265099|0.29%|
+|Filet_of_Fangs|265079|0.28%|
+|Timely_Demise|265039|0.27%|
+|Great_Cerulean_Sea|265034|0.27%|
+|Draconic_Augment_Rune|264968|0.24%|
+|Dreambound_Augment_Rune|264889|0.21%|
+|Seamoth_Surprise|264889|0.21%|
+|Fated_Fortune_Cookie|264882|0.21%|
+|Salt_Baked_Fishcake|264814|0.18%|
+|Thrice_Spiced_Mammoth_Kabob|264681|0.13%|
+|Roast_Duck_Delight|264582|0.10%|
+|Base|264329|0.00%|

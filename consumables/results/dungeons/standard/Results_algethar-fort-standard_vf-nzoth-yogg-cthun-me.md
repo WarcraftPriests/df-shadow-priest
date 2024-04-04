@@ -1,19 +1,19 @@
 # algethar-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|262623|0.34%|
-|Thousandbone_Tongueslicer|262599|0.33%|
-|Aromatic_Seafood_Platter|262516|0.30%|
-|Revenge_Served_Cold|262504|0.30%|
-|Sizzling_Seafood_Medley|262483|0.29%|
-|Great_Cerulean_Sea|262474|0.29%|
-|Seamoth_Surprise|262409|0.26%|
-|Filet_of_Fangs|262335|0.23%|
-|Timely_Demise|262333|0.23%|
-|Dreambound_Augment_Rune|262327|0.23%|
-|Draconic_Augment_Rune|262245|0.20%|
-|Salt_Baked_Fishcake|262222|0.19%|
-|Fated_Fortune_Cookie|262217|0.19%|
-|Roast_Duck_Delight|261927|0.08%|
-|Thrice_Spiced_Mammoth_Kabob|261910|0.07%|
-|Base|261723|0.00%|
+|Feisty_Fish_Sticks|263404|0.33%|
+|Aromatic_Seafood_Platter|263383|0.32%|
+|Sizzling_Seafood_Medley|263376|0.32%|
+|Thousandbone_Tongueslicer|263336|0.31%|
+|Revenge_Served_Cold|263328|0.30%|
+|Great_Cerulean_Sea|263289|0.29%|
+|Timely_Demise|263132|0.23%|
+|Seamoth_Surprise|263128|0.23%|
+|Filet_of_Fangs|263112|0.22%|
+|Salt_Baked_Fishcake|263069|0.20%|
+|Draconic_Augment_Rune|263047|0.20%|
+|Fated_Fortune_Cookie|263027|0.19%|
+|Dreambound_Augment_Rune|263023|0.19%|
+|Roast_Duck_Delight|262645|0.04%|
+|Thrice_Spiced_Mammoth_Kabob|262615|0.03%|
+|Base|262534|0.00%|

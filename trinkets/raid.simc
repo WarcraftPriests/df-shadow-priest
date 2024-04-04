@@ -98,14 +98,17 @@ profileset."Conjured_Chillglobe_528"+=trinket1=conjured_chillglobe,id=194300,ile
 
 profileset."Iceblood_Deathsnare_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_0_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_0_528"+=dragonflight.whispering_incarnate_icon_roles=dps
+profileset."Whispering_Incarnate_Icon_DPS_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_DPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps
 
-profileset."Whispering_Incarnate_Icon_1_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_1_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 
-profileset."Whispering_Incarnate_Icon_2_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_2_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
+profileset."Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+
+profileset."Whispering_Incarnate_Icon_FULL_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 
 profileset."Desperate_Invokers_Codex_528"+=trinket1=desperate_invokers_codex,id=194310,ilevel=528
 

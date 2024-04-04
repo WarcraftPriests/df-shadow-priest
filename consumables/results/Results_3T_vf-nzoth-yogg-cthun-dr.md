@@ -1,19 +1,19 @@
 # 3T - vf-nzoth-yogg-cthun-dr
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sizzling_Seafood_Medley|651568|0.71%|
-|Feisty_Fish_Sticks|651352|0.68%|
-|Thousandbone_Tongueslicer|651062|0.64%|
-|Timely_Demise|651013|0.63%|
-|Aromatic_Seafood_Platter|650958|0.62%|
-|Revenge_Served_Cold|650637|0.57%|
-|Filet_of_Fangs|650508|0.55%|
-|Great_Cerulean_Sea|650493|0.55%|
-|Salt_Baked_Fishcake|650007|0.47%|
-|Seamoth_Surprise|649698|0.43%|
-|Draconic_Augment_Rune|649648|0.42%|
-|Dreambound_Augment_Rune|649612|0.41%|
-|Fated_Fortune_Cookie|649284|0.36%|
-|Roast_Duck_Delight|648010|0.16%|
-|Thrice_Spiced_Mammoth_Kabob|647962|0.16%|
-|Base|646944|0.00%|
+|Feisty_Fish_Sticks|680096|0.70%|
+|Aromatic_Seafood_Platter|680062|0.70%|
+|Sizzling_Seafood_Medley|680039|0.69%|
+|Timely_Demise|679716|0.64%|
+|Revenge_Served_Cold|678809|0.51%|
+|Great_Cerulean_Sea|678794|0.51%|
+|Thousandbone_Tongueslicer|678678|0.49%|
+|Seamoth_Surprise|678209|0.42%|
+|Filet_of_Fangs|678126|0.41%|
+|Draconic_Augment_Rune|677792|0.36%|
+|Salt_Baked_Fishcake|677750|0.35%|
+|Dreambound_Augment_Rune|677728|0.35%|
+|Fated_Fortune_Cookie|677398|0.30%|
+|Roast_Duck_Delight|676344|0.15%|
+|Thrice_Spiced_Mammoth_Kabob|675636|0.04%|
+|Base|675363|0.00%|

@@ -13,16 +13,17 @@ combos = {
     "Umbrelskuls_Fractured_Heart_528": "umbrelskuls_fractured_heart,id=193639,ilevel=528", # TODO: Check after rework
     "Furious_Ragefeather_528": "furious_ragefeather,id=193677,ilevel=528",
     "Irideus_Fragment_528": "irideus_fragment,id=193743,ilevel=528",
-    "Idol_of_Pure_Decay_528": "idol_of_pure_decay,id=193660,ilevel=528",
+    # "Idol_of_Pure_Decay_528": "idol_of_pure_decay,id=193660,ilevel=528",
     "Erupting_Spear_Fragment_528": "erupting_spear_fragment,id=193769,ilevel=528",
-    "Time_Breaching_Talon_528": "time_breaching_talon,id=193791,ilevel=528",
-    "Emerald_Coachs_Whistle_528": "emerald_coachs_whistle,id=193718,ilevel=528",
+    # "Time_Breaching_Talon_528": "time_breaching_talon,id=193791,ilevel=528",
+    # "Emerald_Coachs_Whistle_528": "emerald_coachs_whistle,id=193718,ilevel=528",
     # vault of the incarnates (528)
     "Conjured_Chillglobe_528": "conjured_chillglobe,id=194300,ilevel=528",
     "Iceblood_Deathsnare_528": "iceblood_deathsnare,id=194304,ilevel=528",
-    "Whispering_Incarnate_Icon_0_528": "whispering_incarnate_icon,id=194301,ilevel=528",
-    "Whispering_Incarnate_Icon_1_528": "whispering_incarnate_icon,id=194301,ilevel=528",
-    "Whispering_Incarnate_Icon_2_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_DPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_DPS-Tank_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_DPS-Healer_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_FULL_528": "whispering_incarnate_icon,id=194301,ilevel=528",
     "Desperate_Invokers_Codex_528": "desperate_invokers_codex,id=194310,ilevel=528",
     "Spiteful_Storm_528": "spiteful_storm,id=194309,ilevel=528",
     # aberrus the shadowed crucible (528)
@@ -73,14 +74,18 @@ def build_simc_string(trinkets):
             trinket_two_value = combos[trinket_two]
             profileset_name = f"{trinket_one}-{trinket_two}"
             if "Whispering_Incarnate_Icon" in trinket:
-                allies_count = trinket.split("_")[3].lower()
+                allies = trinket.split("_")[3].lower()
                 roles = ""
-                if int(allies_count) == 0:
+                if allies == "dps":
                     roles = "dps"
-                elif int(allies_count) == 1:
+                elif allies == "dps-tank":
                     roles = "dps/tank"
-                elif int(allies_count) == 2:
+                elif allies == "dps-healer":
+                    roles = "dps/heal"
+                elif allies == "full":
                     roles = "tank/heal/dps"
+                else:
+                    exit("No allies found")
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"  # noqa: E501
             if "Ominous_Chromatic_Essence" in trinket:
                 dragonflight = trinket.split("_")[3].lower()

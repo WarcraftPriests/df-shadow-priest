@@ -1,18 +1,18 @@
 # neltharus-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|450877|3.24%|
-|Iced_Phial_of_Corrupting_Rage_85_3|449190|2.85%|
-|Phial_of_Tepid_Versatility_3|447157|2.39%|
-|Iced_Phial_of_Corrupting_Rage_70_3|447091|2.37%|
-|Phial_of_Elemental_Chaos_3|446264|2.18%|
-|Phial_of_Static_Empowerment_3|445999|2.12%|
-|Phial_of_Charged_Isolation_3|445581|2.03%|
-|Iced_Phial_of_Corrupting_Rage_50_3|444059|1.68%|
-|Iced_Phial_of_Corrupting_Rage_40_3|442619|1.35%|
-|Phial_of_Glacial_Fury_3|439230|0.57%|
-|Elemental_Potion_of_Ultimate_Power_3|437990|0.29%|
-|Elemental_Potion_of_Power_3|437886|0.27%|
-|Potion_of_Shocking_Disclosure_3|437467|0.17%|
-|Bottled_Putrescence_3|437350|0.14%|
-|Base|436727|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|462011|3.40%|
+|Iced_Phial_of_Corrupting_Rage_85_3|460739|3.12%|
+|Iced_Phial_of_Corrupting_Rage_70_3|458101|2.53%|
+|Phial_of_Tepid_Versatility_3|457869|2.47%|
+|Phial_of_Elemental_Chaos_3|457222|2.33%|
+|Phial_of_Static_Empowerment_3|456830|2.24%|
+|Phial_of_Charged_Isolation_3|456656|2.20%|
+|Iced_Phial_of_Corrupting_Rage_50_3|454781|1.78%|
+|Iced_Phial_of_Corrupting_Rage_40_3|453389|1.47%|
+|Phial_of_Glacial_Fury_3|449411|0.58%|
+|Elemental_Potion_of_Ultimate_Power_3|448473|0.37%|
+|Elemental_Potion_of_Power_3|447997|0.26%|
+|Potion_of_Shocking_Disclosure_3|447574|0.17%|
+|Bottled_Putrescence_3|447540|0.16%|
+|Base|446818|0.00%|

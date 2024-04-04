@@ -1,19 +1,19 @@
 # ulda-fort-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Great_Cerulean_Sea|444794|0.48%|
-|Thousandbone_Tongueslicer|444738|0.47%|
-|Aromatic_Seafood_Platter|444719|0.47%|
-|Revenge_Served_Cold|444605|0.44%|
-|Feisty_Fish_Sticks|444582|0.44%|
-|Sizzling_Seafood_Medley|444526|0.42%|
-|Salt_Baked_Fishcake|444272|0.37%|
-|Seamoth_Surprise|444256|0.36%|
-|Filet_of_Fangs|444226|0.36%|
-|Dreambound_Augment_Rune|444076|0.32%|
-|Timely_Demise|444033|0.31%|
-|Draconic_Augment_Rune|444000|0.31%|
-|Fated_Fortune_Cookie|443842|0.27%|
-|Roast_Duck_Delight|443254|0.14%|
-|Thrice_Spiced_Mammoth_Kabob|442812|0.04%|
-|Base|442648|0.00%|
+|Great_Cerulean_Sea|455826|0.48%|
+|Aromatic_Seafood_Platter|455801|0.47%|
+|Sizzling_Seafood_Medley|455771|0.47%|
+|Revenge_Served_Cold|455727|0.46%|
+|Feisty_Fish_Sticks|455725|0.46%|
+|Thousandbone_Tongueslicer|455464|0.40%|
+|Dreambound_Augment_Rune|455244|0.35%|
+|Salt_Baked_Fishcake|455201|0.34%|
+|Timely_Demise|455163|0.33%|
+|Seamoth_Surprise|455155|0.33%|
+|Draconic_Augment_Rune|455075|0.31%|
+|Filet_of_Fangs|455025|0.30%|
+|Fated_Fortune_Cookie|454917|0.28%|
+|Roast_Duck_Delight|454217|0.12%|
+|Thrice_Spiced_Mammoth_Kabob|454086|0.10%|
+|Base|453651|0.00%|
