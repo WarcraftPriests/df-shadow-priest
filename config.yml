@@ -37,7 +37,7 @@ builds:
       3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
       4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
 gear:
-  # 6.5k Mastery (+2084 from BSL) | 5.8k Haste | 2.6k Crit | 3k Vers
+  # 6.3k Mastery (+2084 from BSL) | 6.2k Haste | 2.7k Crit | 3.3k Vers
   default:
     head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
     neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
@@ -54,7 +54,7 @@ gear:
     trinket1: "neltharions_call_to_suffering,id=204211,ilevel=535"
     trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
     main_hand: "vakash_the_shadowed_inferno,id=207788,ilevel=528" # mastery/haste
-    off_hand: "tricksters_captivating_chime,id=207796,ilevel=528" # mastery/haste
+    off_hand: "scripture_of_primal_devotion,id=195513,ilevel=528" # haste/vers
   # 6.5k Mastery | 5.9k Haste | 3.3k Crit | 2.2k Vers
   noCantrip:
     head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
@@ -77,11 +77,11 @@ gems:
   meta: "192988"
   main: "192919"
 enchants:
-  head: "7052" # Incandescent Essence
-  chest: "6625" # Waking Stats
-  ring: "6562" # Devotion of Mastery
-  legs: "6541" # Frozen Spellthread
-  main_hand: "6655" # Wafting Devotion
+  head: "incandescent_essence"
+  chest: "waking_stats_3"
+  ring: "devotion_of_mastery_3"
+  legs: "lambent_armor_kit_3"
+  main_hand: "wafting_devotion_3"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
@@ -212,7 +212,7 @@ sims:
     files:
       - tiersets.simc
   trinket-combos:
-    description: Combines the top trinkets together to get your BiS 2 trinkets.
+    description: "Combines the top trinkets together to get your BiS 2 trinkets. WIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer."
     builds: true
     weights: false
     chart: true

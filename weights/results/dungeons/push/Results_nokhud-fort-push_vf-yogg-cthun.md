@@ -1,4 +1,4 @@
 # nokhud-fort-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|293920|1.00|0.90|0.76|0.68|0.79|0.07|
+|Base|395498|1.00|0.92|0.85|0.87|0.92|0.08|

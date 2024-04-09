@@ -8,21 +8,21 @@ spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
+head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=${enchants.chest}
+chest=${gear.chest},enchant=${enchants.chest}
 wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
-legs=${gear.legs},enchant_id=${enchants.legs}
+legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
+main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 profileset."DA_cthun_81722355430319_Flay_DR"+="spec_talents=devouring_plague:1/dispersion:1/shadowy_apparitions:1/silence:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1/dark_ascension:1/mental_decay:1/shadowy_insight:1/ancient_madness:1/voidtouched:1/maddening_touch:2/dark_evangelism:2/mind_devourer:1/phantasmal_pathogen:2/distorted_reality:1/mindbender:1/auspicious_spirits:1/void_torrent:1/screams_of_the_void:2/insidious_ire:2/malediction:1/idol_of_cthun:1"

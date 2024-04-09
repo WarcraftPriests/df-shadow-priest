@@ -1,4 +1,4 @@
 # neltharus-fort-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|247228|1.00|0.69|0.73|0.67|0.80|0.11|
+|Base|308041|1.00|0.98|0.87|0.83|0.92|0.12|

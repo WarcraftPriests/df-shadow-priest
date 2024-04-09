@@ -1,4 +1,4 @@
 # algethar-tyran-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|289189|1.00|0.71|0.73|0.67|0.79|0.07|
+|Base|394785|1.00|0.89|0.81|0.81|0.91|0.07|

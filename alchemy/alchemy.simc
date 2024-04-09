@@ -7,21 +7,21 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
+head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=${enchants.chest}
+chest=${gear.chest},enchant=${enchants.chest}
 wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
-legs=${gear.legs},enchant_id=${enchants.legs}
+legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
-main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
+main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 potion=disabled

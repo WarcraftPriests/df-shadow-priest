@@ -1,4 +1,4 @@
 # Dungeons-Push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|308476|1.00|0.68|0.73|0.69|0.81|0.07|
+|Base|422446|1.00|0.87|0.81|0.84|0.92|0.07|

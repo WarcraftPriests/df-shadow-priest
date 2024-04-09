@@ -7,19 +7,19 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
+head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=${enchants.chest}
+chest=${gear.chest},enchant=${enchants.chest}
 wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
-legs=${gear.legs},enchant_id=${enchants.legs}
+legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
-main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
+main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Amirdrassil: The Dream's Hope
@@ -101,11 +101,11 @@ profileset."Iceblood_Deathsnare_528"+=trinket1=iceblood_deathsnare,id=194304,ile
 profileset."Whispering_Incarnate_Icon_DPS_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
 profileset."Whispering_Incarnate_Icon_DPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
 
 profileset."Whispering_Incarnate_Icon_FULL_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
 profileset."Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps

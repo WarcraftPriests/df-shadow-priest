@@ -1,4 +1,4 @@
 # algethar-fort-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|225669|1.00|0.72|0.75|0.68|0.82|0.14|
+|Base|275899|1.00|0.92|0.84|0.80|0.89|0.15|

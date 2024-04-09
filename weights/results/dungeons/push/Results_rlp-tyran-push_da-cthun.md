@@ -1,4 +1,4 @@
 # rlp-tyran-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|268051|1.00|0.69|0.71|0.67|0.80|0.08|
+|Base|369001|1.00|0.87|0.80|0.83|0.92|0.08|

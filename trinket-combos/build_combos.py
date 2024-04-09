@@ -21,8 +21,8 @@ combos = {
     "Conjured_Chillglobe_528": "conjured_chillglobe,id=194300,ilevel=528",
     "Iceblood_Deathsnare_528": "iceblood_deathsnare,id=194304,ilevel=528",
     "Whispering_Incarnate_Icon_DPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
-    "Whispering_Incarnate_Icon_DPS-Tank_528": "whispering_incarnate_icon,id=194301,ilevel=528",
-    "Whispering_Incarnate_Icon_DPS-Healer_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_TankDPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_HealerDPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
     "Whispering_Incarnate_Icon_FULL_528": "whispering_incarnate_icon,id=194301,ilevel=528",
     "Desperate_Invokers_Codex_528": "desperate_invokers_codex,id=194310,ilevel=528",
     "Spiteful_Storm_528": "spiteful_storm,id=194309,ilevel=528",
@@ -78,9 +78,9 @@ def build_simc_string(trinkets):
                 roles = ""
                 if allies == "dps":
                     roles = "dps"
-                elif allies == "dps-tank":
+                elif allies == "tankdps":
                     roles = "dps/tank"
-                elif allies == "dps-healer":
+                elif allies == "healerdps":
                     roles = "dps/heal"
                 elif allies == "full":
                     roles = "tank/heal/dps"

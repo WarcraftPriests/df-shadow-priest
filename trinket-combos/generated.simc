@@ -7,19 +7,19 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main},enchant_id=${enchants.head}
+head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
 back=${gear.back}
-chest=${gear.chest},enchant_id=${enchants.chest}
+chest=${gear.chest},enchant=${enchants.chest}
 wrists=${gear.wrists},gem_id=${gems.main}
 hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
-legs=${gear.legs},enchant_id=${enchants.legs}
+legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant_id=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant_id=${enchants.ring},gem_id=${gems.main}
-main_hand=${gear.main_hand},enchant_id=${enchants.main_hand}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
+main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 profileset."Spoils_of_Neltharus_528-Tome_of_Unstable_Power_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
@@ -47,13 +47,13 @@ profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS_528"+=dragonfl
 profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
 profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
-profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
+profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Spoils_of_Neltharus_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
@@ -133,13 +133,13 @@ profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS_528"+=drago
 profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
 profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
-profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
+profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Tome_of_Unstable_Power_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
@@ -216,13 +216,13 @@ profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS_528"+=
 profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
 profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
-profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
+profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Umbrelskuls_Fractured_Heart_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
@@ -296,13 +296,13 @@ profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS_528"+=dragonfl
 profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
 profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
-profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
+profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Furious_Ragefeather_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
@@ -373,13 +373,13 @@ profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=dragonfligh
 profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
 profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
-profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
+profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Irideus_Fragment_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
@@ -447,13 +447,13 @@ profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=drag
 profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
 profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
-profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
+profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Erupting_Spear_Fragment_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
@@ -518,13 +518,13 @@ profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS_528"+=dragonfl
 profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
 profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
-profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
+profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Conjured_Chillglobe_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=conjured_chillglobe,id=194300,ilevel=528
@@ -586,13 +586,13 @@ profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS_528"+=dragonfl
 profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
 profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Tank_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_TankDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_TankDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
-profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_DPS-Healer_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_HealerDPS_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
+profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_HealerDPS_528"+=trinket2=whispering_incarnate_icon,id=194301,ilevel=528
 
 profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_FULL_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Iceblood_Deathsnare_528-Whispering_Incarnate_Icon_FULL_528"+=trinket1=iceblood_deathsnare,id=194304,ilevel=528
@@ -718,141 +718,141 @@ profileset."Whispering_Incarnate_Icon_DPS_528-Ashes_of_the_Embersoul_528"+=drago
 profileset."Whispering_Incarnate_Icon_DPS_528-Ashes_of_the_Embersoul_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
 profileset."Whispering_Incarnate_Icon_DPS_528-Ashes_of_the_Embersoul_528"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Desperate_Invokers_Codex_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Desperate_Invokers_Codex_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Desperate_Invokers_Codex_528"+=trinket2=desperate_invokers_codex,id=194310,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Desperate_Invokers_Codex_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Desperate_Invokers_Codex_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Desperate_Invokers_Codex_528"+=trinket2=desperate_invokers_codex,id=194310,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Spiteful_Storm_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Spiteful_Storm_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Spiteful_Storm_528"+=trinket2=spiteful_storm,id=194309,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Spiteful_Storm_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Spiteful_Storm_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Spiteful_Storm_528"+=trinket2=spiteful_storm,id=194309,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Screaming_Black_Dragonscale_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Screaming_Black_Dragonscale_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Screaming_Black_Dragonscale_528"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Screaming_Black_Dragonscale_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Screaming_Black_Dragonscale_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Screaming_Black_Dragonscale_528"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Vessel_of_Searing_Shadow_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Vessel_of_Searing_Shadow_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Vessel_of_Searing_Shadow_528"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Vessel_of_Searing_Shadow_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Vessel_of_Searing_Shadow_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Vessel_of_Searing_Shadow_528"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Azure_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Azure_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Azure_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Azure_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Neltharions_Call_to_Suffering_535"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Neltharions_Call_to_Suffering_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Neltharions_Call_to_Suffering_535"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=535
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Neltharions_Call_to_Suffering_535"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Neltharions_Call_to_Suffering_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Neltharions_Call_to_Suffering_535"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=535
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Igneous_Flowstone_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Igneous_Flowstone_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Igneous_Flowstone_528"+=trinket2=igneous_flowstone,id=203996,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Igneous_Flowstone_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Igneous_Flowstone_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Igneous_Flowstone_528"+=trinket2=igneous_flowstone,id=203996,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Beacon_to_the_Beyond_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Beacon_to_the_Beyond_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Beacon_to_the_Beyond_528"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Beacon_to_the_Beyond_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Beacon_to_the_Beyond_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Beacon_to_the_Beyond_528"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Pips_Emerald_Friendship_Badge_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Pips_Emerald_Friendship_Badge_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Pips_Emerald_Friendship_Badge_528"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Pips_Emerald_Friendship_Badge_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Pips_Emerald_Friendship_Badge_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Pips_Emerald_Friendship_Badge_528"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.nymue_forced_immobilized=1
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.nymue_forced_immobilized=1
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Belorrelos_the_Suncaller_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Belorrelos_the_Suncaller_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Belorrelos_the_Suncaller_528"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Belorrelos_the_Suncaller_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Belorrelos_the_Suncaller_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Belorrelos_the_Suncaller_528"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Augury_of_the_Primal_Flame_535"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Augury_of_the_Primal_Flame_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Augury_of_the_Primal_Flame_535"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=535
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Augury_of_the_Primal_Flame_535"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Augury_of_the_Primal_Flame_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Augury_of_the_Primal_Flame_535"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=535
 
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ashes_of_the_Embersoul_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ashes_of_the_Embersoul_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Tank_528-Ashes_of_the_Embersoul_528"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ashes_of_the_Embersoul_528"+=dragonflight.whispering_incarnate_icon_roles=dps/tank
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ashes_of_the_Embersoul_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_TankDPS_528-Ashes_of_the_Embersoul_528"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Desperate_Invokers_Codex_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Desperate_Invokers_Codex_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Desperate_Invokers_Codex_528"+=trinket2=desperate_invokers_codex,id=194310,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Desperate_Invokers_Codex_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Desperate_Invokers_Codex_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Desperate_Invokers_Codex_528"+=trinket2=desperate_invokers_codex,id=194310,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Spiteful_Storm_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Spiteful_Storm_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Spiteful_Storm_528"+=trinket2=spiteful_storm,id=194309,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Spiteful_Storm_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Spiteful_Storm_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Spiteful_Storm_528"+=trinket2=spiteful_storm,id=194309,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Screaming_Black_Dragonscale_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Screaming_Black_Dragonscale_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Screaming_Black_Dragonscale_528"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Screaming_Black_Dragonscale_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Screaming_Black_Dragonscale_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Screaming_Black_Dragonscale_528"+=trinket2=screaming_black_dragonscale,id=202612,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Vessel_of_Searing_Shadow_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Vessel_of_Searing_Shadow_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Vessel_of_Searing_Shadow_528"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Vessel_of_Searing_Shadow_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Vessel_of_Searing_Shadow_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Vessel_of_Searing_Shadow_528"+=trinket2=vessel_of_searing_shadow,id=202615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=dragonflight.ominous_chromatic_essence_dragonflight=bronze
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Bronze_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Azure_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Azure_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Azure_528"+=dragonflight.ominous_chromatic_essence_dragonflight=azure
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Azure_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Azure_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=dragonflight.ominous_chromatic_essence_dragonflight=emerald
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ominous_Chromatic_Essence_Emerald_528"+=trinket2=ominous_chromatic_essence,id=203729,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Neltharions_Call_to_Suffering_535"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Neltharions_Call_to_Suffering_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Neltharions_Call_to_Suffering_535"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=535
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Neltharions_Call_to_Suffering_535"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Neltharions_Call_to_Suffering_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Neltharions_Call_to_Suffering_535"+=trinket2=neltharions_call_to_suffering,id=204211,ilevel=535
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Igneous_Flowstone_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Igneous_Flowstone_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Igneous_Flowstone_528"+=trinket2=igneous_flowstone,id=203996,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Igneous_Flowstone_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Igneous_Flowstone_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Igneous_Flowstone_528"+=trinket2=igneous_flowstone,id=203996,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Beacon_to_the_Beyond_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Beacon_to_the_Beyond_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Beacon_to_the_Beyond_528"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Beacon_to_the_Beyond_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Beacon_to_the_Beyond_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Beacon_to_the_Beyond_528"+=trinket2=beacon_to_the_beyond,id=203963,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Pips_Emerald_Friendship_Badge_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Pips_Emerald_Friendship_Badge_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Pips_Emerald_Friendship_Badge_528"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Pips_Emerald_Friendship_Badge_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Pips_Emerald_Friendship_Badge_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Pips_Emerald_Friendship_Badge_528"+=trinket2=pips_emerald_friendship_badge,id=207168,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.nymue_forced_immobilized=1
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=dragonflight.nymue_forced_immobilized=1
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Nymues_Unraveling_Spindle_IMMOBILIZED_528"+=trinket2=nymues_unraveling_spindle,id=208615,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Belorrelos_the_Suncaller_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Belorrelos_the_Suncaller_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Belorrelos_the_Suncaller_528"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Belorrelos_the_Suncaller_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Belorrelos_the_Suncaller_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Belorrelos_the_Suncaller_528"+=trinket2=belorrelos_the_suncaller,id=207172,ilevel=528
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Augury_of_the_Primal_Flame_535"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Augury_of_the_Primal_Flame_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Augury_of_the_Primal_Flame_535"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=535
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Augury_of_the_Primal_Flame_535"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Augury_of_the_Primal_Flame_535"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Augury_of_the_Primal_Flame_535"+=trinket2=augury_of_the_primal_flame,id=208614,ilevel=535
 
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ashes_of_the_Embersoul_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ashes_of_the_Embersoul_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
-profileset."Whispering_Incarnate_Icon_DPS-Healer_528-Ashes_of_the_Embersoul_528"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ashes_of_the_Embersoul_528"+=dragonflight.whispering_incarnate_icon_roles=dps/heal
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ashes_of_the_Embersoul_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528
+profileset."Whispering_Incarnate_Icon_HealerDPS_528-Ashes_of_the_Embersoul_528"+=trinket2=ashes_of_the_embersoul,id=207167,ilevel=528
 
 profileset."Whispering_Incarnate_Icon_FULL_528-Desperate_Invokers_Codex_528"+=dragonflight.whispering_incarnate_icon_roles=tank/heal/dps
 profileset."Whispering_Incarnate_Icon_FULL_528-Desperate_Invokers_Codex_528"+=trinket1=whispering_incarnate_icon,id=194301,ilevel=528

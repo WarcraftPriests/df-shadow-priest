@@ -1,4 +1,4 @@
 # algethar-fort-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|320516|1.00|0.69|0.75|0.69|0.81|0.07|
+|Base|433999|1.00|0.91|0.80|0.82|0.90|0.07|

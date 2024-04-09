@@ -1,4 +1,4 @@
 # nokhud-tyran-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|272404|1.00|0.66|0.74|0.71|0.82|0.08|
+|Base|372444|1.00|0.84|0.82|0.86|0.93|0.07|
