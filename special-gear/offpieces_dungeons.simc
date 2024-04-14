@@ -1,0 +1,86 @@
+# Head
+copy="Head_Organized_Pontificators_Mask_528","Base"
+head=organized_pontificators_mask,id=193703,ilevel=528,enchant=incandescent_essence
+chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+
+# Neck
+copy="Neck_Bromachs_Disentombed_Locket_528","Base"
+neck=bromachs_disentombed_locket,id=193809,ilevel=528,gem_id=192985/192925/192925
+
+copy="Neck_Ukhel_Ancestry_Beads_525","Base"
+neck=ukhel_ancestry_beads,id=193676,ilevel=528,gem_id=192985/192925/192925
+
+# Shoulders
+copy="Shoulders_Molten_Magma_Mantle_528","Base"
+shoulder=molten_magma_mantle,id=193788,ilevel=528
+chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+
+# Back
+copy="Back_Fireproof_Drape_528","Base"
+back=fireproof_drape,id=193763,ilevel=528
+
+# Chest
+copy="Chest_Blessed_Ohnir_Robes_528","Base"
+chest=blessed_ohnir_robes,id=193683,ilevel=528,enchant=waking_stats_3
+
+# Wrists
+# copy="Wrists_Anguished_Restraints_528","Base"
+# wrists=anguished_restraints,id=207120,ilevel=528,gem_id=192919
+# waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525,gem_id=192919
+
+# Hands
+copy="Hands_Azureblades_Work_Gloves_528","Base"
+hands=azureblades_work_gloves,id=193648,ilevel=528
+chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+
+copy="Hands_Warlords_Cindermitts_528","Base"
+hands=warlords_cindermitts,id=193775,ilevel=528
+chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+
+# Waist
+copy="Waist_Sky_Saddle_Cord_528","Base"
+waist=sky_saddle_cord,id=193691,ilevel=528,gem_id=192919
+
+copy="Waist_Sash_of_the_Furnace_Seraph_528","Base"
+waist=sash_of_the_furnace_seraph,id=202539,ilevel=528,gem_id=192919
+
+copy="Waist_Lost_Heros_Waist_Wrap_528","Base"
+waist=lost_heros_waist_wrap,id=193816,ilevel=528,gem_id=192919
+
+# Legs
+# copy="Legs_Elders_Volcanic_Wrap_528","Base"
+# legs=elders_volcanic_wrap,id=207118,ilevel=528,enchant=lambent_armor_kit_3
+# chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+
+# Feet
+# copy="Feet_Lost_Scholars_Belted_Treads_528","Base"
+# feet=lost_scholars_belted_treads,id=207122,ilevel=528
+# waist=vibrant_wildercloth_girdle,id=193516,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525,gem_id=192919
+
+# Rings
+# copy="Finger1_Signet_of_the_Last_Elder_528","Base"
+# finger1=signet_of_the_last_elder,id=207162,ilevel=528,enchant=devotion_of_mastery_3,gem_id=192919
+
+# copy="Finger2_Signet_of_the_Last_Elder_528","Base"
+# finger2=signet_of_the_last_elder,id=207162,ilevel=528,enchant=devotion_of_mastery_3,gem_id=192919
+
+# 1H + OH
+copy="1h_Vakash_the_Shadowed_Inferno_528-OH_Rod_of_Perfect_Order_528","Base"
+main_hand=vakash_the_shadowed_inferno,id=207788,ilevel=528,enchant=wafting_devotion_3    
+off_hand=rod_of_perfect_order,id=193745,ilevel=528
+
+# 2H
+# copy="2h_Dreambinder_Loom_of_the_Great_Cycle_528","Base"
+# main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=528,enchant=wafting_devotion_3
+# off_hand=disabled
+
+# Season 2 Tier Items
+# head=mask_of_the_furnace_seraph,id=202542,ilevel=528,enchant=incandescent_essence
+# shoulder=devotion_of_the_furnace_seraph,id=202540,ilevel=528
+# back=shroud_of_the_furnace_seraph,id=202537,ilevel=528
+# chest=command_of_the_furnace_seraph,id=202545,ilevel=528,enchant=waking_stats_3
+# wrists=cuffs_of_the_furnace_seraph,id=202538,ilevel=528,gem_id=192919
+# hands=grasp_of_the_furnace_seraph,id=202543,ilevel=528
+# waist=sash_of_the_furnace_seraph,id=202539,ilevel=528,gem_id=192919
+# legs=breeches_of_the_furnace_seraph,id=202541,ilevel=528,enchant=lambent_armor_kit_3
+# feet=sabatons_of_the_furnace_seraph,id=202544,ilevel=528

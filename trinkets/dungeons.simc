@@ -42,11 +42,11 @@ profileset."Time_Breaching_Talon_528"+=trinket1=time_breaching_talon,id=193791,i
 profileset."Emerald_Coachs_Whistle_522"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=522
 profileset."Emerald_Coachs_Whistle_528"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=528
 
-profileset."Tome_of_Unstable_Power_522"+=trinket1=tome_of_unstable_power,id=193628,ilevel=522
-profileset."Tome_of_Unstable_Power_528"+=trinket1=tome_of_unstable_power,id=193628,ilevel=528
+profileset."Tome_of_Unstable_Power_522"+=trinket1=tome_of_unstable_power,id=212685,ilevel=522
+profileset."Tome_of_Unstable_Power_528"+=trinket1=tome_of_unstable_power,id=212685,ilevel=528
 
-profileset."Umbrelskuls_Fractured_Heart_522"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=522
-profileset."Umbrelskuls_Fractured_Heart_528"+=trinket1=umbrelskuls_fractured_heart,id=193639,ilevel=528
+profileset."Umbrelskuls_Fractured_Heart_522"+=trinket1=umbrelskuls_fractured_heart,id=212684,ilevel=522
+profileset."Umbrelskuls_Fractured_Heart_528"+=trinket1=umbrelskuls_fractured_heart,id=212684,ilevel=528
 
 profileset."Furious_Ragefeather_522"+=trinket1=furious_ragefeather,id=193677,ilevel=522
 profileset."Furious_Ragefeather_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
