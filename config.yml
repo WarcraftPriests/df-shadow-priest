@@ -212,7 +212,7 @@ sims:
     files:
       - tiersets.simc
   trinket-combos:
-    description: "Combines the top trinkets together to get your BiS 2 trinkets. WIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer."
+    description: "Combines the top trinkets together to get your BiS 2 trinkets.\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer."
     builds: true
     weights: false
     chart: true
@@ -231,6 +231,7 @@ sims:
       - 483
       - 489
       - 496
+      - 515
       - 522
       - 525
       - 528
