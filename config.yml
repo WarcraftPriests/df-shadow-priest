@@ -212,7 +212,7 @@ sims:
     files:
       - tiersets.simc
   trinket-combos:
-    description: "Combines the top trinkets together to get your BiS 2 trinkets.\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer. OCEBA = Bronze, OCEEA = Emerald, OCEOA = Obsidian, OCEAA = Azure, OCERA = Ruby"
+    description: "Combines the top trinkets together to get your BiS 2 trinkets.\n\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer.\n\nOCEBA = Bronze, OCEEA = Emerald, OCEOA = Obsidian, OCEAA = Azure, OCERA = Ruby"
     builds: true
     weights: false
     chart: true
