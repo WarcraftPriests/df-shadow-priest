@@ -16,7 +16,7 @@ off_hands = {
     "OH_Thadrions_Erratic_Arcanotrode_528": "off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=528",
     "OH_Scripture_of_Primal_Devotion_528": "off_hand=scripture_of_primal_devotion,id=195513,ilevel=528",
     "OH_Icewraths_Channeling_Conduit_528": "off_hand=icewraths_channeling_conduit,id=195484,ilevel=528",
-    "OH_Rod_of_Perfect_Order_528": "off_hand=rod_of_perfect_order,id=193745,ilevel=528".
+    "OH_Rod_of_Perfect_Order_528": "off_hand=rod_of_perfect_order,id=193745,ilevel=528",
 }
 
 combos = [(mh, oh) for mh in one_hands.keys() for oh in off_hands.keys()]
