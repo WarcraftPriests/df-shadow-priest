@@ -1,0 +1,34 @@
+# algethar-fort-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|440718|1.24%|
+|Tauren|439422|0.95%|
+|Dwarf|439395|0.94%|
+|Gnome|438933|0.83%|
+|Goblin|438894|0.83%|
+|Night_Elf_Haste|438838|0.81%|
+|Void_Elf|438194|0.66%|
+|Nightborne|438041|0.63%|
+|Kul_Tiran|437933|0.60%|
+|Zandalari_Troll_Paku|437788|0.57%|
+|Mechagnome|437784|0.57%|
+|Highmountain_Tauren|437774|0.57%|
+|Night_Elf_Crit|437493|0.50%|
+|Blood_Elf|437470|0.50%|
+|Worgen|437329|0.47%|
+|Panda_Haste|436970|0.38%|
+|Panda_Vers|436937|0.38%|
+|Troll|436931|0.37%|
+|Draenei|436824|0.35%|
+|Orc|436647|0.31%|
+|Panda_Mastery|436579|0.29%|
+|Panda_Crit|436444|0.26%|
+|Dark_Iron_Dwarf|436300|0.23%|
+|Panda_Fortune_Cookie|436236|0.22%|
+|Maghar_Orc|436231|0.21%|
+|Zandalari_Troll_Bwonsamdi|435899|0.14%|
+|Undead|435732|0.10%|
+|Zandalari_Troll_Kimbul|435321|0.00%|
+|Base|435300|0.00%|
+|Vulpera|435132|-0.04%|
+|Lightforged_Draenei|435125|-0.04%|

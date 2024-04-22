@@ -1,0 +1,34 @@
+# azure-fort-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|464636|1.22%|
+|Dwarf|463079|0.88%|
+|Tauren|463029|0.87%|
+|Gnome|462795|0.82%|
+|Goblin|462638|0.78%|
+|Night_Elf_Haste|462522|0.76%|
+|Void_Elf|462510|0.76%|
+|Nightborne|462001|0.65%|
+|Highmountain_Tauren|461769|0.59%|
+|Mechagnome|461610|0.56%|
+|Kul_Tiran|461601|0.56%|
+|Blood_Elf|461524|0.54%|
+|Zandalari_Troll_Paku|461461|0.53%|
+|Night_Elf_Crit|461236|0.48%|
+|Worgen|461090|0.45%|
+|Panda_Haste|460808|0.39%|
+|Troll|460805|0.38%|
+|Orc|460598|0.34%|
+|Panda_Vers|460593|0.34%|
+|Panda_Mastery|460532|0.33%|
+|Draenei|460517|0.32%|
+|Panda_Crit|460372|0.29%|
+|Maghar_Orc|460228|0.26%|
+|Dark_Iron_Dwarf|460216|0.26%|
+|Undead|459908|0.19%|
+|Panda_Fortune_Cookie|459886|0.18%|
+|Zandalari_Troll_Bwonsamdi|459543|0.11%|
+|Zandalari_Troll_Kimbul|459050|0.00%|
+|Base|459040|0.00%|
+|Lightforged_Draenei|459027|0.00%|
+|Vulpera|458690|-0.08%|

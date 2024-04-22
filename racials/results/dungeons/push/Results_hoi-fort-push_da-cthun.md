@@ -1,0 +1,34 @@
+# hoi-fort-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|396967|1.49%|
+|Dwarf|395555|1.13%|
+|Tauren|395396|1.09%|
+|Goblin|394986|0.98%|
+|Night_Elf_Haste|394962|0.98%|
+|Gnome|394908|0.96%|
+|Void_Elf|394469|0.85%|
+|Nightborne|394344|0.82%|
+|Highmountain_Tauren|393913|0.71%|
+|Kul_Tiran|393835|0.69%|
+|Mechagnome|393762|0.67%|
+|Blood_Elf|393752|0.67%|
+|Troll|393621|0.63%|
+|Zandalari_Troll_Paku|393609|0.63%|
+|Night_Elf_Crit|393544|0.61%|
+|Worgen|393536|0.61%|
+|Panda_Vers|392980|0.47%|
+|Panda_Haste|392945|0.46%|
+|Draenei|392937|0.46%|
+|Orc|392875|0.44%|
+|Maghar_Orc|392613|0.37%|
+|Panda_Mastery|392589|0.37%|
+|Panda_Crit|392529|0.35%|
+|Dark_Iron_Dwarf|392424|0.33%|
+|Panda_Fortune_Cookie|392189|0.27%|
+|Zandalari_Troll_Bwonsamdi|392008|0.22%|
+|Undead|391933|0.20%|
+|Zandalari_Troll_Kimbul|391693|0.14%|
+|Vulpera|391272|0.03%|
+|Lightforged_Draenei|391266|0.03%|
+|Base|391148|0.00%|

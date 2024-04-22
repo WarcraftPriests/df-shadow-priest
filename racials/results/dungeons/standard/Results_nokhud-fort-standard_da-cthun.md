@@ -1,0 +1,34 @@
+# nokhud-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|246666|0.77%|
+|Tauren|246361|0.64%|
+|Dwarf|246241|0.59%|
+|Goblin|246139|0.55%|
+|Night_Elf_Haste|246097|0.53%|
+|Gnome|245994|0.49%|
+|Nightborne|245823|0.42%|
+|Void_Elf|245749|0.39%|
+|Mechagnome|245742|0.39%|
+|Kul_Tiran|245718|0.38%|
+|Highmountain_Tauren|245708|0.38%|
+|Blood_Elf|245699|0.37%|
+|Zandalari_Troll_Paku|245633|0.34%|
+|Night_Elf_Crit|245618|0.34%|
+|Worgen|245611|0.34%|
+|Panda_Vers|245562|0.32%|
+|Troll|245561|0.32%|
+|Panda_Haste|245419|0.26%|
+|Dark_Iron_Dwarf|245404|0.25%|
+|Panda_Crit|245361|0.23%|
+|Draenei|245360|0.23%|
+|Orc|245335|0.22%|
+|Zandalari_Troll_Bwonsamdi|245319|0.22%|
+|Panda_Mastery|245274|0.20%|
+|Maghar_Orc|245191|0.16%|
+|Undead|245184|0.16%|
+|Panda_Fortune_Cookie|245158|0.15%|
+|Zandalari_Troll_Kimbul|244915|0.05%|
+|Lightforged_Draenei|244823|0.01%|
+|Base|244789|0.00%|
+|Vulpera|244743|-0.02%|

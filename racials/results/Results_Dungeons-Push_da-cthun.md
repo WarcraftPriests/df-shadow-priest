@@ -1,0 +1,34 @@
+# Dungeons-Push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|429739|1.42%|
+|Dwarf|428183|1.05%|
+|Tauren|428116|1.04%|
+|Gnome|427707|0.94%|
+|Goblin|427656|0.93%|
+|Night_Elf_Haste|427564|0.91%|
+|Void_Elf|427155|0.81%|
+|Nightborne|426894|0.75%|
+|Highmountain_Tauren|426657|0.69%|
+|Kul_Tiran|426637|0.69%|
+|Mechagnome|426502|0.66%|
+|Troll|426465|0.65%|
+|Blood_Elf|426442|0.64%|
+|Zandalari_Troll_Paku|426389|0.63%|
+|Night_Elf_Crit|426173|0.58%|
+|Worgen|426081|0.56%|
+|Panda_Haste|425609|0.45%|
+|Orc|425581|0.44%|
+|Panda_Vers|425535|0.43%|
+|Draenei|425446|0.41%|
+|Panda_Crit|425248|0.36%|
+|Panda_Mastery|425232|0.36%|
+|Maghar_Orc|425122|0.33%|
+|Dark_Iron_Dwarf|425104|0.33%|
+|Panda_Fortune_Cookie|424868|0.27%|
+|Zandalari_Troll_Bwonsamdi|424588|0.20%|
+|Undead|424501|0.18%|
+|Zandalari_Troll_Kimbul|424109|0.09%|
+|Vulpera|423778|0.01%|
+|Lightforged_Draenei|423754|0.01%|
+|Base|423720|0.00%|

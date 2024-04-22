@@ -1,0 +1,33 @@
+# !9vvWUXniq0FPfm2R9XM2QO2dUrLOCOhqX7AyJBDmv2400l5BVWmagC0wjRLLXZ8M38MbSGiUxWFUF4ZtDNgL9ItcExFVE6b58YGEs0YkOmb)SEupFx3O0yKFzsPDr1TA0F0zFy6I4MD(0)QnuHrWnYxT)2QF7Xz9Lv5BpsfC9PFkpBwSGyF16qVG)JVF7hUqUzz5j7Mx6gxLUmCEDEwozUBDCu0syrd8vlxFro6sbFEqz(MsTibaBRbuBpIlnWIjg5NwNUi1ti9yo2jF2rFBzVihTKYvZwuiq(SX9BBUxqlB)0sHh7FkGhMOTeES)PY9yCV3dJBtbYgM3wde(ri2AGDoPtWvQcPsLen6(rW9AW9Me3Do3ir0dPYe36TvIuTcI2wtoosiHCSXncXVg2x6xpGTPekwiD1475wqa8YFcLyq3mW6gxrgrivlr6HqztStmBGCqWKGepaEHpyifLjPqPuNCKSoNfygpengIovpDHfAtmWJYKUCvity0(bSu0qFnj08(RO1XHJOIFiRUy7000oGRRtO5vhwShVcFAj1z5KgZLBxvsjLQg4WyZ1lKWkB3qsdO)XzOa(vjkAOxBsyDQIxj2M(2Mod8U0RrMOxB8goe1sAY1haIGtDeSvtPzAE6ui0EP(8tZp5ZsMjcWdif9d5hEQ7i4xnySbmAjSjj55ohs7(gY2TdGSV)wGiA1aAn4b(dzWvKvle)rps2Dd(Pxs6z2WPE6URAiLxD0G9FNqcxceait)PzZmK4esOtdwpiAZUum2QE3OI)ccaW93qqzzfe8Pc7xdDEQMLYN0J9FvpmHFymyX5n)K8Y6WO7BhqS8(bLA486O5Vwkvk4)rk)fYmX)o
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2040
+enemy="The Azure Vault 35 Fortified"
+enemy_health=9999999
+keystone_level=35
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=1,delay=012,enemies="Conjured_Lasher_1":3182761:Elemental|"Conjured_Lasher_2":3182761:Elemental|"Conjured_Lasher_3":3182761:Elemental|"Conjured_Lasher_4":3182761:Elemental|"Conjured_Lasher_5":3182761:Elemental|"Conjured_Lasher_6":3182761:Elemental|"Shrieking_Whelp_1":1414558:Dragonkin|"Crystal_Fury_1":3327068:Elemental|"Crystal_Fury_2":3327068:Elemental|"Crystal_Fury_3":3327068:Elemental
+raid_events+=/pull,pull=02,bloodlust=0,delay=005,enemies="Conjured_Lasher_1":3182761:Elemental|"Conjured_Lasher_2":3182761:Elemental|"Conjured_Lasher_3":3182761:Elemental|"Arcane_Tender_1":5658238:Elemental
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,enemies="Conjured_Lasher_1":3182761:Elemental|"Conjured_Lasher_2":3182761:Elemental|"Conjured_Lasher_3":3182761:Elemental|"Conjured_Lasher_4":3182761:Elemental|"Volatile_Sapling_1":353644:Aberration|"Volatile_Sapling_2":353644:Aberration|"Volatile_Sapling_3":353644:Aberration|"Volatile_Sapling_4":353644:Aberration|"Arcane_Tender_1":5658238:Elemental
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,enemies="Volatile_Sapling_1":353644:Aberration|"Volatile_Sapling_2":353644:Aberration|"Volatile_Sapling_3":353644:Aberration|"Volatile_Sapling_4":353644:Aberration|"Volatile_Sapling_5":353644:Aberration|"Volatile_Sapling_6":353644:Aberration|"Volatile_Sapling_7":353644:Aberration|"Volatile_Sapling_8":353644:Aberration|"Arcane_Tender_1":5658238:Elemental|"Arcane_Tender_2":5658238:Elemental
+raid_events+=/pull,pull=05,bloodlust=0,delay=006,enemies="BOSS_Leymor":20653959:Elemental
+raid_events+=/pull,pull=06,bloodlust=0,delay=012,enemies="Arcane_Elemental_1":3536396:Elemental|"Arcane_Elemental_2":3536396:Elemental|"Crystal_Fury_1":3327068:Elemental|"Crystal_Fury_2":3327068:Elemental|"Crystal_Fury_3":3327068:Elemental|"Crystal_Fury_4":3327068:Elemental|"Crystal_Thrasher_1":4839372:Elemental|"Shrieking_Whelp_1":1414558:Dragonkin|"Shrieking_Whelp_2":1414558:Dragonkin|"Shrieking_Whelp_3":1414558:Dragonkin
+raid_events+=/pull,pull=07,bloodlust=0,delay=015,enemies="Unstable_Curator_1":5658238:Elemental|"Arcane_Elemental_1":3536396:Elemental|"Arcane_Elemental_2":3536396:Elemental|"Arcane_Elemental_3":3536396:Elemental|"Arcane_Elemental_4":3536396:Elemental|"Rune_Seal_Keeper_1":3536396:Dragonkin
+raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Vault_Guard_1":3890040:Dragonkin|"Vault_Guard_2":3890040:Dragonkin|"Vault_Guard_3":3890040:Dragonkin|"Scalebane_Lieutenant_1":5658238:Dragonkin|"Rune_Seal_Keeper_1":3536396:Dragonkin|"Astral_Attendant_1":2121837:Elemental
+raid_events+=/pull,pull=09,bloodlust=0,delay=013,enemies="Astral_Attendant_1":2121837:Elemental|"Astral_Attendant_2":2121837:Elemental|"Astral_Attendant_3":2121837:Elemental|"Astral_Attendant_4":2121837:Elemental|"Vault_Guard_1":3890040:Dragonkin|"Vault_Guard_2":3890040:Dragonkin|"Vault_Guard_3":3890040:Dragonkin|"Rune_Seal_Keeper_1":3536396:Dragonkin|"Rune_Seal_Keeper_2":3536396:Dragonkin
+raid_events+=/pull,pull=10,bloodlust=0,delay=009,enemies="BOSS_Azureblade":14752828:Dragonkin
+raid_events+=/pull,pull=11,bloodlust=0,delay=013,enemies="Nullmagic_Hornswog_1":3536396:Beast|"Nullmagic_Hornswog_2":3536396:Beast|"Nullmagic_Hornswog_3":3536396:Beast|"Nullmagic_Hornswog_4":3536396:Beast|"Tarasek_Delver_1":2121837:Dragonkin|"Tarasek_Delver_2":2121837:Dragonkin|"Tarasek_Delver_3":2121837:Dragonkin|"Tarasek_Delver_4":2121837:Dragonkin
+raid_events+=/pull,pull=12,bloodlust=0,delay=008,enemies="Tarasek_Delver_1":2121837:Dragonkin|"Tarasek_Delver_2":2121837:Dragonkin|"Tarasek_Delver_3":2121837:Dragonkin|"Tarasek_Delver_4":2121837:Dragonkin|"Tarasek_Delver_5":2121837:Dragonkin|"Tarasek_Delver_6":2121837:Dragonkin|"Nullmagic_Hornswog_1":3536396:Beast|"Nullmagic_Hornswog_2":3536396:Beast|"Nullmagic_Hornswog_3":3536396:Beast|"Drakonid_Breaker_1":5658238:Dragonkin
+raid_events+=/pull,pull=13,bloodlust=0,delay=014,enemies="Nullmagic_Hornswog_1":3536396:Beast|"Nullmagic_Hornswog_2":3536396:Beast|"Nullmagic_Hornswog_3":3536396:Beast|"Drakonid_Breaker_1":5658238:Dragonkin|"Tarasek_Delver_1":2121837:Dragonkin|"Tarasek_Delver_2":2121837:Dragonkin|"Tarasek_Delver_3":2121837:Dragonkin|"Tarasek_Delver_4":2121837:Dragonkin
+raid_events+=/pull,pull=14,bloodlust=0,delay=013,enemies="BOSS_Telash_Greywing":20653959:Dragonkin
+raid_events+=/pull,pull=15,bloodlust=0,delay=005,enemies="Arcane_Construct_1":5658238:Elemental|"Arcane_Construct_2":5658238:Elemental|"Arcane_Construct_3":5658238:Elemental|"Astral_Attendant_1":2121837:Elemental|"Arcane_Elemental_1":3536396:Elemental|"Arcane_Elemental_2":3536396:Elemental|"Arcane_Elemental_3":3536396:Elemental|"Rune_Seal_Keeper_1":3536396:Dragonkin
+raid_events+=/pull,pull=16,bloodlust=1,delay=015,enemies="BOSS_Umbrelskul":24784753:Elemental

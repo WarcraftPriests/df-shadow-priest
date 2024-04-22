@@ -1,0 +1,34 @@
+# azure-tyran-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|424544|1.49%|
+|Tauren|422823|1.08%|
+|Dwarf|422677|1.04%|
+|Goblin|422341|0.96%|
+|Gnome|422167|0.92%|
+|Night_Elf_Haste|422083|0.90%|
+|Void_Elf|421714|0.81%|
+|Nightborne|421295|0.71%|
+|Highmountain_Tauren|421248|0.70%|
+|Kul_Tiran|421215|0.69%|
+|Zandalari_Troll_Paku|421164|0.68%|
+|Mechagnome|421099|0.67%|
+|Blood_Elf|420848|0.61%|
+|Troll|420757|0.59%|
+|Night_Elf_Crit|420614|0.55%|
+|Worgen|420577|0.54%|
+|Panda_Haste|420446|0.51%|
+|Panda_Vers|420161|0.44%|
+|Draenei|420132|0.44%|
+|Orc|420042|0.41%|
+|Panda_Crit|419866|0.37%|
+|Panda_Mastery|419696|0.33%|
+|Dark_Iron_Dwarf|419582|0.30%|
+|Panda_Fortune_Cookie|419527|0.29%|
+|Maghar_Orc|419506|0.29%|
+|Undead|419272|0.23%|
+|Zandalari_Troll_Bwonsamdi|419161|0.20%|
+|Zandalari_Troll_Kimbul|418797|0.12%|
+|Vulpera|418404|0.02%|
+|Lightforged_Draenei|418356|0.01%|
+|Base|418309|0.00%|

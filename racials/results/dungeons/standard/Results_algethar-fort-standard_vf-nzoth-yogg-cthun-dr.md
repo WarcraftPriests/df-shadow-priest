@@ -1,0 +1,34 @@
+# algethar-fort-standard - vf-nzoth-yogg-cthun-dr
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|266519|0.83%|
+|Goblin|265849|0.57%|
+|Night_Elf_Haste|265839|0.57%|
+|Gnome|265796|0.55%|
+|Tauren|265796|0.55%|
+|Void_Elf|265662|0.50%|
+|Dwarf|265605|0.48%|
+|Nightborne|265538|0.46%|
+|Mechagnome|265402|0.40%|
+|Worgen|265393|0.40%|
+|Kul_Tiran|265368|0.39%|
+|Highmountain_Tauren|265349|0.38%|
+|Blood_Elf|265307|0.37%|
+|Night_Elf_Crit|265306|0.37%|
+|Zandalari_Troll_Paku|265301|0.37%|
+|Troll|265243|0.34%|
+|Panda_Haste|265082|0.28%|
+|Draenei|265049|0.27%|
+|Panda_Crit|265003|0.25%|
+|Dark_Iron_Dwarf|264948|0.23%|
+|Panda_Vers|264945|0.23%|
+|Panda_Mastery|264937|0.23%|
+|Maghar_Orc|264873|0.20%|
+|Panda_Fortune_Cookie|264868|0.20%|
+|Zandalari_Troll_Bwonsamdi|264852|0.20%|
+|Orc|264843|0.19%|
+|Undead|264783|0.17%|
+|Zandalari_Troll_Kimbul|264646|0.12%|
+|Lightforged_Draenei|264446|0.04%|
+|Base|264335|0.00%|
+|Vulpera|264333|0.00%|

@@ -31,13 +31,10 @@ def get_top_talents(results, combos, directory, matches, jitter):
             count = 0
             for build in builds:
                 filler = ""
-                suffix = build.split("_")[-1]
-                if suffix == "Spike" or suffix == "Flay":
-                    filler = suffix
-                elif "Spike" in build:
-                    filler = "Spike_DR"
-                elif "Flay" in build:
-                    filler = "Flay_DR"
+                fillers = ["Spike_ME", "Spike_DR", "Flay_ME", "Flay_DR"]
+                for name in fillers:
+                    if name in build:
+                        filler = name
                 if combo[0] in build and filler == combo[1]:
                     talent_names.append(build)
                     count = count + 1
@@ -58,38 +55,40 @@ def get_builds():
     cds = ["VF", "DA"]
     idols = [
         "yshaarj_cthun",
-        "yshaarj_nzoth_cthun",
         "nzoth_yogg",
         "nzoth_cthun",
         "yogg_cthun",
+        "nzoth_yogg_cthun",
+        "cthun",
     ]
     combos = [f"{cd}_{idol}" for cd in cds for idol in idols]  # noqa: E501
     return combos
 
 
 def find_spec_talents(talent):
-    cd = talent.split("_")[0]
-    suffix = ""
-    filler_types = ["Spike_DR", "Flay_DR", "Spike", "Flay"]
-    spec_talents = ""
-    for filler in filler_types:
-        if filler in talent:
-            suffix = filler
-            break
-    file_name = f"{cd}-{suffix}.simc"
-    with open(f"talents/{file_name}", "r", encoding="utf8") as file:
+    spec_talents = "not_found"
+    with open("talents/talents_duplicated.simc", "r", encoding="utf8") as file:
         for line in file:
             if talent in line:
                 spec_talents = line.split("+=")[1].replace('"', "").replace("\n", "")
                 break
     file.close()
+    if spec_talents == "not_found":
+        print(f"{talent} not found")
+        exit()
     return spec_talents
 
 
 def get_base_actor():
     file_name = os.listdir("talents/profiles/")[0]
     with open(f"talents/profiles/{file_name}", "r", encoding="utf8") as file:
-        head = [next(file) for _ in range(27)]
+        ending_line = 27
+        for num, line in enumerate(file, 1):
+            if "main_hand" in line:
+                ending_line = num
+    file.close()
+    with open(f"talents/profiles/{file_name}", "r", encoding="utf8") as file:
+        head = [next(file) for _ in range(ending_line)]
     file.close()
     head.extend("\n")
     return head
@@ -97,6 +96,10 @@ def get_base_actor():
 
 def create_sim_file(base, talent_dictionary, batches):
     items = list(talent_dictionary.items())
+    # clear out existing build files
+    for filename in os.listdir("talents/top/"):
+        if os.path.isfile(os.path.join("talents/top/", filename)):
+            os.remove(os.path.join("talents/top/", filename))
     # raidbots limits us to 200 actors per sim
     for batch in range(batches):
         start = 0 + (199 * batch)
@@ -145,9 +148,17 @@ if __name__ == "__main__":
     combos = [
         (cd, filler)
         for cd in build_configs
-        for filler in ["Spike", "Flay", "Spike_DR", "Flay_DR"]
+        for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
     ]  # noqa: E501
-    results = ["Single", "2T", "3T", "Composite", "Dungeons-Push", "Dungeons-Standard"]
+    results = [
+        "Single",
+        "2T",
+        "3T",
+        "4T",
+        "Composite",
+        "Dungeons-Push",
+        "Dungeons-Standard",
+    ]
     push_results = list(filter(filter_dungeon_type, utils.get_dungeon_combos()))
 
     # Get aggregate results

@@ -1,0 +1,33 @@
+# !Lv12UXjmq0FP1MR(1EtQPs0iruvFYQWYWgAjqfyss7d9BVEMXySjAriB84Z5mhpJxTq)GU(PUHpo10ocD6wDDtx3803GL1H5jDvAImvxFDECE5(MrWyGpp1pJ7QzZm)E87dt30V7umDVA3Q2ORnWR233TD7gSmz3Y)(Xxgghjorq6xa4X5XU7MhMy6BHBBdJiMvIJ1XjwCEbGFPRu66NBg3aeGvyeUAqP(agtLqIXDDBzbMm1B2K6zyuxj11ld9MV23VcMvmwL9Lji2pSnDdMNyLlrHdpHQO1hX9BwHJeu)B7OvMWJxKcTeTpXoSkHEKOxq2HDw4Y(i2xo90YgNTAnI(eOV3ZWonzHGMt7kleip7jUfYCleYUGIqMHRwjlyGSFXoswQRSpsfAyvY8afH6rbE(LKFsJD8hWwAjRdflKl4A5b2wywMa7aCWKcZDREo2HhCbZuzuclI89QmxYlUqbFWwFRLnQuia3CpU(t1sVdVJYHhkC2ySZG4kKNcKGVicEzi8kkUccWss5c6afdhpuexI4p9KZPc5mHzRmITKq2eoVIRoezryNDkFq)3JDkJTkc70iS5dCroJDbxHDHtgvet5rzHQnY5YyMOGpKd1kSFAYbhWT054UMpUeqkDijcqQr4oOYIRaiep15H5YEq7nNyIf(T9(mCqoniX1vAiljMKKOCIAMoijJam)42b(StCQwvWn6fNS9I9JuQgILIinsfNVCH8bvyvPxlkhxz632t6dQ0v7g5kSTi4BAeCQi57jVCkriCKX3LkdNrO(MMxd9REBOtxp)ycSu)D1NA)RDs7pT)XWkVNUH((HRBJM)yvcwtP)p
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=1800
+enemy="Ruby Life Pools 35 Fortified"
+enemy_health=9999999
+keystone_level=35
+keystone_pct_hp=35
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=010,enemies="Primal_Juggernaut_1":6049215:Elemental|"Flashfrost_Earthshaper_1":3024607:Humanoid|"Flashfrost_Earthshaper_2":3024607:Humanoid|"Flashfrost_Earthshaper_3":3024607:Humanoid|"Flashfrost_Earthshaper_4":3024607:Humanoid|"Primal_Terrasentry_1":3024607:Elemental|"Primal_Terrasentry_2":3024607:Elemental|"Primal_Terrasentry_3":3024607:Elemental|"Primal_Terrasentry_4":3024607:Elemental|"Flashfrost_Chillweaver_1":3024607:Humanoid|"Flashfrost_Chillweaver_2":3024607:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=001,enemies="Flashfrost_Earthshaper_1":3024607:Humanoid|"Primal_Terrasentry_1":3024607:Elemental|"Primal_Terrasentry_2":3024607:Elemental|"Flashfrost_Chillweaver_1":3024607:Humanoid|"Flashfrost_Chillweaver_2":3024607:Humanoid|"Flashfrost_Chillweaver_3":3024607:Humanoid|"Infused_Whelp_1":1209843:Dragonkin|"Infused_Whelp_2":1209843:Dragonkin|"Infused_Whelp_3":1209843:Dragonkin|"Infused_Whelp_4":1209843:Dragonkin|"Infused_Whelp_5":1209843:Dragonkin|"Infused_Whelp_6":1209843:Dragonkin|"Infused_Whelp_7":1209843:Dragonkin|"Infused_Whelp_8":1209843:Dragonkin|"Infused_Whelp_9":1209843:Dragonkin
+raid_events+=/pull,pull=03,bloodlust=0,delay=010,enemies="Infused_Whelp_1":1209843:Dragonkin|"Infused_Whelp_2":1209843:Dragonkin|"Infused_Whelp_3":1209843:Dragonkin|"Defier_Draghar_1":9073823:Dragonkin
+raid_events+=/pull,pull=04,bloodlust=0,delay=001,enemies="BOSS_Melidrussa_Chillworn":17649338:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=060,enemies="Scorchling_1":604921:Elemental|"Scorchling_2":604921:Elemental|"Scorchling_3":604921:Elemental|"Scorchling_4":604921:Elemental|"Scorchling_5":604921:Elemental|"Thunderhead_1":9073823:Dragonkin
+raid_events+=/pull,pull=06,bloodlust=0,delay=005,enemies="Blazebound_Destroyer_1":5141833:Elemental|"Scorchling_1":604921:Elemental|"Primalist_Cinderweaver_1":3024607:Humanoid|"Primalist_Cinderweaver_2":3024607:Humanoid|"Primalist_Cinderweaver_3":3024607:Humanoid|"Primalist_Flamedancer_1":3629529:Humanoid|"Primalist_Flamedancer_2":3629529:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=003,enemies="Blazebound_Destroyer_1":5141833:Elemental|"Scorchling_1":604921:Elemental|"Scorchling_2":604921:Elemental|"Scorchling_3":604921:Elemental|"Scorchling_4":604921:Elemental|"Scorchling_5":604921:Elemental|"Scorchling_6":604921:Elemental|"Primalist_Cinderweaver_1":3024607:Humanoid|"Primalist_Flamedancer_1":3629529:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=020,enemies="Blazebound_Destroyer_1":5141833:Elemental|"Scorchling_1":604921:Elemental|"Scorchling_2":604921:Elemental|"Scorchling_3":604921:Elemental|"Primalist_Cinderweaver_1":3024607:Humanoid|"Primalist_Flamedancer_1":3629529:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=005,enemies="Blazebound_Destroyer_1":5141833:Elemental|"Scorchling_1":604921:Elemental|"Scorchling_2":604921:Elemental|"Scorchling_3":604921:Elemental|"Scorchling_4":604921:Elemental|"Scorchling_5":604921:Elemental|"Primalist_Cinderweaver_1":3024607:Humanoid|"Primalist_Flamedancer_1":3629529:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,enemies="Scorchling_1":604921:Elemental|"Scorchling_2":604921:Elemental|"Scorchling_3":604921:Elemental|"Scorchling_4":604921:Elemental
+raid_events+=/pull,pull=11,bloodlust=0,delay=004,enemies="BOSS_Kokia_Blazehoof":17649338:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=007,enemies="Storm_Warrior_1":3024607:Humanoid|"Storm_Warrior_2":3024607:Humanoid|"Primal_Thundercloud_1":451799:Elemental|"Primal_Thundercloud_2":451799:Elemental|"Primal_Thundercloud_3":451799:Elemental|"Primal_Thundercloud_4":451799:Elemental|"Primal_Thundercloud_5":451799:Elemental|"Primal_Thundercloud_6":451799:Elemental|"Tempest_Channeler_1":4839372:Humanoid
+raid_events+=/pull,pull=13,bloodlust=0,delay=010,enemies="Storm_Warrior_1":3024607:Humanoid|"Storm_Warrior_2":3024607:Humanoid|"Storm_Warrior_3":3024607:Humanoid|"Storm_Warrior_4":3024607:Humanoid|"Flame_Channeler_1":4839372:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=010,enemies="Primal_Thundercloud_1":451799:Elemental|"Primal_Thundercloud_2":451799:Elemental|"Primal_Thundercloud_3":451799:Elemental|"Primal_Thundercloud_4":451799:Elemental|"Primal_Thundercloud_5":451799:Elemental|"Tempest_Channeler_1":4839372:Humanoid|"Flame_Channeler_1":4839372:Humanoid|"Storm_Warrior_1":3024607:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=010,enemies="Storm_Warrior_1":3024607:Humanoid|"Storm_Warrior_2":3024607:Humanoid|"Primal_Thundercloud_1":451799:Elemental|"Primal_Thundercloud_2":451799:Elemental|"Primal_Thundercloud_3":451799:Elemental|"Primal_Thundercloud_4":451799:Elemental|"High_Channeler_Ryvati_1":9073823:Humanoid
+raid_events+=/pull,pull=16,bloodlust=1,delay=005,enemies="BOSS_Erkhart_Stormvein":12606670:Humanoid|"BOSS_Kyrakka":10085336:Dragonkin

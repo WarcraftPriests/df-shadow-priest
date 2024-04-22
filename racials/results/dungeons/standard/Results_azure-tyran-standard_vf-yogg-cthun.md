@@ -1,0 +1,34 @@
+# azure-tyran-standard - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|252174|0.80%|
+|Night_Elf_Haste|251708|0.61%|
+|Goblin|251678|0.60%|
+|Gnome|251626|0.58%|
+|Dwarf|251602|0.57%|
+|Tauren|251555|0.55%|
+|Nightborne|251439|0.50%|
+|Kul_Tiran|251379|0.48%|
+|Highmountain_Tauren|251246|0.43%|
+|Mechagnome|251202|0.41%|
+|Blood_Elf|251166|0.39%|
+|Zandalari_Troll_Paku|251104|0.37%|
+|Night_Elf_Crit|251102|0.37%|
+|Void_Elf|251053|0.35%|
+|Panda_Haste|251037|0.34%|
+|Worgen|251033|0.34%|
+|Panda_Vers|250964|0.31%|
+|Panda_Crit|250869|0.28%|
+|Draenei|250820|0.26%|
+|Panda_Mastery|250790|0.24%|
+|Undead|250771|0.24%|
+|Panda_Fortune_Cookie|250688|0.20%|
+|Zandalari_Troll_Bwonsamdi|250666|0.19%|
+|Dark_Iron_Dwarf|250615|0.17%|
+|Troll|250609|0.17%|
+|Orc|250532|0.14%|
+|Maghar_Orc|250442|0.11%|
+|Zandalari_Troll_Kimbul|250388|0.08%|
+|Lightforged_Draenei|250297|0.05%|
+|Vulpera|250271|0.04%|
+|Base|250179|0.00%|

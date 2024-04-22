@@ -1,0 +1,34 @@
+# bhh-tyran-push - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|579772|1.56%|
+|Goblin|576894|1.05%|
+|Gnome|576710|1.02%|
+|Night_Elf_Haste|576678|1.01%|
+|Tauren|575950|0.89%|
+|Dwarf|575884|0.87%|
+|Void_Elf|575413|0.79%|
+|Nightborne|575147|0.75%|
+|Kul_Tiran|575042|0.73%|
+|Zandalari_Troll_Paku|574942|0.71%|
+|Highmountain_Tauren|574918|0.71%|
+|Blood_Elf|574916|0.70%|
+|Mechagnome|574823|0.69%|
+|Troll|574790|0.68%|
+|Night_Elf_Crit|574432|0.62%|
+|Panda_Haste|574306|0.60%|
+|Worgen|574218|0.58%|
+|Panda_Vers|573765|0.50%|
+|Draenei|573562|0.47%|
+|Panda_Crit|573458|0.45%|
+|Orc|573151|0.40%|
+|Panda_Mastery|573043|0.38%|
+|Panda_Fortune_Cookie|572860|0.34%|
+|Maghar_Orc|572596|0.30%|
+|Dark_Iron_Dwarf|572511|0.28%|
+|Zandalari_Troll_Bwonsamdi|572128|0.22%|
+|Undead|571726|0.15%|
+|Zandalari_Troll_Kimbul|571623|0.13%|
+|Vulpera|571048|0.03%|
+|Lightforged_Draenei|571029|0.02%|
+|Base|570893|0.00%|

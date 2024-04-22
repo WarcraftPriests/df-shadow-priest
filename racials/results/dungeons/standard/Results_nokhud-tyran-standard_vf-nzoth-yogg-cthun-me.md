@@ -1,0 +1,34 @@
+# nokhud-tyran-standard - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|224180|0.69%|
+|Goblin|223761|0.51%|
+|Gnome|223662|0.46%|
+|Night_Elf_Haste|223620|0.44%|
+|Tauren|223535|0.41%|
+|Nightborne|223493|0.39%|
+|Dwarf|223478|0.38%|
+|Void_Elf|223432|0.36%|
+|Highmountain_Tauren|223374|0.33%|
+|Mechagnome|223372|0.33%|
+|Kul_Tiran|223322|0.31%|
+|Night_Elf_Crit|223298|0.30%|
+|Worgen|223257|0.28%|
+|Blood_Elf|223215|0.26%|
+|Zandalari_Troll_Paku|223208|0.26%|
+|Panda_Vers|223126|0.22%|
+|Troll|223096|0.21%|
+|Draenei|223088|0.20%|
+|Panda_Crit|223085|0.20%|
+|Orc|223007|0.17%|
+|Panda_Haste|223000|0.16%|
+|Zandalari_Troll_Bwonsamdi|222971|0.15%|
+|Panda_Fortune_Cookie|222919|0.13%|
+|Undead|222916|0.13%|
+|Dark_Iron_Dwarf|222915|0.13%|
+|Panda_Mastery|222893|0.12%|
+|Maghar_Orc|222745|0.05%|
+|Zandalari_Troll_Kimbul|222685|0.02%|
+|Base|222633|0.00%|
+|Lightforged_Draenei|222539|-0.04%|
+|Vulpera|222442|-0.09%|

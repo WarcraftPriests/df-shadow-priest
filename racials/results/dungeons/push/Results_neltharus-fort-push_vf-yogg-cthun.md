@@ -1,0 +1,34 @@
+# neltharus-fort-push - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|466410|1.41%|
+|Night_Elf_Haste|464380|0.97%|
+|Gnome|464306|0.95%|
+|Goblin|464087|0.90%|
+|Dwarf|463660|0.81%|
+|Tauren|463614|0.80%|
+|Void_Elf|463491|0.77%|
+|Highmountain_Tauren|463190|0.71%|
+|Nightborne|463038|0.67%|
+|Kul_Tiran|462960|0.66%|
+|Mechagnome|462800|0.62%|
+|Zandalari_Troll_Paku|462697|0.60%|
+|Blood_Elf|462694|0.60%|
+|Worgen|462551|0.57%|
+|Night_Elf_Crit|462508|0.56%|
+|Troll|462468|0.55%|
+|Panda_Haste|462346|0.52%|
+|Panda_Vers|462040|0.46%|
+|Orc|461703|0.38%|
+|Draenei|461587|0.36%|
+|Panda_Crit|461580|0.36%|
+|Panda_Mastery|461408|0.32%|
+|Panda_Fortune_Cookie|461400|0.32%|
+|Maghar_Orc|461220|0.28%|
+|Dark_Iron_Dwarf|461036|0.24%|
+|Zandalari_Troll_Bwonsamdi|460886|0.21%|
+|Undead|460739|0.17%|
+|Zandalari_Troll_Kimbul|460319|0.08%|
+|Lightforged_Draenei|459969|0.01%|
+|Vulpera|459947|0.00%|
+|Base|459940|0.00%|

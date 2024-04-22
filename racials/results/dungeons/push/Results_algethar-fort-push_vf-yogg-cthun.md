@@ -1,0 +1,34 @@
+# algethar-fort-push - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|438771|1.41%|
+|Night_Elf_Haste|437001|1.00%|
+|Goblin|436656|0.92%|
+|Gnome|436648|0.92%|
+|Dwarf|436210|0.82%|
+|Tauren|436115|0.80%|
+|Nightborne|435816|0.73%|
+|Void_Elf|435743|0.71%|
+|Mechagnome|435599|0.68%|
+|Zandalari_Troll_Paku|435349|0.62%|
+|Kul_Tiran|435348|0.62%|
+|Highmountain_Tauren|435338|0.62%|
+|Night_Elf_Crit|435160|0.58%|
+|Worgen|435146|0.57%|
+|Blood_Elf|434980|0.54%|
+|Troll|434893|0.51%|
+|Panda_Haste|434791|0.49%|
+|Panda_Vers|434566|0.44%|
+|Draenei|434519|0.43%|
+|Orc|434402|0.40%|
+|Panda_Crit|434240|0.36%|
+|Panda_Mastery|433991|0.31%|
+|Panda_Fortune_Cookie|433847|0.27%|
+|Maghar_Orc|433844|0.27%|
+|Dark_Iron_Dwarf|433700|0.24%|
+|Zandalari_Troll_Bwonsamdi|433506|0.19%|
+|Undead|433272|0.14%|
+|Zandalari_Troll_Kimbul|433242|0.13%|
+|Base|432665|0.00%|
+|Vulpera|432581|-0.02%|
+|Lightforged_Draenei|432501|-0.04%|

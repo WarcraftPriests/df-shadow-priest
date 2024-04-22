@@ -1,0 +1,34 @@
+# azure-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|272195|0.83%|
+|Tauren|271692|0.64%|
+|Goblin|271675|0.64%|
+|Gnome|271655|0.63%|
+|Dwarf|271631|0.62%|
+|Night_Elf_Haste|271547|0.59%|
+|Blood_Elf|271365|0.52%|
+|Void_Elf|271051|0.40%|
+|Nightborne|270967|0.37%|
+|Highmountain_Tauren|270914|0.35%|
+|Kul_Tiran|270885|0.34%|
+|Mechagnome|270881|0.34%|
+|Night_Elf_Crit|270833|0.32%|
+|Zandalari_Troll_Bwonsamdi|270761|0.30%|
+|Zandalari_Troll_Paku|270750|0.29%|
+|Panda_Haste|270737|0.29%|
+|Worgen|270727|0.28%|
+|Panda_Vers|270699|0.27%|
+|Undead|270647|0.25%|
+|Panda_Crit|270611|0.24%|
+|Draenei|270606|0.24%|
+|Dark_Iron_Dwarf|270385|0.16%|
+|Panda_Mastery|270347|0.14%|
+|Troll|270320|0.13%|
+|Panda_Fortune_Cookie|270215|0.09%|
+|Orc|270207|0.09%|
+|Maghar_Orc|270120|0.06%|
+|Zandalari_Troll_Kimbul|269962|0.00%|
+|Base|269960|0.00%|
+|Lightforged_Draenei|269917|-0.02%|
+|Vulpera|269811|-0.06%|

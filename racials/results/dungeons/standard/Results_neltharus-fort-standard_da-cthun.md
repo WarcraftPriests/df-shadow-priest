@@ -1,0 +1,34 @@
+# neltharus-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|311483|1.04%|
+|Tauren|310589|0.75%|
+|Dwarf|310578|0.75%|
+|Gnome|310458|0.71%|
+|Night_Elf_Haste|310417|0.70%|
+|Goblin|310385|0.69%|
+|Nightborne|309959|0.55%|
+|Void_Elf|309918|0.54%|
+|Mechagnome|309891|0.53%|
+|Highmountain_Tauren|309828|0.51%|
+|Kul_Tiran|309753|0.48%|
+|Blood_Elf|309720|0.47%|
+|Zandalari_Troll_Paku|309714|0.47%|
+|Worgen|309537|0.41%|
+|Night_Elf_Crit|309518|0.41%|
+|Panda_Haste|309473|0.39%|
+|Panda_Vers|309294|0.33%|
+|Draenei|309264|0.32%|
+|Zandalari_Troll_Bwonsamdi|309202|0.30%|
+|Panda_Crit|309191|0.30%|
+|Troll|309112|0.28%|
+|Panda_Fortune_Cookie|309018|0.24%|
+|Dark_Iron_Dwarf|308974|0.23%|
+|Undead|308950|0.22%|
+|Panda_Mastery|308929|0.22%|
+|Orc|308796|0.17%|
+|Maghar_Orc|308783|0.17%|
+|Zandalari_Troll_Kimbul|308505|0.08%|
+|Vulpera|308400|0.04%|
+|Lightforged_Draenei|308304|0.01%|
+|Base|308264|0.00%|

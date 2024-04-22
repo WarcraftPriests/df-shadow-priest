@@ -1,0 +1,18 @@
+# Dungeons-Push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Iced_Phial_of_Corrupting_Rage_95_3|414448|3.58%|
+|Iced_Phial_of_Corrupting_Rage_85_3|412903|3.20%|
+|Iced_Phial_of_Corrupting_Rage_70_3|410629|2.63%|
+|Phial_of_Tepid_Versatility_3|409821|2.43%|
+|Phial_of_Elemental_Chaos_3|409279|2.29%|
+|Phial_of_Static_Empowerment_3|408936|2.21%|
+|Phial_of_Charged_Isolation_3|408637|2.13%|
+|Iced_Phial_of_Corrupting_Rage_50_3|407607|1.87%|
+|Iced_Phial_of_Corrupting_Rage_40_3|406015|1.48%|
+|Phial_of_Glacial_Fury_3|402247|0.53%|
+|Elemental_Potion_of_Ultimate_Power_3|401384|0.32%|
+|Elemental_Potion_of_Power_3|401064|0.24%|
+|Potion_of_Shocking_Disclosure_3|400833|0.18%|
+|Bottled_Putrescence_3|400755|0.16%|
+|Base|400109|0.00%|

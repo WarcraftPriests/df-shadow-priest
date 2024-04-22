@@ -1,0 +1,34 @@
+# Dungeons-Standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|283019|0.94%|
+|Tauren|282360|0.71%|
+|Dwarf|282351|0.70%|
+|Goblin|282216|0.66%|
+|Gnome|282167|0.64%|
+|Night_Elf_Haste|282159|0.64%|
+|Nightborne|281740|0.49%|
+|Void_Elf|281701|0.47%|
+|Kul_Tiran|281651|0.45%|
+|Highmountain_Tauren|281620|0.44%|
+|Mechagnome|281604|0.44%|
+|Blood_Elf|281580|0.43%|
+|Zandalari_Troll_Paku|281501|0.40%|
+|Worgen|281454|0.38%|
+|Night_Elf_Crit|281453|0.38%|
+|Troll|281376|0.36%|
+|Panda_Haste|281290|0.33%|
+|Panda_Vers|281179|0.29%|
+|Draenei|281151|0.28%|
+|Panda_Crit|281108|0.26%|
+|Zandalari_Troll_Bwonsamdi|281096|0.26%|
+|Dark_Iron_Dwarf|281028|0.23%|
+|Orc|281022|0.23%|
+|Panda_Mastery|280991|0.22%|
+|Undead|280981|0.22%|
+|Panda_Fortune_Cookie|280901|0.19%|
+|Maghar_Orc|280830|0.16%|
+|Zandalari_Troll_Kimbul|280484|0.04%|
+|Lightforged_Draenei|280385|0.00%|
+|Base|280378|0.00%|
+|Vulpera|280368|0.00%|

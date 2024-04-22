@@ -6,51 +6,49 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
-    # s2 dungeons (441/447)
-    # "Spoils_of_Neltharus_447": "spoils_of_neltharus,id=193773,ilevel=447",
-    # aberrus the shadowed crucible
-    # "Vessel_of_Searing_Shadow_447": "vessel_of_searing_shadow,id=202615,ilevel=447",
-    # "Ominous_Chromatic_Essence_Bronze_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Ominous_Chromatic_Essence_Azure_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Ominous_Chromatic_Essence_Emerald_447": "ominous_chromatic_essence,id=203729,ilevel=447",  # noqa: E501
-    # "Neltharions_Call_to_Suffering_457": "neltharions_call_to_suffering,id=204211,ilevel=457",  # noqa: E501
-    # timewalking (476)
-    "Energy_Siphon_476": "energy_siphon,id=156021,ilevel=476",
-    "Living_Flame_476": "living_flame,id=155947,ilevel=476",
-    # s3 dungeons (483/489)
-    # "Vessel_of_Skittering_Shadows_483": "vessel_of_skittering_shadows,id=159610,ilevel=483", # noqa: E501
-    # "Vessel_of_Skittering_Shadows_489": "vessel_of_skittering_shadows,id=159610,ilevel=489", # noqa: E501
-    # "Caged_Horror_483": "caged_horror,id=136716,ilevel=483",
-    # "Caged_Horror_489": "caged_horror,id=136716,ilevel=489",
-    # "Corrupted_Starlight_483": "corrupted_starlight,id=137301,ilevel=483",
-    # "Corrupted_Starlight_489": "corrupted_starlight,id=137301,ilevel=489",
-    # "Oakhearts_Gnarled_Root_483": "oakhearts_gnarled_root,id=137306,ilevel=483",
-    # "Oakhearts_Gnarled_Root_489": "oakhearts_gnarled_root,id=137306,ilevel=489",
-    "Coagulated_Genesaur_Blood_483": "coagulated_genesaur_blood,id=110004,ilevel=483",
-    "Coagulated_Genesaur_Blood_489": "coagulated_genesaur_blood,id=110004,ilevel=489",
-    "Sea_Star_483": "sea_star,id=133201,ilevel=483",
-    "Sea_Star_489": "sea_star,id=133201,ilevel=489",
-    "Balefire_Branch_483": "balefire_branch,id=159630,ilevel=483",
-    "Balefire_Branch_489": "balefire_branch,id=159630,ilevel=489",
-    # "Lady_Waycrests_Music_Box_483": "lady_waycrests_music_box,id=159631,ilevel=483", # TODO: BROKEN  # noqa: E501
-    # "Lady_Waycrests_Music_Box_489": "lady_waycrests_music_box,id=159631,ilevel=489",
-    "Mirror_of_Fractured_Tomorrows_483": "mirror_of_fractured_tomorrows,id=207581,ilevel=483", # noqa: E501
-    "Mirror_of_Fractured_Tomorrows_489": "mirror_of_fractured_tomorrows,id=207581,ilevel=489", # noqa: E501
-    "Time_Thiefs_Gambit_483": "timethiefs_gambit,id=207579,ilevel=483",
-    "Time_Thiefs_Gambit_489": "timethiefs_gambit,id=207579,ilevel=489",
-    # amirdrassil: the dream's hope (483/489)
-    "Pips_Emerald_Friendship_Badge_483": "pips_emerald_friendship_badge,id=207168,ilevel=483", # noqa: E501
-    "Pips_Emerald_Friendship_Badge_489": "pips_emerald_friendship_badge,id=207168,ilevel=489", # noqa: E501
-    "Nymues_Unraveling_Spindle_483": "nymues_unraveling_spindle,id=208615,ilevel=483",
-    "Nymues_Unraveling_Spindle_489": "nymues_unraveling_spindle,id=208615,ilevel=489",
-    "Nymues_Unraveling_Spindle_IMMOBILIZED_483": "nymues_unraveling_spindle,id=208615,ilevel=483", # noqa: E501
-    "Nymues_Unraveling_Spindle_IMMOBILIZED_489": "nymues_unraveling_spindle,id=208615,ilevel=489", # noqa: E501
-    "Belorrelos_the_Suncaller_483": "belorrelos_the_suncaller,id=207172,ilevel=483",
-    "Belorrelos_the_Suncaller_489": "belorrelos_the_suncaller,id=207172,ilevel=489",
-    # "Augury_of_the_Primal_Flame_483": "augury_of_the_primal_flame,id=208614,ilevel=483",  # noqa: E501
-    "Augury_of_the_Primal_Flame_496": "augury_of_the_primal_flame,id=208614,ilevel=496",
-    "Ashes_of_the_Embersoul_483": "ashes_of_the_embersoul,id=207167,ilevel=483",
-    "Ashes_of_the_Embersoul_489": "ashes_of_the_embersoul,id=207167,ilevel=489"
+    # s4 dungeons (528)
+    "Spoils_of_Neltharus_528": "spoils_of_neltharus,id=193773,ilevel=528",
+    # "Ruby_Whelp_Shell_528": "ruby_whelp_shell,id=193757,ilevel=528",
+    "Tome_of_Unstable_Power_528": "tome_of_unstable_power,id=212685,ilevel=528",
+    "Umbrelskuls_Fractured_Heart_528": "umbrelskuls_fractured_heart,id=212684,ilevel=528",
+    "Furious_Ragefeather_528": "furious_ragefeather,id=193677,ilevel=528",
+    "Irideus_Fragment_528": "irideus_fragment,id=193743,ilevel=528",
+    # "Idol_of_Pure_Decay_528": "idol_of_pure_decay,id=193660,ilevel=528",
+    "Erupting_Spear_Fragment_528": "erupting_spear_fragment,id=193769,ilevel=528",
+    # "Time_Breaching_Talon_528": "time_breaching_talon,id=193791,ilevel=528",
+    # "Emerald_Coachs_Whistle_528": "emerald_coachs_whistle,id=193718,ilevel=528",
+    # vault of the incarnates (528)
+    # "Conjured_Chillglobe_528": "conjured_chillglobe,id=194300,ilevel=528",
+    "Iceblood_Deathsnare_528": "iceblood_deathsnare,id=194304,ilevel=528",
+    "Whispering_Incarnate_Icon_DPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_TankDPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_HealerDPS_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Whispering_Incarnate_Icon_FULL_528": "whispering_incarnate_icon,id=194301,ilevel=528",
+    "Desperate_Invokers_Codex_528": "desperate_invokers_codex,id=194310,ilevel=528",
+    # "Spiteful_Storm_528": "spiteful_storm,id=194309,ilevel=528",
+    # aberrus the shadowed crucible (528)
+    "Screaming_Black_Dragonscale_528": "screaming_black_dragonscale,id=202612,ilevel=528",
+    "Vessel_of_Searing_Shadow_528": "vessel_of_searing_shadow,id=202615,ilevel=528",
+    "Ominous_Chromatic_Essence_Bronze_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Azure_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Emerald_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Obsidian_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Ruby_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Bronze_AllAllies_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Azure_AllAllies_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Emerald_AllAllies_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Obsidian_AllAllies_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Ominous_Chromatic_Essence_Ruby_AllAllies_528": "ominous_chromatic_essence,id=203729,ilevel=528",
+    "Neltharions_Call_to_Suffering_535": "neltharions_call_to_suffering,id=204211,ilevel=535",  # noqa: E501
+    "Igneous_Flowstone_528": "igneous_flowstone,id=203996,ilevel=528",
+    # "Beacon_to_the_Beyond_528": "beacon_to_the_beyond,id=203963,ilevel=528",
+    # amirdrassil: the dream's hope (528)
+    "Pips_Emerald_Friendship_Badge_528": "pips_emerald_friendship_badge,id=207168,ilevel=528", # noqa: E501
+    "Nymues_Unraveling_Spindle_528": "nymues_unraveling_spindle,id=208615,ilevel=528",
+    "Nymues_Unraveling_Spindle_IMMOBILIZED_528": "nymues_unraveling_spindle,id=208615,ilevel=528", # noqa: E501
+    "Belorrelos_the_Suncaller_528": "belorrelos_the_suncaller,id=207172,ilevel=528",
+    "Augury_of_the_Primal_Flame_535": "augury_of_the_primal_flame,id=208614,ilevel=535",
+    "Ashes_of_the_Embersoul_528": "ashes_of_the_embersoul,id=207167,ilevel=528"
 }
 
 
@@ -83,18 +81,24 @@ def build_simc_string(trinkets):
             trinket_two_value = combos[trinket_two]
             profileset_name = f"{trinket_one}-{trinket_two}"
             if "Whispering_Incarnate_Icon" in trinket:
-                allies_count = trinket.split("_")[3].lower()
+                allies = trinket.split("_")[3].lower()
                 roles = ""
-                if int(allies_count) == 0:
+                if allies == "dps":
                     roles = "dps"
-                elif int(allies_count) == 1:
+                elif allies == "tankdps":
                     roles = "dps/tank"
-                elif int(allies_count) == 2:
+                elif allies == "healerdps":
+                    roles = "dps/heal"
+                elif allies == "full":
                     roles = "tank/heal/dps"
+                else:
+                    exit("No allies found")
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.whispering_incarnate_icon_roles={roles}\n"  # noqa: E501
             if "Ominous_Chromatic_Essence" in trinket:
                 dragonflight = trinket.split("_")[3].lower()
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_dragonflight={dragonflight}\n"  # noqa: E501
+            if "AllAllies" in trinket:
+                result += f"profileset.\"{profileset_name}\"+=dragonflight.ominous_chromatic_essence_allies=azure/bronze/obsidian/ruby\n"  # noqa: E501
             if "IMMOBILIZED" in trinket:
                 result += f"profileset.\"{profileset_name}\"+=dragonflight.nymue_forced_immobilized=1\n" # noqa: E501
         result += f"profileset.\"{profileset_name}\"+=trinket1={trinket_one_value}\n"

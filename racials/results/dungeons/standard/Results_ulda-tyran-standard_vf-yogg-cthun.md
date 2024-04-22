@@ -1,0 +1,34 @@
+# ulda-tyran-standard - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|270834|1.00%|
+|Night_Elf_Haste|270031|0.70%|
+|Gnome|269969|0.67%|
+|Goblin|269905|0.65%|
+|Tauren|269807|0.61%|
+|Dwarf|269781|0.60%|
+|Nightborne|269672|0.56%|
+|Highmountain_Tauren|269439|0.48%|
+|Void_Elf|269434|0.47%|
+|Kul_Tiran|269427|0.47%|
+|Blood_Elf|269378|0.45%|
+|Mechagnome|269242|0.40%|
+|Night_Elf_Crit|269226|0.40%|
+|Panda_Haste|269170|0.38%|
+|Worgen|269129|0.36%|
+|Zandalari_Troll_Paku|269117|0.36%|
+|Draenei|268963|0.30%|
+|Zandalari_Troll_Bwonsamdi|268925|0.28%|
+|Troll|268895|0.27%|
+|Panda_Vers|268843|0.25%|
+|Panda_Mastery|268830|0.25%|
+|Panda_Crit|268802|0.24%|
+|Undead|268728|0.21%|
+|Dark_Iron_Dwarf|268683|0.19%|
+|Panda_Fortune_Cookie|268667|0.19%|
+|Orc|268552|0.15%|
+|Maghar_Orc|268527|0.14%|
+|Vulpera|268319|0.06%|
+|Zandalari_Troll_Kimbul|268300|0.05%|
+|Base|268162|0.00%|
+|Lightforged_Draenei|268074|-0.03%|

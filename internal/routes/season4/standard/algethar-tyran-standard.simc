@@ -1,0 +1,34 @@
+# !TrvWsUjmm0VNElgBdHRT9qBpq3Potp6Pjb5eAzHoeZ20l9BVwsMGn7otCaSF6jPNKSvypynhBBhh(omDRBCW2OKfkR58y)40th7bVh(8GBKWn7h)aUF3Wf773GP9EWuR3A8W9W)FBC2d)7hARPTZ56op37)RTPyN18ha(fc18YX(za59880em4FAUV32iQESHz(up8cGBAntDo)xDUBG)wWMgD4ppsd(W)WKpopCbgh4OrJbd8mgTNSMBqpC2JP4bKq0rb7(DWP34DoeZiRX5KGZf2tgXwq)cViXFb)kkINOOtkPt0lFQPplraiw1IhlPtRPtf7i0cbbxWKeCytfzrZ(WdnbwWGlyWkg8EgSMblzWLSpQOKJx7JRAs85LiUkIlmOLXLIWIsAtrIIG6rnqEjMlmg5gvtcyOLbrLrtnjS1zQNqYzqI8Px00k8fIhDMRCNqxf0LvF9GvukkitLKqPizKLkIQYnzwgvYy5oLqUWHvbjl)CLJiRAJeqYKixdijzTLjkCS3Ise3MfZZuNYntyvwzxQ51CTEhxRJTdcAoynRcc9AoWCQJDR(1OrMgnfjuek4Og7xKML4QI4yFshFjlU0l56EsULhD08LFvOIyE0pKeGLjgEuWfRYK4nzAmYYU4ywcjvzjgpDxMxJwg2JBk4qPivEulnpR9QYnIEnRyk7RNlQ24pT91dgIYTjXApCvMmJmSLXs7BmIKhV6CdzVOIft8O9zTklmxzFJjM6m3txdpE6NHlzXludFm31AnV7tx7Ucd7vpD3AEUTdjYnbW1X(2Vm2naT4LZNGlZD94n1b2EC(c12)d
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=1920
+enemy="Algeth'ar Academy 20 Tyrannical"
+enemy_health=9999999
+keystone_level=20
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=0,delay=007,enemies="Vile_Lasher_1":1671163:Elemental|"Vile_Lasher_2":1671163:Elemental|"Vile_Lasher_3":1671163:Elemental|"Aggravated_Skitterfly_1":742738:Elemental|"Aggravated_Skitterfly_2":742738:Elemental|"Aggravated_Skitterfly_3":742738:Elemental|"Aggravated_Skitterfly_4":742738:Elemental|"Aggravated_Skitterfly_5":742738:Elemental|"Aggravated_Skitterfly_6":742738:Elemental|"Hungry_Lasher_1":464212:Elemental|"Hungry_Lasher_2":464212:Elemental|"Hungry_Lasher_3":464212:Elemental|"Hungry_Lasher_4":464212:Elemental|"Hungry_Lasher_5":464212:Elemental|"Hungry_Lasher_6":464212:Elemental|"Hungry_Lasher_7":464212:Elemental|"Hungry_Lasher_8":464212:Elemental|"Hungry_Lasher_9":464212:Elemental|"Hungry_Lasher_10":464212:Elemental|"Hungry_Lasher_11":464212:Elemental|"Hungry_Lasher_12":464212:Elemental|"Hungry_Lasher_13":464212:Elemental|"Hungry_Lasher_14":464212:Elemental|"Hungry_Lasher_15":464212:Elemental|"Hungry_Lasher_16":464212:Elemental|"Hungry_Lasher_17":464212:Elemental|"Hungry_Lasher_18":464212:Elemental|"Hungry_Lasher_19":464212:Elemental|"Hungry_Lasher_20":464212:Elemental|"Hungry_Lasher_21":464212:Elemental|"Hungry_Lasher_22":464212:Elemental|"Hungry_Lasher_23":464212:Elemental|"Hungry_Lasher_24":464212:Elemental
+raid_events+=/pull,pull=02,bloodlust=0,delay=011,enemies="BOSS_Overgrown_Ancient":7240365:Elemental
+raid_events+=/pull,pull=03,bloodlust=0,delay=011,enemies="Guardian_Sentry_1":2785273:Elemental
+raid_events+=/pull,pull=04,bloodlust=0,delay=012,enemies="Territorial_Eagle_1":371370:Beast|"Territorial_Eagle_2":371370:Beast|"Territorial_Eagle_3":371370:Beast|"Territorial_Eagle_4":371370:Beast|"Territorial_Eagle_5":371370:Beast|"Territorial_Eagle_6":371370:Beast|"Territorial_Eagle_7":371370:Beast
+raid_events+=/pull,pull=05,bloodlust=0,delay=008,enemies="Alpha_Eagle_1":1671163:Beast|"Territorial_Eagle_1":371370:Beast|"Territorial_Eagle_2":371370:Beast|"Territorial_Eagle_3":371370:Beast|"Territorial_Eagle_4":371370:Beast|"Territorial_Eagle_5":371370:Beast
+raid_events+=/pull,pull=06,bloodlust=0,delay=012,enemies="Alpha_Eagle_1":1671163:Beast|"Alpha_Eagle_2":1671163:Beast|"Territorial_Eagle_1":371370:Beast|"Territorial_Eagle_2":371370:Beast|"Territorial_Eagle_3":371370:Beast|"Territorial_Eagle_4":371370:Beast
+raid_events+=/pull,pull=07,bloodlust=0,delay=010,enemies="BOSS_Crawth":12067275:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=013,enemies="Spellbound_Battleaxe_1":1021267:Not_specified|"Spellbound_Scepter_1":835583:Not_specified|"Arcane_Ravager_1":2228219:Beast|"Arcane_Forager_1":742738:Elemental|"Arcane_Forager_2":742738:Elemental|"Arcane_Forager_3":742738:Elemental|"Arcane_Forager_4":742738:Elemental|"Arcane_Forager_5":742738:Elemental|"Arcane_Forager_6":742738:Elemental|"Arcane_Forager_7":742738:Elemental|"Arcane_Forager_8":742738:Elemental
+raid_events+=/pull,pull=09,bloodlust=0,delay=012,enemies="Corrupted_Manafiend_1":928424:Elemental|"Corrupted_Manafiend_2":928424:Elemental|"Spellbound_Battleaxe_1":1021267:Not_specified|"Spellbound_Scepter_1":835583:Not_specified
+raid_events+=/pull,pull=10,bloodlust=0,delay=014,enemies="Arcane_Forager_1":742738:Elemental|"Arcane_Forager_2":742738:Elemental|"Arcane_Forager_3":742738:Elemental|"Arcane_Forager_4":742738:Elemental|"Arcane_Forager_5":742738:Elemental|"Arcane_Forager_6":742738:Elemental|"Arcane_Forager_7":742738:Elemental|"Arcane_Forager_8":742738:Elemental|"Arcane_Ravager_1":2228219:Beast
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,enemies="Corrupted_Manafiend_1":928424:Elemental|"Corrupted_Manafiend_2":928424:Elemental|"Spellbound_Battleaxe_1":1021267:Not_specified|"Unruly_Textbook_1":742738:Not_specified
+raid_events+=/pull,pull=12,bloodlust=0,delay=013,enemies="Corrupted_Manafiend_1":928424:Elemental|"Corrupted_Manafiend_2":928424:Elemental|"Spellbound_Battleaxe_1":1021267:Not_specified|"Unruly_Textbook_1":742738:Not_specified
+raid_events+=/pull,pull=13,bloodlust=0,delay=006,enemies="Corrupted_Manafiend_1":928424:Elemental|"Corrupted_Manafiend_2":928424:Elemental|"Spellbound_Scepter_1":835583:Not_specified|"Unruly_Textbook_1":742738:Not_specified|"Unruly_Textbook_2":742738:Not_specified
+raid_events+=/pull,pull=14,bloodlust=0,delay=013,enemies="BOSS_Vexamus":8447093:Elemental
+raid_events+=/pull,pull=15,bloodlust=0,delay=013,enemies="Algeth'ar_Echoknight_1":1160530:Dragonkin|"Algeth'ar_Echoknight_2":1160530:Dragonkin|"Algeth'ar_Echoknight_3":1160530:Dragonkin|"Algeth'ar_Echoknight_4":1160530:Dragonkin|"Algeth'ar_Echoknight_5":1160530:Dragonkin|"Algeth'ar_Echoknight_6":1160530:Dragonkin|"Spectral_Invoker_1":1021267:Dragonkin
+raid_events+=/pull,pull=16,bloodlust=0,delay=010,enemies="Algeth'ar_Echoknight_1":1160530:Dragonkin|"Algeth'ar_Echoknight_2":1160530:Dragonkin|"Spectral_Invoker_1":1021267:Dragonkin|"Spectral_Invoker_2":1021267:Dragonkin|"Spectral_Invoker_3":1021267:Dragonkin|"Ethereal_Restorer_1":928424:Dragonkin|"Ethereal_Restorer_2":928424:Dragonkin
+raid_events+=/pull,pull=17,bloodlust=0,delay=008,enemies="BOSS_Echo_of_Doragosa":9653819:Dragonkin

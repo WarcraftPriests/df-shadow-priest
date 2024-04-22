@@ -1,0 +1,34 @@
+# 3T - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|665876|2.05%|
+|Troll|661153|1.33%|
+|Gnome|661114|1.32%|
+|Goblin|661098|1.32%|
+|Night_Elf_Haste|660932|1.29%|
+|Blood_Elf|660219|1.18%|
+|Void_Elf|660009|1.15%|
+|Nightborne|658736|0.96%|
+|Dwarf|658524|0.92%|
+|Zandalari_Troll_Paku|658460|0.91%|
+|Tauren|658238|0.88%|
+|Highmountain_Tauren|658186|0.87%|
+|Night_Elf_Crit|658164|0.87%|
+|Kul_Tiran|657782|0.81%|
+|Mechagnome|657608|0.78%|
+|Worgen|657479|0.76%|
+|Panda_Haste|656854|0.67%|
+|Orc|656756|0.65%|
+|Panda_Vers|656159|0.56%|
+|Panda_Crit|656012|0.54%|
+|Maghar_Orc|655998|0.54%|
+|Draenei|655755|0.50%|
+|Dark_Iron_Dwarf|655638|0.48%|
+|Panda_Mastery|655270|0.42%|
+|Panda_Fortune_Cookie|655114|0.40%|
+|Zandalari_Troll_Bwonsamdi|653244|0.11%|
+|Undead|653070|0.09%|
+|Zandalari_Troll_Kimbul|653041|0.08%|
+|Vulpera|652803|0.05%|
+|Base|652502|0.00%|
+|Lightforged_Draenei|652446|-0.01%|

@@ -1,49 +1,87 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  da-yshaarj-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144713041839_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAIIJBAAAAAAAAAAAAgkoFRiUiDIJRSSigUIJJRaEIiQKSLkEUgE # DA_yshaarj_cthun_81144334514095_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIkERAAAAAAAAAAAAASiWEJSJOgkERSig0IJJRaEkgQKSLkEASA # DA_yshaarj_cthun_81144611304367_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAIIJRAAAAAAAAAAAAASoFRiUISSkkkIIFSSSkGBiIki0CJBFIB # DA_yshaarj_cthun_81144643835823_Spike_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAkAJcAAAAAAAAAAAAAgkkWSkkUISSkEJCShkkEpRgICpItQSQBC # DA_yshaarj_nzoth_cthun_90808086140847_Flay_DR
-  da-nzoth-cthun:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_nzoth_cthun_98187143272367_Spike_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJAAAAAAAAAAAAASoFRiUiDIJRSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98186868553647_Spike_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJHAAAAAAAAAAAAAIhWEJSJIJRSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98186874845103_Spike_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEIJRAAAAAAAAAAAAASoFRiUISSkkkIIFSSSkGBiIki0CJBFIB # DA_nzoth_cthun_98187074066351_Spike_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEIJJBAAAAAAAAAAAAIhWEJSBSSkkkIIFSSSkGBiIki0CJBFIB # DA_nzoth_cthun_98187143272367_Spike_DR
-  vf:
-    composite: BIQAAAAAAAAAAAAAAAAAAAAAAIQSOQAAAAAAAAAAAAASkWEJSjIJRSSigUIJJRaEIiQKSLkEUgA # VF_yshaarj_cthun_81144647751599_Flay_DR
-    dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEQSCAAAAAAAAAAAAgEpFRi0iIJRSSigUIJJRaEIiQKSLkEUgA # VF_nzoth_cthun_98186935383983_Flay_DR
-    single: BIQAAAAAAAAAAAAAAAAAAAAAAIEREAAAAAAAAAAAAgkkWEJSLikERSig0IJJRaEkgQKSLkEAC # VF_yshaarj_cthun_81144678134703_Flay_DR
-    2t: BIQAAAAAAAAAAAAAAAAAAAAAAEQSOQAAAAAAAAAAAAASkWEJSjIJRSSigUIJJRaEIiQKSLkEUgA # VF_nzoth_cthun_98187077982127_Flay_DR
-    3t: BIQAAAAAAAAAAAAAAAAAAAAAAEikIBAAAAAAAAAAAAQolEh0gkkkEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_59604915181487_Spike_DR
+  da-cthun:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEISOQAAAAAAAAAAAAASoFRiUCSSSSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98189156546479_Spike_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaSkIlgkkERigUIJJRaEIiQKSLkEUQSA # DA_yogg_cthun_121432580256687_Spike_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkkUCSSSEJCShkkEpRgICpItQSQBJA # DA_nzoth_yogg_cthun_129962419368879_Flay_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkkUCSSSSkIIFSSSkGBiIki0CJBFkA # DA_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-yogg-cthun:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgISOQAAAAAAAAAAAAACaOQkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_yogg_cthun_119242012489647_Spike_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_ME
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAg4AaSkItgkkERigUIJJRaEIiQKSLkEUQSA # VF_yogg_cthun_121432581043119_Spike_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAggIBAAAAAAAAAAAAIOQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_112370199803823_Flay_DR
+  vf-nzoth-yogg-cthun-dr:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkk0CSSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962419368879_Flay_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-nzoth-yogg-cthun-me:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_ME
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
 gear:
-  head: "crest_of_lunar_communion,id=207281,ilevel=489" # mastery/crit
-  neck: "eye_of_the_rising_flame,id=207163,ilevel=489" # mastery/haste
-  shoulders: "shoulderguardians_of_lunar_communion,id=207279,ilevel=489" # crit/mastery
-  back: "mantle_of_blazing_sacrifice,id=207161,ilevel=489" # mastery/crit
-  chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=489" # haste/crit
-  wrists: "fading_flame_wristbands,id=210204,ilevel=489" # mastery/haste
-  hands: "touch_of_lunar_communion,id=207282,ilevel=489" # haste/crit
-  waist: "blooming_redeemers_sash,id=207124,ilevel=489" # haste/mastery
-  legs: "leggings_of_lunar_communion,id=207280,ilevel=489" # haste/mastery
-  feet: "slippers_of_heedless_sacrifice,id=134419,ilevel=489" # crit/haste
-  finger1: "band_of_burning_thorns,id=207159,ilevel=489" # haste/mastery
-  finger2: "archdruids_tainted_seal,id=134487,ilevel=489" # mastery/haste
-  trinket1: "pips_emerald_friendship_badge,id=207168,ilevel=489"
-  trinket2: "nymues_unraveling_spindle,id=208615,ilevel=489"
-  main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=489" # haste/mastery
-  off_hand: ""
+  # 6.3k Mastery (+2084 from BSL) | 6.2k Haste | 2.7k Crit | 3.3k Vers
+  default:
+    head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
+    neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
+    shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
+    back: "voice_of_the_silent_star,id=204465,ilevel=535" # crit/haste
+    chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=528" # haste/crit
+    wrists: "vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
+    hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=528" # vers/haste
+    waist: "blooming_redeemers_sash,id=207124,ilevel=528" # haste/mastery
+    legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
+    feet: "vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
+    finger1: "seal_of_filial_duty,id=195526,ilevel=535" # mastery/haste
+    finger2: "seal_of_diurnas_chosen,id=195480,ilevel=528" # vers/crit
+    trinket1: "neltharions_call_to_suffering,id=204211,ilevel=535"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
+    main_hand: "vakash_the_shadowed_inferno,id=207788,ilevel=528" # mastery/haste
+    off_hand: "scripture_of_primal_devotion,id=195513,ilevel=528" # haste/vers
+  # 6.5k Mastery | 5.9k Haste | 3.3k Crit | 2.2k Vers
+  noCantrip:
+    head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
+    neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
+    shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
+    back: "inflammable_drapeleaf,id=207160,ilevel=528" # crit/vers
+    chest: "command_of_the_furnace_seraph,id=202545,ilevel=528" # crit/vers
+    wrists: "anguished_restraints,id=207120,ilevel=528" # vers/crit
+    hands: "twisting_shadow_claws,id=207115,ilevel=528" # mastery/haste
+    waist: "urctoss_hibernal_dial,id=207119,ilevel=528" # crit/vers
+    legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
+    feet: "lifewoven_slippers,id=207123,ilevel=528" # mastery/haste
+    finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
+    finger2: "entropic_convergence_loop,id=202572,ilevel=528" # mastery/haste
+    trinket1: "neltharions_call_to_suffering,id=204211,ilevel=535"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
+    main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=528" # haste/mastery
+    off_hand: ""
 gems:
-  meta: "192985"
-  main: "192925"
+  meta: "192988"
+  main: "192919"
 enchants:
-  head: "7052"
-  chest: "6625"
-  ring: "6562"
-  legs: "6541"
-  main_hand: "6643"
+  head: "incandescent_essence"
+  chest: "waking_stats_3"
+  ring: "devotion_of_mastery_3"
+  legs: "lambent_armor_kit_3"
+  main_hand: "wafting_devotion_3"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
@@ -154,6 +192,7 @@ sims:
       - VF-Flay_DR.simc
   talents-top:
     description: "Shows top talents."
+    iterations: 20000
     builds: false
     weights: false
     chart: true
@@ -173,7 +212,7 @@ sims:
     files:
       - tiersets.simc
   trinket-combos:
-    description: Combines the top trinkets together to get your BiS 2 trinkets.
+    description: "Combines the top trinkets together to get your BiS 2 trinkets.\n\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer.\n\nOCEBA = Bronze, OCEEA = Emerald, OCEOA = Obsidian, OCEAA = Azure, OCERA = Ruby"
     builds: true
     weights: false
     chart: true
@@ -189,18 +228,14 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 437
-      - 441
-      - 447
-      - 450
-      - 457
-      - 463
-      - 470
-      - 476
       - 483
-      - 486
       - 489
       - 496
+      - 515
+      - 522
+      - 525
+      - 528
+      - 535
     files:
       - raid.simc
       - dungeons.simc
@@ -215,7 +250,7 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsAmirdrassilTheDreamsHope
+compositeWeights: weightsFatedRaids
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 threeTargetWeights: weightsThreeTargets
@@ -224,9 +259,9 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 3
-dungeonStandardWeights: weightsStandardSeasonThree
-dungeonPushWeights: weightsPushSeasonThree
+dungeonSeason: 4
+dungeonStandardWeights: weightsStandardSeasonFour
+dungeonPushWeights: weightsPushSeasonFour
 simcBuild: latest
 defaultIterations: 10000
 raidbots:
@@ -241,11 +276,11 @@ analyze:
 stats:
   base: 2000
   steps: 500
-  total: 16000
+  total: 18000
   min:
     haste: 5000
-    mastery: 5000
-    crit: 0
+    mastery: 5500
+    crit: 1000
     vers: 0
   include:
     - mastery

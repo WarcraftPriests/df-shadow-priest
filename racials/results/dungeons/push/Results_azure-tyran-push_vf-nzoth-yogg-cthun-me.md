@@ -1,0 +1,34 @@
+# azure-tyran-push - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|402411|1.47%|
+|Goblin|400258|0.93%|
+|Gnome|400041|0.88%|
+|Night_Elf_Haste|400014|0.87%|
+|Tauren|399409|0.72%|
+|Dwarf|399360|0.70%|
+|Zandalari_Troll_Paku|399219|0.67%|
+|Void_Elf|399216|0.67%|
+|Kul_Tiran|399124|0.64%|
+|Nightborne|399123|0.64%|
+|Highmountain_Tauren|399067|0.63%|
+|Night_Elf_Crit|398974|0.61%|
+|Blood_Elf|398969|0.61%|
+|Mechagnome|398951|0.60%|
+|Troll|398842|0.57%|
+|Worgen|398778|0.56%|
+|Panda_Haste|398265|0.43%|
+|Panda_Crit|398194|0.41%|
+|Panda_Vers|398138|0.40%|
+|Draenei|398086|0.38%|
+|Orc|397934|0.34%|
+|Panda_Mastery|397826|0.32%|
+|Maghar_Orc|397605|0.26%|
+|Panda_Fortune_Cookie|397550|0.25%|
+|Dark_Iron_Dwarf|397418|0.21%|
+|Zandalari_Troll_Bwonsamdi|397312|0.19%|
+|Undead|397220|0.16%|
+|Zandalari_Troll_Kimbul|397045|0.12%|
+|Vulpera|396641|0.02%|
+|Lightforged_Draenei|396608|0.01%|
+|Base|396568|0.00%|

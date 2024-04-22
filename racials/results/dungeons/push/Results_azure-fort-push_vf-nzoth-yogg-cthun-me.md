@@ -1,0 +1,34 @@
+# azure-fort-push - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|445767|1.44%|
+|Gnome|443612|0.95%|
+|Night_Elf_Haste|443340|0.89%|
+|Goblin|443195|0.85%|
+|Void_Elf|442854|0.78%|
+|Tauren|442824|0.77%|
+|Nightborne|442686|0.74%|
+|Highmountain_Tauren|442525|0.70%|
+|Dwarf|442521|0.70%|
+|Kul_Tiran|442372|0.67%|
+|Night_Elf_Crit|442352|0.66%|
+|Blood_Elf|442270|0.64%|
+|Mechagnome|442221|0.63%|
+|Zandalari_Troll_Paku|442214|0.63%|
+|Worgen|442024|0.59%|
+|Troll|441898|0.56%|
+|Panda_Haste|441420|0.45%|
+|Draenei|441276|0.42%|
+|Panda_Vers|441234|0.41%|
+|Orc|441133|0.38%|
+|Panda_Crit|441133|0.38%|
+|Maghar_Orc|440938|0.34%|
+|Panda_Mastery|440890|0.33%|
+|Panda_Fortune_Cookie|440842|0.32%|
+|Dark_Iron_Dwarf|440795|0.31%|
+|Zandalari_Troll_Bwonsamdi|440428|0.22%|
+|Undead|440354|0.21%|
+|Zandalari_Troll_Kimbul|440106|0.15%|
+|Vulpera|439672|0.05%|
+|Lightforged_Draenei|439632|0.04%|
+|Base|439448|0.00%|

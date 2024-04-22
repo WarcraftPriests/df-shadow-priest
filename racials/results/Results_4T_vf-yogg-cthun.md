@@ -1,0 +1,34 @@
+# 4T - vf-yogg-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|866014|2.12%|
+|Troll|859562|1.36%|
+|Gnome|859220|1.31%|
+|Night_Elf_Haste|858948|1.28%|
+|Goblin|858906|1.28%|
+|Void_Elf|857531|1.12%|
+|Dwarf|856820|1.03%|
+|Zandalari_Troll_Paku|856470|0.99%|
+|Nightborne|856369|0.98%|
+|Tauren|855741|0.90%|
+|Highmountain_Tauren|855451|0.87%|
+|Blood_Elf|855304|0.85%|
+|Kul_Tiran|855118|0.83%|
+|Worgen|855039|0.82%|
+|Mechagnome|854927|0.81%|
+|Night_Elf_Crit|854876|0.80%|
+|Orc|853550|0.65%|
+|Panda_Crit|853483|0.64%|
+|Panda_Haste|853419|0.63%|
+|Draenei|853165|0.60%|
+|Panda_Vers|852674|0.54%|
+|Maghar_Orc|852659|0.54%|
+|Panda_Mastery|852544|0.53%|
+|Dark_Iron_Dwarf|851516|0.41%|
+|Panda_Fortune_Cookie|851259|0.38%|
+|Undead|848950|0.10%|
+|Zandalari_Troll_Kimbul|848549|0.06%|
+|Zandalari_Troll_Bwonsamdi|848358|0.03%|
+|Base|848070|0.00%|
+|Vulpera|847983|-0.01%|
+|Lightforged_Draenei|847539|-0.06%|

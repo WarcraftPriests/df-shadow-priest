@@ -1,0 +1,34 @@
+# ulda-fort-standard - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|318772|0.95%|
+|Dwarf|318000|0.71%|
+|Goblin|317982|0.70%|
+|Tauren|317944|0.69%|
+|Gnome|317788|0.64%|
+|Night_Elf_Haste|317736|0.62%|
+|Nightborne|317371|0.51%|
+|Void_Elf|317354|0.50%|
+|Mechagnome|317349|0.50%|
+|Highmountain_Tauren|317309|0.49%|
+|Kul_Tiran|317227|0.46%|
+|Worgen|317207|0.45%|
+|Zandalari_Troll_Paku|317195|0.45%|
+|Night_Elf_Crit|317149|0.44%|
+|Blood_Elf|316894|0.36%|
+|Panda_Haste|316889|0.35%|
+|Zandalari_Troll_Bwonsamdi|316774|0.32%|
+|Troll|316773|0.32%|
+|Undead|316756|0.31%|
+|Panda_Vers|316623|0.27%|
+|Draenei|316616|0.27%|
+|Orc|316610|0.27%|
+|Dark_Iron_Dwarf|316595|0.26%|
+|Panda_Crit|316553|0.25%|
+|Maghar_Orc|316486|0.23%|
+|Panda_Mastery|316482|0.22%|
+|Panda_Fortune_Cookie|316408|0.20%|
+|Vulpera|316095|0.10%|
+|Zandalari_Troll_Kimbul|316065|0.09%|
+|Lightforged_Draenei|315943|0.05%|
+|Base|315772|0.00%|

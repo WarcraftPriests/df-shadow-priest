@@ -1,0 +1,34 @@
+# bhh-tyran-standard - vf-nzoth-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|368917|1.07%|
+|Goblin|367984|0.81%|
+|Gnome|367909|0.79%|
+|Night_Elf_Haste|367856|0.78%|
+|Dwarf|367428|0.66%|
+|Tauren|367274|0.62%|
+|Void_Elf|367120|0.57%|
+|Nightborne|367063|0.56%|
+|Troll|366953|0.53%|
+|Kul_Tiran|366890|0.51%|
+|Night_Elf_Crit|366887|0.51%|
+|Zandalari_Troll_Paku|366852|0.50%|
+|Highmountain_Tauren|366780|0.48%|
+|Mechagnome|366708|0.46%|
+|Blood_Elf|366703|0.46%|
+|Worgen|366682|0.45%|
+|Panda_Haste|366409|0.38%|
+|Draenei|366127|0.30%|
+|Orc|366075|0.29%|
+|Panda_Crit|366021|0.27%|
+|Panda_Vers|365982|0.26%|
+|Dark_Iron_Dwarf|365826|0.22%|
+|Zandalari_Troll_Bwonsamdi|365730|0.19%|
+|Panda_Mastery|365723|0.19%|
+|Panda_Fortune_Cookie|365671|0.18%|
+|Maghar_Orc|365638|0.17%|
+|Undead|365633|0.17%|
+|Zandalari_Troll_Kimbul|365306|0.08%|
+|Lightforged_Draenei|365177|0.04%|
+|Vulpera|365080|0.01%|
+|Base|365026|0.00%|

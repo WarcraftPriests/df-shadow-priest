@@ -1,0 +1,34 @@
+# rlp-tyran-push - da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|374697|1.43%|
+|Dwarf|373493|1.11%|
+|Tauren|373421|1.09%|
+|Gnome|373042|0.99%|
+|Goblin|372991|0.97%|
+|Night_Elf_Haste|372793|0.92%|
+|Void_Elf|372716|0.90%|
+|Nightborne|372303|0.79%|
+|Blood_Elf|372113|0.73%|
+|Mechagnome|372100|0.73%|
+|Highmountain_Tauren|372080|0.73%|
+|Zandalari_Troll_Paku|371902|0.68%|
+|Kul_Tiran|371899|0.68%|
+|Troll|371896|0.68%|
+|Night_Elf_Crit|371835|0.66%|
+|Worgen|371624|0.60%|
+|Orc|371399|0.54%|
+|Panda_Vers|371260|0.50%|
+|Panda_Haste|371073|0.45%|
+|Draenei|370944|0.42%|
+|Maghar_Orc|370893|0.40%|
+|Panda_Crit|370869|0.40%|
+|Panda_Mastery|370833|0.39%|
+|Dark_Iron_Dwarf|370688|0.35%|
+|Zandalari_Troll_Bwonsamdi|370342|0.25%|
+|Panda_Fortune_Cookie|370322|0.25%|
+|Undead|370265|0.23%|
+|Zandalari_Troll_Kimbul|369878|0.13%|
+|Vulpera|369404|0.00%|
+|Base|369401|0.00%|
+|Lightforged_Draenei|369358|-0.01%|
