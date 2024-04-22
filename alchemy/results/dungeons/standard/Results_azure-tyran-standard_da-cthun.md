@@ -1,18 +1,18 @@
 # azure-tyran-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|263554|2.38%|
-|Iced_Phial_of_Corrupting_Rage_85_3|263041|2.18%|
-|Iced_Phial_of_Corrupting_Rage_70_3|262051|1.80%|
-|Phial_of_Tepid_Versatility_3|261665|1.65%|
-|Phial_of_Elemental_Chaos_3|261515|1.59%|
-|Phial_of_Static_Empowerment_3|261288|1.50%|
-|Phial_of_Charged_Isolation_3|261214|1.47%|
-|Iced_Phial_of_Corrupting_Rage_50_3|260924|1.36%|
-|Iced_Phial_of_Corrupting_Rage_40_3|260308|1.12%|
-|Phial_of_Glacial_Fury_3|258923|0.58%|
-|Potion_of_Shocking_Disclosure_3|257872|0.17%|
-|Elemental_Potion_of_Power_3|257847|0.17%|
-|Elemental_Potion_of_Ultimate_Power_3|257758|0.13%|
-|Bottled_Putrescence_3|257590|0.07%|
-|Base|257422|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|259567|2.48%|
+|Iced_Phial_of_Corrupting_Rage_85_3|258899|2.22%|
+|Iced_Phial_of_Corrupting_Rage_70_3|258086|1.90%|
+|Phial_of_Tepid_Versatility_3|257320|1.60%|
+|Phial_of_Static_Empowerment_3|257150|1.53%|
+|Phial_of_Elemental_Chaos_3|257141|1.53%|
+|Phial_of_Charged_Isolation_3|256939|1.45%|
+|Iced_Phial_of_Corrupting_Rage_50_3|256770|1.38%|
+|Iced_Phial_of_Corrupting_Rage_40_3|256090|1.11%|
+|Phial_of_Glacial_Fury_3|254653|0.54%|
+|Elemental_Potion_of_Power_3|253665|0.15%|
+|Elemental_Potion_of_Ultimate_Power_3|253585|0.12%|
+|Potion_of_Shocking_Disclosure_3|253439|0.07%|
+|Bottled_Putrescence_3|253366|0.04%|
+|Base|253274|0.00%|

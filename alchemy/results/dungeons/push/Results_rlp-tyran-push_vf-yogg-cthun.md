@@ -1,18 +1,18 @@
 # rlp-tyran-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|361105|3.19%|
-|Iced_Phial_of_Corrupting_Rage_85_3|360064|2.89%|
-|Iced_Phial_of_Corrupting_Rage_70_3|358276|2.38%|
-|Phial_of_Tepid_Versatility_3|357687|2.21%|
-|Phial_of_Elemental_Chaos_3|357353|2.12%|
-|Phial_of_Static_Empowerment_3|356938|2.00%|
-|Phial_of_Charged_Isolation_3|356750|1.95%|
-|Iced_Phial_of_Corrupting_Rage_50_3|355491|1.59%|
-|Iced_Phial_of_Corrupting_Rage_40_3|354667|1.35%|
-|Phial_of_Glacial_Fury_3|352053|0.60%|
-|Elemental_Potion_of_Ultimate_Power_3|350963|0.29%|
-|Elemental_Potion_of_Power_3|350741|0.23%|
-|Bottled_Putrescence_3|350548|0.17%|
-|Potion_of_Shocking_Disclosure_3|350474|0.15%|
-|Base|349938|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|353666|3.22%|
+|Iced_Phial_of_Corrupting_Rage_85_3|352559|2.90%|
+|Iced_Phial_of_Corrupting_Rage_70_3|350717|2.36%|
+|Phial_of_Tepid_Versatility_3|350169|2.20%|
+|Phial_of_Elemental_Chaos_3|349628|2.04%|
+|Phial_of_Static_Empowerment_3|349447|1.99%|
+|Phial_of_Charged_Isolation_3|348951|1.84%|
+|Iced_Phial_of_Corrupting_Rage_50_3|348376|1.68%|
+|Iced_Phial_of_Corrupting_Rage_40_3|347205|1.33%|
+|Phial_of_Glacial_Fury_3|344520|0.55%|
+|Elemental_Potion_of_Ultimate_Power_3|343244|0.18%|
+|Potion_of_Shocking_Disclosure_3|343230|0.17%|
+|Elemental_Potion_of_Power_3|343176|0.16%|
+|Bottled_Putrescence_3|342851|0.06%|
+|Base|342632|0.00%|

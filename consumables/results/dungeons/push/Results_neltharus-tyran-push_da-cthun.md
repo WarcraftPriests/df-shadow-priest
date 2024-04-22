@@ -1,19 +1,19 @@
 # neltharus-tyran-push - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|417258|0.48%|
-|Aromatic_Seafood_Platter|417225|0.47%|
-|Great_Cerulean_Sea|417204|0.47%|
-|Sizzling_Seafood_Medley|417192|0.46%|
-|Revenge_Served_Cold|417080|0.44%|
-|Thousandbone_Tongueslicer|417074|0.44%|
-|Timely_Demise|416757|0.36%|
-|Filet_of_Fangs|416674|0.34%|
-|Salt_Baked_Fishcake|416611|0.32%|
-|Seamoth_Surprise|416590|0.32%|
-|Fated_Fortune_Cookie|416500|0.30%|
-|Dreambound_Augment_Rune|416419|0.28%|
-|Draconic_Augment_Rune|416406|0.27%|
-|Roast_Duck_Delight|415930|0.16%|
-|Base|415267|0.00%|
-|Thrice_Spiced_Mammoth_Kabob|415179|-0.02%|
+|Revenge_Served_Cold|406392|0.47%|
+|Great_Cerulean_Sea|406296|0.45%|
+|Feisty_Fish_Sticks|406289|0.45%|
+|Thousandbone_Tongueslicer|406289|0.45%|
+|Aromatic_Seafood_Platter|406245|0.44%|
+|Sizzling_Seafood_Medley|406184|0.42%|
+|Timely_Demise|405938|0.36%|
+|Salt_Baked_Fishcake|405841|0.34%|
+|Filet_of_Fangs|405811|0.33%|
+|Draconic_Augment_Rune|405777|0.32%|
+|Seamoth_Surprise|405719|0.31%|
+|Dreambound_Augment_Rune|405633|0.28%|
+|Fated_Fortune_Cookie|405417|0.23%|
+|Roast_Duck_Delight|404898|0.10%|
+|Thrice_Spiced_Mammoth_Kabob|404639|0.04%|
+|Base|404485|0.00%|

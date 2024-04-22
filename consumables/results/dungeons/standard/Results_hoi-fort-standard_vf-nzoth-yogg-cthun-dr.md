@@ -1,19 +1,19 @@
 # hoi-fort-standard - vf-nzoth-yogg-cthun-dr
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|259865|0.37%|
-|Aromatic_Seafood_Platter|259805|0.35%|
-|Sizzling_Seafood_Medley|259772|0.33%|
-|Revenge_Served_Cold|259730|0.32%|
-|Thousandbone_Tongueslicer|259685|0.30%|
-|Great_Cerulean_Sea|259660|0.29%|
-|Filet_of_Fangs|259634|0.28%|
-|Timely_Demise|259608|0.27%|
-|Dreambound_Augment_Rune|259568|0.26%|
-|Seamoth_Surprise|259526|0.24%|
-|Draconic_Augment_Rune|259376|0.18%|
-|Salt_Baked_Fishcake|259331|0.16%|
-|Fated_Fortune_Cookie|259255|0.13%|
-|Roast_Duck_Delight|259232|0.13%|
-|Thrice_Spiced_Mammoth_Kabob|258973|0.03%|
-|Base|258906|0.00%|
+|Aromatic_Seafood_Platter|257944|0.37%|
+|Feisty_Fish_Sticks|257876|0.35%|
+|Sizzling_Seafood_Medley|257839|0.33%|
+|Revenge_Served_Cold|257788|0.31%|
+|Thousandbone_Tongueslicer|257664|0.26%|
+|Timely_Demise|257656|0.26%|
+|Filet_of_Fangs|257588|0.23%|
+|Draconic_Augment_Rune|257544|0.22%|
+|Seamoth_Surprise|257531|0.21%|
+|Great_Cerulean_Sea|257508|0.20%|
+|Salt_Baked_Fishcake|257500|0.20%|
+|Dreambound_Augment_Rune|257462|0.18%|
+|Fated_Fortune_Cookie|257348|0.14%|
+|Thrice_Spiced_Mammoth_Kabob|257143|0.06%|
+|Base|256989|0.00%|
+|Roast_Duck_Delight|256964|-0.01%|

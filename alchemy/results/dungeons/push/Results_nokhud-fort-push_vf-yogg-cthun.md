@@ -1,18 +1,18 @@
 # nokhud-fort-push - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|397147|3.34%|
-|Iced_Phial_of_Corrupting_Rage_85_3|396077|3.06%|
-|Iced_Phial_of_Corrupting_Rage_70_3|394029|2.53%|
-|Phial_of_Tepid_Versatility_3|393291|2.34%|
-|Phial_of_Elemental_Chaos_3|392680|2.18%|
-|Phial_of_Static_Empowerment_3|392524|2.14%|
-|Phial_of_Charged_Isolation_3|392309|2.08%|
-|Iced_Phial_of_Corrupting_Rage_50_3|391348|1.83%|
-|Iced_Phial_of_Corrupting_Rage_40_3|389869|1.45%|
-|Phial_of_Glacial_Fury_3|386368|0.54%|
-|Elemental_Potion_of_Ultimate_Power_3|385452|0.30%|
-|Elemental_Potion_of_Power_3|385150|0.22%|
-|Potion_of_Shocking_Disclosure_3|384819|0.13%|
-|Bottled_Putrescence_3|384724|0.11%|
-|Base|384305|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|388405|3.59%|
+|Iced_Phial_of_Corrupting_Rage_85_3|386890|3.18%|
+|Iced_Phial_of_Corrupting_Rage_70_3|384787|2.62%|
+|Phial_of_Tepid_Versatility_3|383737|2.34%|
+|Phial_of_Elemental_Chaos_3|383030|2.15%|
+|Phial_of_Static_Empowerment_3|382950|2.13%|
+|Phial_of_Charged_Isolation_3|382657|2.05%|
+|Iced_Phial_of_Corrupting_Rage_50_3|381703|1.80%|
+|Iced_Phial_of_Corrupting_Rage_40_3|380272|1.42%|
+|Phial_of_Glacial_Fury_3|377120|0.58%|
+|Elemental_Potion_of_Ultimate_Power_3|375963|0.27%|
+|Elemental_Potion_of_Power_3|375694|0.20%|
+|Bottled_Putrescence_3|375486|0.14%|
+|Potion_of_Shocking_Disclosure_3|375414|0.12%|
+|Base|374953|0.00%|
