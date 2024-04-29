@@ -1,4 +1,4 @@
 # hoi-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|250936|1.00|1.13|0.86|0.78|0.90|0.13|
+|Base|254127|1.00|1.18|1.00|0.83|0.91|0.15|

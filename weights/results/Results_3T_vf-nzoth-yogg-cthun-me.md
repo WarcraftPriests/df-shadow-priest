@@ -1,4 +1,4 @@
 # 3T - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|638148|1.00|1.12|0.89|0.85|0.89|0.03|
+|Base|629106|1.00|1.14|1.01|0.88|0.92|0.03|

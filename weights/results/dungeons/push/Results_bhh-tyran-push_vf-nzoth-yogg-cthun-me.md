@@ -1,4 +1,4 @@
 # bhh-tyran-push - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|555352|1.00|1.19|0.90|0.85|0.92|0.06|
+|Base|553728|1.00|1.19|1.00|0.86|0.93|0.06|

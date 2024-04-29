@@ -1,4 +1,4 @@
 # hoi-fort-standard - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|270465|1.00|0.96|0.80|0.80|0.88|0.13|
+|Base|265810|1.00|0.97|0.88|0.79|0.88|0.14|

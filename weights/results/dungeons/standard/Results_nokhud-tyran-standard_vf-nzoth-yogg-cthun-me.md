@@ -1,4 +1,4 @@
 # nokhud-tyran-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|222090|1.00|1.04|0.87|0.77|0.91|0.23|
+|Base|223644|1.00|1.10|0.94|0.82|0.90|0.22|

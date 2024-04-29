@@ -1,4 +1,4 @@
 # ulda-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|281078|1.00|1.19|0.89|0.78|0.90|0.14|
+|Base|292590|1.00|1.12|0.98|0.77|0.91|0.13|

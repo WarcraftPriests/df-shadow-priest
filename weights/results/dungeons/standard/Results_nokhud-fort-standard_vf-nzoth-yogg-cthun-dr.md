@@ -1,4 +1,4 @@
 # nokhud-fort-standard - vf-nzoth-yogg-cthun-dr
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|232622|1.00|1.03|0.87|0.80|0.92|0.23|
+|Base|231058|1.00|1.08|0.98|0.81|0.93|0.24|

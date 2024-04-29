@@ -128,6 +128,10 @@ profileset."Lady_Waycrests_Music_Box_489"+=trinket1=lady_waycrests_music_box,id=
 ## Dawn of the Infinite
 profileset."Mirror_of_Fractured_Tomorrows_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
 profileset."Mirror_of_Fractured_Tomorrows_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
+profileset."Mirror_of_Fractured_Tomorrows_515"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=515
+profileset."Mirror_of_Fractured_Tomorrows_522"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=522
 
 profileset."Time_Thiefs_Gambit_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
 profileset."Time_Thiefs_Gambit_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Time_Thiefs_Gambit_515"+=trinket1=timethiefs_gambit,id=207579,ilevel=515
+profileset."Time_Thiefs_Gambit_522"+=trinket1=timethiefs_gambit,id=207579,ilevel=522
