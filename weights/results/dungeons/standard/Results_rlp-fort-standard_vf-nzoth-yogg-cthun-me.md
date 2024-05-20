@@ -1,4 +1,4 @@
 # rlp-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|243311|1.00|1.10|0.96|0.82|0.92|0.17|
+|Base|405804|1.00|1.09|0.99|0.83|0.89|0.08|

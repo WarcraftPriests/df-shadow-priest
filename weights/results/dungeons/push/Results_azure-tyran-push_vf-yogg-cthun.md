@@ -1,4 +1,4 @@
 # azure-tyran-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|403849|1.00|1.04|0.95|0.86|0.96|0.07|
+|Base|481776|1.00|0.93|0.93|0.85|0.90|0.05|

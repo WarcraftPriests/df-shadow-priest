@@ -1,18 +1,18 @@
 # azure-fort-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|266940|2.18%|
-|Iced_Phial_of_Corrupting_Rage_85_3|266430|1.98%|
-|Iced_Phial_of_Corrupting_Rage_70_3|265524|1.64%|
-|Phial_of_Tepid_Versatility_3|264894|1.40%|
-|Phial_of_Elemental_Chaos_3|264736|1.34%|
-|Phial_of_Static_Empowerment_3|264459|1.23%|
-|Phial_of_Charged_Isolation_3|264348|1.19%|
-|Iced_Phial_of_Corrupting_Rage_50_3|264338|1.18%|
-|Iced_Phial_of_Corrupting_Rage_40_3|263946|1.03%|
-|Phial_of_Glacial_Fury_3|262771|0.58%|
-|Elemental_Potion_of_Ultimate_Power_3|261751|0.19%|
-|Elemental_Potion_of_Power_3|261492|0.09%|
-|Potion_of_Shocking_Disclosure_3|261434|0.07%|
-|Base|261247|0.00%|
-|Bottled_Putrescence_3|261198|-0.02%|
+|Iced_Phial_of_Corrupting_Rage_95_3|441504|3.09%|
+|Iced_Phial_of_Corrupting_Rage_85_3|440340|2.82%|
+|Iced_Phial_of_Corrupting_Rage_70_3|438180|2.32%|
+|Phial_of_Tepid_Versatility_3|437239|2.10%|
+|Phial_of_Elemental_Chaos_3|436838|2.00%|
+|Phial_of_Static_Empowerment_3|436497|1.92%|
+|Phial_of_Charged_Isolation_3|436364|1.89%|
+|Iced_Phial_of_Corrupting_Rage_50_3|435323|1.65%|
+|Iced_Phial_of_Corrupting_Rage_40_3|433761|1.28%|
+|Phial_of_Glacial_Fury_3|430551|0.53%|
+|Elemental_Potion_of_Ultimate_Power_3|429523|0.29%|
+|Potion_of_Shocking_Disclosure_3|428957|0.16%|
+|Elemental_Potion_of_Power_3|428898|0.15%|
+|Bottled_Putrescence_3|428470|0.05%|
+|Base|428265|0.00%|

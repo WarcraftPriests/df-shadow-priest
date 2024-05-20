@@ -1,4 +1,4 @@
 # neltharus-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|288340|1.00|1.11|1.00|0.83|0.93|0.14|
+|Base|440225|1.00|1.08|0.99|0.82|0.91|0.08|

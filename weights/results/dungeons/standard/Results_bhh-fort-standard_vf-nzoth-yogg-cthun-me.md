@@ -1,4 +1,4 @@
 # bhh-fort-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|404664|1.00|1.15|0.98|0.81|0.91|0.10|
+|Base|396280|1.00|1.09|1.01|0.85|0.94|0.09|

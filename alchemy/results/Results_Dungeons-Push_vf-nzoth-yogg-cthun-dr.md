@@ -1,18 +1,18 @@
 # Dungeons-Push - vf-nzoth-yogg-cthun-dr
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|418176|3.80%|
-|Iced_Phial_of_Corrupting_Rage_85_3|416574|3.40%|
-|Iced_Phial_of_Corrupting_Rage_70_3|414139|2.80%|
-|Phial_of_Tepid_Versatility_3|412375|2.36%|
-|Phial_of_Elemental_Chaos_3|412175|2.31%|
-|Phial_of_Static_Empowerment_3|411557|2.16%|
-|Phial_of_Charged_Isolation_3|411229|2.07%|
-|Iced_Phial_of_Corrupting_Rage_50_3|410794|1.97%|
-|Iced_Phial_of_Corrupting_Rage_40_3|409143|1.56%|
-|Phial_of_Glacial_Fury_3|404940|0.51%|
-|Elemental_Potion_of_Ultimate_Power_3|403900|0.25%|
-|Elemental_Potion_of_Power_3|403621|0.19%|
-|Potion_of_Shocking_Disclosure_3|403331|0.11%|
-|Bottled_Putrescence_3|403288|0.10%|
-|Base|402875|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|480453|3.68%|
+|Iced_Phial_of_Corrupting_Rage_85_3|478614|3.28%|
+|Iced_Phial_of_Corrupting_Rage_70_3|475864|2.69%|
+|Phial_of_Elemental_Chaos_3|473838|2.25%|
+|Phial_of_Tepid_Versatility_3|473773|2.24%|
+|Phial_of_Static_Empowerment_3|472838|2.04%|
+|Phial_of_Charged_Isolation_3|472517|1.97%|
+|Iced_Phial_of_Corrupting_Rage_50_3|472158|1.89%|
+|Iced_Phial_of_Corrupting_Rage_40_3|470273|1.48%|
+|Phial_of_Glacial_Fury_3|465198|0.39%|
+|Elemental_Potion_of_Ultimate_Power_3|465150|0.38%|
+|Elemental_Potion_of_Power_3|464689|0.28%|
+|Potion_of_Shocking_Disclosure_3|463997|0.13%|
+|Bottled_Putrescence_3|463928|0.11%|
+|Base|463401|0.00%|

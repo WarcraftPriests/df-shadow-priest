@@ -1,18 +1,18 @@
 # ulda-fort-push - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|433884|4.14%|
-|Iced_Phial_of_Corrupting_Rage_85_3|431907|3.66%|
-|Iced_Phial_of_Corrupting_Rage_70_3|429143|3.00%|
-|Phial_of_Tepid_Versatility_3|427018|2.49%|
-|Phial_of_Elemental_Chaos_3|426937|2.47%|
-|Phial_of_Static_Empowerment_3|426077|2.26%|
-|Phial_of_Charged_Isolation_3|425514|2.13%|
-|Iced_Phial_of_Corrupting_Rage_50_3|425241|2.06%|
-|Iced_Phial_of_Corrupting_Rage_40_3|423507|1.65%|
-|Phial_of_Glacial_Fury_3|418873|0.53%|
-|Elemental_Potion_of_Ultimate_Power_3|417688|0.25%|
-|Elemental_Potion_of_Power_3|417385|0.18%|
-|Potion_of_Shocking_Disclosure_3|417169|0.13%|
-|Bottled_Putrescence_3|417051|0.10%|
-|Base|416646|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|488409|2.93%|
+|Iced_Phial_of_Corrupting_Rage_85_3|487085|2.65%|
+|Iced_Phial_of_Corrupting_Rage_70_3|485048|2.22%|
+|Phial_of_Elemental_Chaos_3|483237|1.84%|
+|Phial_of_Tepid_Versatility_3|482967|1.79%|
+|Phial_of_Static_Empowerment_3|482600|1.71%|
+|Phial_of_Charged_Isolation_3|482236|1.63%|
+|Iced_Phial_of_Corrupting_Rage_50_3|481979|1.58%|
+|Iced_Phial_of_Corrupting_Rage_40_3|480205|1.20%|
+|Elemental_Potion_of_Ultimate_Power_3|476290|0.38%|
+|Phial_of_Glacial_Fury_3|475974|0.31%|
+|Elemental_Potion_of_Power_3|475743|0.26%|
+|Potion_of_Shocking_Disclosure_3|475385|0.19%|
+|Bottled_Putrescence_3|474998|0.11%|
+|Base|474494|0.00%|

@@ -1,19 +1,19 @@
 # bhh-fort-standard - vf-yogg-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feisty_Fish_Sticks|404404|0.45%|
-|Revenge_Served_Cold|404319|0.43%|
-|Aromatic_Seafood_Platter|404293|0.42%|
-|Great_Cerulean_Sea|404242|0.41%|
-|Timely_Demise|404239|0.41%|
-|Sizzling_Seafood_Medley|404201|0.40%|
-|Thousandbone_Tongueslicer|404162|0.39%|
-|Salt_Baked_Fishcake|404044|0.36%|
-|Seamoth_Surprise|404008|0.35%|
-|Filet_of_Fangs|403902|0.32%|
-|Dreambound_Augment_Rune|403791|0.29%|
-|Draconic_Augment_Rune|403670|0.26%|
-|Fated_Fortune_Cookie|403640|0.26%|
-|Roast_Duck_Delight|403097|0.12%|
-|Thrice_Spiced_Mammoth_Kabob|403004|0.10%|
-|Base|402607|0.00%|
+|Sizzling_Seafood_Medley|402430|0.44%|
+|Thousandbone_Tongueslicer|402402|0.43%|
+|Revenge_Served_Cold|402275|0.40%|
+|Feisty_Fish_Sticks|402245|0.39%|
+|Aromatic_Seafood_Platter|402186|0.38%|
+|Seamoth_Surprise|402061|0.35%|
+|Great_Cerulean_Sea|402060|0.34%|
+|Timely_Demise|402009|0.33%|
+|Draconic_Augment_Rune|401875|0.30%|
+|Salt_Baked_Fishcake|401869|0.30%|
+|Filet_of_Fangs|401857|0.29%|
+|Dreambound_Augment_Rune|401795|0.28%|
+|Fated_Fortune_Cookie|401691|0.25%|
+|Roast_Duck_Delight|400914|0.06%|
+|Thrice_Spiced_Mammoth_Kabob|400851|0.04%|
+|Base|400678|0.00%|

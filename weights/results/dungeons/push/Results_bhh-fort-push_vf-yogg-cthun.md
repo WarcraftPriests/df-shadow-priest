@@ -1,4 +1,4 @@
 # bhh-fort-push - vf-yogg-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|628788|1.00|0.91|0.98|0.89|0.91|0.05|
+|Base|490022|1.00|0.93|0.94|0.87|0.93|0.05|

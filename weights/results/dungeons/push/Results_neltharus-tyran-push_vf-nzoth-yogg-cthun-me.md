@@ -1,4 +1,4 @@
 # neltharus-tyran-push - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|391439|1.00|1.11|1.02|0.83|0.92|0.07|
+|Base|467237|1.00|1.10|0.99|0.84|0.91|0.06|

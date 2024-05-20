@@ -1,4 +1,4 @@
 # hoi-tyran-standard - vf-nzoth-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|238139|1.00|1.16|0.99|0.86|0.93|0.15|
+|Base|332520|1.00|1.10|1.01|0.84|0.92|0.09|

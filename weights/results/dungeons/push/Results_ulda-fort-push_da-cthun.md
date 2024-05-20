@@ -1,4 +1,4 @@
 # ulda-fort-push - da-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|444938|1.00|0.85|0.89|0.84|0.91|0.06|
+|Base|498381|1.00|0.90|0.89|0.85|0.92|0.05|

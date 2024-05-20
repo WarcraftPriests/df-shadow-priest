@@ -1,18 +1,18 @@
 # nokhud-fort-standard - da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|241651|2.17%|
-|Iced_Phial_of_Corrupting_Rage_85_3|241242|1.99%|
-|Iced_Phial_of_Corrupting_Rage_70_3|240457|1.66%|
-|Phial_of_Elemental_Chaos_3|239961|1.45%|
-|Phial_of_Tepid_Versatility_3|239958|1.45%|
-|Phial_of_Static_Empowerment_3|239813|1.39%|
-|Phial_of_Charged_Isolation_3|239548|1.28%|
-|Iced_Phial_of_Corrupting_Rage_50_3|239451|1.24%|
-|Iced_Phial_of_Corrupting_Rage_40_3|239021|1.05%|
-|Phial_of_Glacial_Fury_3|237888|0.57%|
-|Elemental_Potion_of_Ultimate_Power_3|237077|0.23%|
-|Elemental_Potion_of_Power_3|237024|0.21%|
-|Potion_of_Shocking_Disclosure_3|236949|0.18%|
-|Bottled_Putrescence_3|236735|0.09%|
-|Base|236529|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|420661|3.41%|
+|Iced_Phial_of_Corrupting_Rage_85_3|419121|3.03%|
+|Iced_Phial_of_Corrupting_Rage_70_3|416836|2.47%|
+|Phial_of_Tepid_Versatility_3|416282|2.33%|
+|Phial_of_Elemental_Chaos_3|415850|2.23%|
+|Phial_of_Static_Empowerment_3|415551|2.15%|
+|Phial_of_Charged_Isolation_3|415145|2.05%|
+|Iced_Phial_of_Corrupting_Rage_50_3|413986|1.77%|
+|Iced_Phial_of_Corrupting_Rage_40_3|412508|1.41%|
+|Phial_of_Glacial_Fury_3|408750|0.48%|
+|Elemental_Potion_of_Ultimate_Power_3|408034|0.31%|
+|Elemental_Potion_of_Power_3|407572|0.19%|
+|Bottled_Putrescence_3|407379|0.14%|
+|Potion_of_Shocking_Disclosure_3|407376|0.14%|
+|Base|406791|0.00%|

@@ -1,18 +1,18 @@
 # nokhud-tyran-push - vf-nzoth-yogg-cthun-dr
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Iced_Phial_of_Corrupting_Rage_95_3|362654|3.60%|
-|Iced_Phial_of_Corrupting_Rage_85_3|361280|3.21%|
-|Iced_Phial_of_Corrupting_Rage_70_3|359522|2.71%|
-|Phial_of_Tepid_Versatility_3|357975|2.27%|
-|Phial_of_Elemental_Chaos_3|357656|2.18%|
-|Phial_of_Static_Empowerment_3|357227|2.05%|
-|Phial_of_Charged_Isolation_3|356897|1.96%|
-|Iced_Phial_of_Corrupting_Rage_50_3|356601|1.87%|
-|Iced_Phial_of_Corrupting_Rage_40_3|355385|1.53%|
-|Phial_of_Glacial_Fury_3|351667|0.46%|
-|Elemental_Potion_of_Ultimate_Power_3|350824|0.22%|
-|Elemental_Potion_of_Power_3|350521|0.14%|
-|Potion_of_Shocking_Disclosure_3|350476|0.12%|
-|Bottled_Putrescence_3|350360|0.09%|
-|Base|350041|0.00%|
+|Iced_Phial_of_Corrupting_Rage_95_3|453921|3.08%|
+|Iced_Phial_of_Corrupting_Rage_85_3|452219|2.70%|
+|Iced_Phial_of_Corrupting_Rage_70_3|450251|2.25%|
+|Phial_of_Elemental_Chaos_3|448539|1.86%|
+|Phial_of_Tepid_Versatility_3|448497|1.85%|
+|Phial_of_Static_Empowerment_3|448222|1.79%|
+|Phial_of_Charged_Isolation_3|447572|1.64%|
+|Iced_Phial_of_Corrupting_Rage_50_3|447389|1.60%|
+|Iced_Phial_of_Corrupting_Rage_40_3|445898|1.26%|
+|Elemental_Potion_of_Ultimate_Power_3|441925|0.36%|
+|Phial_of_Glacial_Fury_3|441832|0.34%|
+|Elemental_Potion_of_Power_3|441634|0.29%|
+|Bottled_Putrescence_3|440795|0.10%|
+|Potion_of_Shocking_Disclosure_3|440685|0.08%|
+|Base|440346|0.00%|
